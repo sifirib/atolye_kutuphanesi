@@ -22,8 +22,8 @@ export default {
       quote: "Alıntı",
     },
     backlinks: {
-      title: "Backlinkler",
-      noBacklinksFound: "Backlink bulunamadı",
+      title: "Geri linkler",
+      noBacklinksFound: "Geri link bulunamadı",
     },
     themeToggle: {
       lightMode: "Açık mod",
@@ -33,13 +33,13 @@ export default {
       title: "Okuma modu",
     },
     explorer: {
-      title: "Gezgin",
+      title: "Raflar",
     },
     footer: {
       createdWith: "Şununla oluşturuldu",
     },
     graph: {
-      title: "Grafik Görünümü",
+      title: "Site Haritası",
     },
     recentNotes: {
       title: "Son Notlar",
@@ -73,13 +73,13 @@ export default {
     folderContent: {
       folder: "Klasör",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "Bu klasör altında 1 öğe." : `Bu klasör altındaki ${count} öğe.`,
+        count === 1 ? "1 öğe listelendi." : `${count} öğe listelendi.`,
     },
     tagContent: {
       tag: "Etiket",
       tagIndex: "Etiket Sırası",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "Bu etikete sahip 1 öğe." : `Bu etiket altındaki ${count} öğe.`,
+        count === 1 ? "Bu etikete sahip 1 öğe listelendi." : `Bu etiket altındaki ${count} öğe listelendi.`,
       showingFirst: ({ count }) => `İlk ${count} etiket gösteriliyor.`,
       totalTags: ({ count }) => `Toplam ${count} adet etiket bulundu.`,
     },
