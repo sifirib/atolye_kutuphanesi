@@ -1,5 +1,5 @@
 ---
-title: Hoş Geldiniz..
+title: Hoş Geldiniz
 ---
 Bismillahirrahmanirrahim.
 
@@ -10,7 +10,7 @@ Atölye Kütüphanesine hoş geldiniz.. :)
 graph LR
    A[Mezhepler]
    
-   subgraph ES[✓ Ehl-i Sünnet veʻl-Cemâat]
+   subgraph ES[✅ Ehl-i Sünnet veʻl-Cemâat]
        direction TB
        ES1[İtikadî]
        ES2[Amelî Fıkhî]
@@ -31,7 +31,7 @@ graph LR
        ES2 --> ES2d
    end
    
-   subgraph B[✗ Batıl Fırkalar]
+   subgraph B[❌ Bid'at Ehli]
        direction TB
        B1[İtikadî]
        B1a[Selefîlik]
@@ -49,8 +49,8 @@ graph LR
        B1 --> B1f
    end
 
-   A -->|Ehl-i Sünnet| ES
-   A -->|Bid'at Mezhepler| B
+   A -->|Hak Mezhepler| ES
+   A -->|Batıl Mezhepler| B
    
    
    classDef bidatStyle fill:#cc0000
