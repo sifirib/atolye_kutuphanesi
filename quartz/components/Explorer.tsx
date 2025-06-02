@@ -35,8 +35,8 @@ const defaultOptions: Options = {
   },
   sortFn: (a, b) => {
     // "Kur'an-ı Kerim" dosyasını her zaman en başa al
-    if (a.displayName === "Kur'an-ı Kerim") return -1
-    if (b.displayName === "Kur'an-ı Kerim") return 1
+    if (a.displayName === "📄 Kur'an-ı Kerim") return -1
+    if (b.displayName === "📄 Kur'an-ı Kerim") return 1
 
     // Sort order: folders first, then files. Sort folders and files alphabeticall
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
