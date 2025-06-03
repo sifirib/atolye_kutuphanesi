@@ -43,7 +43,11 @@ export const defaultContentPageLayout: PageLayout = {
 
   ],
   right: [
-    Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(Component.Graph({
+      globalGraph: {
+        enableRadial: false, // whether to constrain the graph, similar to Obsidian
+      }
+    })),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
