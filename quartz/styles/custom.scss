@@ -7,6 +7,19 @@ p {
   margin-bottom: 1em !important;
 }
 
+// Custom counter style for ordered lists
+@counter-style cs-extends {
+  system: extends decimal;
+  prefix: '';
+  suffix: ') ';
+}
+
+ol {
+  list-style: cs-extends !important;
+}
+
+
+
 ///////////////////////////////////////////////////////
 // https://github.com/digithree/quartz/blob/80778ca85db9d067d103b3ab21d8325ca98f37bc/quartz/styles/custom.scss
 .page {
