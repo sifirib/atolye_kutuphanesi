@@ -2,7 +2,10 @@
 // @use "./themes";
 
 
-
+// When writing things in bullet points on a content page, the space between the bullets gets lost on the website. A quick fix for this.
+p {
+  margin-bottom: 1em !important;
+}
 
 ///////////////////////////////////////////////////////
 // https://github.com/digithree/quartz/blob/80778ca85db9d067d103b3ab21d8325ca98f37bc/quartz/styles/custom.scss
