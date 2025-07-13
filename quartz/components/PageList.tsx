@@ -76,6 +76,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               {/* <p class="meta">
                 {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
               </p> */}
+              <p class="meta" style="font-weight: bold;">&rArr;</p>
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
