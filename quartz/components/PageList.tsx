@@ -52,13 +52,37 @@ export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): Sort
   }
 }
 
+export function customSortFn(cfg: GlobalConfiguration): SortFn {
+  return (a, b) => {
+    // "Kur'an-ı Kerim" dosyasını her zaman en başa al
+    if (a.frontmatter?.title === "📄 Kur'an-ı Kerim") return -1
+    if (b.frontmatter?.title === "📄 Kur'an-ı Kerim") return 1
+
+    const aIsFolder = isFolderPath(a.slug ?? "")
+    const bIsFolder = isFolderPath(b.slug ?? "")
+
+    // Sort order: folders first, then files. Sort folders and files alphabetically
+    if ((aIsFolder && bIsFolder) || (!aIsFolder && !bIsFolder)) {
+      const aName = a.frontmatter?.title ?? ""
+      const bName = b.frontmatter?.title ?? ""
+      return aName.localeCompare(bName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
+    if (aIsFolder && !bIsFolder) return -1
+    if (!aIsFolder && bIsFolder) return 1
+    return 0
+  }
+}
+
 type Props = {
   limit?: number
   sort?: SortFn
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
-  const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
+  const sorter = sort ?? customSortFn(cfg)
   let list = allFiles.sort(sorter)
   if (limit) {
     list = list.slice(0, limit)
