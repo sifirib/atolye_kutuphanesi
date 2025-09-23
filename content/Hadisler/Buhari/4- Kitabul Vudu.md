@@ -98,7 +98,7 @@ Ve Ebu Derda (Iraklılara): "Sizin aranızda (Sav) Allah Rasûlü Hz.lerinin aya
 
 ### 19- Sağ El ile İstinca Etmekten Nehiy Bâbı
 
-153) Ebu Katade (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Herhangi biriniz bir şey içerken kabın içine nefesini bırakmasın, üflemesin. Helaya gittiğinde cinsiyet organına sağ eliyle dokunmasın, sağ eliyle de temizlenip silinmesin."****
+153) Ebu Katade (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Herhangi biriniz bir şey içerken kabın içine nefesini bırakmasın, üflemesin. Helaya gittiğinde cinsiyet organına sağ eliyle dokunmasın, sağ eliyle de temizlenip silinmesin."**
 
 ### 20- İdrarını Yaparken Zekerini Sağ Eliyle Tutmaz
 
@@ -359,7 +359,7 @@ Ebu Bekir, Ömer ve Osman yediler de abdest almadılar.
 
 212) (Âişe (Ra) şöyle demiştir:) (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Biriniz namaz kılarken uyukladığı zaman uykusu gidinceye kadar yatsın. Çünkü uyuklayarak namaz kılarsa bilemez de istiğfar edecekken belki de o kendine söver."**
 
-213) Bize Eyüp, Ebu Kılabe'den o da Enes'ten (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Biriniz namazda uyuklarsa uyusun ta ki okuyacağı şeyi bilsin."****
+213) Bize Eyüp, Ebu Kılabe'den o da Enes'ten (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Biriniz namazda uyuklarsa uyusun ta ki okuyacağı şeyi bilsin."**
 
 ### 57- Abdestliyken Abdest Almak Bâbı
 
@@ -459,7 +459,7 @@ Ve keza Zuhri: "Fil ve diğerleri gibi ölü hayvan kemikleri hakkında ve bunla
 
 	 (Aliyy ibn Medini yukarıdaki isnatla dedi ki:) Ma'n şöyle dedi: İmam Malik bize... İbn Abbas'tan, o da Meymune'den... diyerek sayamayacağım kadar hadis söyledi.
 
-238) Bize Ma'mer (ibn Raşid), Hemmam ibn Münebbih'ten o da Ebu Hureyre'den haber verdi ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Müslümanın Allah yolunda alacağı her yara, kıyamet gününde yeni açıldığı andaki heyeti üzere kan fışkırıyor gibi olur. Rengi kan rengidir fakat kokusu misk kokusudur."****
+238) Bize Ma'mer (ibn Raşid), Hemmam ibn Münebbih'ten o da Ebu Hureyre'den haber verdi ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Müslümanın Allah yolunda alacağı her yara, kıyamet gününde yeni açıldığı andaki heyeti üzere kan fışkırıyor gibi olur. Rengi kan rengidir fakat kokusu misk kokusudur."**
 
 ### 73- Akmayan Durgun Su Bâbı
 

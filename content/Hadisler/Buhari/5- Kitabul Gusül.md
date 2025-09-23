@@ -124,7 +124,7 @@ Ve Behz ibn Hakim, babası Hakim'den o da dedesinden o da (Sav) Allah Rasûlü H
 
 	 Ebu Hureyre: "Vallahi o taşta muhakkak altı yahut yedi dövme izi kalmıştır." dedi.
 
-280) Yine Ebu Hureyre'den o da (Sav) Allah Rasûlü Hz.lerinden (O) şöyle buyurmuştur: **"Eyüp çıplak yıkandığı sırada üzerine altından çekirgeler düştü. Eyüp hemen elbisesinin içine avuçlamaya başladı. Rabb'i ona: 'Ya Eyüp, şu görmekte olduğun şeyden ben seni zengin kılmamış mıydım?' diye nida etti. Eyüp: 'Senin izzetine yemin ederim ki evet, zengin kıldın lakin Senin bereketinden benim için müstağni olmak yoktur.' dedi."****
+280) Yine Ebu Hureyre'den o da (Sav) Allah Rasûlü Hz.lerinden (O) şöyle buyurmuştur: **"Eyüp çıplak yıkandığı sırada üzerine altından çekirgeler düştü. Eyüp hemen elbisesinin içine avuçlamaya başladı. Rabb'i ona: 'Ya Eyüp, şu görmekte olduğun şeyden ben seni zengin kılmamış mıydım?' diye nida etti. Eyüp: 'Senin izzetine yemin ederim ki evet, zengin kıldın lakin Senin bereketinden benim için müstağni olmak yoktur.' dedi."**
 
 	 Bu hadisi İbrahim, Musa ibn Ukbe'den o da Safvan'dan o da Ata ibn Yesar'dan o da Ebu Hureyre'den rivayet etti. (Sav) Allah Rasûlü Hz.leri: **"Eyüp, çıplak olarak yıkandığı sırada..."** buyurmuştur.
 
