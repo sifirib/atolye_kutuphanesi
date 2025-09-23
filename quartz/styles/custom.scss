@@ -18,6 +18,13 @@ ol {
   list-style: cs-extends !important;
 }
 
+::marker { // numbered lists
+    font-weight: 900 !important; // max;
+}
+
+strong {
+  font-weight: 900 !important;
+}
 
 
 ///////////////////////////////////////////////////////
