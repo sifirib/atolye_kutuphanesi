@@ -90,11 +90,11 @@ document.addEventListener("copy", (event) => {
     const div = document.createElement("div")
     div.appendChild(range.cloneContents())
     const html = div.innerHTML
-    console.log("Selected HTML:", html)
     const formatted = convertHtmlToBoldMarkdown(html)
-    console.log("Formatted:", formatted)
-    const result = `${formatted} ( ${shortenLink(sourceLink)} )`
+    const result = `${formatted}\n( ${shortenLink(sourceLink)} )`
     event.preventDefault()
+
+    event.clipboardData?.setData("text/html", html)
     event.clipboardData?.setData("text/plain", result)
   }
 })
