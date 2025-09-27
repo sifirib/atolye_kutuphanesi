@@ -35,3 +35,66 @@ document.addEventListener("nav", () => {
     }
   }
 })
+
+
+/**
+ * Converts HTML to plain text, preserving bold/strong as **text**.
+ */
+function convertHtmlToBoldMarkdown(html: string): string {
+  // Create a DOM parser
+  const parser = new DOMParser()
+  const doc = parser.parseFromString(html, "text/html")
+
+  function walk(node: Node): string {
+    if (node.nodeType === Node.TEXT_NODE) {
+      return node.textContent || ""
+    }
+    if (node.nodeType === Node.ELEMENT_NODE) {
+      const el = node as HTMLElement
+      if (el.tagName === "B" || el.tagName === "STRONG") {
+        return `**${Array.from(el.childNodes).map(walk).join("") }**`
+      }
+      // Ignore all other elements, but process their children
+      return Array.from(el.childNodes).map(walk).join("")
+    }
+    return ""
+  }
+
+  return walk(doc.body)
+}
+
+/**
+ * Returns a URL text fragment for the first 20 characters of the selection and highlights it.
+ */
+function generateTextFragment(selectedText: string): string {
+  const normalized = selectedText.replace(/\s+/g, " ").trim()
+  const fragmentText = normalized.slice(0, 20)
+  return fragmentText ? `#:~:text=${encodeURIComponent(fragmentText)}` : ""
+}
+
+function shortenLink(url: string): string {
+  return url
+    .replace(/^https?:\/\//, "")
+    .replace(/^http?:\/\//, "")
+    .replace(/^www\./, "");
+}
+
+document.addEventListener("copy", (event) => {
+  const selection = window.getSelection()
+  if (selection && selection.rangeCount > 0) {
+    const selectedText = selection.toString()
+    const fragment = generateTextFragment(selectedText)
+    const sourceLink = `${window.location.href.split("#")[0]}${fragment}`
+
+    const range = selection.getRangeAt(0)
+    const div = document.createElement("div")
+    div.appendChild(range.cloneContents())
+    const html = div.innerHTML
+    console.log("Selected HTML:", html)
+    const formatted = convertHtmlToBoldMarkdown(html)
+    console.log("Formatted:", formatted)
+    const result = `${formatted} ( ${shortenLink(sourceLink)} )`
+    event.preventDefault()
+    event.clipboardData?.setData("text/plain", result)
+  }
+})
