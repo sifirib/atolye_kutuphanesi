@@ -7,6 +7,10 @@ p {
   margin-bottom: 1em !important;
 }
 
+.breadcrumb-container p {
+  margin-bottom: 0 !important;
+}
+
 // Custom counter style for ordered lists
 @counter-style cs-extends {
   system: extends decimal;
