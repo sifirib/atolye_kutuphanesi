@@ -6,7 +6,7 @@
 
 	 **Bir de gördüm ki bir kimse oturmuş; sağ tarafında birtakım karaltılar, sol tarafında da birtakım karaltılar var. O kimse sağ tarafına baktığında gülüyor, sol tarafına baktığında ağlıyor. O zat: Merhaba** (yani hoş geldin) **salih Peygamber, hoş geldin salih oğul, dedi. Ben Cibril'e: Bu kim? Diye sordum. Bu, Adem Peygamber'dir. Sağında, solunda olan bu karaltılar da çocuklarının ruhlarıdır. Sağında olanları cennetlikler, sol tarafında olan bu karaltılar da cehennemliklerdir. Sağına bakınca güler, sol tarafına bakınca ağlar, dedi.**
 
-	 **Derken Cibril beni ikinci semaya doğru çıkardı. Oranın bekçisine de: Aç, dedi. Oranın bekçisi de evvelkinin söyledikleri gibi söyledi de kapıyı açtı."  
+	 **Derken Cibril beni ikinci semaya doğru çıkardı. Oranın bekçisine de: Aç, dedi. Oranın bekçisi de evvelkinin söyledikleri gibi söyledi de kapıyı açtı."**  
  
 	 Enes der ki: Ebu Zerr, (Sav) Allah Rasûlü Hz.lerinin semalarda Adem, İdris, Musa, İsa ve İbrahim'i -Allah'ın salavatı üzerlerine olsun- bulduğunu söyledi ise de onlardan her birilerinin menzillerinin nasıl olduğunu tespit etmedi. Yalnız Adem'i dünya semasında, İbrahim'i altıncı semada bulmuş olduğunu söyledi.
 
@@ -16,7 +16,7 @@
 
 	 **Sonra İsa'ya uğradım. O da: Hoş geldin salih kardeş, hoş geldin salih Peygamber, dedi. Bu kim? dedim. Cibril: Bu İsa'dır, dedi.**
 
-	 **Sonra İbrahim'e uğradım. Hoş geldin salih Peygamber, hoş geldin salih oğul, dedi. Bu kim? Dedim. Cibril: Bu, İbrahim (As)*, dedi."**
+	 **Sonra İbrahim'e uğradım. Hoş geldin salih Peygamber, hoş geldin salih oğul, dedi. Bu kim? Dedim. Cibril: Bu, İbrahim** (As)**, dedi."**
 
 	 İbn Şihab şöyle dedi: Bana Ebu Bekir ibn Hazm haber verdi ki: İbn Abbas ile Ebu Habbe el-Ensari şöyle derlerdi: (Sav) Allah Rasûlü Hz.leri şöyle dedi: **"Sonra ben çok yükseklere çıkarıldım, nihayet kalemlerin cızırtılarını işittiğim yüksek bir yere çıktım."**
 
@@ -512,7 +512,7 @@ _"Allah'a ortak koşanların, inkarlarına bizzat kendileri şahitlik edip durur
 
 ### 74- Mescide Mahsus Hizmetçiler Bâbı
 
-Ve İbn Abbas: _"Hani, İmran'ın karısı 'Rabb'im! Karnımdaki çocuğu sırf Sana hizmet etmek üzere adadım. Benden kabul et...' demişti." (Âl-i İmrân 35)_ ayetindeki "Muharraran**" sözü, mescide tahsis edilmiş, ona hizmet edecek bir azatlı demektir, demiştir.
+Ve İbn Abbas: _"Hani, İmran'ın karısı 'Rabb'im! Karnımdaki çocuğu sırf Sana hizmet etmek üzere adadım. Benden kabul et...' demişti." (Âl-i İmrân 35)_ ayetindeki "Muharraran" sözü, mescide tahsis edilmiş, ona hizmet edecek bir azatlı demektir, demiştir.
 
 460) Bize Hammad, Sabit'ten o da Ebu Rafi'den o da Ebu Hureyre'den tahdis etti (o, şöyle demiştir): Bir kadın yahut bir adam mescidi süpürürdü. Ebu Rafi: Ben Ebu Hureyre'nin "bir kadın" dediğini kuvvetle zannediyorum, demiştir. Sonra Ebu Hureyre (iki bâb önce) geçen hadisi zikredip: "(Sav) Allah Rasûlü Hz.leri onun kabri üzerine namaz kıldı." demiştir.
 
