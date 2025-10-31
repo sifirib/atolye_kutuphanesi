@@ -39,22 +39,26 @@ document.addEventListener("nav", () => {
 
 /**
  * Converts HTML to plain text, preserving bold/strong as **text**.
+ * Replaces non-breaking spaces (U+00A0) with normal spaces.
  */
 function convertHtmlToBoldMarkdown(html: string): string {
-  // Create a DOM parser
   const parser = new DOMParser()
   const doc = parser.parseFromString(html, "text/html")
 
+  function cleanText(text: string): string {
+    // Replace non-breaking space (U+00A0) with a regular space
+    return text.replace(/\u00A0/g, " ")
+  }
+
   function walk(node: Node): string {
     if (node.nodeType === Node.TEXT_NODE) {
-      return node.textContent || ""
+      return cleanText(node.textContent || "")
     }
     if (node.nodeType === Node.ELEMENT_NODE) {
       const el = node as HTMLElement
       if (el.tagName === "B" || el.tagName === "STRONG") {
-        return `**${Array.from(el.childNodes).map(walk).join("") }**`
+        return `**${Array.from(el.childNodes).map(walk).join("")}**`
       }
-      // Ignore all other elements, but process their children
       return Array.from(el.childNodes).map(walk).join("")
     }
     return ""
@@ -62,6 +66,8 @@ function convertHtmlToBoldMarkdown(html: string): string {
 
   return walk(doc.body)
 }
+
+
 
 /**
  * Returns a URL text fragment for the first 20 characters of the selection and highlights it.
@@ -76,10 +82,95 @@ function shortenLink(url: string): string {
   return url
     .replace(/^https?:\/\//, "")
     .replace(/^http?:\/\//, "")
-    .replace(/^www\./, "");
+    .replace(/^www\./, "")
 }
+// Metin seçildiğinde floating button göster
+document.addEventListener("mouseup", (event) => {
+  // Mobil cihazlarda buton gösterme
+  if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent) || window.innerWidth <= 768) return
+    
+  // 👉 Eğer tıklanan şey mevcut butonsa, yeni buton oluşturma
+  if ((event.target as HTMLElement)?.id === "markdown-copy-btn") return
 
-document.addEventListener("copy", (event) => {
+  const selection = window.getSelection()
+  if (!selection || selection.toString().trim().length === 0) return
+
+  // Eski buton varsa kaldır
+  const existing = document.getElementById("markdown-copy-btn")
+  if (existing) existing.remove()
+
+  // Yeni buton oluştur
+  const btn = document.createElement("button")
+  btn.id = "markdown-copy-btn"
+  btn.innerHTML = `
+    <svg xmlns="http://www.w3.org/2000/svg" aria-label="Telegram" role="img"
+      viewBox="0 0 512 512" width="18" height="18"
+      style="vertical-align: middle; margin-right: 6px; border-radius: 6px;">
+      <rect width="512" height="512" rx="15%" fill="#37aee2"/>
+      <path fill="#c8daea" d="M199 404c-11 0-10-4-13-14l-32-105 245-144"/>
+      <path fill="#a9c9dd" d="M199 404c7 0 11-4 16-8l45-43-56-34"/>
+      <path fill="#f6fbfe"
+        d="M204 319l135 99c14 9 26 4 30-14l55-258c5-22-9-32-24-25L79 245
+        c-21 8-21 21-4 26l83 26 190-121c9-5 17-3 11 4"/>
+    </svg>'a kopyala
+  `
+
+  btn.style.cssText = `
+    position: absolute;
+    left: ${event.pageX}px;
+    top: ${event.pageY - 45}px;
+    padding: 6px 12px;
+    background: #2d2d2d;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 500;
+    z-index: 10000;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    transition: all 0.2s;
+    button svg {
+      vertical-align: middle;
+      transform: translateY(-1px);
+    }
+  `
+  
+
+  btn.addEventListener("mouseenter", () => {
+    btn.style.background = "#3d3d3d"
+    btn.style.transform = "scale(1.05)"
+  })
+  btn.addEventListener("mouseleave", () => {
+    btn.style.background = "#2d2d2d"
+    btn.style.transform = "scale(1)"
+  })
+
+  btn.addEventListener("click", () => {
+    console.log("Markdown kopyalama başladı")
+    copyAsMarkdown()
+
+    btn.innerHTML = "✓ Kopyalandı"
+    btn.style.background = "#22c55e"
+    btn.style.transform = "scale(1)"
+    btn.style.pointerEvents = "none"
+
+    setTimeout(() => btn.remove(), 1000)
+  })
+
+  document.body.appendChild(btn)
+})
+
+// Başka yere tıklanınca butonu kaldır
+document.addEventListener("mousedown", (event) => {
+  const btn = document.getElementById("markdown-copy-btn")
+  if (btn && event.target !== btn) {
+    btn.remove()
+  }
+})
+
+// Markdown olarak kopyalama fonksiyonu
+function copyAsMarkdown() {
   const selection = window.getSelection()
   if (selection && selection.rangeCount > 0) {
     const selectedText = selection.toString()
@@ -91,10 +182,27 @@ document.addEventListener("copy", (event) => {
     div.appendChild(range.cloneContents())
     const html = div.innerHTML
     const formatted = convertHtmlToBoldMarkdown(html)
-    const result = `${formatted}\n( ${shortenLink(sourceLink)} )`
+    const markdownResult = `${formatted}\n( ${shortenLink(sourceLink)} )`
+
+    navigator.clipboard.writeText(markdownResult)
+  }
+}
+
+// Normal copy event'i (sadece Ctrl+C için)
+document.addEventListener("copy", (event) => {
+  const selection = window.getSelection()
+  if (selection && selection.rangeCount > 0) {
+    const selectedText = selection.toString()
+
+    const range = selection.getRangeAt(0)
+    const div = document.createElement("div")
+    div.appendChild(range.cloneContents())
+    const html = div.innerHTML
+
     event.preventDefault()
 
+    // Normal kopyalama: HTML ve düz metin
     event.clipboardData?.setData("text/html", html)
-    event.clipboardData?.setData("text/plain", result)
+    event.clipboardData?.setData("text/plain", selectedText)
   }
 })
