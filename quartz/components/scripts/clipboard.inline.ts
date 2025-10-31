@@ -36,9 +36,9 @@ document.addEventListener("nav", () => {
   }
 })
 
-
 /**
- * Converts HTML to plain text, preserving bold/strong as **text**.
+ * Converts HTML to plain text, preserving bold/strong as **text**
+ * and italic/em as *text*.
  * Replaces non-breaking spaces (U+00A0) with normal spaces.
  */
 function convertHtmlToBoldMarkdown(html: string): string {
@@ -56,9 +56,15 @@ function convertHtmlToBoldMarkdown(html: string): string {
     }
     if (node.nodeType === Node.ELEMENT_NODE) {
       const el = node as HTMLElement
-      if (el.tagName === "B" || el.tagName === "STRONG") {
+      const tag = el.tagName.toLowerCase()
+
+      if (tag === "b" || tag === "strong") {
         return `**${Array.from(el.childNodes).map(walk).join("")}**`
       }
+      if (tag === "i" || tag === "em") {
+        return `__${Array.from(el.childNodes).map(walk).join("")}__`
+      }
+
       return Array.from(el.childNodes).map(walk).join("")
     }
     return ""
@@ -66,7 +72,6 @@ function convertHtmlToBoldMarkdown(html: string): string {
 
   return walk(doc.body)
 }
-
 
 
 /**

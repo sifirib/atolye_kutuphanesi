@@ -24,12 +24,13 @@ ol {
 
 ::marker { // numbered lists
     font-weight: 900 !important; // max;
+    color: var(--dark);
 }
 
 strong {
   font-weight: 900 !important;
+  color: var(--dark);
 }
-
 
 ///////////////////////////////////////////////////////
 // https://github.com/digithree/quartz/blob/80778ca85db9d067d103b3ab21d8325ca98f37bc/quartz/styles/custom.scss
