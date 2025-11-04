@@ -1,3 +1,6 @@
+---
+permalink: Buhari-1
+---
 ## Vahy
 
 ### 1- (Sav) Allah Rasûlü Hz.lerine Vahyin Nasıl Başladığı

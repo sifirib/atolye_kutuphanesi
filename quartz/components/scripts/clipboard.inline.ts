@@ -152,7 +152,6 @@ document.addEventListener("mouseup", (event) => {
   })
 
   btn.addEventListener("click", () => {
-    console.log("Markdown kopyalama başladı")
     copyAsMarkdown()
 
     btn.innerHTML = "✓ Kopyalandı"
@@ -175,12 +174,17 @@ document.addEventListener("mousedown", (event) => {
 })
 
 // Markdown olarak kopyalama fonksiyonu
-function copyAsMarkdown() {
+async function copyAsMarkdown() {
   const selection = window.getSelection()
   if (selection && selection.rangeCount > 0) {
     const selectedText = selection.toString()
     const fragment = generateTextFragment(selectedText)
-    const sourceLink = `${window.location.href.split("#")[0]}${fragment}`
+
+    let permalinkUrl = await generatePermalinkUrl()
+    
+    // Permalink varsa onu kullanır, yoksa orijinal URL'i kullanır
+    const baseLink = permalinkUrl ? permalinkUrl.toString(): window.location.href
+    const sourceLink = `${baseLink}${fragment}`
 
     const range = selection.getRangeAt(0)
     const div = document.createElement("div")
@@ -211,3 +215,34 @@ document.addEventListener("copy", (event) => {
     event.clipboardData?.setData("text/plain", selectedText)
   }
 })
+
+function getBaseUrl(): [string, boolean] {
+  let success = false
+  let domain = window.location.href.toString()
+  const metaTag = document.querySelector('meta[property="twitter:domain"]')
+  if (metaTag) {
+    const content = metaTag.getAttribute('content')
+    if (content) {
+      domain = content.toString()
+      success = true
+    }
+  }
+
+  return [domain, success]
+}
+
+async function generatePermalinkUrl() {
+    const [baseUrl, success] = getBaseUrl() // baseUrl must be fetched from quartz.config.ts! fix this later!
+    if (!success) return baseUrl
+
+    const jsonURL = baseUrl.includes("github.io") ? 
+    "/atolye_kutuphanesi/static/contentIndex.json": // also fix this!!
+    "/static/contentIndex.json"
+
+    const response = await fetch(jsonURL)
+    const data = await response.json()
+    const slug = document.body.dataset.slug?.toString() ?? ''
+    const permalink = data[slug]?.permalink
+
+    return permalink ? `${baseUrl}/${permalink}` : window.location.href
+}
