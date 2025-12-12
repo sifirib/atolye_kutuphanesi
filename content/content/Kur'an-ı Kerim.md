@@ -1,0 +1,1 @@
+![[Kur'an-ı Kerim.pdf|Kur'an-ı Kerim.pdf]]
