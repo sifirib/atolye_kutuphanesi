@@ -237,7 +237,7 @@ Ve Hasan-ı Basri: "Hasta dilerse iki rekatı ayakta, iki rekatı da oturarak k�
 
 
 
-v
+
 
 
 
