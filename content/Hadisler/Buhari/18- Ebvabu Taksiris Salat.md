@@ -1,9 +1,10 @@
 ## Ebvabu Taksiris Salat
 
 ### 1- Kısaltmak Hakkında Gelen Şeyler ve Yolcunun Namazı Kısaltmak için Kaç Gün İkamet Edeceği Bâbı  
-   
-1088) ...İbn Abbas (Ra): (Sav) Allah Rasûlü Hz.leri -Mekke'de- on dokuz gün namazı kısaltarak ikamet etti. Biz de sefer ettiğimizde on dokuz gün kalırsak (dört rekatlı) namazları kısaltır, daha fazla kalırsak namazları tamam ederiz, demiştir.
 
+1088) ...İbn Abbas (Ra): (Sav) Allah Rasûlü Hz.leri -Mekke'de- on dokuz gün namazı kısaltarak ikamet etti. Biz de sefer ettiğimizde on dokuz gün kalırsak (dört rekatlı) namazları kısaltır, daha fazla kalırsak namazları tamam ederiz, demiştir.
+ 
+   
 1089) Bize Yahya ibn Ebu İshak tahdis edip şöyle dedi: Ben Enes'ten işittim, o şöyle diyordu: Biz (Sav) Allah Rasûlü Hz.leri ile birlikte (hac niyetiyle) Medine'den Mekke'ye çıktık. (Sav) Allah Rasûlü Hz.leri bize Medine'ye döndüğümüz zamana kadar (akşamdan başka namazları hep) ikişer rekat ikişer rekat kıldırıyordu.  
   
 	  (Ravi Yahya dedi ki:) Ben Enes'e: "Mekke'de hiç ikamet ettiniz mi?" diye sordum. Enes: "Mekke'de on gün ikamet ettik." dedi.
@@ -28,9 +29,9 @@
   
 İbn Ömer ile İbn Abbas dört beridlik mesafe içindeki seferde namazı kısaltırlar, orucu da tutmazlardı. Dört berid, on altı fersahtır.  
   
-1094) Bize İshak ibn İbrahim el-Hanzali tahdis edip şöyle dedi: Ben Ebu Usame'ye (Hammad ibn Usame el-Leysi): Bize Ubeydullah, Nafi'den o da İbn Ömer'den olmak üzere tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Kadın, mahrem sahibinin maiyetinde olmak müstesna, üç günlük mesafeye yolculuk etmez."** buyurmuştur.
+1094) Bize İshak ibn İbrahim el-Hanzali tahdis edip şöyle dedi: Ben Ebu Usame'ye (Hammad ibn Usame el-Leysi): Bize Ubeydullah, Nafi'den o da İbn Ömer'den olmak üzere tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Kadın, mahrem sahibinin maiyetinde olmak müstesna üç günlük mesafeye yolculuk etmez."** buyurmuştur.
 
-1095) Bize Yahya (ibn Said el-Kattan), Ubeydullah'tan o da Nafi'den o da İbn Ömer'den tahdis etti. (Sav) Allah Rasûlü Hz.leri: **"Kadın, nikah geçmez bir mahrem sahibinin maiyetinde olmak müstesna, üç gün yolculuk etmez."** buyurmuştur.  
+1095) Bize Yahya (ibn Said el-Kattan), Ubeydullah'tan o da Nafi'den o da İbn Ömer'den tahdis etti. (Sav) Allah Rasûlü Hz.leri: **"Kadın, nikah geçmez bir mahrem sahibinin maiyetinde olmak müstesna üç gün yolculuk etmez."** buyurmuştur.  
   
 	  (Buhari'nin şeyhlerinden biri olan) Ahmed ibn Muhammed el Mervezi bu hadisi, İbn Mübarek'ten o da Ubeydullah el-Umeri'den o da Nafi'den o da İbn Ömer'den o da (Sav) Allah Rasûlü Hz.lerinden rivayet etmekte Ubeydullah el-Umeri'ye mütabaat etmiştir.
 
