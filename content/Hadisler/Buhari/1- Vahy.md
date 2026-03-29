@@ -5,7 +5,7 @@ permalink: Buhari-1
 
 ### 1- (Sav) Allah Rasûlü Hz.lerine Vahyin Nasıl Başladığı
 
-"Biz Nuh'a ve ondan sonra gelen peygamberlere vahyettiğimiz gibi sana da vahyettik. İbrahim'e, İsmail'e, İshak'a, Yakup'a, torunlarına, İsa'ya, Eyüp'e, Yunus'a, Harun'a ve Süleyman'a da vahyetmiştik. Davud'a da Zebur vermiştik." (Nisâ 163)
+_"Biz Nuh'a ve ondan sonra gelen peygamberlere vahyettiğimiz gibi sana da vahyettik. İbrahim'e, İsmail'e, İshak'a, Yakup'a, torunlarına, İsa'ya, Eyüp'e, Yunus'a, Harun'a ve Süleyman'a da vahyetmiştik. Davud'a da Zebur vermiştik." (Nisâ 163)_
 
 1) Bize Humeydi Abdullah ibn Zubeyr tahdis edip şöyle dedi: Bize Sufyan ibn Uyeyne tahdis edip şöyle dedi: Bize Yahya ibn Said el-Ensari tahdis edip şöyle dedi: Bana Muhammed ibn İbrahim et-Teymi haber verdi ki kendisi Alkame ibn Vakkas el-Leysi'den şöyle derken işitmiştir: Ben Ömer ibn el-Hattab'dan (Ra) işittim, minber üzerinde şöyle dedi: Ben (Sav) Allah Rasûlü Hz.lerinden işittim, şöyle buyuruyordu: **"Ameller ancak niyetlere göredir. Herkesin niyet ettiği ne ise eline geçecek olan şey ancak odur. Artık her kim nail olacağı bir dünya** (malı) **veya nikah edeceği bir kadından dolayı hicret etmişse onun hicreti** (Allah'ın ve Rasûlü'nün rızasına değil)**, hicret etmiş olduğu şeyedir."**
 
