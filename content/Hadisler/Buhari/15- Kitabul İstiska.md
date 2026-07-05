@@ -148,7 +148,7 @@ Ve İbn Abbas: "Ke-sayyıbin", "Yağmur"dur, dedi. İbn Abbas'tan başkası da "
 
 ### 25- (Sav) Allah Rasûlü Hz.lerinin: "Ben Saba Rüzgârı ile Yardım Olundum." Sözü Bâbı
 
-1043) Bize Şube, el-Hakem'den o da Mucahid ibn Cebr'den o da İbn Abbas'tan (Ra) tahdis etti. (Sav) Allah Rasûlü Hz.leri: **"Ben saba rüzgarıyla yardım olundum. Ad kavmi ise batı rüzgarı ile ihlak olundular."** buyurdu.
+1043) Bize Şu'be, el-Hakem'den o da Mucahid ibn Cebr'den o da İbn Abbas'tan (Ra) tahdis etti. (Sav) Allah Rasûlü Hz.leri: **"Ben saba rüzgarıyla yardım olundum. Ad kavmi ise batı rüzgarı ile ihlak olundular."** buyurdu.
 
 ### 26- Zelzeleler ve Alametler (Büyük Hadiseler) Hakkında Denilenler Bâbı
 

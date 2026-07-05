@@ -118,7 +118,7 @@ Ve Ata, Cabir'den söyledi ki (Sav) Allah Rasûlü Hz.leri (Veda Haccı'nda bera
 
 ### 13- Gelmekte Olan Hacıları Karşılamak ve Üç Kişiyi Bir Binek Hayvanı Üzerine Bindirmek Bâbı  
   
-1826) Bize Halid el-Hazza, İkrime'den tahdis etti ki İbn Abbas (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri -Fetih günü- Mekke'ye geldiği zaman O'nu Abdulmuttalip evlatlarının oğlancıkları karşıladılar. (Sav) Allah Rasûlü Hz.leri onlardan birini devesinin ön tarafına, diğerini de arka tarafına bindirdi.
+1826) Bize Halid el-Hazza, İkrime'den tahdis etti ki İbn Abbas (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri -Fetih günü- Mekke'ye geldiği zaman O'nu Abdulmuttalib evlatlarının oğlancıkları karşıladılar. (Sav) Allah Rasûlü Hz.leri onlardan birini devesinin ön tarafına, diğerini de arka tarafına bindirdi.
 
 ### 14- Yolcunun (Kendi Menziline) Gündüzleyin Gelmesi Bâbı  
   

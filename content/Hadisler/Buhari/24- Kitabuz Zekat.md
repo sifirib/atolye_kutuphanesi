@@ -10,7 +10,7 @@ Ve İbn Abbas (Ra) şöyle dedi: Bana Ebu Sufyan (Ra) tahdis edip (Sav) Allah Ra
 
 1414) Bize Şu'be, İbn Osman ibn Abdullah ibn Vehb'den o da Musa ibn Talha'dan o da Ebu Eyüp'ten (Ra) tahdis etti (o, şöyle demiştir): Bir kimse (Sav) Allah Rasûlü Hz.lerine: "Bana, kendimi cennete girdirecek bir amel haber ver!" dedi. Orada bulunanlar: "Buna ne oluyor? Bunun ne dileği var ki?" dediler. (Sav) Allah Rasûlü Hz.leri: **"Bu, bir hacet sahibidir; nesi olacak?"** buyurdu da o sorana karşı: **''Allah'a ibadet edersin ve O'na hiçbir şeyi ortak kılmazsın; namazı kılarsın, zekatı verirsin, hısımlığa** (iyilik) **ekler durursun."** buyurdu.
 
-1415) Ve Behz ibn Esed şöyle demiştir: Bize Şube tahdis edip şöyle dedi: Bize Muhammed ibn Osman ve onun babası Osman ibn Abdullah tahdis ettiler ki bu ikisi de Musa ibn Talha'dan işitmişler, o da Ebu Eyüp'ten bu hadisi işitip rivayet etmiştir.  
+1415) Ve Behz ibn Esed şöyle demiştir: Bize Şu'be tahdis edip şöyle dedi: Bize Muhammed ibn Osman ve onun babası Osman ibn Abdullah tahdis ettiler ki bu ikisi de Musa ibn Talha'dan işitmişler, o da Ebu Eyüp'ten bu hadisi işitip rivayet etmiştir.  
   
 	  Ebu Abdullah el-Buhari: Muhammed isminin hıfzedilmemiş olmasından endişe ederim çünkü o, Amr'dır, dedi.
 

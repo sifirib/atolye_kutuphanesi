@@ -736,7 +736,7 @@ Ebu Hureyre (Ra): (Sav) Allah Rasûlü Hz.lerinin: **"Her kimin büluğa ermeden
   
 	  Ve bu hadisi Abdullah ibn Abdulkuddus es-Sa'di er-Razi, el-A'meş'ten ve Muhammed ibn Enes de yine el-A'meş'ten olmak üzere rivayet etmişlerdir.  
   
-	  Bu hadisi Şube'den rivayet etmekte Adem ibn Ebu İyas'a, Ali ibn Ca'd, Muhammed ibn Ar'ara ve İbn Ebu Adiyy ayrı ayrı mütabaat etmişlerdir.
+	  Bu hadisi Şu'be'den rivayet etmekte Adem ibn Ebu İyas'a, Ali ibn Ca'd, Muhammed ibn Ar'ara ve İbn Ebu Adiyy ayrı ayrı mütabaat etmişlerdir.
 
 ### 98- Ölülerin Şerlilerini Anmak Bâbı  
   

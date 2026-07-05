@@ -82,7 +82,7 @@ Ve Abdullah ibn Busr: Şu muhakkak ki bizler şu saatte Bayram namazını bitirm
 
 Muhammed ibn Ali el-Bakır da (bu günlerde yalnız farzlardan sonra değil) nafile namazdan sonra da tekbir alırdı.
 
-977) ...Bize Şube, Süleyman ibn Mihran'dan o da Müslim el-Batin'den o da Said ibn Cübeyr'den o da İbn Abbas'tan o da (Sav) Allah Rasûlü Hz.lerinden tahdis etti. (Sav) Allah Rasûlü Hz.leri: **"On günlerdeki iyi ameller, bu günlerdekinden yani teşrik günlerindekilerden daha faziletli değildir."** buyurdu. Sahabiler: Cihad da mı (daha faziletli değil)? Dediler. (Sav) Allah Rasûlü Hz.leri: **"Cihad da meğerki bir kimse** (Allah yolunda cihada) **çıkıp canını ve malını tehlikeye atar da hiçbir şeyi geri getiremez olursa."** buyurdu.
+977) ...Bize Şu'be, Süleyman ibn Mihran'dan o da Müslim el-Batin'den o da Said ibn Cübeyr'den o da İbn Abbas'tan o da (Sav) Allah Rasûlü Hz.lerinden tahdis etti. (Sav) Allah Rasûlü Hz.leri: **"On günlerdeki iyi ameller, bu günlerdekinden yani teşrik günlerindekilerden daha faziletli değildir."** buyurdu. Sahabiler: Cihad da mı (daha faziletli değil)? Dediler. (Sav) Allah Rasûlü Hz.leri: **"Cihad da meğerki bir kimse** (Allah yolunda cihada) **çıkıp canını ve malını tehlikeye atar da hiçbir şeyi geri getiremez olursa."** buyurdu.
 
 ### 12- Mina Günlerinde ve (Dokuzuncu Günü Sabahı) Arafat'a Giderken Tekbir Getirmek Bâbı
 

@@ -282,7 +282,7 @@ Bunu İtban ibn Malik, (Sav) Allah Rasûlü Hz.lerinden söyledi.
 
 1191) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri öğle farzından önce dört rekat, sabah farzından evvel de iki rekat (tatavvu) kılmayı terk etmezdi.  
   
-	  Bu hadisi Şube'den rivayet etmekte İbn Ebu Adiyy ile Amr ibn Merzuk, Yahya ibn Saad'e mütabaat ettiler.
+	  Bu hadisi Şu'be'den rivayet etmekte İbn Ebu Adiyy ile Amr ibn Merzuk, Yahya ibn Saad'e mütabaat ettiler.
 
 ### 35- Akşam Namazı Farzından Önce Namaz Bâbı  
   
