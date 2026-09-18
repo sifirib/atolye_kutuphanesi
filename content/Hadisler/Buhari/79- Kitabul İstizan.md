@@ -32,7 +32,7 @@ _"Size bir selam verildiği zaman ondan daha güzeliyle veya aynı selamla karş
 
 ### 4- İnsanlardan Azın Çoğa Selam Vermesi Bâbı  
   
-6303) Bize Mamer ibni Raşid, Hemmam ibn Münebbih'ten o da Ebu Hureyre'den (Ra) haber verdi ki (Sav) Allah Rasûlü Hz.leri: **"Küçük büyüğe, geçen oturana, az da çoğa selam verir."** buyurmuştur.
+6303) Bize Mamer ibn Raşid, Hemmam ibn Münebbih'ten o da Ebu Hureyre'den (Ra) haber verdi ki (Sav) Allah Rasûlü Hz.leri: **"Küçük büyüğe, geçen oturana, az da çoğa selam verir."** buyurmuştur.
 
 ### 5- Binicinin Yürüyene Selam Vermesi Bâbı  
   
@@ -66,7 +66,7 @@ _"Size bir selam verildiği zaman ondan daha güzeliyle veya aynı selamla karş
   
 	  Ebu Abdullah el-Buhari: Bu hadiste, (Sav) Allah Rasûlü Hz.lerinin kalkıp dışarı çıktığı zaman oturup kalanlara izin vermediği fıkhı vardır ve yine bunda, (Sav) Allah Rasûlü Hz.lerinin onların kalkmalarını isteyerek kalkmaya davranmasında böylece tariz etmenin cevazı hükmü de vardır, demiştir.
 
-6312) İbn Şihab şöyle dedi: Bana Urve ibn Zubeyr haber verdi ki (Sav) Allah Rasûlü Hz.lerinin zevcesi Âişe (Ra) şöyle demiştir: Ömer ibn Hattab, (Sav) Allah Rasûlü Hz.lerine: Kadınlarını perde arkasına alsan! (Çünkü onlarla iyi de kötü de konuşuyor) der dururdu. Âişe dedi ki: (Sav) Allah Rasûlü Hz.leri bunu yapmadı. (Sav) Allah Rasûlü Hz.lerinin kadınları geceden geceye Menası denilen tarafa doğru ihtiyaçlarını gidermek için dışarıya çıkarlardı. Bir keresinde Sevde bintu Zema, ihtiyacı için dışarı çıkmıştı. Sevde, uzun boylu bir kadındı. Ömer ibn Hattab mecliste otururken onu görünce: Ya Sevde, ben seni tanıdım, demişti.  
+6310) İbn Şihab şöyle dedi: Bana Urve ibn Zubeyr haber verdi ki (Sav) Allah Rasûlü Hz.lerinin zevcesi Âişe (Ra) şöyle demiştir: Ömer ibn Hattab, (Sav) Allah Rasûlü Hz.lerine: Kadınlarını perde arkasına alsan! (Çünkü onlarla iyi de kötü de konuşuyor) der dururdu. Âişe dedi ki: (Sav) Allah Rasûlü Hz.leri bunu yapmadı. (Sav) Allah Rasûlü Hz.lerinin kadınları geceden geceye Menası denilen tarafa doğru ihtiyaçlarını gidermek için dışarıya çıkarlardı. Bir keresinde Sevde bint Zema, ihtiyacı için dışarı çıkmıştı. Sevde, uzun boylu bir kadındı. Ömer ibn Hattab mecliste otururken onu görünce: Ya Sevde, ben seni tanıdım, demişti.  
   
 	   Ömer bu sözü, Hicab emrinin indirilmesini çok istemekte olduğu için söylemişti.  
   

@@ -317,7 +317,7 @@ Ve Ömer, Hristiyan bir kadının evinde ve sıcak su ile abdest almıştır.
 
 ### 51- Mestler Üzerine Mesh Etmek Bâbı
 
-202) Bize Esbağ ibn Ferec el-Mısri, İbn Vehb'den tahdis etti. O şöyle demiştir: Bana Amr (ibn Haris) tahdis edip şöyle dedi: Bana Ebu Nadr, Ebu Seleme ibn Abdurrahman'dan o da Abdullah ibn Ömer'den o da Sa'd ibn Ebu Vakkas'tan tahdis etti ki Sa'd, (Sav) Allah Rasûlü Hz.leri mestler üzerine mesh ettiğini söyledi. Abdullah ibn Ömer de bunu babası Ömer'e sordu. Ömer: "Evet ((Sav) Allah Rasûlü Hz.leri mesh etti)." dedi. "Sa'd, (Sav) Allah Rasûlü Hz.lerinden rivayeten sana bir şey söylediği zaman sen artık o meseleyi başkasına sorma." dedi.
+202) Bize Esbağ ibn Ferec el-Mısri, İbn Vehb'den tahdis etti. O şöyle demiştir: Bana Amr (ibn Haris) tahdis edip şöyle dedi: Bana Ebu Nadr, Ebu Seleme ibn Abdurrahman'dan o da Abdullah ibn Ömer'den o da Sa'd ibn Ebu Vakkas'tan tahdis etti ki Sa'd, (Sav) Allah Rasûlü Hz.lerinin mestler üzerine mesh ettiğini söyledi. Abdullah ibn Ömer de bunu babası Ömer'e sordu. Ömer: "Evet ((Sav) Allah Rasûlü Hz.leri mesh etti)." dedi. "Sa'd, (Sav) Allah Rasûlü Hz.lerinden rivayeten sana bir şey söylediği zaman sen artık o meseleyi başkasına sorma." dedi.
 
 	 Ve Musa ibn Ukbe şöyle dedi: Bana Ebu Nadr haber verdi ki ona da Ebu Seleme haber vermiştir. Ona da Sa'd tahdis etmiştir. (Bir rivayette de) Ömer, oğlu Abdullah'a yukarıda geçen sözü tarzında söylemiştir.
 
@@ -441,7 +441,7 @@ Ve (Sav) Allah Rasûlü Hz.leri kabir sahibi için: **"O idrarından sakınmazd
 
 Ve Ebu Musa, sahra yanı başında olduğu halde postacıların, elçilerin evinde ve hayvan fışkısı bulunan yerde namaz kıldırdı da: "Burası ile orası (namazın sahihliğinde) müsavidir." dedi.
 
-234) Bize Hammad ibn Zeyd, Eyüp'ten: o da Ebu Kılabe'den o da Enes'ten (Ra) tahdis etti. O şöyle demiştir: Ukl veya Ureyne kabilelerinden birtakım insanlar (Medine'ye) geldiler. Mide hastalığından dolayı Medine'de ikamet etmek istemediler. (Sav) Allah Rasûlü Hz.leri onlara sütlü develerin bulunduğu yere gitmelerini, develerin sidiklerinden ve sütlerinden içmelerini emretti. Onlar gittiler, sağlamlaştıkları zaman (Sav) Allah Rasûlü Hz.lerinin çobanını öldürdüler ve develeri sürüp götürdüler. Bu haber gündüzün evvelinde geldi. (Sav) Allah Rasûlü Hz.leri arkalarından bir müfreze gönderdi. Gündüz yükselince adamlar getirildiler. (Sav) Allah Rasûlü Hz.leri (kısas olarak) ellerinin, ayaklarının kesilmesini emretti. Bu canilerin gözleri de oyulup Harre'ye atıldılar. Onlar su istiyorlardı, (ölünceye kadar) kendilerine su verilmedi.
+234) Bize Hammad ibn Zeyd, Eyüp'ten o da Ebu Kılabe'den o da Enes'ten (Ra) tahdis etti. O şöyle demiştir: Ukl veya Ureyne kabilelerinden birtakım insanlar (Medine'ye) geldiler. Mide hastalığından dolayı Medine'de ikamet etmek istemediler. (Sav) Allah Rasûlü Hz.leri onlara sütlü develerin bulunduğu yere gitmelerini, develerin sidiklerinden ve sütlerinden içmelerini emretti. Onlar gittiler, sağlamlaştıkları zaman (Sav) Allah Rasûlü Hz.lerinin çobanını öldürdüler ve develeri sürüp götürdüler. Bu haber gündüzün evvelinde geldi. (Sav) Allah Rasûlü Hz.leri arkalarından bir müfreze gönderdi. Gündüz yükselince adamlar getirildiler. (Sav) Allah Rasûlü Hz.leri (kısas olarak) ellerinin, ayaklarının kesilmesini emretti. Bu canilerin gözleri de oyulup Harre'ye atıldılar. Onlar su istiyorlardı, (ölünceye kadar) kendilerine su verilmedi.
 
 	 Ebu Kılabe: İşte bunlar hırsızlık yapmışlar, insan öldürmüşler, imana girmelerinin ardından kafir olmuşlar, bu cürümleri işlemekle beraber Allah'a ve Rasûlü'ne de muharip olmuşlardır, dedi.
 
@@ -579,4 +579,3 @@ Ebu Aliye de: "Ayağımın üzerine mesh ediniz çünkü o hastadır." demiştir
 
 
 
-v

@@ -216,7 +216,7 @@ Ve yüce Allah'ın şu kavli: _"Allah'a ibadet edin ve O'na hiçbir şeyi ortak 
   
 6087) Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Allah'a ve son güne iman etmekte olan kimse komşusuna eza etmesin. Yine Allah'a ve son güne iman etmekte olan kimse konuklarına ikram etsin. Yine Allah'a ve son güne iman etmekte olan her kişi hayır söylesin yahut sussun."**
 
-6088) Bize el-Leys tahdis edip şöyle dedi: Bana Said el-Makburi tahdis etti. Ebu Şurayh el-Adevi şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bu hadisi tekellüm ederken sesini iki kulağım işitti, yüzünü de iki gözüm gördü. (Sav) Allah Rasûlü Hz.leri: **"Allah'a ve son güne iman etmekte olan, komşusuna ikram etsin; Allah'a ve son güne iman etmekte olan kimse, konuğuna caizesini ikram etsin."** buyurdu. Ya Rasûlallah, konuğun caizesi (gelip geçicisi) nedir? Dedi. **"Onun caizesi bir gün ve bir gecedir. Ziyafet yani konukluksa üç gündür. Üç günden sonraki ikram ise ona sadakadır. Her kim Allah'a ve son güne iman etmekteyse ya hayır söylesin yahut sussun!"** buyurdu.
+6088) Bize el-Leys tahdis edip şöyle dedi: Bana Said el-Makburi tahdis etti. Ebu Şurayh el-Adevi şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bu hadisi tekellüm ederken sesini iki kulağım işitti, yüzünü de iki gözüm gördü. (Sav) Allah Rasûlü Hz.leri: **"Allah'a ve son güne iman etmekte olan, komşusuna ikram etsin; Allah'a ve son güne iman etmekte olan kimse, konuğuna caizesini ikram etsin."** buyurdu. Ya Rasûlallah, konuğun caizesi (gelip geçicisi) nedir? Denildi. **"Onun caizesi bir gün ve bir gecedir. Ziyafet yani konukluksa üç gündür. Üç günden sonraki ikram ise ona sadakadır. Her kim Allah'a ve son güne iman etmekteyse ya hayır söylesin yahut sussun!"** buyurdu.
 
 ### 32- Komşuluk Hakkı, Kapıların Yakınlığı Ölçüsündedir (yani Yakınlığa Göre Derecelenir) Bâbı  
   
@@ -362,7 +362,7 @@ _"Daima ayıplayan, laf getirip götürmeye koşan..." (Kalem 11)_
   
 _"İnsanları arkadan çekiştiren, kaş göz işaretiyle alay eden her kişinin vay haline!" (Hümeze 1)_  
   
-Buhari: "Yehmizu" ve "Yelmizu", "Yaibu" (yani: Ayıplıyor) manasınadır, dedi.  
+Buhari: "Yehmizu" ve "Yelmizu", "Yaibu (yani: Ayıplıyor)" manasınadır, dedi.  
   
 6125) Bize Sufyan es-Sevri, Mansur'dan o da İbrahim en-Nehai'den tahdis etti ki Hemmam ibn Haris şöyle demiştir: Bizler Huzeyfe ibn Yeman'ın beraberinde oturuyorduk. Huzeyfe'ye: Bir adam bu hadisi Osman ibn Affan'a yükseltiyor, denildi. Huzeyfe o sözü söyleyene hitaben: Ben, (Sav) Allah Rasûlü Hz.lerinden: **"Koğuculuk eden fesatçı kimse cennete girmez."** buyururken işittim, dedi.
 
@@ -374,7 +374,7 @@ Buhari: "Yehmizu" ve "Yelmizu", "Yaibu" (yani: Ayıplıyor) manasınadır, dedi.
 
 ### 52- İkiyüzlü Kimse Hakkında Denilen Söz Bâbı  
   
-6127) Ebu Hureyre (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri: **"Sen kıyamet günü Allah katında insanların en şerlisinden bir nevini;** (iki sınıf halk arasında) **şunlara bir yüzle bunlara bir yüzle gelmekte olan iki yüzlü** (münafık kimse) **bulursun."** buyurdu.
+6127) Ebu Hureyre (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri: **"Sen kıyamet günü Allah katında insanların en şerlisinden bir nevini,** (iki sınıf halk arasında) **şunlara bir yüzle bunlara bir yüzle gelmekte olan iki yüzlü** (münafık kimse) **bulursun."** buyurdu.
 
 ### 53- Sahibine (yani Arkadaşına) Onun Hakkında Söylenen Sözü Haber Veren Kimse Bâbı  
   
@@ -420,7 +420,7 @@ Ve Müslüman yahut kafir, herhangi bir insan aleyhine şerri tahrik etmemek (b
 
 6134) ...Ez-Zuhri şöyle dedi: Bana Enes ibn Malik (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Birbirinizle buğz** (ve düşmanlık) **yarışına girmeyiniz, birbirinize haset etmeyiniz, birbirinize arka dönüp ayrılmayınız. Ey Allah'ın kulları**, **birbirinizle kardeşler** (mesabesinde) **olunuz. Bir Müslümanın din kardeşini üç günden fazla bırakması** (küs durması) **helal olmaz!"**
 
-### 58- Bâb: _"Ey iman edenler! Zannın birçoğundan sakının. Çünkü zannın bir kısmı günahtır. Birbirinizin kusurlarını... araştırmayın..." (Hucurât 12)_  
+### 58- Bâb: _"Ey İman Edenler! Zannın Birçoğundan Sakının. Çünkü Zannın Bir Kısmı Günahtır. Birbirinizin Kusurlarını... Araştırmayın..." (Hucurât 12)_  
   
 6135) Bize Malik, Ebu Zinad'dan o da el-A'rec'den o da Ebu Hureyre'den (Ra) haber verdi ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Sizleri zandan sakındırırım çünkü zanla söylenen söz, sözlerin en yalanıdır. Birbirinizin eksiğini** **görmeye ve işitmeye çalışmayınız, hususi ve mahrem hayatınızı da araştırmayınız.** **Almayacağınız bir malın alıcıyı zarara sokmak için fiyatını artırmayınız. Birbirinize haset** **etmeyiniz, buğzlaşma da yapmayınız. Birbirinize arkanızı çevirip küsmeyiniz. Ey Allah'ın kulları, birbirinize** **kardeşler** (mesabesinde) **olunuz."**
 
@@ -434,13 +434,13 @@ Ve Müslüman yahut kafir, herhangi bir insan aleyhine şerri tahrik etmemek (b
   
 6138) Salim ibn Abdullah şöyle demiştir: Ben Ebu Hureyre'den (Ra) işittim, şöyle diyordu: Ben (Sav) Allah Rasûlü Hz.lerinden işittim, şöyle buyuruyordu: **"Ümmetimin hepsi** (Allah tarafından) **affolunmuştur yalnız açıkça günah işleyenler değil. Bu açıklayıcı günahkar delilerden öyleleri vardır ki: Kişi geceleyin bir günah iş işler sonra sabaha ulaşır da Allah kendisini örtmüş olduğu halde o: Ey filan! Ben dün gece şöyle şöyle işler yaptım, diye söyler. Halbuki o, Rabbi onun günah işini örtbas ederek gecelemişti fakat bu deli, Allah'ın örttüğü perdeyi açarak sabaha çıkıyor** (fasıklığını söyleyip ilan ediyor)**."**
 
-6139) Bize Ebu Avane, Katade'den o da Safvan ibn Muhriz'den şöyle tahdis etti: Bir adam İbn Ömer'e: (Sav) Allah Rasûlü Hz.lerinin "Necva" hakkında söylemekte olduğu beyanını nasıl işittin? Diye sordu. İbn Ömer de: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu, dedi: **"Biriniz Rabb'ine yaklaşır hatta Rabbi onun üzerine şefkat perdesini örter de ona: Sen şu ve şu günahlarını bildin değil mi? Der. Kul da: Evet bildim, der. Yine Rabbi ona: Şu ve şu günahlarını da bildin değil mi? Der. O da: Evet bildim, der. Böylece Allah o kuluna günahlarını ikrar ettirir. Sonra: Ben senin üzerindeki bu günahlarını dünyada halktan gizledim. Bugün de onları senin lehine mağfiret ediyorum, der** (ve haseneler kitabını ona verir).**"**
+6139) Bize Ebu Avane, Katade'den o da Safvan ibn Muhriz'den şöyle tahdis etti: Bir adam İbn Ömer'e: (Sav) Allah Rasûlü Hz.lerinin "Necva" hakkında söylemekte olduğu beyanını nasıl işittin? Diye sordu. İbn Ömer de: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu, dedi: **"Biriniz Rabb'ine yaklaşır hatta Rabbi onun üzerine şefkat perdesini örter de ona: Sen şu ve şu günahlarını bildin değil mi? Der. Kul da: Evet bildim, der. Yine Rabbi ona: Şu ve şu günahlarını da bildin değil mi? Der. O da: Evet bildim, der. Böylece Allah o kuluna günahlarını ikrar ettirir. Sonra: Ben senin üzerindeki bu günahlarını dünyada halktan gizledim. Bugün de onları senin lehine mağfiret ediyorum, der** (ve haseneler kitabını ona verir)**."**
 
 ### 61- Kibr(in Kötülüğü) Bâbı  
   
 Mücahid ibn Cebr: "Saniye ıtfıhi" _(Hac 9)_, "Müstekbiran fi nefsihi (Nefsinde büyüklenmek isteyen)" manasınadır.  
   
-'İtfuhu", "Rakabetuhu" yani "Boynu" demektir, dedi.  
+"İtfuhu", "Rakabetuhu" yani "Boynu" demektir, dedi.  
   
 6140) Bize Ma'bed ibn Halid el-Kaysi, Harise ibn Vehb el-Huzai'den (Ra) tahdis etti. (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Dikkat edin, size cennet ehlini haber veriyorum: Her zayıf olan ve her mütevazı olan kimsedir. O kimse Allah üzerine yemin etse Allah onu yemininde muhakkak gerçek çıkarır. Yine dikkat edin, size ateş ehlini haber veriyorum: Her katı yürekli, her hilekar aldatıcı, her ululuk taslayandır."**
 
@@ -526,9 +526,9 @@ Fatıma (As): "(Sav) Allah Rasûlü Hz.leri, vefatına yakın bana ailesi içind
 
 6158) Hişam şöyle demiştir: Bana babam Urve, Ümmü Seleme'nin kızı Zeynep'ten o da anası Ümmü Seleme'den haber verdi ki Ümmü Suleym: Ya Rasûlallah! Şüphesiz Allah hakkı beyan etmekten haya etmez. Kadın ihtilam olduğu zaman kendisine yıkanmak vacip olur mu? Diye sordu. (Sav) Allah Rasûlü Hz.leri: **"**(İhtilam olup)  **suyu** (meniyi) **gördüğünde evet!"** cevabını verdi. Ümmü Seleme güldü de: Kadın ihtilam olur mu? Dedi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Bu olmasa çocuğun benzemesi ne ile olur?"** buyurdu.
 
-6159) …Âişe (Ra): ben (Sav) Allah Rasûlü Hz.lerini küçük dilini görünceye kadar (ağzını açarak) gülmenin tamamını toplayıcı bir şekilde gülerken asla görmedim. O ancak gülümserdi, demiştir.
+6159) ...Âişe (Ra): ben (Sav) Allah Rasûlü Hz.lerini küçük dilini görünceye kadar (ağzını açarak) gülmenin tamamını toplayıcı bir şekilde gülerken asla görmedim. O ancak gülümserdi, demiştir.
 
-6160) …Bize Said ibn ebi Hayyat Katade'den O da Enes'ten (Ra) şöyle tahdis etti: Bir cuma günü (Sav) Allah Rasûlü Hz.leri Medine'de hutbe yaparken kendisine bir adam geldi de: Yağmur kıt aldı, Rabb'inden yağmur yağdırmasını isteyiver! Dedi. (Sav) Allah Rasûlü Hz.leri gökyüzüne doğru baktı. Biz gökyüzünde hiçbir bulut görmüyorduk. (Sav) Allah Rasûlü Hz.leri, olduğu yerde: **"Allahümme's- gına** (Allah'ım bize yağmur ver)**!"** diye dua etti.  
+6160) ...Bize Said ibn ebi Hayyat, Katade'den O da Enes'ten (Ra) şöyle tahdis etti: Bir cuma günü (Sav) Allah Rasûlü Hz.leri Medine'de hutbe yaparken kendisine bir adam geldi de: Yağmur kıt aldı, Rabb'inden yağmur yağdırmasını isteyiver! Dedi. (Sav) Allah Rasûlü Hz.leri gökyüzüne doğru baktı. Biz gökyüzünde hiçbir bulut görmüyorduk. (Sav) Allah Rasûlü Hz.leri, olduğu yerde: **"Allahümme's- gına** (Allah'ım bize yağmur ver)**!"** diye dua etti.  
 
 	  Hemen bulutlar meydana çıkıp birbirleriyle birleşti sonra halk yağmura kavuşturuldu hatta Medine'nin bütün su arkları ve vadileri sel olup aktı. Ondan sonraki cumaya kadar yağmur hiç kesilmeden devam edip durdu. Sonra bu adam -yahut başkası- (Sav) Allah Rasûlü Hz.leri yine hutbe yaparken ayağa kalktı da: Yağmur çokluğundan sulara gömüldük, Rabb'ine dua et, bizden bu yağmuru hapsetsin! Dedi. Onun bu sözünden dolayı (Sav) Allah Rasûlü Hz.leri güldü sonra iki yahut üç kere: **"Allahümme havaleyna vela aleyna** (Ya Allah! Etrafımıza yağdır, üzerimize değil)**!"** diye dua etti.  
   
@@ -538,11 +538,11 @@ Fatıma (As): "(Sav) Allah Rasûlü Hz.leri, vefatına yakın bana ailesi içind
   
 6161) Bize Cerir ibn Abdulhamid, Mansur'dan o da Ebu Vail'den o da Abdullah ibn Mesud'dan (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Doğruluk insanı halis iyiliğe götürür, halis iyilik de cennete kılavuzluk eder. İnsan doğruluk ede ede nihayet bu seciyesiyle sıddık olur. Yalancılık da insanı fucura, şerre götürür. Şer de cehenneme götürür. İnsan yalancılık ede ede nihayet Allah katında bir kezzap** (yani çok yalancı bir kimse sıfatıyla) **yazılır."**
 
-6162) Bize İsmail ibn Cafer, Ebu Süheyl Nafi ibn Malik ibn Ebi Amir'den o da babasından o da Ebu Hureyre'den (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Münafığın alameti üçtür: Söz söylediği zaman yalan söyler, vadettiği vakit sözünde durmaz, kendisine bir şey emniyet edildiği zaman hıyanet eder."** buyurmuştur.
+6162) Bize İsmail ibn Cafer, Ebu Süheyl Nafi ibn Malik ibn Ebu Amir'den o da babasından o da Ebu Hureyre'den (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Münafığın alameti üçtür: Söz söylediği zaman yalan söyler, vadettiği vakit sözünde durmaz, kendisine bir şey emniyet edildiği zaman hıyanet eder."** buyurmuştur.
 
 6163) Semure ibn Cundeb (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Ben bu gece rüyamda iki adam gördüm. Onlar bana geldiler** (ve benim elimden tutup beni mukaddes bir sahraya çıkardılar ve birçok yerleri gezdiler. Sonunda ben onlara: Beni iyi gezdirdiniz. Şimdi bana gördüğüm şeyleri bildirin, dedim). **Onlar yani bu iki melek şöyle dediler: Hani şu ağzı parçalanmakta olduğunu gördüğün kimse yok mu? İşte o çok yalan söyleyen bir yalancıydı. O dünyada daima yalan söylerdi. Onun söylediği yalanlar, ondan alınıp taşınır da nihayet her tarafa yayılırdı. İşte bu yalancı, kıyamet gününe kadar bu suretle azap olunacaktır..."**
 
-### **7**0- Bâb: El-Hedyu's-Salih Hakkındadır  
+### 70- Bâb: El-Hedyu's-Salih Hakkındadır  
   
 6164) Bize İshak ibn İbrahim tahdis edip şöyle dedi: Ben, Ebu Usame'ye: El-A'meş size tahdis etti mi? Dedim. (O şöyle dedi:) Ben Şakik'ten işittim, şöyle dedi: Ben Huzeyfe'den (Ra) işittim, şöyle diyordu: Şüphesiz insanların siretçe, kasıtça ve yolca (Sav) Allah Rasûlü Hz.lerine en çok benzeyeni, İbn Ümmi Abd'dir. Biz, o evinden çıkıp da tekrar evine döneceği zaman içinde (onu görüyor ve halini biliyorduk). Ev halkı içinde onlarla yalnız kaldığı zaman onun ne yapar olduğunu bilmiyoruz.
 
@@ -624,7 +624,7 @@ _"Onlar bollukta ve darlıkta Allah yolunda harcayanlar, öfkelerini yenenler, i
 
 6186) Abdullah ibn Ömer (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir adama uğradı. O adam o sırada (kardeşini) hayasından ötürü kınayıp azarlamakta: Sen muhakkak utanıp sıkılıyorsun! Diyor ve sanki ona bu utanma sana zarar vermiştir, diye söyleniyordu. (Sav) Allah Rasûlü Hz.leri de: **"Şu hayalı kardeşini bırak! Çünkü haya imandandır."** buyurdu.
 
-6187) Abdullah ibnu Ebu Utbe: Ben Ebu Said'den (Ra) işittim, o: (Sav) Allah Rasûlü Hz.leri, perdeli odasındaki bakire kızdan daha hayalıydı diyordu, demiştir.
+6187) Abdullah ibn Ebu Utbe: Ben Ebu Said'den (Ra) işittim, o: (Sav) Allah Rasûlü Hz.leri, perdeli odasındaki bakire kızdan daha hayalıydı. Diyordu, demiştir.
 
 ### 78- Bâb: "Utanmazsan Dilediğini Yap!"  
   
@@ -634,7 +634,7 @@ _"Onlar bollukta ve darlıkta Allah yolunda harcayanlar, öfkelerini yenenler, i
   
 6189) Ümmü Seleme (Ra) şöyle dedi: Ümmü Suleym, (Sav) Allah Rasûlü Hz.lerine geldi de: Ya Rasûlallah! Şüphesiz Allah, hakkı beyan etmekten haya etmez. Kadın ihtilam olursa üzerine yıkanmak vacip olur mu? Diye sordu. (Sav) Allah Rasûlü Hz.leri: **"Suyu** (yani meniyi) **gördüğünde evet."** buyurdu.
 
-6190) Bize Şu'be tahdis etti. Bize Muharib ibnu Disar tahdis edip şöyle dedi: Ben İbn Ömer'den işittim, şöyle diyordu: (Sav) Allah Rasûlü Hz.leri: **"Müminin meseli, yaprakları düşmez ve dağılmaz yeşil bir ağacın meseli gibidir."** buyurdu. Orada bulunan topluluk:  O şu ağaçtır, o şu ağaçtır, diye bazı ağaçların isimlerini söylediler. Ben de onun hurma ağacı olduğunu söylemek istedim. Ben küçük, taze bir oğlan halimden dolayı (bunu söylemeye) utandım. (Sav) Allah Rasûlü Hz.leri: **"O, hurma ağacıdır."** buyurdu.  
+6190) Bize Şu'be tahdis etti. Bize Muharib ibn Disar tahdis edip şöyle dedi: Ben İbn Ömer'den işittim, şöyle diyordu: (Sav) Allah Rasûlü Hz.leri: **"Müminin meseli, yaprakları düşmez ve dağılmaz yeşil bir ağacın meseli gibidir."** buyurdu. Orada bulunan topluluk:  O şu ağaçtır, o şu ağaçtır, diye bazı ağaçların isimlerini söylediler. Ben de onun hurma ağacı olduğunu söylemek istedim. Ben küçük, taze bir oğlan halimden dolayı (bunu söylemeye) utandım. (Sav) Allah Rasûlü Hz.leri: **"O, hurma ağacıdır."** buyurdu.  
   
 	  Ve yine Şu'be'den: Bize Hubeyb ibn Abdurrahman, Hafs ibn Asım'dan o da İbn Ömer'den bunun benzerini tahdis etti ve bunda şunu ziyade etti: İbn Ömer: Sonra ben bunu babam Ömer'e söyledim de o: Utanmayıp da o sözü söylemiş olaydın bu bana şu ve şu şeylerden elbette daha sevimli olurdu, dedi.
 
@@ -650,7 +650,7 @@ _"Onlar bollukta ve darlıkta Allah yolunda harcayanlar, öfkelerini yenenler, i
 
 6194) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri -dünya işlerinden- iki şey arasında muhayyer kılındı mı, O muhakkak günah olmadığı müddetçe onlardan en kolayını alırdı. Eğer bir günah olacaksa o kolay işten halkın en uzak bulunanı, (Sav) Allah Rasûlü Hz.leri olurdu. (Sav) Allah Rasûlü Hz.leri kendisi için asla kin tutup öç almamıştır. Ancak Allah'a karşı hürmetsizlik edilmiş olması müstesnadır; bu takdirde işlenen hürmetsizlik sebebiyle Allah için öfkelenir, intikam alırdı.
 
- 6195) Bize Hammad ibn Zeyd tahdis etti ki el-Ezrak ibn Kays şöyle demiştir: Ehvaz'da (Duceyle denilen) bir nehrin kenarında bulunuyorduk. O nehrin suyu kuruyup gitmişti. Ebu Berze Nadle ibnu Ubeyd el-Eslemi atı üzerinde geldi de namaza durdu, atını da salıverdi. Kendisi namazdayken atı yürüdü. Ebu Berze hemen namazını bıraktı ve atının ardından gitti, sonunda ona yetişip yakaladı. Sonra geldi, yarım bıraktığı namazını tamamladı. Bizim içimizde harici görüşünde olan bir adam vardı. Bu, Ebu Berze'nin böyle namazı içinde atı yakaladığını sonra yine kıldığını görünce: Şu ihtiyara bakınız, atı için namazını terk etti! Demeye başladı.  
+ 6195) Bize Hammad ibn Zeyd tahdis etti ki el-Ezrak ibn Kays şöyle demiştir: Ehvaz'da (Duceyle denilen) bir nehrin kenarında bulunuyorduk. O nehrin suyu kuruyup gitmişti. Ebu Berze Nadle ibn Ubeyd el-Eslemi atı üzerinde geldi de namaza durdu, atını da salıverdi. Kendisi namazdayken atı yürüdü. Ebu Berze hemen namazını bıraktı ve atının ardından gitti, sonunda ona yetişip yakaladı. Sonra geldi, yarım bıraktığı namazını tamamladı. Bizim içimizde harici görüşünde olan bir adam vardı. Bu, Ebu Berze'nin böyle namazı içinde atı yakaladığını sonra yine kıldığını görünce: Şu ihtiyara bakınız, atı için namazını terk etti! Demeye başladı.  
   
 	   Ebu Berze de namazdan sonra ona yöneldi de: (Sav) Allah Rasûlü Hz.lerinden ayrıldığım zamandan beri beni hiçbir kimse sertlik, yoğunluk etmemiş; ayıplamamıştır! Diye cevap verdi ve şöyle devam etti: Benim ineceğim yer uzaktadır. Eğer ben atımı bırakıp da namazı tam kılsaydım geceye kadar ehlimin yanına varamazdım, dedi.  
   
@@ -676,7 +676,7 @@ Ebu Derda'dan: Bizler birtakım toplulukların yüzlerine karşı dişlerimizi m
   
 	  Ravi Eyüp kendi elbisesiyle işaret edip: (Sav) Allah Rasûlü Hz.leri bu sözü söylerken kaftanı Mahreme'ye böyle gösteriyordu. Mahreme'nin huyunda bir sertlik vardı, demiştir.
 
-6201) Bu hadisi Hammad ibn Zeyd, Eyüp'ten rivayet etti. Hatem ibn Verdan da şöyle dedi: Bize Eyüp, İbn Muleyke'den o da el-Mısver'den: (Sav) Allah Rasûlü Hz.lerine birçok kaftanlar gelmişti, diye tahdis etti.
+6200) Bu hadisi Hammad ibn Zeyd, Eyüp'ten rivayet etti. Hatem ibn Verdan da şöyle dedi: Bize Eyüp, İbn Muleyke'den o da el-Mısver'den: (Sav) Allah Rasûlü Hz.lerine birçok kaftan gelmişti, diye tahdis etti.
 
 ### 83- Bâb: "(Akıllı ve Olgun) Mümin, Bir Yılan Deliğinden İki Kere Sokulmaz."  
   
@@ -686,11 +686,11 @@ Muaviye ibn Ebu Sufyan da: "Hakim ancak tecrübe sahibi olan teennili kişidir."
 
 ### 84- Konuk Hakkı(nı Beyan) Bâbı  
   
-6203) Abdullah ibn Amr (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri benim yanıma girdi de**: "Bütün gece namaz kılmakta olduğun ve gündüzleri de oruç tutmakta olduğun bana haber verilmedi mi sanırsın?"** buyurdu. Ben: "Evet öyledir." dedim. (Sav) Allah Rasûlü Hz.leri: **"Böyle yapma, gecenin bir kısmında kalk ibadet et, bir kısmında yat uyu; bazı günler oruç tut, bazı günler oruç tutma çünkü bedenin için senin üzerinde bir hak vardır, gözlerin için de senin üzerinde bir hak vardır, ziyaretçilerin için de senin üzerinde bir hak vardır, eşin için de senin üzerinde bir hak vardır. Sana uzun bir ömür olması ümit edilir. Her aydan üçer gün nafile oruç tutman sana yeter çünkü her bir haseneye mukabil onun on misli sevap vardır. Böylece bu, bütün sene oruç tutmuş sevabı eder."** Abdullah şöyle dedi: Ben kendi nefsime şiddet yaptıkça bana şiddet yapıldı: "Ben bundan daha fazlasına güç yetiririm." dedim. (Sav) Allah Rasûlü Hz.leri: **"Öyleyse her bir cumadan** (yani her haftadan) **üç gün oruç tut."** buyurdu. Abdullah dedi ki: Ben şiddet istedikçe bana şiddetlendirildi. "Ben bundan fazlasına da güç yetiririm." dedim. (Sav) Allah Rasûlü Hz.leri: **"Öyleyse Davud Peygamber'in** (As) **orucu gibi oruç tut."** buyurdu. Ben: "Davud Peygamber'in (As) orucu nedir? Dedim. (Sav) Allah Rasûlü Hz.leri: **"Yılın yarısıdır."** buyurdu.
+6203) Abdullah ibn Amr (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri benim yanıma girdi de: **"Bütün gece namaz kılmakta olduğun ve gündüzleri de oruç tutmakta olduğun bana haber verilmedi mi sanırsın?"** buyurdu. Ben: "Evet öyledir." dedim. (Sav) Allah Rasûlü Hz.leri: **"Böyle yapma, gecenin bir kısmında kalk ibadet et, bir kısmında yat uyu; bazı günler oruç tut, bazı günler oruç tutma çünkü bedenin için senin üzerinde bir hak vardır, gözlerin için de senin üzerinde bir hak vardır, ziyaretçilerin için de senin üzerinde bir hak vardır, eşin için de senin üzerinde bir hak vardır. Sana uzun bir ömür olması ümit edilir. Her aydan üçer gün nafile oruç tutman sana yeter çünkü her bir haseneye mukabil onun on misli sevap vardır. Böylece bu, bütün sene oruç tutmuş sevabı eder."** Abdullah şöyle dedi: Ben kendi nefsime şiddet yaptıkça bana şiddet yapıldı: "Ben bundan daha fazlasına güç yetiririm." dedim. (Sav) Allah Rasûlü Hz.leri: **"Öyleyse her bir cumadan** (yani her haftadan) **üç gün oruç tut."** buyurdu. Abdullah dedi ki: Ben şiddet istedikçe bana şiddetlendirildi. "Ben bundan fazlasına da güç yetiririm." dedim. (Sav) Allah Rasûlü Hz.leri: **"Öyleyse Davud Peygamber'in** (As) **orucu gibi oruç tut."** buyurdu. Ben: "Davud Peygamber'in (As) orucu nedir?" dedim. (Sav) Allah Rasûlü Hz.leri: **"Yılın yarısıdır."** buyurdu.
 
 ### 85- Konuğa İkram Etmek ve Bizzat Hizmet Etmek ve Yüce Allah'ın: _"İbrahim'in Ağırlanan Misafirlerinin Haberi Sana Geldi mi?" (Zâriyât 24)_ Kavli Bâbı  
   
-Ebu Abdullah Buhari şöyle dedi: Müfredde "Huve zevrun", cemide: "Haulai zevrun" denilir (yani bu müfred ve cemide müsavidir). "Dayf" da böyledir. Dayf'ın manası, onun konukları ve ziyaretçileri demektir çünkü o; kavim, rida ve ad gibi bir mastardır. "Maun ğavrun" ve "Bi'run ğavrun" ve "Ma ani ğavrun" ve "Miyahun ğavrun" denilir (Bu, mastarla vasıflamadır). Kovaların erişmez olduğu şeye "Gavr" ve "Gair" denilir. İçinde kaybolduğun her şey bir "Mağare"dir. "Tezzaveru", "Zevr" mastarından "Temilu (Meyleder)" "Ezveru" da "Çok meyleden" manasınadır.  
+Ebu Abdullah Buhari şöyle dedi: Müfredde "Huve zevrun", cemide "Haulai zevrun" denilir (yani bu müfred ve cemide müsavidir). "Dayf" da böyledir. Dayf'ın manası, onun konukları ve ziyaretçileri demektir çünkü o; kavim, rida ve ad gibi bir mastardır. "Maun ğavrun" ve "Bi'run ğavrun" ve "Ma ani ğavrun" ve "Miyahun ğavrun" denilir (Bu, mastarla vasıflamadır). Kovaların erişmez olduğu şeye "Gavr" ve "Gair" denilir. İçinde kaybolduğun her şey bir "Mağare"dir. "Tezzaveru", "Zevr" mastarından "Temilu (Meyleder)", "Ezveru" da "Çok meyleden" manasınadır.  
   
 6204) Bize (İmam) Malik, Said ibn Ebu Said el-Makburi'den o da Ebu Şurayh el-Kabi'den (Ra) haber verdi ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Allah'a ve son güne iman eden kimse konuğuna ikram etsin. Konuğun gelip geçici olan kısmının ikramı bir gün, bir gecedir. Ziyafet yani konukluk üç gündür. Üç günden sonra hazır bulunan kimseye yapılan ikram ise sadakadır. Konuk için ev sahibinin yanında, onun** (göğsünü daraltıp da) **kendisini dışarı çıkarmasına kadar ikamet etmesi helal olmaz."**
 
@@ -704,7 +704,7 @@ Ebu Abdullah Buhari şöyle dedi: Müfredde "Huve zevrun", cemide: "Haulai zevru
 
 ### 86- Konuk için Yemek Yapılması ve Bir Şeyler Hazırlama Meşakkatinin Yüklenilmesi Bâbı  
   
-6209) Ebu Cuhayfe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri Selman ile Ebu'd-Derda arasında kardeşlik akdi yapmıştı. Selman, Ebu Derda'ya ziyarete gitti. (Evde bulamadı.) Ve zevcesi Ümmü Derda'yı eski bir elbise içinde perişan gördü de: Bu halin nedir? Diye sordu. Ümmü Derda: Kardeşin Ebu Derda'nın dünyada bir işi ve ilişiği yok ki (gündüz oruç tutar, gece namaz kılar)! Diye yanıktı. Bu sırada Ebu Derda geldi. Selman(ı selamladı ve onun) için yemek yaptı (önüne getirdi). Ebu Derda, Selman'a: Buyur ye, ben oruçluyum! Dedi. Selman: Sen yiyinceye kadar ben de yemeyeceğim! Dedi. Bunun üzerine Ebu Derda da (nafile orucunu bozup konuğu ile) yedi. Gece olunca Ebu Derda gecenin evvelinde namaza kalkmak istedi. Selman: Uyu! Diye menetti. Ebu Derda da uyudu. Sonra bir daha kalkmak istedi. Yine Selman: Uyu! Diye menetti. Gecenin sonu olunca Selman: Artık şimdi kalk! Dedi. Kalkıp ikisi de namaz kıldılar. Namazdan sonra Selman, Ebu Derda'ya şunları söyledi: Senin üzerinde muhakkak ki Rabb'in için bir hak vardır. Senin üzerinde nefsin için de bir hak vardır. Senin üzerinde ailen için de bir hak vardır. Binaenaleyh sen her hak sahibine hakkını vermelisin!  
+6209) Ebu Cuhayfe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri Selman ile Ebu Derda arasında kardeşlik akdi yapmıştı. Selman, Ebu Derda'ya ziyarete gitti. (Evde bulamadı.) Ve zevcesi Ümmü Derda'yı eski bir elbise içinde perişan gördü de: Bu halin nedir? Diye sordu. Ümmü Derda: Kardeşin Ebu Derda'nın dünyada bir işi ve ilişiği yok ki (gündüz oruç tutar, gece namaz kılar)! Diye yanıktı. Bu sırada Ebu Derda geldi. Selman(ı selamladı ve onun) için yemek yaptı (önüne getirdi). Ebu Derda, Selman'a: Buyur ye, ben oruçluyum! Dedi. Selman: Sen yiyinceye kadar ben de yemeyeceğim! Dedi. Bunun üzerine Ebu Derda da (nafile orucunu bozup konuğu ile) yedi. Gece olunca Ebu Derda gecenin evvelinde namaza kalkmak istedi. Selman: Uyu! Diye menetti. Ebu Derda da uyudu. Sonra bir daha kalkmak istedi. Yine Selman: Uyu! Diye menetti. Gecenin sonu olunca Selman: Artık şimdi kalk! Dedi. Kalkıp ikisi de namaz kıldılar. Namazdan sonra Selman, Ebu Derda'ya şunları söyledi: Senin üzerinde muhakkak ki Rabb'in için bir hak vardır. Senin üzerinde nefsin için de bir hak vardır. Senin üzerinde ailen için de bir hak vardır. Binaenaleyh sen her hak sahibine hakkını vermelisin!  
   
 	  Sonra Ebu Derda, (Sav) Allah Rasûlü Hz.lerinin huzuruna gelip bu vakayı O'na zikredince (Sav) Allah Rasûlü Hz.leri: **"Selman doğru söylemiştir!"** buyurdu.  
   
@@ -766,7 +766,7 @@ Ve yüce Allah'ın şu kavli (bâbı): _"Şairlere ise haddi aşan azgınlar uy
   
 	  (Ya Allah! Sen olmayaydın biz doğru yolu bulmaz, sadaka da vermez, namaz da kılmazdık. Hayatımız Senin rızan yolunda feda olsun. İşlediğimiz günahları mağfiret eyle! Düşmanlarla karşılaşırsak ayakları sabit kıl. Üzerimize sekinet ve metanet indir. Biz kıtale çağrıldığımız zaman hemen savaşa geliriz. O düşmanlar bizim üzerimize (yiğitlikle değil) bağırmakla hamle yapmışlardır.)  
   
-	  Bu şiir üzerine (Sav) Allah Rasûlü Hz.leri: **"Şiir inşad edip develeri yollandıran kimdir?"** diye sordu. Sahabiler: Amir ibn Ekva'dır, dediler. (Sav) Allah Rasûlü Hz.leri: "Allah Amir'e rahmet eylesin!" diye dua etti. Kafileden bir adam (Ömer ibn Hattab): Ey Allah'ın Peygamberi! Amir'e cennet vacip oldu (şehitliği kesinleşti). Keşke onunla (onun şiir ve yiğitliğiyle) bizleri bir müddet daha faydalandırsaydın! Dedi.  
+	  Bu şiir üzerine (Sav) Allah Rasûlü Hz.leri: **"Şiir inşad edip develeri yollandıran kimdir?"** diye sordu. Sahabiler: Amir ibn Ekva'dır, dediler. (Sav) Allah Rasûlü Hz.leri: **"Allah Amir'e rahmet eylesin!"** diye dua etti. Kafileden bir adam (Ömer ibn Hattab): Ey Allah'ın Peygamberi! Amir'e cennet vacip oldu (şehitliği kesinleşti). Keşke onunla (onun şiir ve yiğitliğiyle) bizleri bir müddet daha faydalandırsaydın! Dedi.  
 	  
 	  Nihayet Hayber'e geldik ve Hayber halkını muhasara ettik. (Fakat muhasara yirmi gün sürmüştü.) Hatta bize şiddetli bir açlık isabet etmişti. Sonra yüce Allah Müslümanlara Hayber kalelerinin fethini müyesser kıldı. Hayber'in Müslümanlara açılıp fetholunduğu günün akşamı, mücahidler yer yer birçok ateşler yakmışlardı. (Sav) Allah Rasûlü Hz.leri: **"Bu ateşler nedir? Ne için yakıyorsunuz?"** diye sordu. Sahabiler: Et pişirmek için, diye cevap verdiler. (Sav) Allah Rasûlü Hz.leri: **"Hangi et** (ne eti)**?"** sordu. Sahabiler: Evcil eşeklerin eti! Diye cevap verdiler. (Sav) Allah Rasûlü Hz.leri: **"O etleri dökünüz, kaplarını da kırınız!"** buyurdu. Bir adam: Ya Rasûlallah! Etleri döküp de kapları yıkasak olmaz mı? Diye sordu. (Sav) Allah Rasûlü Hz.leri: **"Yahut öyle yapınız!"** buyurdu.  
   
@@ -830,7 +830,7 @@ Ve yüce Allah'ın şu kavli (bâbı): _"Şairlere ise haddi aşan azgınlar uy
 
 6232) Ebu Bekre (Nufey ibn Haris (Ra)) şöyle demiştir: Bir adam (Sav) Allah Rasûlü Hz.lerinin yanında bir kimseyi övdü. Bunun üzerine (Sav) Allah Rasûlü Hz.leri ona üç defa: **"Veyl sana! Kardeşinin boynunu kesip kopardın!"** buyurup şöyle devam etti: **"Sizden biriniz bir kimseyi çaresiz methedecek olursa 'Ben filanı zahirine göre şöyle şöyle** **sanıyorum; ameline göre onu hesaba çekecek ise Allah'tır, ben Allah'a karşı hiçbir kimseyi tezkiye etmem.' desin. Bunu da** **o kimsenin böyle halini biliyorsa söylesin!"** buyurdu.
 
-6233) Ebu Said el-Hudri (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir gün ganimet taksimi yaparken Temimoğullarından Zu'l-Huveysıra lakaplı bir adam: Ya Rasûlallah! Adalet et! Dedi. (Sav) Allah Rasûlü Hz.leri: **"Veyl olsun sana! Ben adalet etmezsem kim adalet eder?**" buyurdu. Bunun üzerine Ömer: Bana izin ver de şu adamın boynunu vurayım! Dedi. (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Hayır** (boynunu vurma)**. Onun birtakım arkadaşları vardır ki sizden biriniz onların namazı yanında kendi namazını, onların oruçları yanında kendi orucunu hakir görür. Onlar okun avdan delip çıkışı gibi dinden** **çıkarlar!** (Avı delip geçen) **okun demirine bakılır, onda kan namına bir şey bulunmaz. Sonra okun ağaç kısmına bakılır, orada da bir şey bulunmaz. Sonra okun yelesine -tüyüne- bakılır, orada da bir şey bulunmaz. Ok, avın işkembesi içindeki şeylere ve kana girip çıkmış fakat onlardan hiçbir şey oka yapışıp kalmamıştır! Onlar, insanlar** (Müslümanlar) **arasında bir ayrılma olduğu zaman ortaya çıkarlar. Onların alameti iki elinin birinde kadın memesi gibi yahut öteye beriye gidip** **gelen bir et parçası gibi bir şey bulunan bir adamdır."**  
+6233) Ebu Said el-Hudri (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir gün ganimet taksimi yaparken Temimoğullarından Zu'l-Huveysıra lakaplı bir adam: Ya Rasûlallah! Adalet et! Dedi. (Sav) Allah Rasûlü Hz.leri: **"Veyl olsun sana! Ben adalet etmezsem kim adalet eder?"** buyurdu. Bunun üzerine Ömer: Bana izin ver de şu adamın boynunu vurayım! Dedi. (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Hayır** (boynunu vurma)**. Onun birtakım arkadaşları vardır ki sizden biriniz onların namazı yanında kendi namazını, onların oruçları yanında kendi orucunu hakir görür. Onlar okun avdan delip çıkışı gibi dinden** **çıkarlar!** (Avı delip geçen) **okun demirine bakılır, onda kan namına bir şey bulunmaz. Sonra okun ağaç kısmına bakılır, orada da bir şey bulunmaz. Sonra okun yelesine -tüyüne- bakılır, orada da bir şey bulunmaz. Ok, avın işkembesi içindeki şeylere ve kana girip çıkmış fakat onlardan hiçbir şey oka yapışıp kalmamıştır! Onlar, insanlar** (Müslümanlar) **arasında bir ayrılma olduğu zaman ortaya çıkarlar. Onların alameti iki elinin birinde kadın memesi gibi yahut öteye beriye gidip** **gelen bir et parçası gibi bir şey bulunan bir adamdır."**  
   
 	  Ebu Said şöyle dedi: Ben bunu (Sav) Allah Rasûlü Hz.lerinden işittiğime şehadet ediyorum ve yine şehadet ediyorum ki Ali ibn Ebu Talib onlarla harp ettiği zaman ben onun maiyetindeydim. Öldürülenlerin içinde bu hadiste vasfedilen adam arandı. Neticede (Sav) Allah Rasûlü Hz.lerinin vasfettiği vasıf üzere birisi bulunup getirildi.
  
@@ -856,7 +856,7 @@ Ve yüce Allah'ın şu kavli (bâbı): _"Şairlere ise haddi aşan azgınlar uy
 
 ### _96- "De ki: Eğer Allah'ı Seviyorsanız Bana Uyun ki Allah da Sizi Sevsin ve Günahlarınızı Bağışlasın. Çünkü Allah Çok Bağışlayandır, Çok Merhamet Edendir." (Âl-i İmrân 31)_ Kavlinden Dolayı Aziz ve Celil Olan Allah Sevgisinin -veya Allah için Sevmenin- Alameti Bâbı  
   
-6238) Bize Muhammed ibn Cafer, Şu'be'den o da Süleyman (ibn Mıhran el-A'meş)'den o da Ebu Vail'den o da Abdullah ibn Mesud'dan (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Kişi sevdiği ile beraberdir."** buyurmuştur.
+6238) Bize Muhammed ibn Cafer, Şu'be'den o da Süleyman (ibn Mıhran el-A'meş)'ten o da Ebu Vail'den o da Abdullah ibn Mesud'dan (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Kişi sevdiği ile beraberdir."** buyurmuştur.
 
 6239) Bize Cerir, el-A'meş'ten tahdis etti ki Ebu Vail şöyle demiştir: Abdullah ibn Mesud (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.lerinin huzuruna bir adam geldi de: Ya Rasûlallah! Henüz kendilerine katılmamış olduğu bir kavmi, bir zümreyi seven bir kimse hakkında nasıl bir hüküm söylersiniz? Diye sordu. (Sav) Allah Rasûlü Hz.leri: **"Kişi sevdiği ile beraberdir."** buyurdu.  
   
@@ -1036,7 +1036,7 @@ Mısver ibn Mahreme: Ben (Sav) Allah Rasûlü Hz.lerinden minber üzerinde işit
   
 	  _"Kitap ehlinden birçoğu, hak kendilerine belirdikten sonra dahi içlerindeki kıskançlıktan ötürü sizi imanınızdan sonra küfre döndürmek isterler. Siz, şimdilik Allah onlar hakkındaki emrini getirinceye kadar affedin, hoşgörün. Şüphesiz Allah, gücü her şeye hakkıyla yetendir." (Bakara 109)_
 
-6279) Bize Abdulmelik ibn Umeyr, Abdullah ibn Haris ibn Nevfel'den tahdis etti ki Abbas ibnu Abdulmuttalib: "Ya Rasûlallah! Amcam Ebu Talib'e herhangi bir şeyle fayda verdin, yarar sağladın mı? Çünkü o daima Seni korur ve Senin için düşmanlarına karşı öfkelenirdi!" dedi. (Sav) Allah Rasûlü Hz.leri: **"Evet, o şimdi topuklarına kadar dibi yakın ateşten bir çukur içindedir. Eğer ben olmasaydım muhakkak o Cehennemin derin çukurunda olacaktı."** buyurdu.
+6278) Bize Abdulmelik ibn Umeyr, Abdullah ibn Haris ibn Nevfel'den tahdis etti ki Abbas ibn Abdulmuttalib: "Ya Rasûlallah! Amcam Ebu Talib'e herhangi bir şeyle fayda verdin, yarar sağladın mı? Çünkü o daima Seni korur ve Senin için düşmanlarına karşı öfkelenirdi!" dedi. (Sav) Allah Rasûlü Hz.leri: **"Evet, o şimdi topuklarına kadar dibi yakın ateşten bir çukur içindedir. Eğer ben olmasaydım muhakkak o Cehennemin derin çukurunda olacaktı."** buyurdu.
 
 ### 116- Bâb: "Tevriye ve Kinaye Yoluyla Söylenen Tarizli Sözler, Yalandan Kurtulmadır."  
   
@@ -1064,7 +1064,7 @@ Mısver ibn Mahreme: Ben (Sav) Allah Rasûlü Hz.lerinden minber üzerinde işit
   
 Ve yüce Allah'ın şu kavli: _"Deveye bakmıyorlar mı, nasıl yaratılmıştır! Göğe bakmıyorlar mı, nasıl yükseltilmiştir! Dağlara bakmıyorlar mı, nasıl dikilmişlerdir!" (Ğâşiye 17-19)_  
   
-Eyüp es-Sahtıyani de İbn Ebu Muleyke'den o da Âişe'den öleceği sıra (Sav) Allah Rasûlü Hz.leri başını semaya doğru yükseltti... Diye söylemiştir.  
+Eyüp es-Sahtıyani de İbn Ebu Muleyke'den o da Âişe'den: Öleceği sıra (Sav) Allah Rasûlü Hz.leri başını semaya doğru yükseltti... Diye söylemiştir.  
   
 6285) İbn Şihab şöyle demiştir: Ben Ebu Seleme ibn Abdurrahman'dan işittim, şöyle diyordu: Bana Cabir ibn Abdullah (Ra) haber verdi ki kendisi (Sav) Allah Rasûlü Hz.lerinden şöyle buyururken işitmiştir: **"Sonra benden vahiy bir müddet kesildi. Bir gün yürürken gökyüzü tarafından bir ses işittim. Ben hemen gözümü** **gökyüzüne doğru kaldırdım. Bir de gördüm ki Hira Dağı'nda bana gelen melek** (yani Cibril (As)) **sema ile Arz arasında bir kürsi üzerinde oturmuştu."**
 
