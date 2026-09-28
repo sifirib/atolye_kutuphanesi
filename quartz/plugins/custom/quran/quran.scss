@@ -1,0 +1,189 @@
+// The card treatment lives here; removing its border/background does not alter
+// verse anchors, content, or reading controls.
+.quran-toolbar {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  box-sizing: border-box;
+  padding: 3px;
+  margin: 0.8rem 0;
+  width: 15rem;
+  max-width: 100%;
+  border-radius: 9px;
+  background: var(--highlight);
+  direction: ltr;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 3px auto 3px 3px;
+    width: calc((100% - 6px) / 3);
+    border-radius: 6px;
+    background: var(--light);
+    box-shadow: 0 1px 3px rgb(0 0 0 / 12%);
+    transition: transform 180ms ease;
+    pointer-events: none;
+  }
+
+  &[data-quran-view="arabic"]::before { transform: translateX(100%); }
+  &[data-quran-view="translation"]::before { transform: translateX(200%); }
+
+  button {
+    position: relative;
+    appearance: none;
+    display: grid;
+    place-items: center;
+    min-width: 0;
+    min-height: 30px;
+    margin: 0;
+    padding: 0.3rem 0.55rem;
+    border: 0;
+    border-radius: 6px;
+    box-shadow: none;
+    background: transparent;
+    color: var(--darkgray);
+    font: inherit;
+    font-size: 0.8rem;
+    line-height: 1.2;
+    cursor: pointer;
+    transition: color 180ms ease;
+    &[aria-pressed="true"] { color: var(--secondary); font-weight: 600; }
+    &:hover { color: var(--secondary); }
+  }
+}
+
+ol.quran-verses {
+  padding-inline-start: 0;
+  list-style: none;
+
+  > li.quran-item {
+    list-style: none;
+    margin: 0.3rem 0;
+    &:not(.quran-verse) { padding: 0; }
+    &::marker { content: ""; }
+  }
+}
+
+.quran-verse {
+  border: 1px solid var(--lightgray);
+  border-radius: 0.4rem;
+  padding: 0.5rem 0.85rem;
+  background: color-mix(in srgb, var(--light) 96%, var(--secondary));
+  scroll-margin-top: 5rem;
+
+  &:target {
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 2px var(--highlight);
+  }
+
+  .quran-verse-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+  }
+
+  .quran-number {
+    color: var(--secondary);
+    font-size: 0.85rem;
+    font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
+  }
+
+  .quran-arabic {
+    flex: 1;
+    min-width: 0;
+    text-align: right;
+    font-family: "Traditional Arabic", "Noto Naskh Arabic", "Amiri", serif;
+    font-size: 1.55rem;
+    line-height: 1.85;
+    color: var(--dark);
+  }
+
+  .quran-translation {
+    margin-top: 0.3rem;
+    text-align: left;
+    line-height: 1.7;
+    overflow-wrap: anywhere;
+    color: var(--darkgray);
+  }
+
+  &[data-quran-mode="translation"] {
+    display: grid;
+    grid-template-columns: max-content minmax(0, 1fr);
+    align-items: first baseline;
+    column-gap: 0.75rem;
+    direction: ltr;
+
+    .quran-translation {
+      margin-top: 0;
+      min-width: 0;
+    }
+  }
+
+  .quran-toggle {
+    appearance: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 28px;
+    align-self: center;
+    box-sizing: border-box;
+    width: 28px;
+    height: 28px;
+    min-width: 0;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    box-shadow: none;
+    background: transparent;
+    color: var(--secondary);
+    cursor: pointer;
+    line-height: 0;
+
+    svg {
+      display: block;
+      width: 14px;
+      height: 14px;
+      margin: 0;
+      padding: 0;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: transform 160ms ease;
+      pointer-events: none;
+    }
+    &[aria-expanded="false"] svg { transform: rotate(180deg); }
+    &[aria-expanded="true"] svg { transform: rotate(90deg); }
+    &:hover { background: var(--highlight); }
+  }
+}
+
+.quran-toolbar button, .quran-toggle {
+  &:focus-visible { outline: 2px solid var(--secondary); outline-offset: 3px; }
+}
+
+.quran-toolbar[hidden], .quran-verse [hidden] { display: none !important; }
+
+@media (max-width: 600px) {
+  .quran-verse {
+    padding: 0.45rem 0.65rem;
+    .quran-verse-heading { gap: 0.4rem; }
+    .quran-arabic { font-size: 1.4rem; }
+  }
+}
+
+@media (pointer: coarse) {
+  .quran-toolbar button { min-height: 40px; }
+  .quran-verse .quran-toggle { flex-basis: 40px; width: 40px; height: 40px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .quran-toolbar::before, .quran-toolbar button, .quran-verse .quran-toggle svg {
+    transition: none;
+  }
+}

@@ -1,0 +1,80 @@
+---
+type: "Kur'an-ı Kerim"
+sure: 59
+isim: "Haşr"
+meal: "Diyanet İşleri Başkanlığı (Eski)"
+---
+
+# Haşr Suresi
+
+1. بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ  
+   Göklerde olanlar da yerde olanlar da Allah'ı tesbih ederler. O güçlüdür, Hakim'dir. ^1
+
+2. هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ  
+   Kitap ehlinden inkarcı olanları ilk sürgünde yurtlarından çıkaran O'dur. Oysa ey inananlar! Çıkacaklarını sanmamıştınız, onlar da, kalelerinin kendilerini Allah'tan koruyacağını sanmışlardı. Ama Allah'ın azabı onlara beklemedikleri yerden geldi, kalblerine korku saldı; evlerini kendi elleriyle ve inananların elleriyle yıkıyorlardı. Ey akıl sahipleri! Ders alın. ^2
+
+3. وَلَوْلَآ أَن كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلَآءَ لَعَذَّبَهُمْ فِى ٱلدُّنْيَا وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابُ ٱلنَّارِ  
+   Allah onlara sürülmeyi yazmamış olsaydı, dünyada başka şekilde azap verecekti. Ahirette onlara ateş azabı vardır. ^3
+
+4. ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ وَمَن يُشَآقِّ ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ  
+   Bu, Allah'a ve Peygamberine karşı gelmelerinden ötürüdür. Kim Allah'a karşı gelirse bilsin ki Allah'ın cezalandırması şüphesiz çetindir. ^4
+
+5. مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَٰسِقِينَ  
+   İnkarcı kitap ehlinin yurtlarında hurma ağaçlarını kesmeniz veya onları kesmeyip gövdeleri üzerinde ayakta bırakmanız Allah'ın izniyledir. Allah yoldan çıkanları böylece rezilliğe uğratır. ^5
+
+6. وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ  
+   Ey inananlar! Onların mallarından, Allah'ın Peygamberine verdiği şeyler için siz ne at ve ne de deve sürdünüz; fakat Allah peygamberlerine, dilediği kimselere karşı üstünlük verir. Allah herşeye Kadir'dir. ^6
+
+7. مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ  
+   Allah'ın, fethedilen memleketler halkının mallarından Peygamberine verdikleri; Allah, Peygamber, yakınlar, yetimler, yoksullar ve yolda kalmışlar içindir; ta ki içinizdeki zenginler arasında elden ele dolaşan bir devlet olmasın. Peygamber size ne verirse onu alın, sizi neden menederse ondan geri durun; Allah'tan sakının, doğrusu Allah'ın cezalandırması çetindir. ^7
+
+8. لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ  
+   Allah'ın verdiği bu ganimet malları bilhassa; yurtlarından ve mallarından edilmiş olan, Allah'tan bir lütuf ve rıza dileyen, Allah'ın dinine ve Peygamberine yardım eden muhacir fakirlerindir. İşte doğru olanlar bunlardır. ^8
+
+9. وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ  
+   Daha önceden Medine'yi yurt edinmiş ve gönüllerine imanı yerleştirmiş olan kimseler, kendilerine hicret edip gelenleri severler; onlara verilenler karşısında içlerinde bir çekememezlik hissetmezler; kendileri zaruret içinde bulunsalar bile onları kendilerinden önde tutarlar. Nefsinin tamahkarlığından korunabilmiş kimseler, işte onlar saadete erenlerdir. ^9
+
+10. وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ  
+   Onlardan sonra gelenler: "Rabbimiz! Bizi ve bizden önce inanmış olan kardeşlerimizi bağışla; kalbimizde müminlere karşı kin bırakma; Rabbimiz! Şüphesiz Sen şefkatlisin, merhametlisin" derler. ^10
+
+11. أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ  
+   Münafıkların, kitap ehlinin inkarcılarından olan kardeşlerine: "Eğer siz yurdunuzdan çıkarılırsanız and olsun ki, biz de sizinle beraber çıkarız; sizin aleyhinizde kimseye asla uymayız; eğer savaşa tutuşursanız mutlaka size yardım ederiz" dediklerini görmedin mi? Allah onların yalancı olduklarına şahidlik eder. ^11
+
+12. لَئِنْ أُخْرِجُوا۟ لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا۟ لَا يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ ٱلْأَدْبَٰرَ ثُمَّ لَا يُنصَرُونَ  
+   Onlar çıkarılmış olsalar, and olsun ki, onlarla beraber çıkmazlar; savaşa tutuşmuş olsalar, and olsun ki, onlara yardıma koşmazlar; onlara yardıma gitseler, mutlaka geri dönüp kaçarlar, sonra yardım da görmezler. ^12
+
+13. لَأَنتُمْ أَشَدُّ رَهْبَةً فِى صُدُورِهِم مِّنَ ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ  
+   Ey inananlar! Onların yüreklerine korku salan, Allah'tan çok sizlersiniz; çünkü onlar, anlamayan kimselerdir. ^13
+
+14. لَا يُقَٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ  
+   Onlar sizinle toplu olarak, ancak surla çevrilmiş kasabalar içinde veya duvarlar arkasından savaşı kabul edebilirler. Kendi aralarındaki çekişmeleri ise serttir; onları birlik sanırsın, oysa kalbleri birbirinden ayrıdır. Bu, akletmeyen bir topluluk olmalarındandır. ^14
+
+15. كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ  
+   Onların durumu, kendilerinden az zaman önce geçmiş ve işlerinin karşılığını tatmış olanların durumu gibidir. Onlara can yakıcı azap vardır. ^15
+
+16. كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ  
+   İkiyüzlülerin durumu insana: "İnkar et!" deyip, insan da inkar edince: "Doğrusu ben senden uzağım; Alemlerin Rabbi olan Allah'tan korkarım" diyen şeytanın durumu gibidir. ^16
+
+17. فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَٰلِدَيْنِ فِيهَا وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ  
+   İkisinin sonucu da, içinde temelli kalacakları ateş olacaktır. Zalimlerin cezası budur. ^17
+
+18. يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ  
+   Ey inananlar! Allah'tan sakının; herkes yarına ne hazırladığına baksın; Allah'tan sakının, çünkü Allah işlediklerinizden haberdardır. ^18
+
+19. وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ أُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ  
+   Allah'ı unutup da, Allah'ın da kendilerini kendilerine unutturduğu kimseler gibi olmayın; onlar, yoldan çıkmış kimselerdir. ^19
+
+20. لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ  
+   Cehennemliklerle cennetlikler bir değildir. Kurtuluşa ermiş kimseler cennetliklerdir. ^20
+
+21. لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ  
+   Eğer Biz Kuran'ı bir dağa indirmiş olsaydık, sen, onun, Allah korkusuyla başeğerek parça parça olduğunu görürdün. Bu misalleri, insanlar düşünsünler diye veriyoruz. ^21
+
+22. هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ  
+   O, görüleni de görülmeyeni de bilen, kendisinden başka tanrı olmayan Allah'tır. O, acıyıcı olandır, acıyandır. ^22
+
+23. هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ  
+   O, kendisinden başka tanrı olmayan, hükümran, çok kutsal; esenlik veren, güvenlik veren, görüp gözeten, güçlü, buyruğunu herşeye geçiren, ulu olan, Allah'tır. Allah onların koştukları eşlerden (ortaklardan) münezzehtir. ^23
+
+24. هُوَ ٱللَّهُ ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ  
+   O, vareden, güzel yaratan, yarattıklarına şekil veren, en güzel adlar kendisinin olan Allah'tır. Göklerde ve yerde olanlar O'nu tesbih ederler. O güçlüdür, Hakim'dir. ^24
