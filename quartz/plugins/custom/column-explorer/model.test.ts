@@ -1,6 +1,24 @@
 import assert from "node:assert/strict"
 import { test } from "node:test"
-import { buildExplorerModel, canSearchFolder, folderPath } from "./model"
+import { buildExplorerModel, canSearchFolder, folderPath, sortSurahs } from "./model"
+
+test("surah order preserves the alphabetical model and keeps folders first and unnumbered files last", () => {
+  const model = buildExplorerModel({
+    "Quran/Abese": { title: "Abese" },
+    "Quran/Bakara": { title: "Bakara" },
+    "Quran/Fatiha": { title: "Fâtiha" },
+    "Quran/Aciklama": { title: "Açıklama" },
+    "Quran/Notlar/index": { title: "Notlar" },
+  })
+  const children = model.nodes.get("Quran")!.children
+  const original = children.map((node) => node.id)
+  assert.deepEqual(sortSurahs(children, {
+    "Quran/Fatiha": 1, "Quran/Bakara": 2, "Quran/Abese": 80,
+  }).map((node) => node.id), [
+    "Quran/Notlar", "Quran/Fatiha", "Quran/Bakara", "Quran/Abese", "Quran/Aciklama",
+  ])
+  assert.deepEqual(children.map((node) => node.id), original)
+})
 
 test("search is hidden for empty and single-file folders, but kept for subfolders", () => {
   const model = buildExplorerModel({

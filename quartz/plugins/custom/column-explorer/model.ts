@@ -21,6 +21,15 @@ export function canSearchFolder(folder: ExplorerNode): boolean {
   return folder.children.length > 1 || folder.children.some((child) => child.folder)
 }
 
+// The model already holds Turkish alphabetical order. Sort a copy so search
+// and other views sharing the model keep their own ordering.
+export function sortSurahs(children: ExplorerNode[], numbers: Record<string, number>): ExplorerNode[] {
+  return [...children].sort((a, b) =>
+    Number(b.folder) - Number(a.folder)
+    || (numbers[a.id] ?? Number.MAX_SAFE_INTEGER) - (numbers[b.id] ?? Number.MAX_SAFE_INTEGER),
+  )
+}
+
 export function buildExplorerModel(index: Record<string, ExplorerEntry>): ExplorerModel {
   const root: ExplorerNode = {
     id: "", name: "Raflar", folder: true, parent: null, children: [],

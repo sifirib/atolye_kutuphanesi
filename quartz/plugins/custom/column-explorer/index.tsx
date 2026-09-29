@@ -13,7 +13,13 @@ type Layout = {
 
 function columnExplorer(Original: QuartzComponent): QuartzComponent {
   const Explorer: QuartzComponent = (props) => (
-    <div class="cx-explorer" data-cx-popovers={String(props.cfg.enablePopovers)}>
+    <div class="cx-explorer" data-cx-popovers={String(props.cfg.enablePopovers)}
+      data-cx-surahs={JSON.stringify(Object.fromEntries(props.allFiles
+        .filter((file) => file.frontmatter?.type === "Kur'an-ı Kerim"
+          && typeof file.frontmatter.sure === "number"
+          && Number.isInteger(file.frontmatter.sure)
+          && Number(file.frontmatter.sure) >= 1 && Number(file.frontmatter.sure) <= 114)
+        .map((file) => [file.slug, file.frontmatter!.sure])))}>
       <Original {...props} />
       <nav class="cx-columns" aria-label="Raflar" hidden>
         <div class="cx-root-title">

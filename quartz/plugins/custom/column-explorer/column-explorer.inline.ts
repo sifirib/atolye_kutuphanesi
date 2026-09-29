@@ -1,5 +1,5 @@
 import { getFullSlug, resolveBasePath, simplifySlug } from "@quartz-community/utils/path"
-import { buildExplorerModel, canSearchFolder, folderPath, type ExplorerModel, type ExplorerNode } from "./model"
+import { buildExplorerModel, canSearchFolder, folderPath, sortSurahs, type ExplorerModel, type ExplorerNode } from "./model"
 import { createSearchIndex, normalizeQuery, searchExplorer, type SearchEntry } from "./search"
 import { setupPreview } from "./preview"
 import { readPins } from "./pins"
@@ -11,6 +11,9 @@ let modelPromise: Promise<ExplorerModel> | undefined
 let sharedIndexUsed = false
 let disposeCurrent = () => {}
 const pinsKey = `raf-pins:${new URL(resolveBasePath("static/contentIndex.json"), location.href).pathname}`
+const sortKey = `${pinsKey}:surah-order`
+let surahOrder = true
+try { surahOrder = localStorage.getItem(sortKey) !== "alphabetical" } catch { /* Keep the default. */ }
 let pinned = new Set<string>()
 try { pinned = readPins(localStorage.getItem(pinsKey)) } catch { /* Use memory if storage is blocked. */ }
 
@@ -34,6 +37,7 @@ function mount() {
   disposeCurrent()
   const host = document.querySelector<HTMLElement>(".cx-explorer")
   if (!host) return
+  const surahNumbers: Record<string, number> = JSON.parse(host.dataset.cxSurahs ?? "{}")
   const columns = host.querySelector<HTMLElement>(".cx-columns")!
   const rootBody = host.querySelector<HTMLElement>(".cx-root-body")!
   const searchInput = host.querySelector<HTMLInputElement>(".cx-search-input")!
@@ -173,7 +177,9 @@ function mount() {
       empty.textContent = "Bu klasör boş."
       list.append(empty)
     }
-    folder.children.forEach((node) => {
+    const children = surahOrder && folder.children.some((node) => surahNumbers[node.id] !== undefined)
+      ? sortSurahs(folder.children, surahNumbers) : folder.children
+    children.forEach((node) => {
       list.append(makeItem(node))
     })
     return list
@@ -539,6 +545,37 @@ function mount() {
     signal.addEventListener("abort", () => window.clearTimeout(timer), { once: true })
   }
 
+  function addSurahSort(section: HTMLElement, folder: ExplorerNode, crumb: HTMLElement) {
+    if (!folder.children.some((node) => surahNumbers[node.id] !== undefined)) return
+    const button = document.createElement("button")
+    button.type = "button"
+    button.className = "cx-sort"
+    button.dataset.cxSortFolder = folder.id
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg")
+    svg.setAttribute("viewBox", "0 0 24 24")
+    svg.setAttribute("aria-hidden", "true")
+    const path = document.createElementNS(svg.namespaceURI, "path")
+    path.setAttribute("d", "M4 5v14m-3-3 3 3 3-3M10 5h11M10 10h8M10 15h5")
+    svg.append(path)
+    button.append(svg)
+    button.title = `Sıralama: ${surahOrder ? "sure numarası" : "alfabetik"}. ${surahOrder ? "Alfabetik sıraya geç" : "Sure numarasına göre sırala"}`
+    button.setAttribute("aria-label", button.title)
+    crumb.append(button)
+    button.addEventListener("click", (event) => {
+      event.stopPropagation()
+      // Close this column's search before changing the underlying list.
+      const clear = section.querySelector<HTMLButtonElement>(".cx-column-tools:not([hidden]) .cx-search-clear")
+      clear?.click()
+      surahOrder = !surahOrder
+      try { localStorage.setItem(sortKey, surahOrder ? "number" : "alphabetical") } catch { /* Keep it in memory. */ }
+      // Rebuild also updates the search controller's saved original list.
+      renderPanel()
+      const replacement = Array.from(panel.querySelectorAll<HTMLButtonElement>(".cx-sort"))
+        .find((item) => item.dataset.cxSortFolder === folder.id)
+      replacement?.focus({ preventScroll: true })
+    }, { signal: panelEvents.signal })
+  }
+
   function renderPanel() {
     if (!model) return
     preview.close()
@@ -580,6 +617,7 @@ function mount() {
       section.setAttribute("aria-label", node.name)
       section.append(makeList(node))
       if (canSearchFolder(node)) addColumnSearch(section, node, crumbItems.get(id)!)
+      addSurahSort(section, node, crumbItems.get(id)!)
       track.append(section)
     }
     panel.replaceChildren(toolbar, track)
