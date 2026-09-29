@@ -118,13 +118,18 @@ export function setupPreview(host: HTMLElement, panel: HTMLElement, enabled: () 
   }, { signal })
 
   document.addEventListener("keydown", (event) => {
+    if (event.defaultPrevented || event.isComposing) return
     if (event.key === "Escape" && anchor) {
       const returnTo = anchor
       const restoreFocus = popup.contains(document.activeElement)
+      const wasVisible = !popup.hidden && popup.style.visibility === "visible"
       close()
       if (restoreFocus && returnTo.isConnected) returnTo.focus({ preventScroll: true })
-      event.preventDefault()
-      event.stopImmediatePropagation()
+      // Cancel pending requests too, but only a visible preview consumes Escape.
+      if (wasVisible) {
+        event.preventDefault()
+        event.stopImmediatePropagation()
+      }
     } else if (event.code === "Space" && !event.repeat && !event.ctrlKey && !event.metaKey
       && !event.altKey && !event.shiftKey && enabled()) {
       const link = fileLink(event.target)

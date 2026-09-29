@@ -77,6 +77,7 @@ function mount() {
   let reopenAfterSearch = false
   const scrollPositions = new Map<string, number>()
   const activeSlug = simplifySlug(getFullSlug(window)).replace(/\/$/, "")
+  let activeFolders = new Set<string>()
 
   function href(node: ExplorerNode) {
     return resolveBasePath(node.folder ? `${node.id}/` : simplifySlug(node.id))
@@ -112,6 +113,11 @@ function mount() {
       row.type = "button"
       row.dataset.cxFolder = node.id
       row.setAttribute("aria-expanded", "false")
+      if (activeFolders.has(node.id)) {
+        row.classList.add("cx-current-ancestor")
+        row.setAttribute("aria-label", `${node.name}: açık sayfanın bulunduğu klasör`)
+        row.title += " · Açık sayfanın bulunduğu klasör"
+      }
     } else if (node.id === activeSlug) row.setAttribute("aria-current", "page")
     const name = document.createElement("span")
     name.className = "cx-name"
@@ -270,6 +276,7 @@ function mount() {
   }
 
   function openSearch() {
+    preview.close()
     rootTitle.hidden = true
     searchBox.hidden = false
     searchOpen.setAttribute("aria-expanded", "true")
@@ -407,7 +414,10 @@ function mount() {
     const list = Array.from(panel.querySelectorAll<HTMLElement>("[data-cx-list]")).find(
       (element) => element.dataset.cxList === folderId,
     )
-    list?.querySelector<HTMLElement>(".cx-row")?.focus()
+    const target = list?.querySelector<HTMLElement>(".cx-row") ?? list
+    // Empty folders still need a keyboard destination after their opener is rebuilt.
+    if (target === list && list) list.tabIndex = -1
+    target?.focus()
   }
 
   function addColumnSearch(section: HTMLElement, folder: ExplorerNode, crumb: HTMLElement) {
@@ -425,7 +435,7 @@ function mount() {
     const input = box.querySelector<HTMLInputElement>("input")!
     input.disabled = false
     input.value = ""
-    input.placeholder = "Bu klasörde ara…"
+    input.placeholder = `${folder.name} içinde ara…`
     input.setAttribute("aria-label", `${folder.name} ve alt klasörlerinde ara`)
     box.setAttribute("aria-label", `${folder.name} içinde ara`)
     box.hidden = true
@@ -438,6 +448,7 @@ function mount() {
     let savedScroll = 0
     let results: SearchEntry[] = []
     const showResults = () => {
+      preview.close()
       const next = makeResults(results, limit, summary)
       next.dataset.cxList = folder.id
       next.setAttribute("aria-label", `${folder.name} içindeki arama sonuçları`)
@@ -475,6 +486,7 @@ function mount() {
     open.addEventListener("click", (event) => {
       event.stopPropagation()
       if (!box.hidden) { close(); return }
+      preview.close()
       savedScroll = original.scrollTop
       bar.hidden = false
       box.hidden = false
@@ -493,6 +505,7 @@ function mount() {
     }, { signal })
     input.addEventListener("compositionend", run, { signal })
     section.addEventListener("keydown", (event) => {
+      if (event.isComposing) return
       if (event.key === "Escape" && !box.hidden) {
         event.preventDefault()
         event.stopPropagation()
@@ -503,6 +516,12 @@ function mount() {
         run()
         list.querySelector<HTMLElement>(".cx-row")?.focus()
       }
+    }, { signal })
+    crumb.addEventListener("keydown", (event) => {
+      if (event.key !== "Escape" || box.hidden || event.isComposing) return
+      event.preventDefault()
+      event.stopPropagation()
+      close()
     }, { signal })
     section.addEventListener("click", (event) => {
       if (!(event.target as Element).closest("[data-cx-more]")) return
@@ -522,7 +541,7 @@ function mount() {
     preview.close()
     panelEvents.abort()
     panelEvents = new AbortController()
-    panel.querySelectorAll<HTMLElement>("[data-cx-list]").forEach((list) => {
+    panel.querySelectorAll<HTMLElement>("[data-cx-list]:not(.cx-results)").forEach((list) => {
       scrollPositions.set(list.dataset.cxList!, list.scrollTop)
     })
     const toolbar = document.createElement("div")
@@ -605,6 +624,7 @@ function mount() {
       const result = await getModel()
       if (disposed) return
       model = result
+      activeFolders = new Set(folderPath(model, activeSlug))
       searchIndex = createSearchIndex(model)
       searchInput.disabled = false
       searchOpen.disabled = false
@@ -689,6 +709,9 @@ function mount() {
   }, { signal: events.signal })
 
   document.addEventListener("keydown", (event) => {
+    if (event.defaultPrevented || event.isComposing || event.ctrlKey || event.metaKey || event.altKey) return
+    if (!(event.target instanceof HTMLElement)) return
+    if (!columns.contains(event.target) && !panel.contains(event.target)) return
     if (!searchBox.hidden && event.key === "Escape" && host!.contains(event.target as Node)) {
       event.preventDefault()
       event.stopImmediatePropagation()
@@ -704,13 +727,19 @@ function mount() {
     }
     if (event.key === "Escape" && visible) {
       event.preventDefault()
+      event.stopImmediatePropagation()
       closePanel(true)
       return
     }
-    if (!(event.target instanceof HTMLElement)) return
-    if (!host!.contains(event.target) && !panel.contains(event.target)) return
     const row = event.target.closest<HTMLElement>(".cx-entry")?.querySelector<HTMLElement>(".cx-row")
-    const list = row?.closest<HTMLElement>(".cx-items")
+    const list = event.target.closest<HTMLElement>(".cx-items")
+    if (event.key === "ArrowLeft" && list?.dataset.cxList) {
+      event.preventDefault()
+      const parentRow = [...rootBody.querySelectorAll<HTMLElement>(".cx-row"), ...panel.querySelectorAll<HTMLElement>(".cx-row")]
+        .find((item) => item.dataset.cxNode === list.dataset.cxList)
+      parentRow?.focus()
+      return
+    }
     if (!row || !list) return
     const rows = Array.from(list.querySelectorAll<HTMLElement>(".cx-row"))
     const index = rows.indexOf(row)
@@ -729,11 +758,6 @@ function mount() {
         opened = folderPath(model!, row.dataset.cxFolder)
       }
       openFolder(row.dataset.cxFolder, true)
-    } else if (event.key === "ArrowLeft" && list.dataset.cxList) {
-      event.preventDefault()
-      const parentRow = [...rootBody.querySelectorAll<HTMLElement>(".cx-row"), ...panel.querySelectorAll<HTMLElement>(".cx-row")]
-        .find((item) => item.dataset.cxNode === list.dataset.cxList)
-      parentRow?.focus()
     }
   }, { signal: events.signal })
 

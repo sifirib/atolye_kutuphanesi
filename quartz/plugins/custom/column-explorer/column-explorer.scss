@@ -311,6 +311,7 @@ html body .popover.cx-preview {
       flex-basis: 24px;
       &[aria-expanded="true"] { background: var(--highlight); }
     }
+
   }
 
   .cx-close {
@@ -400,10 +401,24 @@ html body .popover.cx-preview {
 
       &[data-cx-folder] { font-weight: 600; }
       &:hover { background: var(--highlight); }
-      &.cx-selected, &[aria-current="page"] {
+      &.cx-selected {
         background: var(--highlight);
         color: var(--secondary);
         font-weight: 600;
+      }
+
+      &[aria-current="page"], &.cx-current-ancestor {
+        color: var(--secondary);
+        font-weight: 600;
+
+        &::after {
+          content: "";
+          flex: 0 0 5px;
+          width: 5px;
+          height: 5px;
+          border-radius: 50%;
+          background: currentColor;
+        }
       }
 
       svg {
@@ -550,6 +565,7 @@ html body :is(.cx-explorer, .cx-flyout) .cx-search > input.cx-search-input {
 
 .cx-explorer, .cx-flyout {
   .cx-row:focus-visible,
+  .cx-items:focus-visible,
   .cx-breadcrumbs button:focus-visible, .cx-close:focus-visible,
   .cx-retry:focus-visible,
   .cx-search-open:focus-visible, .cx-search-clear:focus-visible, .cx-more:focus-visible {
