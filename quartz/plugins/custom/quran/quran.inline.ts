@@ -34,7 +34,14 @@ function updateToolbar(toolbar: HTMLElement) {
   toolbar.hidden = false
   toolbar.dataset.quranView = view
   toolbar.querySelectorAll<HTMLButtonElement>("button[data-quran-mode]").forEach((button) => {
-    button.setAttribute("aria-pressed", String(button.dataset.quranMode === view))
+    const selected = button.dataset.quranMode
+    const enabled = view === "both" || selected === view
+    const lastVisible = enabled && view !== "both"
+    button.setAttribute("aria-pressed", String(enabled))
+    button.setAttribute("aria-disabled", String(lastVisible))
+    button.title = lastVisible
+      ? "En az bir metin görünür kalmalı"
+      : `${selected === "arabic" ? "Arapça metni" : "Türkçe meali"} ${enabled ? "gizle" : "göster"}`
   })
 }
 
@@ -52,8 +59,9 @@ document.addEventListener("click", (event) => {
   const button = event.target.closest<HTMLButtonElement>(".quran-toolbar button[data-quran-mode]")
   if (!button) return
   const selected = button.dataset.quranMode
-  if (selected !== "both" && selected !== "arabic" && selected !== "translation") return
-  view = selected
+  if (selected !== "arabic" && selected !== "translation") return
+  if (view === selected) return
+  view = view === "both" ? (selected === "arabic" ? "translation" : "arabic") : "both"
   try {
     localStorage.setItem(storageKey, view)
   } catch {

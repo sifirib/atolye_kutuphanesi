@@ -1,45 +1,29 @@
 // The card treatment lives here; removing its border/background does not alter
 // verse anchors, content, or reading controls.
 .quran-toolbar {
-  position: relative;
-  isolation: isolate;
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  display: flex;
+  gap: 0.4rem;
   box-sizing: border-box;
-  padding: 3px;
+  padding: 0;
   margin: 0.8rem 0;
-  width: 15rem;
+  width: fit-content;
   max-width: 100%;
   border-radius: 9px;
-  background: var(--highlight);
   direction: ltr;
-
-  &::before {
-    content: "";
-    position: absolute;
-    inset: 3px auto 3px 3px;
-    width: calc((100% - 6px) / 3);
-    border-radius: 6px;
-    background: var(--light);
-    box-shadow: 0 1px 3px rgb(0 0 0 / 12%);
-    transition: transform 180ms ease;
-    pointer-events: none;
-  }
-
-  &[data-quran-view="arabic"]::before { transform: translateX(100%); }
-  &[data-quran-view="translation"]::before { transform: translateX(200%); }
 
   button {
     position: relative;
     appearance: none;
-    display: grid;
-    place-items: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45rem;
     min-width: 0;
     min-height: 30px;
     margin: 0;
-    padding: 0.3rem 0.55rem;
-    border: 0;
-    border-radius: 6px;
+    padding: 0.35rem 0.7rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 7px;
     box-shadow: none;
     background: transparent;
     color: var(--darkgray);
@@ -47,9 +31,24 @@
     font-size: 0.8rem;
     line-height: 1.2;
     cursor: pointer;
-    transition: color 180ms ease;
-    &[aria-pressed="true"] { color: var(--secondary); font-weight: 600; }
-    &:hover { color: var(--secondary); }
+    font-weight: 600;
+    transition: color 150ms ease, background 150ms ease, border-color 150ms ease;
+    &::before {
+      content: "";
+      width: 6px;
+      height: 6px;
+      box-sizing: border-box;
+      border: 1px solid var(--gray);
+      border-radius: 50%;
+    }
+    &[aria-pressed="true"] {
+      color: var(--secondary);
+      background: var(--highlight);
+      border-color: color-mix(in srgb, var(--secondary) 40%, var(--lightgray));
+      &::before { background: currentColor; border-color: currentColor; }
+    }
+    &[aria-disabled="true"] { cursor: default; }
+    &:hover:not([aria-disabled="true"]) { border-color: var(--secondary); }
   }
 }
 
@@ -183,7 +182,7 @@ ol.quran-verses {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .quran-toolbar::before, .quran-toolbar button, .quran-verse .quran-toggle svg {
+  .quran-toolbar button, .quran-verse .quran-toggle svg {
     transition: none;
   }
 }

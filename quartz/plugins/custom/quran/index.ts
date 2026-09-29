@@ -97,14 +97,13 @@ export const Quran: QuartzTransformerPlugin = () => ({
           hidden: true,
         }, [
           ...([
-            ["both", "Mealli", "Arapça metin ve Türkçe meali birlikte"],
-            ["arabic", "Orijinal", "Yalnızca Arapça metin"],
-            ["translation", "Meal", "Yalnızca Türkçe meal"],
+            ["arabic", "Orijinal", "Arapça metin"],
+            ["translation", "Meal", "Türkçe meal"],
           ] as const).map(([mode, label, description]) =>
             element("button", {
               type: "button",
               dataQuranMode: mode,
-              ariaPressed: String(mode === "both"),
+              ariaPressed: "true",
               ariaLabel: description,
               title: description,
             }, [text(label)]),
