@@ -369,9 +369,12 @@ function mount() {
     const overlay = available < Math.min(220, bounds.width)
     const left = overlay ? Math.max(12, Math.min(bounds.left, window.innerWidth - bounds.width - 12)) : bounds.right - 1
     const room = overlay ? Math.max(80, window.innerWidth - left - 12) : available
-    const width = Math.min(bounds.width, room)
+    // The flyout is border-box: its borders need room outside the columns.
+    const panelStyle = getComputedStyle(panel)
+    const borders = parseFloat(panelStyle.borderLeftWidth) + parseFloat(panelStyle.borderRightWidth)
+    const width = Math.floor(Math.min(bounds.width, Math.max(0, room - borders)))
     const top = Math.max(12, Math.min(bounds.top, window.innerHeight - 160))
-    const panelWidth = `${Math.min(room, opened.length * width)}px`
+    const panelWidth = `${Math.min(room, opened.length * width + borders)}px`
     const resized = panel.style.width !== panelWidth
       || panel.style.getPropertyValue("--cx-column-width") !== `${width}px`
     panel.style.setProperty("--cx-column-width", `${width}px`)

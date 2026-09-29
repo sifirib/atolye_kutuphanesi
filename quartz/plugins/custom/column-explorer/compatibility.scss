@@ -1,0 +1,111 @@
+// Loaded through custom.scss, outside quartz-base. Component styles are wrapped
+// in quartz-base and cannot override the theme's later layers by specificity.
+// Keep only theme/layout compatibility here; component appearance stays local.
+.cx-explorer .cx-search > input.cx-search-input,
+.cx-flyout .cx-search > input.cx-search-input {
+  appearance: none;
+  box-sizing: border-box;
+  min-width: 0;
+  border: 0;
+  border-radius: 0;
+  outline: none;
+  box-shadow: none;
+  background: transparent;
+  color: var(--dark);
+  font: inherit;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  height: auto;
+  padding: 0.3rem 0;
+
+  &::placeholder { color: var(--darkgray); opacity: 0.75; }
+  &:focus, &:focus-visible {
+    border: 0;
+    outline: none;
+    box-shadow: none;
+    background: transparent;
+  }
+}
+
+// 100vw includes the vertical scrollbar on Windows. Use the available width
+// so the RTL edge of the article does not disappear behind that scrollbar.
+html:has(.cx-explorer) { width: 100%; }
+
+@media (min-width: 801px), (hover: hover) and (pointer: fine) {
+  #quartz-root.page:has(.cx-explorer[data-cx-enabled="true"]) {
+    box-sizing: border-box;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .page > #quartz-body:has(> .sidebar.left .cx-explorer[data-cx-enabled="true"]) {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1500px;
+    min-width: 0;
+    grid-template-columns: 320px minmax(0, 1fr);
+
+    > .center, > footer, > .sidebar.right {
+      min-width: 0;
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+
+    > .center {
+      width: 100%;
+
+      > article {
+        box-sizing: border-box;
+        min-width: 0;
+        max-width: 100%;
+        overflow-wrap: anywhere;
+      }
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  .page > #quartz-body:has(> .sidebar.left .cx-explorer[data-cx-enabled="true"]) {
+    grid-template-columns: 320px minmax(0, 1fr) 320px;
+  }
+}
+
+@media (max-width: 800px) and (hover: hover) and (pointer: fine) {
+  .page > #quartz-body:has(> .sidebar.left .cx-explorer[data-cx-enabled="true"]) {
+    display: grid;
+    grid-template-columns: clamp(180px, 32vw, 260px) minmax(0, 1fr);
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-sidebar-right"
+      "grid-sidebar-left grid-footer";
+    column-gap: 1rem;
+    padding-inline: 0.75rem;
+    align-items: start;
+
+    > .sidebar.left {
+      grid-area: grid-sidebar-left;
+      position: sticky;
+      top: 0;
+      height: 100dvh;
+      min-width: 0;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      align-items: stretch;
+      gap: 1rem;
+      padding: 2rem 0 1rem;
+    }
+
+    > .center {
+      grid-area: grid-center;
+      min-width: 0;
+      width: 100%;
+      margin: 0;
+      > .page-header { margin-top: 2rem; }
+    }
+
+    .cx-explorer { flex-basis: auto; margin-top: 0; }
+    .cx-columns { width: 100%; }
+  }
+}
