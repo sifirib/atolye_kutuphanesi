@@ -6,6 +6,69 @@
   display: none;
 }
 
+.cx-pin-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.cx-columns, .cx-flyout {
+  .cx-entry {
+    display: flex;
+    align-items: center;
+    min-width: 0;
+
+    > .cx-row { flex: 1; }
+
+    &:hover > .cx-pin, &:focus-within > .cx-pin { opacity: 1; }
+  }
+
+  .cx-pin {
+    display: grid;
+    place-items: center;
+    flex: 0 0 26px;
+    height: 28px;
+    padding: 0;
+    border: 0;
+    border-radius: 4px;
+    background: transparent;
+    color: var(--darkgray);
+    opacity: 0;
+    cursor: pointer;
+
+    &[aria-pressed="true"] { opacity: 1; color: var(--secondary); }
+    &:hover { background: var(--highlight); }
+    &:focus-visible { outline: 2px solid var(--secondary); outline-offset: -2px; }
+
+    svg {
+      width: 15px;
+      height: 15px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      pointer-events: none;
+    }
+  }
+
+  .cx-items > .cx-list-heading {
+    padding: 0.65rem 0.5rem 0.35rem;
+    color: var(--darkgray);
+    font-size: 0.75rem;
+    font-weight: 600;
+    &:first-child { padding-top: 0.2rem; }
+  }
+}
+
+@media (hover: none) {
+  .cx-columns .cx-pin, .cx-flyout .cx-pin { opacity: 1; }
+}
+
 // Quartz normally hides popovers below 800px. Mouse-driven narrow windows
 // still use Raflar; constrain this one preview to the available viewport.
 html body .popover.cx-preview {

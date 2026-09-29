@@ -2,6 +2,7 @@ import { getFullSlug, resolveBasePath, simplifySlug } from "@quartz-community/ut
 import { buildExplorerModel, canSearchFolder, folderPath, type ExplorerModel, type ExplorerNode } from "./model"
 import { createSearchIndex, normalizeQuery, searchExplorer, type SearchEntry } from "./search"
 import { setupPreview } from "./preview"
+import { readPins } from "./pins"
 
 // Keep mouse-driven desktops in column mode even when DevTools narrows the
 // viewport. Narrow touch layouts retain the existing mobile Explorer for now.
@@ -9,6 +10,9 @@ const desktop = window.matchMedia("(min-width: 801px), (hover: hover) and (point
 let modelPromise: Promise<ExplorerModel> | undefined
 let sharedIndexUsed = false
 let disposeCurrent = () => {}
+const pinsKey = `raf-pins:${new URL(resolveBasePath("static/contentIndex.json"), location.href).pathname}`
+let pinned = new Set<string>()
+try { pinned = readPins(localStorage.getItem(pinsKey)) } catch { /* Use memory if storage is blocked. */ }
 
 function getModel(): Promise<ExplorerModel> {
   if (modelPromise) return modelPromise
@@ -37,6 +41,8 @@ function mount() {
   const searchOpen = host.querySelector<HTMLButtonElement>(".cx-search-open")!
   const searchBox = host.querySelector<HTMLElement>(".cx-search")!
   const rootTitle = host.querySelector<HTMLElement>(".cx-root-title")!
+  const pinStatus = host.querySelector<HTMLElement>(".cx-pin-status")!
+  pinStatus.textContent = ""
   // SPA navigation can reuse DOM attributes from the previous page.
   searchBox.hidden = true
   rootTitle.hidden = false
@@ -97,11 +103,10 @@ function mount() {
     return svg
   }
 
-  function makeRow(node: ExplorerNode, index: number, path?: string) {
+  function makeRow(node: ExplorerNode, path?: string) {
     const row = node.folder ? document.createElement("button") : link("", node)
     row.className = "cx-row"
     row.dataset.cxNode = node.id
-    row.tabIndex = index === 0 ? 0 : -1
     row.title = path ? `${path} › ${node.name}` : node.name
     if (row instanceof HTMLButtonElement) {
       row.type = "button"
@@ -136,18 +141,110 @@ function mount() {
     list.className = "cx-items"
     list.dataset.cxList = folder.id
     list.setAttribute("aria-label", folder.name)
+    if (!folder.id && model) {
+      const favorites = [...pinned].map((id) => model!.nodes.get(id))
+        .filter((node): node is ExplorerNode => !!node)
+      if (favorites.length) {
+        const pinnedHeading = document.createElement("li")
+        pinnedHeading.className = "cx-list-heading"
+        pinnedHeading.textContent = "Sabitlenenler"
+        list.append(pinnedHeading)
+        favorites.forEach((node) => {
+          const entry = searchIndex.find((item) => item.node.id === node.id)
+          const item = makeItem(node, entry?.path)
+          item.dataset.cxPinned = "true"
+          list.append(item)
+        })
+        const heading = document.createElement("li")
+        heading.className = "cx-list-heading"
+        heading.textContent = "Tüm raflar"
+        list.append(heading)
+      }
+    }
     if (!folder.children.length) {
       const empty = document.createElement("li")
       empty.className = "cx-status"
       empty.textContent = "Bu klasör boş."
       list.append(empty)
     }
-    folder.children.forEach((node, index) => {
-      const item = document.createElement("li")
-      item.append(makeRow(node, index))
-      list.append(item)
+    folder.children.forEach((node) => {
+      list.append(makeItem(node))
     })
     return list
+  }
+
+  function updatePin(button: HTMLButtonElement) {
+    const selected = pinned.has(button.dataset.cxPin!)
+    const name = model?.nodes.get(button.dataset.cxPin!)?.name ?? "Öğe"
+    button.setAttribute("aria-pressed", String(selected))
+    button.setAttribute("aria-label", `${name}: ${selected ? "sabitlemeyi kaldır" : "sabitle"}`)
+    button.title = selected ? "Sabitlemeyi kaldır" : "Sabitle"
+  }
+
+  function makeItem(node: ExplorerNode, path?: string) {
+    const item = document.createElement("li")
+    const entry = document.createElement("div")
+    entry.className = "cx-entry"
+    const button = document.createElement("button")
+    button.type = "button"
+    button.className = "cx-pin"
+    button.dataset.cxPin = node.id
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg")
+    svg.setAttribute("viewBox", "0 0 24 24")
+    svg.setAttribute("aria-hidden", "true")
+    const pin = document.createElementNS(svg.namespaceURI, "path")
+    pin.setAttribute("d", "M9 3h6l-1 6 4 4v2H6v-2l4-4ZM12 15v6")
+    svg.append(pin)
+    button.append(svg)
+    updatePin(button)
+    entry.append(makeRow(node, path), button)
+    item.append(entry)
+    return item
+  }
+
+  function refreshPins() {
+    if (!model) return
+    // Match both the node and its section: a pinned item can also appear below.
+    const focused = document.activeElement instanceof HTMLElement ? document.activeElement : null
+    const entry = focused?.closest<HTMLElement>(".cx-entry")
+    const entries = Array.from(rootList?.querySelectorAll<HTMLElement>(".cx-entry") ?? [])
+    const index = entry ? entries.indexOf(entry) : -1
+    const id = entry?.querySelector<HTMLElement>(".cx-row")?.dataset.cxNode
+    const wasPinned = entry?.parentElement?.hasAttribute("data-cx-pinned")
+    const wasPin = focused?.matches(".cx-pin")
+    const scroll = rootList?.scrollTop ?? 0
+    rootList = makeList(model.root)
+    if (!searching) {
+      preview.close()
+      rootBody.replaceChildren(rootList)
+      rootList.scrollTop = scroll
+      if (index >= 0) {
+        const nextEntries = Array.from(rootList.querySelectorAll<HTMLElement>(".cx-entry"))
+        const replacement = nextEntries.find((item) =>
+          item.querySelector<HTMLElement>(".cx-row")?.dataset.cxNode === id
+          && item.parentElement?.hasAttribute("data-cx-pinned") === wasPinned,
+        ) ?? nextEntries[Math.min(index, nextEntries.length - 1)]
+        ;(replacement?.querySelector<HTMLElement>(wasPin ? ".cx-pin" : ".cx-row") ?? searchOpen)
+          .focus({ preventScroll: true })
+      }
+    }
+    for (const area of [rootBody, panel]) {
+      area.querySelectorAll<HTMLButtonElement>("[data-cx-pin]").forEach(updatePin)
+    }
+    updateSelection()
+    schedulePosition()
+  }
+
+  function togglePin(button: HTMLElement) {
+    const id = button.dataset.cxPin!
+    if (!model?.nodes.has(id)) return
+    if (pinned.has(id)) pinned.delete(id)
+    else pinned.add(id)
+    let saved = true
+    try { localStorage.setItem(pinsKey, JSON.stringify([...pinned])) } catch { saved = false }
+    pinStatus.textContent = `${model.nodes.get(id)!.name}: ${pinned.has(id) ? "sabitlendi" : "sabitleme kaldırıldı"}.`
+      + (saved ? "" : " Tarayıcı kaydetmeye izin vermedi; seçim yalnızca bu oturumda tutuluyor.")
+    refreshPins()
   }
 
   function clearSearch(restorePanel = true) {
@@ -189,10 +286,8 @@ function mount() {
     summary.textContent = entries.length === 0
       ? "Sonuç bulunamadı."
       : shown < entries.length ? `${entries.length} sonuç · ${shown} gösteriliyor` : `${entries.length} sonuç`
-    for (const [index, entry] of entries.slice(0, shown).entries()) {
-      const item = document.createElement("li")
-      item.append(makeRow(entry.node, index, entry.path))
-      list.append(item)
+    for (const entry of entries.slice(0, shown)) {
+      list.append(makeItem(entry.node, entry.path))
     }
     if (!entries.length) {
       const empty = document.createElement("li")
@@ -551,7 +646,8 @@ function mount() {
     if (!host!.contains(event.target) && !panel.contains(event.target)) return
     const target = event.target.closest<HTMLElement>("button, a")
     if (!target) return
-    if (target.hasAttribute("data-cx-folder")) {
+    if (target.hasAttribute("data-cx-pin")) togglePin(target)
+    else if (target.hasAttribute("data-cx-folder")) {
       if (target.hasAttribute("data-cx-result")) {
         closeSearch(false, false)
         opened = folderPath(model!, target.dataset.cxFolder!)
@@ -613,7 +709,7 @@ function mount() {
     }
     if (!(event.target instanceof HTMLElement)) return
     if (!host!.contains(event.target) && !panel.contains(event.target)) return
-    const row = event.target.closest<HTMLElement>(".cx-row")
+    const row = event.target.closest<HTMLElement>(".cx-entry")?.querySelector<HTMLElement>(".cx-row")
     const list = row?.closest<HTMLElement>(".cx-items")
     if (!row || !list) return
     const rows = Array.from(list.querySelectorAll<HTMLElement>(".cx-row"))
@@ -641,16 +737,12 @@ function mount() {
     }
   }, { signal: events.signal })
 
-  document.addEventListener("focusin", (event) => {
-    if (!(event.target instanceof HTMLElement)) return
-    if (!host!.contains(event.target) && !panel.contains(event.target)) return
-    const row = event.target.closest<HTMLElement>(".cx-row")
-    row?.closest(".cx-items")?.querySelectorAll<HTMLElement>(".cx-row").forEach((item) => {
-      item.tabIndex = item === row ? 0 : -1
-    })
-  }, { signal: events.signal })
-
   desktop.addEventListener("change", applyLayout, { signal: events.signal })
+  window.addEventListener("storage", (event) => {
+    if (event.key !== pinsKey && event.key !== null) return
+    pinned = readPins(event.newValue)
+    refreshPins()
+  }, { signal: events.signal })
   window.addEventListener("resize", schedulePosition, { signal: events.signal })
   window.addEventListener("scroll", schedulePosition, { signal: events.signal, capture: true })
   const observer = new ResizeObserver(schedulePosition)

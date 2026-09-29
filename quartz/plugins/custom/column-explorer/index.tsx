@@ -44,6 +44,7 @@ function columnExplorer(Original: QuartzComponent): QuartzComponent {
           </button>
         </div>
         <div class="cx-search-summary" role="status" aria-live="polite" hidden />
+        <div class="cx-pin-status" role="status" aria-live="polite" />
         <div class="cx-root-body">
           <p class="cx-status" role="status">Dosyalar yükleniyor…</p>
         </div>
