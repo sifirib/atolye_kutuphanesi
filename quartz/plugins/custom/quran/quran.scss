@@ -53,6 +53,9 @@
 }
 
 ol.quran-verses {
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
   padding-inline-start: 0;
   list-style: none;
 
@@ -65,6 +68,9 @@ ol.quran-verses {
 }
 
 .quran-verse {
+  box-sizing: border-box;
+  min-width: 0;
+  max-width: 100%;
   border: 1px solid var(--lightgray);
   border-radius: 0.4rem;
   padding: 0.5rem 0.85rem;
@@ -92,6 +98,8 @@ ol.quran-verses {
   .quran-arabic {
     flex: 1;
     min-width: 0;
+    white-space: normal;
+    overflow-wrap: anywhere;
     text-align: right;
     font-family: "Traditional Arabic", "Noto Naskh Arabic", "Amiri", serif;
     font-size: 1.55rem;
