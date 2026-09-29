@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: "📚 Atölye Kütüphanesi"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: tr-TR
   baseUrl: sifirib.github.io/atolye_kutuphanesi
   ignorePatterns:
     - private
@@ -231,8 +231,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        YouTube: https://www.youtube.com/@xVxYapm
+        Instagram: https://www.instagram.com/xvxyapim/
     layout:
       position: footer
       priority: 50
