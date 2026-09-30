@@ -1,6 +1,6 @@
 import { plainText, type CopyNode } from "./format"
 
-type Snapshot = { html: string; text: string; source: string; url: string }
+type Snapshot = { html: string; text: string; source: string }
 let selected: Snapshot | undefined
 const toolbar = document.createElement("div")
 toolbar.className = "source-copy-toolbar"
@@ -31,33 +31,18 @@ function sanitize(node: Node): { html: string; model: CopyNode } {
   return { html: safeTag === "br" ? "<br>" : `<${safeTag}${start ? ` start="${start}"` : ""}>${html}</${safeTag}>`, model: { tag: safeTag, start, children: children.map((child) => child.model) } }
 }
 
-function snapshot(fragment: Node, origin: HTMLElement, ayet?: HTMLElement): Snapshot {
+function snapshot(fragment: Node, ayet?: HTMLElement): Snapshot {
   const result = sanitize(fragment)
-  const url = new URL(origin.dataset.copyUrl!)
-  let block = ayet ?? origin.closest<HTMLElement>("[data-copy-id]")
-  if (!block) {
-    const container = origin.closest("article")
-    block = Array.from(container?.querySelectorAll<HTMLElement>("h1[data-copy-id],h2[data-copy-id],h3[data-copy-id],h4[data-copy-id],h5[data-copy-id],h6[data-copy-id]") ?? [])
-      .filter((heading) => heading.dataset.copyUrl === origin.dataset.copyUrl && Boolean(heading.compareDocumentPosition(origin) & Node.DOCUMENT_POSITION_FOLLOWING)).at(-1) ?? null
-  }
-  const id = block?.dataset.copyId
-  if (id) url.hash = id
-  const meal = ayet?.querySelector<HTMLElement>(".quran-translation")
-  const includesMeal = meal && getComputedStyle(meal).display !== "none" && !meal.hidden
-  const source = `${origin.dataset.copyTitle ?? ""}${ayet ? ` ${id}` : ""}${includesMeal && ayet?.dataset.copyMeal ? ` — ${ayet.dataset.copyMeal}` : ""}`
-  return { html: result.html, text: plainText(result.model).trim().replace(/\n{3,}/g, "\n\n"), source, url: url.href }
+  const source = ayet ? `${ayet.dataset.copyTitle} ${ayet.dataset.copyId}` : ""
+  return { html: result.html, text: plainText(result.model).trim().replace(/\n{3,}/g, "\n\n"), source }
 }
 
 async function copy(value: Snapshot, telegram: boolean) {
-  const text = `${value.text}\n\n${value.source}\n${value.url}`
-  const attribution = document.createElement("p")
-  attribution.textContent = value.source + " "
-  const link = document.createElement("a")
-  link.href = value.url
-  link.textContent = value.url
-  attribution.append(link)
-  // Normal chat paste uses rich clipboard entities, never Bot API MarkdownV2.
-  const html = value.html + attribution.outerHTML
+  const text = value.source ? `?${value.text}? (${value.source})` : value.text
+  const attribution = document.createElement("span")
+  attribution.textContent = value.source ? `? (${value.source})` : ""
+  // Keep rich text for ordinary chat paste, without MarkdownV2 or source URLs.
+  const html = value.source ? `<div>?${value.html}${attribution.outerHTML}</div>` : value.html
   try {
     if (typeof ClipboardItem !== "undefined" && navigator.clipboard?.write) {
       await navigator.clipboard.write([new ClipboardItem({
@@ -91,21 +76,14 @@ function updateSelection() {
     }
     ancestor = ancestor.parentElement
   }
-  selected = snapshot(fragment, origin)
+  selected = snapshot(fragment)
   const scope = origin.closest("article,.popover-inner")
   const ayets = Array.from(scope?.querySelectorAll<HTMLElement>(".quran-verse") ?? [])
     .filter((ayet) => ayet.dataset.copyUrl === origin.dataset.copyUrl && range.intersectsNode(ayet))
   if (ayets.length) {
     const first = ayets[0]
     const last = ayets[ayets.length - 1]
-    const sourceUrl = new URL(selected.url)
-    sourceUrl.hash = first.dataset.copyId!
-    selected.url = sourceUrl.href
-    const hasMeal = ayets.some((ayet) => {
-      const meal = ayet.querySelector<HTMLElement>(".quran-translation")
-      return meal && !meal.hidden && getComputedStyle(meal).display !== "none" && range.intersectsNode(meal)
-    })
-    selected.source = `${first.dataset.copyTitle} ${first.dataset.copyId}${first === last ? "" : `–${last.dataset.copyId}`}${hasMeal && first.dataset.copyMeal ? ` — ${first.dataset.copyMeal}` : ""}`
+    selected.source = `${first.dataset.copyTitle} ${first.dataset.copyId}${first === last ? "" : `?${last.dataset.copyId}`}`
   }
   const popup = origin.closest(".popover")
   ;(popup ?? document.body).append(toolbar)
@@ -125,11 +103,11 @@ document.addEventListener("click", (event) => {
   const button = (event.target as Element).closest(".ayet-copy")
   const ayet = button?.closest<HTMLElement>(".quran-verse")
   if (!ayet) return
-  const fragment = document.createDocumentFragment()
-  ayet.querySelectorAll<HTMLElement>(".quran-arabic,.quran-translation").forEach((part) => {
-    if (!part.hidden && getComputedStyle(part).display !== "none") fragment.append(part.cloneNode(true))
-  })
-  void copy(snapshot(fragment, ayet, ayet), false)
+  const meal = ayet.querySelector<HTMLElement>(".quran-translation")
+  if (!meal) return
+  const fragment = meal.cloneNode(true) as HTMLElement
+  fragment.removeAttribute("hidden")
+  void copy(snapshot(fragment, ayet), false)
 })
 document.addEventListener("prenav", () => { toolbar.hidden = true; selected = undefined; document.body.append(toolbar, status) })
 document.addEventListener("nav", () => { document.body.append(toolbar, status) })

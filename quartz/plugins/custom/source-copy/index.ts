@@ -21,7 +21,6 @@ export const SourceCopy: QuartzTransformerPlugin = () => ({
         if (node.properties.id) node.properties.dataCopyId = String(node.properties.id)
         const classes = node.properties.className
         if (Array.isArray(classes) && classes.includes("quran-verse")) {
-          node.properties.dataCopyMeal = String(fm.meal ?? "")
           node.children.push({ type: "element", tagName: "button", properties: {
             type: "button", className: ["ayet-copy"], ariaLabel: "Ayeti kaynaklı kopyala", title: "Ayeti kaynaklı kopyala",
           }, children: [{ type: "text", value: "⧉" }] })
