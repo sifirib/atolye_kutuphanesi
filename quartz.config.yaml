@@ -171,6 +171,7 @@ plugins:
     layout:
       position: right
       priority: 10
+      display: desktop-only
   - source: "@quartz-community/search"
     enabled: true
     layout:
