@@ -1,7 +1,7 @@
 export const fonts = ["Source Sans Pro", "Tahoma", "Times New Roman", "Atkinson Hyperlegible Next"] as const
 export const sizes = [15, 17, 19, 24] as const
 export type Preferences = { font: typeof fonts[number]; size: typeof sizes[number]; width: "narrow" | "wide" | "full"; palette: "atolye" | "ttrpg" | "green" }
-export const defaults: Preferences = { font: "Source Sans Pro", size: 17, width: "wide", palette: "atolye" }
+export const defaults: Preferences = { font: "Source Sans Pro", size: 17, width: "full", palette: "atolye" }
 export const storageKey = "atolye.reading.preferences"
 export function validate(value: unknown): Preferences {
   const data = value && typeof value === "object" ? value as Partial<Preferences> : {}

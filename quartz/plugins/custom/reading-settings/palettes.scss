@@ -12,14 +12,14 @@
   --reading-sidebar: #1c211e;
 }
 :root[data-reading-palette="atolye"] {
-  --light: #fffef7; --lightgray: #f6e3cd; --gray: #a3a096;
-  --darkgray: #4a453e; --dark: #1a1815; --secondary: #8b5a3c; --tertiary: #966b48;
-  --highlight: #8b5a3c10; --textHighlight: #f4e5d3;
+  --light: #fffdf5; --lightgray: #eadbc9; --gray: #8c8176;
+  --darkgray: #332d27; --dark: #17130f; --secondary: #8f5937; --tertiary: #c58f62;
+  --highlight: #8f593712; --textHighlight: #f4e5d3;
   --reading-sidebar: var(--light);
 }
 :root[data-reading-palette="atolye"][saved-theme="dark"] {
-  --light: #1c1a17; --lightgray: #3d352c; --gray: #9e9284;
-  --darkgray: #c7c0b8; --dark: #f5f2ee; --secondary: #d4a574; --tertiary: #b8956f;
+  --light: #191714; --lightgray: #332e28; --gray: #a79a8c;
+  --darkgray: #eee5da; --dark: #fffaf3; --secondary: #dfa067; --tertiary: #c99565;
   --highlight: #d4a57414; --textHighlight: #3d2f1f;
   --reading-sidebar: var(--light);
 }
@@ -38,3 +38,23 @@
   --text-selection: var(--textHighlight); --link-color: var(--secondary); --link-external-color: var(--secondary);
 }
 :root[data-reading-palette="atolye"] :is(body, .page, #quartz-body, .sidebar, .center) { background-color: var(--light); }
+:root[data-reading-palette="atolye"] {
+  body, article, article p, article li { color: var(--darkgray); }
+  article :is(strong, b) { color: var(--dark); }
+
+  // ITS adds decorative rules to headings. The Atölye palette uses the
+  // continuous, paper-like surface from v4 instead.
+  :is(h1, h2, h3, h4, h5, h6, .article-title, .page-title) {
+    border-block-end: 0 !important;
+    box-shadow: none !important;
+    background-image: none !important;
+    text-decoration: none;
+  }
+
+  @media (min-width: 801px), (hover: hover) and (pointer: fine) {
+    .page > #quartz-body > .sidebar.left {
+      border-inline-end: 0 !important;
+      box-shadow: none !important;
+    }
+  }
+}
