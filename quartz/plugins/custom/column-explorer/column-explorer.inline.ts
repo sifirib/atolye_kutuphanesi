@@ -3,6 +3,7 @@ import { buildExplorerModel, canSearchFolder, folderPath, sortSurahs, type Explo
 import { createSearchIndex, normalizeQuery, searchExplorer, type SearchEntry } from "./search"
 import { setupPreview } from "./preview"
 import { readPins } from "./pins"
+import { setupVerseJump } from "./verse-jump"
 
 // Keep mouse-driven desktops in column mode even when DevTools narrows the
 // viewport. Narrow touch layouts retain the existing mobile Explorer for now.
@@ -65,6 +66,7 @@ function mount() {
   // A body-level layer avoids clipping by the theme's sidebar overflow rules.
   document.body.append(panel)
   const preview = setupPreview(host, panel, () => desktop.matches && host.dataset.cxPopovers === "true")
+  const verseJump = setupVerseJump(host, panel, () => preview.close())
   let disposed = false
   let model: ExplorerModel | undefined
   let loading = false
@@ -210,12 +212,25 @@ function mount() {
     button.append(svg)
     updatePin(button)
     entry.append(makeRow(node, path), button)
+    if (!node.folder && surahNumbers[node.id] !== undefined) {
+      const jump = document.createElement("button")
+      jump.type = "button"
+      jump.className = "cx-verse-open"
+      jump.dataset.cxVerse = node.id
+      jump.dataset.cxVerseName = node.name
+      jump.textContent = "#"
+      jump.title = `${node.name}: ayete git`
+      jump.setAttribute("aria-label", jump.title)
+      jump.setAttribute("aria-expanded", "false")
+      entry.insertBefore(jump, button)
+    }
     item.append(entry)
     return item
   }
 
   function refreshPins() {
     if (!model) return
+    verseJump.close(true)
     // Match both the node and its section: a pinned item can also appear below.
     const focused = document.activeElement instanceof HTMLElement ? document.activeElement : null
     const entry = focused?.closest<HTMLElement>(".cx-entry")
@@ -402,6 +417,7 @@ function mount() {
   }
 
   function closePanel(restoreFocus: boolean) {
+    verseJump.close()
     preview.close()
     visible = false
     panel.hidden = true
@@ -457,6 +473,7 @@ function mount() {
     let savedScroll = 0
     let results: SearchEntry[] = []
     const showResults = () => {
+      verseJump.close()
       preview.close()
       const next = makeResults(results, limit, summary)
       next.dataset.cxList = folder.id
@@ -578,6 +595,7 @@ function mount() {
 
   function renderPanel() {
     if (!model) return
+    verseJump.close()
     preview.close()
     panelEvents.abort()
     panelEvents = new AbortController()
@@ -818,6 +836,7 @@ function mount() {
     disposed = true
     events.abort()
     preview.dispose()
+    verseJump.dispose()
     panelEvents.abort()
     observer.disconnect()
     cancelAnimationFrame(positioning)
