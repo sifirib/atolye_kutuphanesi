@@ -8,3 +8,13 @@
 @use "../plugins/custom/site-identity/pages";
 
 // put your custom CSS here!
+
+// hide ttrpg theme's underline for all headers.
+h1::after,
+h2::after,
+h3::after,
+h4::after,
+h5::after,
+h6::after {
+	display: none !important;
+}
