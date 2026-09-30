@@ -4,7 +4,7 @@ import { defaults, migrate, validate } from "./preferences"
 
 test("invalid stored preferences fall back field by field", () => {
   assert.deepEqual(validate(null), defaults)
-  assert.deepEqual(validate({ font: "unknown", size: 24, width: "broken", palette: "paper" }), { ...defaults, size: 24, palette: "paper" })
+  assert.deepEqual(validate({ font: "unknown", size: 24, width: "broken", palette: "paper" }), { ...defaults, size: 24, palette: "atolye" })
   assert.equal(validate({ size: "24" }).size, 17)
 })
 test("v4 radio values migrate without keeping percentage widths", () => {

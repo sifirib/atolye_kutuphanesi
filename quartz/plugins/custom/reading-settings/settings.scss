@@ -1,10 +1,16 @@
-:root { --reading-font: "Source Sans Pro", sans-serif; --reading-size: 17px; --reading-width: 72rem; }
+:root { --reading-font: "Source Sans Pro", sans-serif; --reading-size: 17px; --reading-width: 78%; }
 html { font-size: var(--reading-size); --bodyFont: var(--reading-font); --headerFont: var(--reading-font); --font-text: var(--reading-font); --font-interface: var(--reading-font); --font-default: var(--reading-font); }
 body, button, input, select, textarea { font-family: var(--reading-font); }
-:root[data-reading-width="narrow"] { --reading-width: 46rem; }
-:root[data-reading-width="full"] { --reading-width: none; }
+:root[data-reading-width="narrow"] { --reading-width: 60%; }
+:root[data-reading-width="full"] { --reading-width: 100%; }
 .page > #quartz-body > .center { min-width: 0; width: 100%; box-sizing: border-box; justify-self: center; }
-.page > #quartz-body > .center > :is(article, .popover-hint, .library-list-page, .page-header) { max-width: var(--reading-width); margin-inline: auto; }
+.page > #quartz-body > .center > :is(article, .popover-hint, .library-list-page, .page-header) { width: var(--reading-width); max-width: 100%; min-width: 0; box-sizing: border-box; margin-inline: auto; }
+@media (min-width: 801px), (hover: hover) and (pointer: fine) {
+  .page > #quartz-body:has(> .sidebar.left .cx-explorer[data-cx-enabled="true"]) { max-width: none; }
+}
+@media (max-width: 800px) and (pointer: coarse) {
+  .page > #quartz-body > .center > :is(article, .popover-hint, .library-list-page, .page-header) { width: 100%; }
+}
 .sidebar.left .flex-component { flex-wrap: wrap !important; }
 .reading-settings-open { border: 0; padding: .25rem; display: inline-flex; align-items: center; justify-content: center; background: transparent; color: var(--darkgray); cursor: pointer; flex-shrink: 0; }
 .reading-settings {

@@ -9,7 +9,7 @@ dialog.innerHTML = `<form method="dialog"><header><h2 id="reading-settings-title
 <label>Yazı tipi<select name="font">${fonts.map((font) => `<option>${font}</option>`).join("")}</select></label>
 <label>Yazı boyutu<select name="size">${sizes.map((size) => `<option value="${size}">${size} px</option>`).join("")}</select></label>
 <label>Okuma genişliği<select name="width"><option value="narrow">Dar</option><option value="wide">Geniş</option><option value="full">Tam</option></select></label>
-<label>Renk paleti<select name="palette"><option value="atolye">Atölye</option><option value="ttrpg">TTRPG</option><option value="paper">Kâğıt</option></select></label>
+<label>Renk paleti<select name="palette"><option value="atolye">Atölye</option><option value="ttrpg">TTRPG</option><option value="green">Yeşil</option></select></label>
 <p>Açık ve koyu görünüm, tema düğmesinden değiştirilir.</p><button type="button" data-reset>Varsayılana dön</button><p role="status"></p></form>`
 document.body.append(dialog)
 function sync() { dialog.querySelectorAll<HTMLSelectElement>("select").forEach((select) => { select.value = String(value[select.name as keyof Preferences]) }) }

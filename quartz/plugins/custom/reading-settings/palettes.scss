@@ -1,29 +1,29 @@
 // TTRPG deliberately has no overrides: the installed theme remains its source.
-:root[data-reading-palette="atolye"] {
+:root[data-reading-palette="green"] {
   --light: #faf8f1; --lightgray: #dedfd4; --gray: #81877d;
   --darkgray: #3e4941; --dark: #24352b; --secondary: #356b50; --tertiary: #587b63;
   --highlight: #356b5018; --textHighlight: #e6dbaa;
   --reading-sidebar: #f0f0e7;
 }
-:root[data-reading-palette="atolye"][saved-theme="dark"] {
+:root[data-reading-palette="green"][saved-theme="dark"] {
   --light: #202623; --lightgray: #39453d; --gray: #93a096;
   --darkgray: #d1d8cf; --dark: #eef0e7; --secondary: #91c5a0; --tertiary: #b2c6ab;
   --highlight: #91c5a01c; --textHighlight: #555037;
   --reading-sidebar: #1c211e;
 }
-:root[data-reading-palette="paper"] {
+:root[data-reading-palette="atolye"] {
   --light: #fffef7; --lightgray: #f6e3cd; --gray: #a3a096;
   --darkgray: #4a453e; --dark: #1a1815; --secondary: #8b5a3c; --tertiary: #966b48;
   --highlight: #8b5a3c10; --textHighlight: #f4e5d3;
-  --reading-sidebar: #faf2e6;
+  --reading-sidebar: var(--light);
 }
-:root[data-reading-palette="paper"][saved-theme="dark"] {
+:root[data-reading-palette="atolye"][saved-theme="dark"] {
   --light: #1c1a17; --lightgray: #3d352c; --gray: #9e9284;
   --darkgray: #c7c0b8; --dark: #f5f2ee; --secondary: #d4a574; --tertiary: #b8956f;
   --highlight: #d4a57414; --textHighlight: #3d2f1f;
-  --reading-sidebar: #191713;
+  --reading-sidebar: var(--light);
 }
-:root:is([data-reading-palette="atolye"], [data-reading-palette="paper"]) {
+:root:is([data-reading-palette="atolye"], [data-reading-palette="green"]) {
   --note: var(--light); --side-bar: var(--reading-sidebar); --outer-bar: var(--reading-sidebar);
   --background-primary: var(--light); --background-secondary: var(--reading-sidebar);
   --background-primary-alt: var(--light); --background-secondary-alt: var(--reading-sidebar);
@@ -37,3 +37,4 @@
   --background-modifier-form-field: var(--light); --background-modifier-hover: var(--highlight);
   --text-selection: var(--textHighlight); --link-color: var(--secondary); --link-external-color: var(--secondary);
 }
+:root[data-reading-palette="atolye"] :is(body, .page, #quartz-body, .sidebar, .center) { background-color: var(--light); }

@@ -1,6 +1,6 @@
 export const fonts = ["Source Sans Pro", "Tahoma", "Times New Roman", "Atkinson Hyperlegible Next"] as const
 export const sizes = [15, 17, 19, 24] as const
-export type Preferences = { font: typeof fonts[number]; size: typeof sizes[number]; width: "narrow" | "wide" | "full"; palette: "atolye" | "ttrpg" | "paper" }
+export type Preferences = { font: typeof fonts[number]; size: typeof sizes[number]; width: "narrow" | "wide" | "full"; palette: "atolye" | "ttrpg" | "green" }
 export const defaults: Preferences = { font: "Source Sans Pro", size: 17, width: "wide", palette: "atolye" }
 export const storageKey = "atolye.reading.preferences"
 export function validate(value: unknown): Preferences {
@@ -9,7 +9,7 @@ export function validate(value: unknown): Preferences {
     font: fonts.includes(data.font!) ? data.font! : defaults.font,
     size: sizes.includes(data.size!) ? data.size! : defaults.size,
     width: ["narrow", "wide", "full"].includes(data.width!) ? data.width! : defaults.width,
-    palette: ["atolye", "ttrpg", "paper"].includes(data.palette!) ? data.palette! : defaults.palette,
+    palette: ["atolye", "ttrpg", "green"].includes(data.palette!) ? data.palette! : defaults.palette,
   }
 }
 export function migrate(value: unknown): Preferences {
