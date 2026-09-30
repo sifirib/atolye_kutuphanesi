@@ -92,7 +92,7 @@ export const Quran: QuartzTransformerPlugin = () => ({
         const toolbar = element("div", {
           className: ["quran-toolbar"],
           role: "group",
-          ariaLabel: "Okuma görünümü",
+          ariaLabel: "Okuma kontrolleri",
           dataQuranView: "both",
           hidden: true,
         }, [
@@ -108,6 +108,22 @@ export const Quran: QuartzTransformerPlugin = () => ({
               title: description,
             }, [text(label)]),
           ),
+          element("form", { className: ["quran-jump"], ariaLabel: "Sure ve ayete git", dataQuranSlug: file.data.slug, hidden: true }, [
+            element("select", { ariaLabel: "Sure", disabled: true }, [
+              element("option", { value: file.data.slug }, [text(`${file.data.frontmatter.sure} · ${file.data.frontmatter.isim ?? file.data.frontmatter.title}`)]),
+            ]),
+            element("input", {
+              type: "text",
+              inputMode: "numeric",
+              pattern: "[0-9]+",
+              required: true,
+              autoComplete: "off",
+              ariaLabel: "Ayet numarası",
+              placeholder: "Ayet no.",
+              maxLength: 3,
+            }),
+            element("button", { type: "submit", ariaLabel: "Yazılan ayete git" }, [text("Git")]),
+          ]),
         ])
         visit(tree, "element", (node, index, parent) => {
           if (node === firstList && parent && index !== undefined) {
