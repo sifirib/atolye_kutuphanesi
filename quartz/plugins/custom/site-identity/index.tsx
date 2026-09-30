@@ -27,6 +27,11 @@ function withLabels(Original: QuartzComponent): QuartzComponent {
     if (!isValidElement(rendered)) return rendered
     const attributes = rendered.props as { children?: ComponentChildren; class?: string }
     if (attributes.class?.split(/\s+/).includes("graph")) return graphLabels(rendered)
+    if (attributes.class?.split(/\s+/).includes("backlinks")) {
+      return cloneElement(rendered, {}, ...toChildArray(attributes.children).map((child) =>
+        isValidElement(child) && child.type === "h3" ? cloneElement(child, {}, "Geri linkler") : child,
+      ))
+    }
     if (rendered.type === "footer") {
       const children = toChildArray(attributes.children)
       return cloneElement(rendered, {},

@@ -1,13 +1,10 @@
 @use "./variables.scss" as *;
 @use "../plugins/custom/column-explorer/compatibility";
 @use "../plugins/custom/quran/jump";
-
 @use "../plugins/custom/source-copy/copy";
-
 @use "../plugins/custom/reading-settings/settings";
-
 @use "../plugins/custom/reading-settings/palettes";
-
 @use "../plugins/custom/site-identity/typography";
+@use "../plugins/custom/site-identity/pages";
 
 // put your custom CSS here!
