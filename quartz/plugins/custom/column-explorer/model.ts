@@ -66,8 +66,11 @@ export function buildExplorerModel(index: Record<string, ExplorerEntry>): Explor
 
   const collator = new Intl.Collator("tr", { numeric: true, sensitivity: "base" })
   for (const node of nodes.values()) {
+    const isQuranShelf = (child: ExplorerNode) =>
+      node === root && child.folder && child.name === "Kur'an-ı Kerim"
     node.children.sort((a, b) =>
-      Number(b.folder) - Number(a.folder) || collator.compare(a.name, b.name) || a.id.localeCompare(b.id),
+      Number(isQuranShelf(b)) - Number(isQuranShelf(a))
+      || Number(b.folder) - Number(a.folder) || collator.compare(a.name, b.name) || a.id.localeCompare(b.id),
     )
   }
   return { root, nodes }

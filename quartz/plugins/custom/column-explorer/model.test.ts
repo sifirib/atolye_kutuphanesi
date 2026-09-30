@@ -58,6 +58,17 @@ test("folders sort before naturally ordered file titles", () => {
   assert.deepEqual(model.root.children.map((node) => node.id), ["Arsiv", "1", "2", "10"])
 })
 
+test("Kur'an-ı Kerim stays first in the root shelves without reordering nested folders", () => {
+  const model = buildExplorerModel({
+    "Hadisler/note": { title: "Hadis" },
+    "quran/abese": { title: "Abese", filePath: "Kur'an-ı Kerim/Abese.md" },
+    "Arsiv/A/note": { title: "Not" },
+    "Arsiv/quran/note": { title: "Not", filePath: "Arsiv/Kur'an-ı Kerim/not.md" },
+  })
+  assert.deepEqual(model.root.children.map((node) => node.id), ["quran", "Arsiv", "Hadisler"])
+  assert.deepEqual(model.nodes.get("Arsiv")!.children.map((node) => node.id), ["Arsiv/A", "Arsiv/quran"])
+})
+
 test("real path labels preserve punctuation and Unicode while links use slugs", () => {
   const model = buildExplorerModel({
     "Kur'an-ı-Kerim/Âl-i-İmrân": {
