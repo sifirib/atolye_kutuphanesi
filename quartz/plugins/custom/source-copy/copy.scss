@@ -1,0 +1,15 @@
+.source-copy-toolbar, .source-copy-status {
+  position: fixed; z-index: 10000; background: var(--light); color: var(--dark);
+  border: 1px solid var(--lightgray); border-radius: .5rem; padding: .4rem;
+  box-shadow: 0 4px 18px #0002; max-width: calc(100vw - 1rem);
+}
+.source-copy-toolbar { display: flex; gap: .3rem; flex-wrap: wrap;
+  &[hidden] { display: none; }
+  button { font: inherit; font-size: .8rem; padding: .4rem; color: var(--dark); background: transparent; border: 0; cursor: pointer; }
+}
+.source-copy-status { bottom: 1rem; left: 50%; transform: translateX(-50%); &:empty { display: none; } }
+.quran-verse { position: relative; padding-bottom: 1.7rem; }
+.ayet-copy { position: absolute; inset-inline-end: .4rem; bottom: .15rem; border: 0; background: transparent; color: var(--secondary); font: inherit; cursor: pointer; opacity: 0; min-width: 28px; min-height: 24px; }
+.quran-verse:hover .ayet-copy, .quran-verse:focus-within .ayet-copy { opacity: 1; }
+@media (hover: none) { .ayet-copy { opacity: 1; min-height: 32px; } }
+@media (max-width: 800px) { .source-copy-toolbar { top: auto !important; bottom: max(1rem, env(safe-area-inset-bottom)); left: .5rem !important; } }
