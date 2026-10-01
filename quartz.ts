@@ -11,15 +11,23 @@ import { FolderPage } from "@quartz-community/folder-page"
 import { TagPage } from "@quartz-community/tag-page"
 import { librarySort } from "./quartz/plugins/custom/site-identity/sort"
 import { withListLabels } from "./quartz/plugins/custom/site-identity/list-pages"
+import { withContinueReading } from "./quartz/plugins/custom/continue-reading"
 
 const config = await loadQuartzConfig()
 config.plugins.transformers.push(Quran(), SourceCopy(), Permalinks(), ReadingFonts())
 config.plugins.emitters.push(QuranCatalog())
 config.plugins.pageTypes = config.plugins.pageTypes?.map((page) =>
-  withListLabels(page.name === "FolderPage" ? FolderPage({ sort: librarySort }) :
-    page.name === "TagPage" ? TagPage({ sort: librarySort }) : page),
+  withListLabels(
+    page.name === "FolderPage"
+      ? FolderPage({ sort: librarySort })
+      : page.name === "TagPage"
+        ? TagPage({ sort: librarySort })
+        : page,
+  ),
 )
-export const layout = withReadingSettings(withColumnExplorer(withSiteIdentity(await loadQuartzLayout())))
+export const layout = withContinueReading(
+  withReadingSettings(withColumnExplorer(withSiteIdentity(await loadQuartzLayout()))),
+)
 // The YAML loader creates its dispatcher before project-level layout overrides.
 // Replace that instance so rendering and resource collection use the same layout.
 config.plugins.emitters = config.plugins.emitters.map((emitter) =>

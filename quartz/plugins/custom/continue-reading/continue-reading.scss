@@ -1,0 +1,44 @@
+.continue-reading {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.continue-reading-button {
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  width: 2rem;
+  height: 1.75rem;
+  padding: 0;
+  background: var(--highlight);
+  color: var(--darkgray);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  transition:
+    border-color 0.2s ease,
+    color 0.2s ease;
+
+  svg {
+    width: 1.1rem;
+    height: 1.1rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1.8;
+  }
+
+  &:hover {
+    border-color: var(--secondary);
+    color: var(--secondary);
+  }
+}
