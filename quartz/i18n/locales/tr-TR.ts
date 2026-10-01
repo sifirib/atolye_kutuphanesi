@@ -39,7 +39,7 @@ export default {
       createdWith: "Şununla oluşturuldu",
     },
     graph: {
-      title: "Grafik Görünümü",
+      title: "Site Haritası",
     },
     recentNotes: {
       title: "Son Notlar",
