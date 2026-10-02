@@ -24,6 +24,7 @@ dialog.addEventListener("change", () => {
   value = validate({ ...fields, size: Number(fields.size) }); save()
 })
 dialog.querySelector("[data-reset]")!.addEventListener("click", () => { value = { ...defaults }; sync(); save() })
+dialog.addEventListener("click", (event) => { if (event.target === dialog) dialog.close() })
 dialog.addEventListener("close", () => opener?.isConnected && opener.focus())
 document.addEventListener("click", (event) => {
   const button = (event.target as Element).closest<HTMLButtonElement>(".reading-settings-open")

@@ -14,7 +14,7 @@ body, button, input, select, textarea { font-family: var(--reading-font); }
 .sidebar.left .flex-component { flex-wrap: wrap !important; }
 .reading-settings-open { border: 0; padding: .25rem; display: inline-flex; align-items: center; justify-content: center; align-self: center; position: relative; top: -.2rem; background: transparent; color: var(--darkgray); cursor: pointer; flex-shrink: 0; }
 .reading-settings {
-  color: var(--dark); background: var(--light); border: 1px solid var(--lightgray); border-radius: .75rem;
+  color: var(--dark); background: color-mix(in srgb, var(--light) 70%, transparent); border: 1px solid var(--lightgray); border-radius: .75rem;
   width: min(24rem, calc(100vw - 2rem)); max-height: calc(100dvh - 2rem); box-sizing: border-box; padding: 1.2rem; overflow: auto;
   &::backdrop { background: #0007; }
   header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
