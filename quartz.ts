@@ -16,6 +16,7 @@ import { ReadingWindows } from "./quartz/plugins/custom/reading-windows"
 import { withSidebarToggle } from "./quartz/plugins/custom/sidebar-toggle"
 import { withDailyTicker } from "./quartz/plugins/custom/daily-ticker"
 import { DailyTickerData } from "./quartz/plugins/custom/daily-ticker/emitter"
+import { withPageEdit } from "./quartz/plugins/custom/page-edit"
 
 const config = await loadQuartzConfig()
 config.plugins.transformers.push(
@@ -35,12 +36,15 @@ config.plugins.pageTypes = config.plugins.pageTypes?.map((page) =>
         : page,
   ),
 )
-export const layout = withDailyTicker(
-  withSidebarToggle(
-    withContinueReading(
-      withReadingSettings(withColumnExplorer(withSiteIdentity(await loadQuartzLayout()))),
+export const layout = withPageEdit(
+  withDailyTicker(
+    withSidebarToggle(
+      withContinueReading(
+        withReadingSettings(withColumnExplorer(withSiteIdentity(await loadQuartzLayout()))),
+      ),
     ),
   ),
+  { repository: "sifirib/atolye_kutuphanesi", branch: "v5", contentDirectory: "content" },
 )
 // The YAML loader creates its dispatcher before project-level layout overrides.
 // Replace that instance so rendering and resource collection use the same layout.

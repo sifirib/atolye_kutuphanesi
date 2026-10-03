@@ -1,0 +1,38 @@
+.page-edit {
+  box-sizing: border-box;
+  width: var(--reading-width, 100%);
+  max-width: 100%;
+  margin: 0 auto 1rem;
+  font-size: 0.85rem;
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    max-width: 100%;
+    color: var(--secondary);
+    background: transparent;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+    &:focus-visible {
+      outline: 2px solid var(--secondary);
+      outline-offset: 3px;
+      border-radius: 2px;
+    }
+  }
+  svg {
+    flex: 0 0 16px;
+    width: 16px;
+    height: 16px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+@media (max-width: 800px) and (pointer: coarse) {
+  .page-edit {
+    width: 100%;
+  }
+}
