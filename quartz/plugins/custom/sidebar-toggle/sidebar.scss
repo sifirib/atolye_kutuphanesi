@@ -1,0 +1,81 @@
+.library-sidebar-toggle {
+  display: none;
+}
+
+body:has(.search-container.active) .library-sidebar-toggle {
+  visibility: hidden;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .library-sidebar-toggle {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    z-index: 95;
+    display: grid;
+    place-items: center;
+    width: 32px;
+    height: 32px;
+    padding: 5px;
+    border: 0;
+    border-radius: 6px;
+    background: var(--light);
+    color: var(--darkgray);
+    cursor: pointer;
+    transition: none;
+    animation: none;
+    &[data-inline="true"] {
+      position: relative;
+      top: -0.2rem;
+      left: auto;
+      z-index: auto;
+      flex-shrink: 0;
+      align-self: center;
+      margin-inline-start: -0.25rem;
+      width: 28px;
+      height: 28px;
+      padding: 3px;
+      background: transparent;
+    }
+    &[hidden] {
+      display: none;
+    }
+    &:focus-visible {
+      outline: 2px solid var(--secondary);
+      outline-offset: 2px;
+    }
+    svg {
+      transition: none;
+      animation: none;
+      width: 22px;
+      height: 22px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    &[aria-expanded="false"] .sidebar-toggle-arrow {
+      transform: translateX(29px) scaleX(-1);
+    }
+  }
+
+  :root[data-left-sidebar="closed"] .page > #quartz-body:has(> .sidebar.left) {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas: "grid-header" "grid-center" "grid-sidebar-right" "grid-footer";
+    > .sidebar.left {
+      display: none;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    :root[data-left-sidebar="closed"]
+      .page
+      > #quartz-body:has(> .sidebar.left):has(> .sidebar.right:not(:empty)) {
+      grid-template-columns: minmax(0, 1fr) 320px;
+      grid-template-rows: auto auto auto;
+      grid-template-areas: "grid-header grid-sidebar-right" "grid-center grid-sidebar-right" "grid-footer grid-sidebar-right";
+    }
+  }
+}

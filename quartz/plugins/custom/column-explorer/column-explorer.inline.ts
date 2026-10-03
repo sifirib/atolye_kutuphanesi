@@ -821,6 +821,10 @@ function mount() {
   }, { signal: events.signal })
 
   desktop.addEventListener("change", applyLayout, { signal: events.signal })
+  document.addEventListener("library-sidebar-change", () => {
+    if (document.documentElement.dataset.leftSidebar === "closed") closePanel(false)
+    else schedulePosition()
+  }, { signal: events.signal })
   window.addEventListener("storage", (event) => {
     if (event.key !== pinsKey && event.key !== null) return
     pinned = readPins(event.newValue)
