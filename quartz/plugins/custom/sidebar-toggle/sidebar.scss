@@ -61,11 +61,72 @@ body:has(.search-container.active) .library-sidebar-toggle {
   }
 
   :root[data-left-sidebar="closed"] .page > #quartz-body:has(> .sidebar.left) {
-    grid-template-columns: minmax(0, 1fr);
+    --library-rail-width: 56px;
+    grid-template-columns: var(--library-rail-width) minmax(0, 1fr);
     grid-template-rows: auto auto auto auto;
-    grid-template-areas: "grid-header" "grid-center" "grid-sidebar-right" "grid-footer";
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-sidebar-right"
+      "grid-sidebar-left grid-footer";
     > .sidebar.left {
-      display: none;
+      position: sticky;
+      top: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: var(--library-rail-width);
+      min-width: 0;
+      height: 100dvh;
+      padding: 1rem 6px;
+      border-inline-end: 1px solid var(--lightgray) !important;
+      > :not(.flex-component:has(.reading-settings-open)) {
+        display: none;
+      }
+
+      > .flex-component:has(.reading-settings-open) {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap !important;
+        align-items: center;
+        gap: 0.65rem !important;
+        width: 100%;
+        > * {
+          flex: 0 0 auto;
+          margin: 0;
+        }
+        > :is(.reading-settings-open, .library-sidebar-toggle, .darkmode, .readermode) {
+          box-sizing: border-box;
+          position: relative;
+          top: auto;
+          left: auto;
+          width: 32px;
+          height: 32px;
+          margin: 0;
+          padding: 5px;
+          align-self: center;
+        }
+        .search {
+          min-width: 0;
+          width: 32px;
+          max-width: 32px;
+        }
+        .search-button {
+          box-sizing: border-box;
+          justify-content: center;
+          width: 32px;
+          height: 32px;
+          padding: 0;
+          border: 0;
+          background: transparent;
+          p {
+            display: none;
+          }
+          svg {
+            margin: 0;
+          }
+        }
+      }
     }
   }
 
@@ -73,9 +134,12 @@ body:has(.search-container.active) .library-sidebar-toggle {
     :root[data-left-sidebar="closed"]
       .page
       > #quartz-body:has(> .sidebar.left):has(> .sidebar.right:not(:empty)) {
-      grid-template-columns: minmax(0, 1fr) 320px;
+      grid-template-columns: var(--library-rail-width) minmax(0, 1fr) 320px;
       grid-template-rows: auto auto auto;
-      grid-template-areas: "grid-header grid-sidebar-right" "grid-center grid-sidebar-right" "grid-footer grid-sidebar-right";
+      grid-template-areas:
+        "grid-sidebar-left grid-header grid-sidebar-right"
+        "grid-sidebar-left grid-center grid-sidebar-right"
+        "grid-sidebar-left grid-footer grid-sidebar-right";
     }
   }
 }

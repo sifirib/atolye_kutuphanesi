@@ -15,12 +15,12 @@ function sync() {
   const restoreFocus =
     document.activeElement === button || (closed && sidebar.contains(document.activeElement))
   const settings = sidebar.querySelector<HTMLElement>(".reading-settings-open")
-  const inline = !!settings && !closed
+  const inline = !!settings
   button.dataset.inline = String(inline)
-  // The same button stays reachable when its sidebar is hidden.
+  // Keep the actual toolbar controls in place in both full and compact layouts.
   if (inline && settings.nextElementSibling !== button) settings.after(button)
   else if (!inline && button.parentElement !== document.body) document.body.append(button)
-  sidebar.inert = closed
+  sidebar.inert = false
   button.setAttribute("aria-expanded", String(!closed))
   button.title = closed ? "Sol paneli aç" : "Sol paneli kapat"
   button.setAttribute("aria-label", button.title)
@@ -47,26 +47,6 @@ document.addEventListener("click", (event) => {
     return
   setClosed(root.dataset.leftSidebar !== "closed")
 })
-// Quartz's search lives inside the sidebar. Reveal it before its native shortcut
-// handler runs; otherwise display:none/inert would hide the search dialog too.
-document.addEventListener(
-  "keydown",
-  (event) => {
-    if (
-      desktop.matches &&
-      root.dataset.leftSidebar === "closed" &&
-      !event.isComposing &&
-      (event.ctrlKey || event.metaKey) &&
-      !event.altKey &&
-      !event.shiftKey &&
-      event.key.toLowerCase() === "k" &&
-      document.querySelector(".sidebar.left .search")
-    ) {
-      setClosed(false)
-    }
-  },
-  true,
-)
 window.addEventListener("storage", (event) => {
   if (event.key !== key && event.key !== null) return
   root.dataset.leftSidebar = event.newValue === "closed" ? "closed" : "open"
