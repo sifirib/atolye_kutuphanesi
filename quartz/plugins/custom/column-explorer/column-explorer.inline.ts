@@ -761,7 +761,7 @@ function mount() {
   searchInput.addEventListener("compositionend", runSearch, { signal: events.signal })
 
   document.addEventListener("pointerdown", (event) => {
-    if (event.target instanceof Element && event.target.closest(".cx-preview")) return
+    if (event.target instanceof Element && event.target.closest(".rw-window, .rw-dock")) return
     if (event.target instanceof Node && !host!.contains(event.target) && !panel.contains(event.target)) {
       closePanel(panel.contains(document.activeElement))
     }

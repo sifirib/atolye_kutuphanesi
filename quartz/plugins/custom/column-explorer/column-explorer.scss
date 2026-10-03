@@ -69,34 +69,6 @@
   .cx-columns .cx-pin, .cx-flyout .cx-pin { opacity: 1; }
 }
 
-// Quartz normally hides popovers below 800px. Mouse-driven narrow windows
-// still use Raflar; constrain this one preview to the available viewport.
-html body .popover.cx-preview {
-  display: block !important;
-  padding: 0;
-  opacity: 1;
-  animation: none;
-  transition: none;
-  will-change: auto;
-  max-width: calc(100vw - 16px);
-
-  &[hidden] { display: none !important; }
-
-  > .popover-inner {
-    box-sizing: border-box;
-    width: min(30rem, calc(100vw - 16px));
-    max-width: 100%;
-    max-height: min(28rem, calc(100dvh - 16px));
-    overflow-wrap: anywhere;
-    user-select: text;
-
-    &:focus-visible {
-      outline: 2px solid var(--secondary);
-      outline-offset: -2px;
-    }
-  }
-}
-
 @media (min-width: 801px), (hover: hover) and (pointer: fine) {
   .cx-explorer {
     display: flex;
