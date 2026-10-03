@@ -1,7 +1,7 @@
 export const fonts = ["Source Sans Pro", "Tahoma", "Times New Roman", "Atkinson Hyperlegible Next"] as const
 export const sizes = [15, 17, 19, 24] as const
-export type Preferences = { font: typeof fonts[number]; size: typeof sizes[number]; width: "narrow" | "wide" | "full"; palette: "atolye" | "ttrpg" | "green" }
-export const defaults: Preferences = { font: "Source Sans Pro", size: 17, width: "full", palette: "atolye" }
+export type Preferences = { font: typeof fonts[number]; size: typeof sizes[number]; width: "narrow" | "wide" | "full"; palette: "atolye" | "ttrpg" | "green"; ticker: boolean }
+export const defaults: Preferences = { font: "Source Sans Pro", size: 17, width: "full", palette: "atolye", ticker: true }
 export const storageKey = "atolye.reading.preferences"
 export function validate(value: unknown): Preferences {
   const data = value && typeof value === "object" ? value as Partial<Preferences> : {}
@@ -10,6 +10,7 @@ export function validate(value: unknown): Preferences {
     size: sizes.includes(data.size!) ? data.size! : defaults.size,
     width: ["narrow", "wide", "full"].includes(data.width!) ? data.width! : defaults.width,
     palette: ["atolye", "ttrpg", "green"].includes(data.palette!) ? data.palette! : defaults.palette,
+    ticker: typeof data.ticker === "boolean" ? data.ticker : defaults.ticker,
   }
 }
 export function migrate(value: unknown): Preferences {
@@ -30,6 +31,10 @@ export function applyPreferences(value: Preferences) {
   const root = document.documentElement
   root.dataset.readingPalette = value.palette
   root.dataset.readingWidth = value.width
+  const ticker = value.ticker ? "on" : "off"
+  const tickerChanged = root.dataset.dailyTicker !== ticker
+  root.dataset.dailyTicker = ticker
   root.style.setProperty("--reading-font", `"${value.font}", ${value.font === "Times New Roman" ? "serif" : "sans-serif"}`)
   root.style.setProperty("--reading-size", `${value.size}px`)
+  if (tickerChanged) document.dispatchEvent(new CustomEvent("daily-ticker-change", { detail: {} }))
 }

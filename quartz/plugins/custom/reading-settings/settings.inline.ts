@@ -10,9 +10,15 @@ dialog.innerHTML = `<form method="dialog"><header><h2 id="reading-settings-title
 <label>Yazı boyutu<select name="size">${sizes.map((size) => `<option value="${size}">${size} px</option>`).join("")}</select></label>
 <label>Okuma genişliği<select name="width"><option value="narrow">Dar</option><option value="wide">Geniş</option><option value="full">Tam</option></select></label>
 <label>Renk paleti<select name="palette"><option value="atolye">Atölye</option><option value="ttrpg">TTRPG</option><option value="green">Yeşil</option></select></label>
-<p>Açık ve koyu görünüm, tema düğmesinden değiştirilir.</p><button type="button" data-reset>Varsayılana dön</button><p role="status"></p></form>`
+<p>Açık ve koyu görünüm, tema düğmesinden değiştirilir.</p>
+<label class="reading-settings-check"><input type="checkbox" name="ticker">Günün ayeti barını göster</label>
+<button type="button" data-reset>Varsayılana dön</button><p role="status"></p></form>`
 document.body.append(dialog)
-function sync() { dialog.querySelectorAll<HTMLSelectElement>("select").forEach((select) => { select.value = String(value[select.name as keyof Preferences]) }) }
+const tickerCheckbox = dialog.querySelector<HTMLInputElement>('[name="ticker"]')!
+function sync() {
+  dialog.querySelectorAll<HTMLSelectElement>("select").forEach((select) => { select.value = String(value[select.name as keyof Preferences]) })
+  tickerCheckbox.checked = value.ticker
+}
 function save() {
   applyPreferences(value)
   const status = dialog.querySelector<HTMLElement>('[role="status"]')!
@@ -21,7 +27,7 @@ function save() {
 }
 dialog.addEventListener("change", () => {
   const fields = Object.fromEntries(new FormData(dialog.querySelector("form")!).entries())
-  value = validate({ ...fields, size: Number(fields.size) }); save()
+  value = validate({ ...fields, size: Number(fields.size), ticker: tickerCheckbox.checked }); save()
 })
 dialog.querySelector("[data-reset]")!.addEventListener("click", () => { value = { ...defaults }; sync(); save() })
 dialog.addEventListener("click", (event) => { if (event.target === dialog) dialog.close() })
