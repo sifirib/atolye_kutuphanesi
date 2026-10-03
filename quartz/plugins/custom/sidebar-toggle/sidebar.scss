@@ -60,8 +60,10 @@ body:has(.search-container.active) .library-sidebar-toggle {
     }
   }
 
-  :root[data-left-sidebar="closed"] .page > #quartz-body:has(> .sidebar.left) {
-    --library-rail-width: 56px;
+  :root[data-left-sidebar="closed"] #quartz-root.page > #quartz-body:has(> .sidebar.left) {
+    --library-rail-width: 44px;
+    padding-inline-start: 0;
+    column-gap: 0.5rem;
     grid-template-columns: var(--library-rail-width) minmax(0, 1fr);
     grid-template-rows: auto auto auto auto;
     grid-template-areas:
@@ -70,6 +72,7 @@ body:has(.search-container.active) .library-sidebar-toggle {
       "grid-sidebar-left grid-sidebar-right"
       "grid-sidebar-left grid-footer";
     > .sidebar.left {
+      box-sizing: border-box;
       position: sticky;
       top: 0;
       display: flex;
@@ -77,8 +80,9 @@ body:has(.search-container.active) .library-sidebar-toggle {
       align-items: center;
       width: var(--library-rail-width);
       min-width: 0;
+      margin-inline: 0;
       height: 100dvh;
-      padding: 1rem 6px;
+      padding: 1rem 0;
       border-inline-end: 1px solid var(--lightgray) !important;
       > :not(.flex-component:has(.reading-settings-open)) {
         display: none;
@@ -86,11 +90,14 @@ body:has(.search-container.active) .library-sidebar-toggle {
 
       > .flex-component:has(.reading-settings-open) {
         display: flex;
-        flex-direction: column;
+        // Quartz's Flex component sets the direction inline.
+        flex-direction: column !important;
         flex-wrap: nowrap !important;
         align-items: center;
         gap: 0.65rem !important;
-        width: 100%;
+        width: 32px;
+        padding: 0;
+        margin-inline: auto;
         > * {
           flex: 0 0 auto;
           margin: 0;
@@ -132,7 +139,7 @@ body:has(.search-container.active) .library-sidebar-toggle {
 
   @media (min-width: 1200px) {
     :root[data-left-sidebar="closed"]
-      .page
+      #quartz-root.page
       > #quartz-body:has(> .sidebar.left):has(> .sidebar.right:not(:empty)) {
       grid-template-columns: var(--library-rail-width) minmax(0, 1fr) 320px;
       grid-template-rows: auto auto auto;
