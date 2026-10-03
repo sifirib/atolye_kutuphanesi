@@ -11,6 +11,7 @@ const setupContinueReading = () => {
   } catch {
     savedPosition = 0
   }
+  if (!Number.isFinite(savedPosition) || savedPosition < 0) savedPosition = 0
 
   const maxScroll = document.documentElement.scrollHeight - window.innerHeight
   if (maxScroll > 240) {
@@ -20,14 +21,33 @@ const setupContinueReading = () => {
     positionButton.hidden = false
   }
 
-  const savePosition = () => {
+  let pendingPosition: number | undefined
+  let saveTimer: ReturnType<typeof setTimeout> | undefined
+  const flushPosition = () => {
+    clearTimeout(saveTimer)
+    if (pendingPosition === undefined) return
     try {
-      localStorage.setItem(storageKey, String(Math.round(window.scrollY)))
+      localStorage.setItem(storageKey, String(pendingPosition))
     } catch {}
+    pendingPosition = undefined
   }
-
+  const savePosition = () => {
+    pendingPosition = Math.max(0, Math.round(window.scrollY))
+    clearTimeout(saveTimer)
+    saveTimer = setTimeout(flushPosition, 250)
+  }
+  const flushWhenHidden = () => {
+    if (document.hidden) flushPosition()
+  }
+  const events = new AbortController()
   window.addEventListener("scroll", savePosition, { passive: true })
-  window.addCleanup(() => window.removeEventListener("scroll", savePosition))
+  window.addEventListener("pagehide", flushPosition, { signal: events.signal })
+  document.addEventListener("visibilitychange", flushWhenHidden, { signal: events.signal })
+  window.addCleanup(() => {
+    flushPosition()
+    events.abort()
+    window.removeEventListener("scroll", savePosition)
+  })
 
   const handleClick = (event: MouseEvent) => {
     const target = event.target
@@ -36,10 +56,13 @@ const setupContinueReading = () => {
     if (!button) return
 
     const action = button.dataset.continue
-    if (action === "top") window.scrollTo({ top: 0, behavior: "smooth" })
-    if (action === "position") window.scrollTo({ top: savedPosition, behavior: "smooth" })
-    if (action === "bottom") window.scrollTo({ top: document.documentElement.scrollHeight, behavior: "smooth" })
-    button.blur()
+    const behavior = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+      ? "instant"
+      : "smooth"
+    if (action === "top") window.scrollTo({ top: 0, behavior })
+    if (action === "position") window.scrollTo({ top: savedPosition, behavior })
+    if (action === "bottom")
+      window.scrollTo({ top: document.documentElement.scrollHeight, behavior })
   }
 
   container.addEventListener("click", handleClick)
