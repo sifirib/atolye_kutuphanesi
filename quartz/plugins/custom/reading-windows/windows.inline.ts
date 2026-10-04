@@ -86,7 +86,7 @@ function button(label: string, icon: keyof typeof icons) {
 function viewport() {
   return {
     width: document.documentElement.clientWidth,
-    height: Math.max(40, innerHeight - (dock.offsetHeight ? dock.offsetHeight + 8 : 0)),
+    height: Math.max(40, host.clientHeight - (dock.offsetHeight ? dock.offsetHeight + 8 : 0)),
   }
 }
 function render(win: ReadingWindow) {
@@ -314,7 +314,10 @@ function open(link: HTMLAnchorElement, keyboard = false, saved?: SavedWindow) {
   inner.textContent = "Yükleniyor…"
   element.append(header, menu, inner)
   const box = link.getBoundingClientRect()
-  const rect = clampRect({ x: box.right + 8, y: box.top, width: 480, height: 440 }, viewport())
+  const rect = clampRect(
+    { x: box.right + 8, y: box.top - host.getBoundingClientRect().top, width: 480, height: 440 },
+    viewport(),
+  )
   const win: ReadingWindow = {
     id,
     element,
@@ -608,6 +611,9 @@ const dockObserver = new ResizeObserver(() => {
   fitAll()
 })
 dockObserver.observe(dock)
+// The available area changes when the ticker, reading mode or font size changes.
+const hostObserver = new ResizeObserver(() => fitAll())
+hostObserver.observe(host)
 window.addEventListener("resize", () => {
   finishGesture?.()
   closeTransient()

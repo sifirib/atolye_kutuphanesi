@@ -1,7 +1,7 @@
 // Unlayered: stock popovers and theme packages must not hide desktop windows.
 .rw-host {
   position: fixed;
-  inset: 0;
+  inset: var(--library-ticker-height, 0px) 0 0;
   z-index: 1000;
   pointer-events: none;
 }
