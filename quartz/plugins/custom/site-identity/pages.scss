@@ -2,4 +2,9 @@
 .library-list-page .section { grid-template-columns: minmax(0, 1fr) auto; }
 .library-list-page .section > .desc { grid-column: 1; min-width: 0; }
 .library-list-page .section > .desc h3::before { content: "›"; color: var(--secondary); margin-inline-end: .6em; }
+.sidebar.left h2.page-title {
+  font-size: 1.65rem;
+  line-height: 1.2;
+  > a { font-size: inherit; line-height: inherit; }
+}
 @media (max-width: 800px) and (hover: none) { .sidebar.left .page-title { display: none; } }
