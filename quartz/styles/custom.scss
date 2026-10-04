@@ -13,6 +13,33 @@
 
 // put your custom CSS here!
 
+// Scope the home-page diagram to its root node, including expanded previews.
+pre:has(code.mermaid .mezheplerRoot) {
+  background: var(--light);
+}
+svg:has(.mezheplerRoot) {
+  .node > :is(rect, polygon, circle, ellipse), .cluster > rect {
+    fill: var(--light) !important;
+    stroke: var(--tertiary) !important;
+  }
+  :is(.nodeLabel, .cluster-label, .edgeLabel),
+  :is(.nodeLabel, .cluster-label, .edgeLabel) :is(p, span) {
+    color: var(--darkgray) !important;
+    fill: var(--darkgray) !important;
+  }
+  .edgeLabel, .edgeLabel .labelBkg {
+    background-color: var(--light) !important;
+  }
+  .edgeLabel rect { fill: var(--light) !important; }
+}
+
+// Keep callout icons aligned when reading typography changes paragraph spacing.
+.callout > .callout-title {
+  align-items: center;
+  > .callout-title-inner > p { margin: 0; }
+  > :is(.callout-icon, .fold-callout-icon) { align-self: center; }
+}
+
 // hide ttrpg theme's underline for all headers.
 h1::after,
 h2::after,
