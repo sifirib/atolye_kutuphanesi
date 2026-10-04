@@ -1,4 +1,4 @@
-import { cloneElement, isValidElement, toChildArray, type ComponentChildren } from "preact"
+import { cloneElement, createElement, isValidElement, toChildArray, type ComponentChildren } from "preact"
 import type { FullPageLayout } from "../../../cfg"
 import type { QuartzComponent } from "../../../components/types"
 
@@ -22,9 +22,13 @@ function graphLabels(node: ComponentChildren): ComponentChildren {
 }
 
 function withLabels(Original: QuartzComponent): QuartzComponent {
-  const Component: QuartzComponent = (props) => {
-    const rendered = Original(props)
+  function labels(rendered: ComponentChildren): ComponentChildren {
     if (!isValidElement(rendered)) return rendered
+    // DesktopOnly and ConditionalRender defer their child component's render.
+    // Wrap that child too, preserving its visibility checks and Preact lifecycle.
+    if (typeof rendered.type === "function") {
+      return createElement(withLabels(rendered.type as QuartzComponent), rendered.props)
+    }
     const attributes = rendered.props as { children?: ComponentChildren; class?: string }
     if (attributes.class?.split(/\s+/).includes("graph")) return graphLabels(rendered)
     if (attributes.class?.split(/\s+/).includes("backlinks")) {
@@ -42,8 +46,9 @@ function withLabels(Original: QuartzComponent): QuartzComponent {
         ...children.filter((child) => !isValidElement(child) || child.type !== "p"),
       )
     }
-    return rendered
+    return cloneElement(rendered, {}, ...toChildArray(attributes.children).map(labels))
   }
+  const Component: QuartzComponent = (props) => labels(Original(props))
   Component.displayName = `SiteIdentity(${Original.displayName ?? Original.name})`
   Component.css = Original.css
   Component.beforeDOMLoaded = Original.beforeDOMLoaded
