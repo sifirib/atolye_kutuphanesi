@@ -12,7 +12,8 @@ const script = ts.transpileModule(
   { compilerOptions: { target: ts.ScriptTarget.ES2022, module: ts.ModuleKind.None } },
 ).outputText
 
-function fixture(enabled = true) {
+function fixture(enabled = true, isDesktop = true) {
+  const desktop = Object.assign(new EventTarget(), { matches: isDesktop })
   const timers = new Set<number>()
   let fetches = 0
   let observing = false
@@ -40,6 +41,7 @@ function fixture(enabled = true) {
   })
   runInNewContext(script, {
     document,
+    matchMedia: () => desktop,
     Date,
     URL,
     location: { href: "https://example.com/library/" },
@@ -90,6 +92,10 @@ function fixture(enabled = true) {
     nav() {
       document.dispatchEvent(new Event("nav"))
     },
+    input(isDesktop: boolean) {
+      desktop.matches = isDesktop
+      desktop.dispatchEvent(new Event("change"))
+    },
   }
 }
 
@@ -97,6 +103,20 @@ test("a disabled ticker does not fetch, observe or schedule work across page nav
   const page = fixture(false)
   page.nav()
   assert.equal(page.fetches, 0)
+  assert.equal(page.observing, false)
+  assert.equal(page.timers.size, 0)
+})
+
+test("mobile skips ticker work and switching input modes stops desktop work", async () => {
+  const page = fixture(true, false)
+  page.nav()
+  assert.equal(page.fetches, 0)
+  assert.equal(page.observing, false)
+  assert.equal(page.timers.size, 0)
+  page.input(true)
+  assert.equal(page.fetches, 1)
+  page.input(false)
+  await page.finish()
   assert.equal(page.observing, false)
   assert.equal(page.timers.size, 0)
 })

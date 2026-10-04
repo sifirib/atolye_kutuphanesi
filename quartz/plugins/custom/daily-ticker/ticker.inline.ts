@@ -6,12 +6,13 @@ let request: Promise<void> | undefined
 let timer = 0
 let observer: ResizeObserver | undefined
 let paused = false
+const desktop = matchMedia("(hover: hover) and (pointer: fine)")
 try {
   paused = localStorage.getItem("library:ticker-paused") === "true"
 } catch {}
 
 function enabled() {
-  return document.documentElement.dataset.dailyTicker !== "off"
+  return desktop.matches && document.documentElement.dataset.dailyTicker !== "off"
 }
 function measure() {
   if (!enabled()) return
@@ -87,6 +88,7 @@ document.addEventListener("click", (event) => {
 })
 document.addEventListener("nav", mount)
 document.addEventListener("daily-ticker-change", mount)
+desktop.addEventListener("change", mount)
 document.addEventListener("prenav", () => {
   clearTimeout(timer)
   observer?.disconnect()

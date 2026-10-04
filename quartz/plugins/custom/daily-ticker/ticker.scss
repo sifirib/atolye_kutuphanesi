@@ -1,6 +1,12 @@
 :root:has(.daily-ticker) {
   --library-ticker-height: 2.25rem;
 }
+@media (hover: none), (pointer: coarse) {
+  :root:has(.daily-ticker) {
+    --library-ticker-height: 0px;
+  }
+  :root .daily-ticker { display: none; }
+}
 :root:is([reader-mode="on"], [data-daily-ticker="off"]) {
   --library-ticker-height: 0px;
   .daily-ticker {
