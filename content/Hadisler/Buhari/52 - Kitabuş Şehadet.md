@@ -274,7 +274,7 @@ Ve (Sav) Allah Rasûlü Hz.leri, Eş'as ibn Kays'a: **"Senin üzerine iki şahid
   
 	  Ve Allah, Kur'an'da bunun tasdikini indirdi: _"Şüphesiz, Allah'a verdikleri sözü ve yeminlerini az bir karşılığa değişenler var ya..." (Âl-i İmrân 77)_
 
-2717) (Ravi Ebu Vail dedi ki:) Bana el-Eş'as kavuştu da: Abdullah ibn Mesud bugün size ne tahdis etti? Dedi. Ben de: Şu ve şu hadisleri söyledi, dedim. El-Eş'as: Bu _(Âl-i İmrân 77)_ ayeti benim hakkımda indirildi, dedi.
+2718) (Ravi Ebu Vail dedi ki:) Bana el-Eş'as kavuştu da: Abdullah ibn Mesud bugün size ne tahdis etti? Dedi. Ben de: Şu ve şu hadisleri söyledi, dedim. El-Eş'as: Bu _(Âl-i İmrân 77)_ ayeti benim hakkımda indirildi, dedi.
 
 ### 27- Nasıl Yemin Verdirilir?  
   

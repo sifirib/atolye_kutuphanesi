@@ -134,10 +134,6 @@ Ve zikri ulu Allah'ın şu kavli: _"Eğer Müminlerden iki grup birbiriyle kavga
   
 2747) Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Her insanın bedenindeki her bir eklemin faydalarına karşı** (şükretmesi kendi) **üzerine bir sadakadır.** **Güneşin doğmakta olduğu her gün** (yani her günün gündüzünde) **insanlar arasında adalet yapması büyük bir sadakadır."**
 
-### 11- İnsanlar Arasını İyileştirip Barıştırmanın ve Yine İnsanlar Arasında Adalet Yapmanın Fazileti Bâbı  
-  
-2747) Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Her insanın bedenindeki her bir eklemin faydalarına karşı** (şükretmesi kendi) **üzerine bir sadakadır.** **Güneşin doğmakta olduğu her gün** (yani her günün gündüzünde) **insanlar arasında adalet yapması büyük bir sadakadır."**
-
 ### 12- İmam Barışmaya İşaret Ettiği ve Üzerinde Hak Bulunan Kimse de Barıştan Çekindiği Zaman İmam (yani Hakim), O Kimse Üzerine Kendisine Apaçık Olan Hükümle Hükmeder  
   
 2748) Zuhri şöyle demiştir: Bana Zubeyr'in oğlu Urve haber verdi ki Zubeyr şöyle tahdis ediyordu: Kendisi, Bedir'de hazır bulunmuş olan Ensar'dan bir adamla Harre mevkiinde hurmalıklarını suladıkları su yolları ve su nöbeti hakkında (Sav) Allah Rasûlü Hz.leri huzurunda davalaşmış. (Sav) Allah Rasûlü Hz.leri, Zubeyr'e: **"Ya Zubeyr! Tarlanı sula, sonra suyu hapsetmeyip komşuna salıver."** buyurdu. Ensari zat bundan öfkelendi de: Ya Rasûlallah! Zubeyr halanın oğlu olduğu için mi? Diyerek (tarafgirlik yaptığını) tariz etti. Hemen (Sav) Allah Rasûlü Hz.lerinin yüzünün rengi değişti. Sonra (Sav) Allah Rasûlü Hz.leri, Zubeyr'e: **"Ya Zubeyr! Tarlanı sula sonra suyu hapset, hurma ağaçlarının köklerine erişmedikçe bırakma!"** buyurdu.  

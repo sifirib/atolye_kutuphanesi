@@ -676,7 +676,7 @@ Ebu Derda'dan: Bizler birtakım toplulukların yüzlerine karşı dişlerimizi m
   
 	  Ravi Eyüp kendi elbisesiyle işaret edip: (Sav) Allah Rasûlü Hz.leri bu sözü söylerken kaftanı Mahreme'ye böyle gösteriyordu. Mahreme'nin huyunda bir sertlik vardı, demiştir.
 
-6200) Bu hadisi Hammad ibn Zeyd, Eyüp'ten rivayet etti. Hatem ibn Verdan da şöyle dedi: Bize Eyüp, İbn Muleyke'den o da el-Mısver'den: (Sav) Allah Rasûlü Hz.lerine birçok kaftan gelmişti, diye tahdis etti.
+6201) Bu hadisi Hammad ibn Zeyd, Eyüp'ten rivayet etti. Hatem ibn Verdan da şöyle dedi: Bize Eyüp, İbn Muleyke'den o da el-Mısver'den: (Sav) Allah Rasûlü Hz.lerine birçok kaftan gelmişti, diye tahdis etti.
 
 ### 83- Bâb: "(Akıllı ve Olgun) Mümin, Bir Yılan Deliğinden İki Kere Sokulmaz."  
   
@@ -944,12 +944,6 @@ Bunu Enes, (Sav) Allah Rasûlü Hz.lerinden olmak üzere söylemiştir.
   
 6257) Bize Hüseyin, Salim'den tahdis etti ki Cabir (Ra) şöyle demiştir: Bizim Ensar'dan bir adamın oğlan çocuğu doğdu da kendisi çocuğa Kasım adını verdi. Ensar: Bizler bunu (Sav) Allah Rasûlü Hz.lerine soruncaya kadar sana bu künyeyi vermeyiz! Dediler. Sorduklarında (Sav) Allah Rasûlü Hz.leri onlara: **"Benim ismimle çocuklarınızı isimleyiniz fakat künyem ile künyelenmeyiniz!"** buyurdu.
 
-### 106- (Sav) Allah Rasûlü Hz.lerinin: "Benim İsmimi Çocuklarınıza İsim Veriniz fakat Künyem ile Künyelenmeyiniz." Kavli Bâbı  
-  
-Bunu Enes, (Sav) Allah Rasûlü Hz.lerinden olmak üzere söylemiştir.  
-  
-6257) Bize Hüseyin, Salim'den tahdis etti ki Cabir (Ra) şöyle demiştir: Bizim Ensar'dan bir adamın oğlan çocuğu doğdu da kendisi çocuğa Kasım adını verdi. Ensar: Bizler bunu (Sav) Allah Rasûlü Hz.lerine soruncaya kadar sana bu künyeyi vermeyiz! Dediler. Sorduklarında (Sav) Allah Rasûlü Hz.leri onlara: **"Benim ismimle çocuklarınızı isimleyiniz fakat künyem ile künyelenmeyiniz!"** buyurdu.
-
 6258) Bize Sufyan ibn Uyeyne, Eyüp'ten o da İbn Sirin'den tahdis etti ki İbn Sirin şöyle demiştir: Ben Ebu Hureyre'den (Ra) işittim, (Sav) Ebu'l-Kasım: **"Benim ismimi çocuklarınıza isim veriniz fakat künyemle künyelenmeyiniz."** buyurdu, dedi.
 
 6259) Bize Sufyan ibn Uyeyne tahdis edip şöyle dedi: Ben İbn Munkedir'den işittim, şöyle dedi: Ben Cabir ibn Abdullah'tan (Ra) şunu işittim: Bizden bir adamın oğlu doğdu da ona el-Kasım ismi verdi. Ensar da ona: Bizler seni Ebu'l-Kasım ile künyelemeyiz ve sana bu doğum sebebiyle "Gözün aydın." diye ikram da etmeyiz, dediler.  
@@ -1008,10 +1002,6 @@ Ebu Hazım, Ebu Hureyre'den söyledi ki o: (Sav) Allah Rasûlü Hz.leri bana: **
   
 6274) Enes (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri insanların en güzel ahlaklısıydı. Benim (annem Ümmü Suleym'den) Ebu Umeyr denilen bir kardeşim vardı. -Zannederim ki: Sütten yeni ayrılmıştı, demiştir.- (Sav) Allah Rasûlü Hz.leri, Ümmü Suleym'e geldiği zaman o çocuğa: **"Ya Ebu Umeyr! Nuğayr kuşu ne yaptı?"** diye hitap eder, şakalaşırdı. Nuğayr (serçeye benzer bir kuştur ki) kardeşim onunla oynar dururdu. (Sav) Allah Rasûlü Hz.leri bizim evimizdeyken bazen namaz vakti gelirdi de hemen emir verir, altındaki yaygı süpürülür ve üzerine su serpilirdi. Sonra namaza durur, biz de arkasında durur, O bize namaz kıldırırdı.
  
-### 112- Küçük Çocuğa ve Henüz Çocuğu Doğmayan Kimseye Künye Verme(nin Caizliği) Bâbı  
-  
-6274) Enes (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri insanların en güzel ahlaklısıydı. Benim (annem Ümmü Suleym'den) Ebu Umeyr denilen bir kardeşim vardı. -Zannederim ki: Sütten yeni ayrılmıştı, demiştir.- (Sav) Allah Rasûlü Hz.leri, Ümmü Suleym'e geldiği zaman o çocuğa: **"Ya Ebu Umeyr! Nuğayr kuşu ne yaptı?"** diye hitap eder, şakalaşırdı. Nuğayr (serçeye benzer bir kuştur ki) kardeşim onunla oynar dururdu. (Sav) Allah Rasûlü Hz.leri bizim evimizdeyken bazen namaz vakti gelirdi de hemen emir verir, altındaki yaygı süpürülür ve üzerine su serpilirdi. Sonra namaza durur, biz de arkasında durur, O bize namaz kıldırırdı.
-
 ### 113- Kendisinin Daha Önce Başka Bir Künyesi Olsa Bile "Ebu Turab" Künyesiyle Künyelenme(nin Cevazı) Bâbı  
   
 6275) Sehl ibn Sa'd (Ra) şöyle demiştir: Şu muhakkak ki Ali'ye (Ra) isimleri içinde kendisine en sevimli olanı elbette "Ebu Turab" künyesiydi. Yine muhakkak ki kendisi bununla çağrılmaktan çok ferah duyardı. Bu künye ile ona isim takan, (Sav) Allah Rasûlü Hz.lerinden başkası değildi.   
@@ -1036,7 +1026,7 @@ Mısver ibn Mahreme: Ben (Sav) Allah Rasûlü Hz.lerinden minber üzerinde işit
   
 	  _"Kitap ehlinden birçoğu, hak kendilerine belirdikten sonra dahi içlerindeki kıskançlıktan ötürü sizi imanınızdan sonra küfre döndürmek isterler. Siz, şimdilik Allah onlar hakkındaki emrini getirinceye kadar affedin, hoşgörün. Şüphesiz Allah, gücü her şeye hakkıyla yetendir." (Bakara 109)_
 
-6278) Bize Abdulmelik ibn Umeyr, Abdullah ibn Haris ibn Nevfel'den tahdis etti ki Abbas ibn Abdulmuttalib: "Ya Rasûlallah! Amcam Ebu Talib'e herhangi bir şeyle fayda verdin, yarar sağladın mı? Çünkü o daima Seni korur ve Senin için düşmanlarına karşı öfkelenirdi!" dedi. (Sav) Allah Rasûlü Hz.leri: **"Evet, o şimdi topuklarına kadar dibi yakın ateşten bir çukur içindedir. Eğer ben olmasaydım muhakkak o Cehennemin derin çukurunda olacaktı."** buyurdu.
+6279) Bize Abdulmelik ibn Umeyr, Abdullah ibn Haris ibn Nevfel'den tahdis etti ki Abbas ibn Abdulmuttalib: "Ya Rasûlallah! Amcam Ebu Talib'e herhangi bir şeyle fayda verdin, yarar sağladın mı? Çünkü o daima Seni korur ve Senin için düşmanlarına karşı öfkelenirdi!" dedi. (Sav) Allah Rasûlü Hz.leri: **"Evet, o şimdi topuklarına kadar dibi yakın ateşten bir çukur içindedir. Eğer ben olmasaydım muhakkak o Cehennemin derin çukurunda olacaktı."** buyurdu.
 
 ### 116- Bâb: "Tevriye ve Kinaye Yoluyla Söylenen Tarizli Sözler, Yalandan Kurtulmadır."  
   

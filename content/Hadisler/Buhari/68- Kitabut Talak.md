@@ -184,11 +184,11 @@ _"İman etmedikleri sürece Allah'a ortak koşan kadınlarla evlenmeyin. Allah'a
   
 	  Sonra Ata, ahd ehlinin kıssasından da Mücahid'in hadisi gibi zikretti: O da şudur: Eğer ahd ehli olan müşriklerden bir erkek köle yahut bir cariye hicret edip gelirse bunlar o müşriklere geri verilmez de bunların kıymetleri bedelleri geri verilirdi.
 
-5341) Yine Ata, geçen isnatla İbn Abbas'tan söyledi: Karibe -yahut Kureybe- bint Ebu Umeyye -ki Ümmü Seleme'nin kız kardeşidir- Ömer ibn Hattab'ın nikahındaydı. Ömer onu boşadı müteakiben o kadınla Muaviye ibn Ebu Sufyan evlendi. Ebu Sufyan'ın kızı Ümmü Hakem de -ki bu kadın Muaviye ile Ümmü Habibe'nin baba bir kız kardeşleriydi- İyad ibn Ganin el-Fıhri'nin nikahındaydı. Bu İyad, Ümmü Hakem'i boşadı. Akabinde bu kadınla Abdullah ibn Osman es-Sakafi evlendi.
+5342) Yine Ata, geçen isnatla İbn Abbas'tan söyledi: Karibe -yahut Kureybe- bint Ebu Umeyye -ki Ümmü Seleme'nin kız kardeşidir- Ömer ibn Hattab'ın nikahındaydı. Ömer onu boşadı müteakiben o kadınla Muaviye ibn Ebu Sufyan evlendi. Ebu Sufyan'ın kızı Ümmü Hakem de -ki bu kadın Muaviye ile Ümmü Habibe'nin baba bir kız kardeşleriydi- İyad ibn Ganin el-Fıhri'nin nikahındaydı. Bu İyad, Ümmü Hakem'i boşadı. Akabinde bu kadınla Abdullah ibn Osman es-Sakafi evlendi.
 
 	  20- Bâb: Zımminin yahut Harbinin Nikahındaki Müşrike yahut Nasraniyye Bir Kadın İslam'a Girdiği Zaman (Hüküm Nasıldır? Sırf İslam'a Girişi ile Aralarında Ayrılık Hasıl Olur mu yahut Kadına Muhayyerlik mi Sabit Olur?)  
   
-5342) Abdu'l-varis, Halid el-Hazza'dan o da İkrime'den o da İbn Abbas'tan (Ra) olmak üzere söyledi: Nasraniyye bir kadın, kocasından bir saat önce İslam'a girdiğinde o kadın, kocasına haram olmuştur. Ebu Davud ibn Ebu Furat da İbrahim es-Saığ'dan söyledi ki o şöyle demiştir: Ata ibn Ebu Rebah'a: Ahd ehli olan zımmilerden bir kadın İslam'a girse ondan sonra da kadın daha iddet içindeyken kocası İslam'a girse kadın o kocanın karısı mıdır? Diye soruldu.  
+5343) Abdu'l-varis, Halid el-Hazza'dan o da İkrime'den o da İbn Abbas'tan (Ra) olmak üzere söyledi: Nasraniyye bir kadın, kocasından bir saat önce İslam'a girdiğinde o kadın, kocasına haram olmuştur. Ebu Davud ibn Ebu Furat da İbrahim es-Saığ'dan söyledi ki o şöyle demiştir: Ata ibn Ebu Rebah'a: Ahd ehli olan zımmilerden bir kadın İslam'a girse ondan sonra da kadın daha iddet içindeyken kocası İslam'a girse kadın o kocanın karısı mıdır? Diye soruldu.  
   
 	  Ata: Hayır ancak kadının yeni bir nikah ve yeni bir sadak istemesi vardır (çünkü İslam, aralarını ayırmıştır), diye cevap verdi.  
   
@@ -373,10 +373,6 @@ Ve insanların bazısı da (dilsizden ve gayrısından işaretle) had de li'an d
 5370) Bize Enes ibn İyad, Ubeydullah'tan o da Nafi'den tahdis etti ki ona da Abdullah ibn Ömer (Ra): (Sav) Allah Rasûlü Hz.leri, karısına zina isnat eden bir adamla karısını ayrı ayrı yemin ettirerek aralarını ayırdı, diye haber vermiştir.
 
 5371) Ubeydullah el-Umeri (şöyle demiştir): Bana Nafi haber verdi ki İbn Ömer (Ra): (Sav) Allah Rasûlü Hz.leri Ensar'dan bir karı koca arasında lanetleşme yaptırdı da bunların arasını ayırdı, demiştir.
-
-### 36- Bâb: Çocuk, Lanetleşme Yapan Kadının Soyuna Katılır  
-  
-5372) ...Bana Nafi, İbn Ömer'den tahdis etti ki (Sav) Allah Rasûlü Hz.leri, bir adamla karısı arasında lanetleşme yaptırmıştır. Adam kadından doğacak çocuğu reddetmiş bunun üzerine (Sav) Allah Rasûlü Hz.leri, o karı kocanın arasını ayırıp çocuğu da kadının nesebine katmıştır.
 
 ### 36- Bâb: Çocuk, Lanetleşme Yapan Kadının Soyuna Katılır  
   

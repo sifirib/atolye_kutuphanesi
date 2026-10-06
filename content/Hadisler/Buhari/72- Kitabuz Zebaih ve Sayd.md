@@ -222,7 +222,7 @@ Ve Said ibn Cubeyr, İbn Abbas'tan: Boğazlama, boğazda ve gerdanda olur, demi�
   
 	  Adiyy ibn Sabit, Said ibn Cubeyr'den o da İbn Abbas'tan o da (Sav) Allah Rasûlü Hz.lerinden buna yakın lafızla olan hadisi söyledi.
 
-5574) Bana Adiyy ibn Sabit haber verip şöyle dedi: Ben Abdullah ibn Yezid'den işittim ki (Sav) Allah Rasûlü Hz.leri açıktan ve zorla başkasının malını almaktan ve bir canlının organlarını kesmekten nehyetmiştir.
+5575) Bana Adiyy ibn Sabit haber verip şöyle dedi: Ben Abdullah ibn Yezid'den işittim ki (Sav) Allah Rasûlü Hz.leri açıktan ve zorla başkasının malını almaktan ve bir canlının organlarını kesmekten nehyetmiştir.
 
 ### 26- Tavuk Eti Bâbı  
   

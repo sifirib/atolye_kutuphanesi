@@ -38,13 +38,7 @@ Bu, birçok ayetlerde "Kur'anen Arabiyyen", "Bilisanin Arabiyyin mübinin" ş
   
 	  Neticede toplanan bu sahifeler, ta Allah kendisini vefat ettirinceye kadar Ebu Bekir'in yanında bulundu. Sonra hayatı müddetince Ömer'in yanında kaldı. Bundan sonra Ömer'in kızı Hafsa'nın yanında kaldı.
 
-5038) İbn Şihab şöyle tahdis etti: Ona da Enes ibn Malik şöyle tahdis etmiştir: Ermenistan Fethi'nde Suriyelilerle, Azerbaycan Fethi'nde de Iraklılarla birlikte harp eden Huzeyfe ibn Yeman, bunların Kur'an'ı çeşitli şekillerde okumalarının kendisine verdiği endişe üzerine Osman'ın yanına geldi ve ona: Ey Müminlerin emiri, sen Kur'an'ı okumakta Yahudilerle Hristiyanların kendi kitaplarını okumakta uğradıkları ayrılığa benzer bir ihtilafa düşmeden evvel bu ümmete yetiş, bu işin icabına bak, dedi.  
-  
-	  Bunun üzerine Osman, Hafsa'ya haber gönderip: Bize Kur'an'ın yazılı olduğu sahifeleri gönder de biz sureleri Mushaflara nakledelim sonra da o sahifeleri tekrar sana iade edelim, dedi.  
-  
-	  Bunun üzerine Hafsa muhafaza ettiği Kur'an'ı Osman'a gönderdi. Osman da Zeyd ibn Sabit, Abdullah ibn Zubeyr, Said ibn As ve Abdurrahman ibn Haris ibn Hişam'dan kurulu istinsah heyetine emir verdi. Onlar da bu asıl nüshadaki sureleri Mushaflara istinsah edip naklettiler. Osman bu istinsah işinin başında, Zeyd'in Medineli olması yüzünden Kureyşli olan üç kişiye hitaben: Sizler Zeyd ibn Sabit ile Kur'an'dan herhangi bir şeyde ihtilaf ettiğiniz zaman Kur'an'ı Kureyş lisanı ile yazınız çünkü Kur'an, Kureyş lisanı ile nazil olmuştur, dedi. Onlar da işte böyle yaptılar nihayet sahifeleri Mushaflara istinsah edip naklettikleri zaman Osman asıl sahifeleri tekrar Hafsa'ya iade etti. Heyet fertlerinin istinsah ettikleri Mushaflardan birer Mushaf'ı da her tarafa gönderdi. Bu gönderdiği (resmi) Mushafların dışında kalan ve içinde Kur'an yazılı bulunan her sahifenin yahut mushafın da yakılmasını emretti.
-
-5038) İbn Şihab şöyle tahdis etti: Ona da Enes ibn Malik şöyle tahdis etmiştir: Ermenistan Fethi'nde Suriyelilerle, Azerbaycan Fethi'nde de Iraklılarla birlikte harp eden Huzeyfe ibn Yeman, bunların Kur'an'ı çeşitli şekillerde okumalarının kendisine verdiği endişe üzerine Osman'ın yanına geldi ve ona: Ey Müminlerin emiri, sen Kur'an'ı okumakta Yahudilerle Hristiyanların kendi kitaplarını okumakta uğradıkları ayrılığa benzer bir ihtilafa düşmeden evvel bu ümmete yetiş, bu işin icabına bak, dedi.  
+5037) İbn Şihab şöyle tahdis etti: Ona da Enes ibn Malik şöyle tahdis etmiştir: Ermenistan Fethi'nde Suriyelilerle, Azerbaycan Fethi'nde de Iraklılarla birlikte harp eden Huzeyfe ibn Yeman, bunların Kur'an'ı çeşitli şekillerde okumalarının kendisine verdiği endişe üzerine Osman'ın yanına geldi ve ona: Ey Müminlerin emiri, sen Kur'an'ı okumakta Yahudilerle Hristiyanların kendi kitaplarını okumakta uğradıkları ayrılığa benzer bir ihtilafa düşmeden evvel bu ümmete yetiş, bu işin icabına bak, dedi.  
   
 	  Bunun üzerine Osman, Hafsa'ya haber gönderip: Bize Kur'an'ın yazılı olduğu sahifeleri gönder de biz sureleri Mushaflara nakledelim sonra da o sahifeleri tekrar sana iade edelim, dedi.  
   
@@ -82,9 +76,9 @@ Bu, birçok ayetlerde "Kur'anen Arabiyyen", "Bilisanin Arabiyyin mübinin" ş
   
 Mesruk, Âişe'den o da Fatıma'dan (As) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bana gizlice şöyle söyledi: **"Her sene Cibril, Kur'an'ı benimle bir kere mukabele ederdi. Bu sene iki defa mukabele eyledi. Öyle sanıyorum ki ecelim yaklaşmıştır."**  
   
-5048) İbn Abbas (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri, hayırda insanların en cömertiydi. En cömert olduğu zaman da Ramazan ayındaydı çünkü Ramazan ayı çıkıncaya kadar Cibril her gece O'nunla mülaki olur, (Sav) Allah Rasûlü Hz.leri de Kur'an'ı Cibril'e arz ederdi. İşte bundan dolayı Cibril, (Sav) Allah Rasûlü Hz.lerine kavuştuğu zaman (Sav) Allah Rasûlü Hz.leri hayırda, esmesi maniye uğramayan rüzgardan daha cömert olurdu.
+5049) İbn Abbas (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri, hayırda insanların en cömertiydi. En cömert olduğu zaman da Ramazan ayındaydı çünkü Ramazan ayı çıkıncaya kadar Cibril her gece O'nunla mülaki olur, (Sav) Allah Rasûlü Hz.leri de Kur'an'ı Cibril'e arz ederdi. İşte bundan dolayı Cibril, (Sav) Allah Rasûlü Hz.lerine kavuştuğu zaman (Sav) Allah Rasûlü Hz.leri hayırda, esmesi maniye uğramayan rüzgardan daha cömert olurdu.
 
-5049) Ebu Hureyre şöyle dedi: Cibril, (Sav) Allah Rasûlü Hz.lerine Kur'an'ı her sene bir defa arz ederdi. (Sav) Allah Rasûlü Hz.lerinin vefat ettiği yıl içinde O'na iki defa arz etti. (Sav) Allah Rasûlü Hz.leri, her sene on gün itikaf ederdi. Ruhunun kabzolunduğu yılda ise yirmi gün itikaf etti.
+5050) Ebu Hureyre şöyle dedi: Cibril, (Sav) Allah Rasûlü Hz.lerine Kur'an'ı her sene bir defa arz ederdi. (Sav) Allah Rasûlü Hz.lerinin vefat ettiği yıl içinde O'na iki defa arz etti. (Sav) Allah Rasûlü Hz.leri, her sene on gün itikaf ederdi. Ruhunun kabzolunduğu yılda ise yirmi gün itikaf etti.
 
 ### 8- (Sav) Allah Rasûlü Hz.lerinin Sahabilerinden Meşhur Olan Kur'an Üstatları Bâbı  
   
@@ -151,10 +145,6 @@ Bu konuda Amre, Âişe'den o da (Sav) Allah Rasûlü Hz.lerinden senedi ile gele
 5067) Ebu Said Hudri şöyle dedi: (Sav) Allah Rasûlü Hz.leri sahabilerine hitaben: **"Sizden herhangi biriniz bir gecede Kur'an'ın üçte birini okumaktan aciz olur mu?"** diye sordu. Bu teklif sahabilere güç geldi de: Ya Rasûlallah! Bizim hangimiz buna takat yetirir? Dediler. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Allahu'l-vahidu's-samedu suresi, Kur'an'ın üçte birisidir."** buyurdu.  
   
 	  Firabri şöyle dedi: Ben, Ebu Abdullah el-Buhari'nin varrakı olan Ebu Cafer Muhammed ibn Ebu Hatim'den işittim, o şöyle diyordu: Ebu Abdullah el-Buhari: Bu hadis, İbrahim en-Nehai'den o da Ebu Said'den insadıyla mürseldir (yani munkatıdır); ed-Dahhak el-Meşrıki'den o da İbn Said'den senediyle ise müsnettir (yani muttasıldır), dedi.
-
-### 14- El-Muavvizat Surelerinin Fazileti Bâbı  
-  
-5068) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir rahatsızlık duyduğu zaman kendi üzerine Muavvize (sığındırıcı) surelerini okur, nefes ederdi. Hastalığı şiddetlendiği zaman O'na ben okur ve O'nun elinin bereketini ümit ederek kendi eliyle O'na meshederdim.
 
 ### 14- El-Muavvizat Surelerinin Fazileti Bâbı  
   

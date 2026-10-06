@@ -385,9 +385,7 @@ Yüce Allah'ın: _"...Sonra orucu geceye kadar imsak ederek tamamlayınız..." (
 
 2000) Ebu Said (Ra), (Sav) Allah Rasûlü Hz.lerini şöyle buyururken işitmiştir: **"Sizler, orucunuzu öbürüne eklemeyiniz. Hanginiz bir günün orucunu diğer günün orucuna eklemek isterse nihayet sahur vaktine kadar ulaştırsın."** Sahabiler: Ya Rasûlallah! Sen birbirine ekleyerek oruç tutuyorsun? Dediler. (Sav) Allah Rasûlü Hz.leri **"Ben sizin heyetiniz gibi değilim çünkü ben geceyi, beni doyuran bir doyurucum ve beni sulayan bir sulayıcım olduğu halde geçiririm."** buyurdu.
 
-2001) Ebu Said (Ra), (Sav) Allah Rasûlü Hz.lerini şöyle buyururken işitmiştir: **"Sizler, orucunuzu öbürüne eklemeyiniz. Hanginiz bir günün orucunu diğer günün orucuna eklemek isterse nihayet sahur vaktine kadar ulaştırsın."** Sahabiler: Ya Rasûlallah! Sen birbirine ekleyerek oruç tutuyorsun? Dediler. (Sav) Allah Rasûlü Hz.leri **"Ben sizin heyetiniz gibi değilim çünkü ben geceyi, beni doyuran bir doyurucum ve beni sulayan bir sulayıcım olduğu halde geçiririm."** buyurdu.
-
-2002) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri ümmetine rahmeten oruçları birbirine eklemekten nehiy buyurdu. Sahabiler: "Sen bir günün orucunu diğer günün orucuna ekleyip ulaştırıyorsun?" dediler. (Sav) Allah Rasûlü Hz.leri: **"Ben sizin heyetiniz gibi değilim çünkü Rabb'im beni doyurur ve sular."** buyurdu.  
+2001) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri ümmetine rahmeten oruçları birbirine eklemekten nehiy buyurdu. Sahabiler: "Sen bir günün orucunu diğer günün orucuna ekleyip ulaştırıyorsun?" dediler. (Sav) Allah Rasûlü Hz.leri: **"Ben sizin heyetiniz gibi değilim çünkü Rabb'im beni doyurur ve sular."** buyurdu.  
    
 	  Ebu Abdullah el-Buhari dedi ki: Ravilerden Osman ibn Ebu Şeybe bu hadisteki "Rahmeten lehum (Ümmete rahmeten)" kısmını zikretmedi.
 
@@ -401,15 +399,10 @@ Bu cezayı Enes (Ra), (Sav) Allah Rasûlü Hz.lerinden rivayet etmiştir.
 
 2003) Hemmam ibn Münebbih es-Sanani, Ebu Hureyre'den işitmiştir. (Sav) Allah Rasûlü Hz.leri sahabilerine iki kere: **"Sizleri, orucunuzu öbür günün orucuna eklemekten nehyediyorum."** buyurdu. Kendisine: "Sen orucunu, öbür günün orucuna ekliyorsun." denildi. (Sav) Allah Rasûlü Hz.leri: **"Ben, Rabb'im beni doyurur ve sular halde gecelerim. Bunun için sizler amellerden** (ibadetlerden) **gücünüzün yeteceği miktarını muhabbet eyleyin** (yani üzerinize alın)**."** buyurdu.
 
-2004) Hemmam ibn Münebbih es-Sanani, Ebu Hureyre'den işitmiştir. (Sav) Allah Rasûlü Hz.leri sahabilerine iki kere: **"Sizleri, orucunuzu öbür günün orucuna eklemekten nehyediyorum."** buyurdu. Kendisine: "Sen orucunu, öbür günün orucuna ekliyorsun." denildi. (Sav) Allah Rasûlü Hz.leri: **"Ben, Rabb'im beni doyurur ve sular halde gecelerim. Bunun için sizler amellerden** (ibadetlerden) **gücünüzün yeteceği miktarını muhabbet eyleyin** (yani üzerinize alın)**."** buyurdu.
-
 ### 50- Bir Günün Orucunu Seher Vaktine Kadar Ulaştırmak Bâbı  
   
 2004) Ebu Said el-Hudri, (Sav) Allah Rasûlü Hz.lerini şöyle buyururken işitmiştir: **"Sizler orucunuzu öbür günün orucuna eklemeyiniz. Hangi biriniz orucunu öbür günün orucuna eklemek isterse nihayet onu seher** (yani sahur) **vaktine kadar ulaştırsın."** Sahabiler: "Ya Rasûlallah, sen orucunu öbür günün orucuna ekliyorsun." dediler. (Sav) Allah Rasûlü Hz.leri: **"Ben sizin heyetiniz yani haliniz gibi değilimdir çünkü ben, beni doyurmakta olan bir doyurucum ve beni sulamakta olan bir sulayıcım olduğu halde gecelerim."** buyurdu.
 
-### 50- Bir Günün Orucunu Seher Vaktine Kadar Ulaştırmak Bâbı  
-  
-2004) Ebu Said el-Hudri, (Sav) Allah Rasûlü Hz.lerini şöyle buyururken işitmiştir: **"Sizler orucunuzu öbür günün orucuna eklemeyiniz. Hangi biriniz orucunu öbür günün orucuna eklemek isterse nihayet onu seher** (yani sahur) **vaktine kadar ulaştırsın."** Sahabiler: "Ya Rasûlallah, sen orucunu öbür günün orucuna ekliyorsun." dediler. (Sav) Allah Rasûlü Hz.leri: **"Ben sizin heyetiniz yani haliniz gibi değilimdir çünkü ben, beni doyurmakta olan bir doyurucum ve beni sulamakta olan bir sulayıcım olduğu halde gecelerim."** buyurdu.
 
 ### 51- Nafile Olarak Oruçlu Bulunan Din Kardeşine Bu Orucunu Bozdurmaya Yemin Eden ve Orucu Bozmak Kendisine Daha Hayırlı Olduğu Takdirde Orucunu Bozan Kimseye Bir Ödeme Gerekmediği Görüşünde Bulunan Kimse Bâbı  
   

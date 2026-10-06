@@ -777,7 +777,7 @@ Ve Ümmü Seleme şöyle dedi: "Ben insanların gerisinde tavaf ettim. (Sav) All
   
 	  Ve Musa ibn İsmail şöyle dedi: Bize Eban tahdis edip şöyle dedi: Bize Katade tahdis edip şöyle dedi: Bize İkrime tahdis etti.
   
- 796) Bize el-Leys, Ukayl'den o da İbn Şihab'dan tahdis etti. O şöyle demiştir: Bana Abdurrahman ibn Haris'in oğlu Ebu Bekir haber verdi. O, Ebu Hureyre'den şöyle derken işitmiştir: (Sav) Allah Rasûlü Hz.leri namaza kalktığında ayaktayken ihram tekbiri alırdı. Sonra rükuya varırken tekbir alırdı. Sonra rükudan belini doğrulttuğunda **"Semiallahu limen hamideh"** sonra ayaktayken **"Rabbena ve leke'l-hamd"** derdi. Sonra secdeye inerken tekbir alır sonra secdeden başını kaldırırken tekbir alır sonra (ikinci) secdeye varırken tekbir alır sonra bir daha başını kaldırırken tekbir alır sonra tamam edinceye kadar bütün namazda böyle yapardı. İkinci rekatı bitirip oturduktan sonra ayağa kalkarken de tekbir alırdı.
+ 797) Bize el-Leys, Ukayl'den o da İbn Şihab'dan tahdis etti. O şöyle demiştir: Bana Abdurrahman ibn Haris'in oğlu Ebu Bekir haber verdi. O, Ebu Hureyre'den şöyle derken işitmiştir: (Sav) Allah Rasûlü Hz.leri namaza kalktığında ayaktayken ihram tekbiri alırdı. Sonra rükuya varırken tekbir alırdı. Sonra rükudan belini doğrulttuğunda **"Semiallahu limen hamideh"** sonra ayaktayken **"Rabbena ve leke'l-hamd"** derdi. Sonra secdeye inerken tekbir alır sonra secdeden başını kaldırırken tekbir alır sonra (ikinci) secdeye varırken tekbir alır sonra bir daha başını kaldırırken tekbir alır sonra tamam edinceye kadar bütün namazda böyle yapardı. İkinci rekatı bitirip oturduktan sonra ayağa kalkarken de tekbir alırdı.
   
 ### 118- Rükuda Avuçları Dizler Üzerine Koymak Bâbı
   
@@ -983,7 +983,7 @@ Ve Ümmü Seleme şöyle dedi: "Ben insanların gerisinde tavaf ettim. (Sav) All
  
 	   Muhammed ibn Yusuf şöyle dedi: Ben Halef ibn Amir'den işittim. O, şeddesiz el-Mesih ile şeddelenmiş el-Messih isimleri hakkında: Bu ikisi arasında hiçbir fark yoktur, bunların biri İsa (As) diğeri de Deccal'dir, diyordu.
   
- 840) Bize el-Leys, Yezid ibn Ebu Habib'den o da Ebu Hayr'dan o da Abdullah ibn Amr'dan o da Ebu Bekir es-Sıddık'tan tahdis etti. Ebu Bekir, (Sav) Allah Rasûlü Hz.lerine: Bana bir dua öğret de namazımın içinde (yani sonunda) onunla dua edeyim, demiş. (Sav) Allah Rasûlü Hz.leri de: **"Allahumme inni zalemtu nefsi zulmen kesiran. Ve la yağfiru'z-zunube illa ente. Fağfir li mağfiraten min indike ve'rhamni. İnneke ente'l-gafuru'rrahimu** (Ya Allah, şüphesiz Ben kendime çok zulüm ettim. Günahları mağfiret edecek de ancak Sensin. Öyle ise kendi rahimiyyet katından gelen bir mağfiret ile bana mağfiret ve bana rahmet eyle. Şüphesiz ki Gafur ve Rahim ancak Sensin)**.'** **de."** buyurdu.
+ 842) Bize el-Leys, Yezid ibn Ebu Habib'den o da Ebu Hayr'dan o da Abdullah ibn Amr'dan o da Ebu Bekir es-Sıddık'tan tahdis etti. Ebu Bekir, (Sav) Allah Rasûlü Hz.lerine: Bana bir dua öğret de namazımın içinde (yani sonunda) onunla dua edeyim, demiş. (Sav) Allah Rasûlü Hz.leri de: **"Allahumme inni zalemtu nefsi zulmen kesiran. Ve la yağfiru'z-zunube illa ente. Fağfir li mağfiraten min indike ve'rhamni. İnneke ente'l-gafuru'rrahimu** (Ya Allah, şüphesiz Ben kendime çok zulüm ettim. Günahları mağfiret edecek de ancak Sensin. Öyle ise kendi rahimiyyet katından gelen bir mağfiret ile bana mağfiret ve bana rahmet eyle. Şüphesiz ki Gafur ve Rahim ancak Sensin)**.'** **de."** buyurdu.
   
 ### 150- Teşehhüdden Sonra (Selamdan Önce) Vacip Olmaksızın Tercih Olunacak Dua Bâbı
   
@@ -1025,7 +1025,7 @@ Ve Ümmü Seleme şöyle dedi: "Ben insanların gerisinde tavaf ettim. (Sav) All
   
 	   Ravi dedi ki: Aramızda ihtilaf ettik: Bazımız otuz üç kere tesbih, otuz üç kere tahmid eder, otuz dört kere tekbir alırız, dedi. Bunun üzerine (sormak için) yanına döndüm. O: **"Subhanallahi, vel hamdulillahi ve Allahu Ekber tabirlerinden her biri otuz üçer oluncaya kadar söylersin."** dedi.
   
- 849) Bize Sufyan es-Sevri, Abdulmelik ibn Umeyr'den o da Mugire ibn Şu'be'nin katibi Verrad'dan tahdis etti. Verrad şöyle dedi: Mugire ibn Şu'be, Muaviye'ye yazdığı bir mektupta bana şöyle imla etti. (Sav) Allah Rasûlü Hz.leri her farz namazdan sonra: **"La ilahe ilallahu vehdehu la şerike leh. Lehul mülkü ve lehul hamdu ve huve ala külli şey'in kadir. Allahumme la mania lima a'tayte vela mu'tiye lima mena'te vela yenfau ze'l ceddi minke'l ceddu** (Yegane Allah'tan başka hiçbir ilah yoktur. O'nun hiçbir ortağı yoktur. Mülk O'nundur. Hamd O'na mahsustur. Her şeye kudreti yeten de O'dur. Ya Allah, Senin verdiğine mani olabilecek hiç yok, vermediğini verebilecek de hiç yok. Zenginlik sahibinin zenginliği ve bahtı Senin lütfun ve ihsanın yerine geçip de kendisine fayda veremez)**."** derdi.
+ 842) Bize Sufyan es-Sevri, Abdulmelik ibn Umeyr'den o da Mugire ibn Şu'be'nin katibi Verrad'dan tahdis etti. Verrad şöyle dedi: Mugire ibn Şu'be, Muaviye'ye yazdığı bir mektupta bana şöyle imla etti. (Sav) Allah Rasûlü Hz.leri her farz namazdan sonra: **"La ilahe ilallahu vehdehu la şerike leh. Lehul mülkü ve lehul hamdu ve huve ala külli şey'in kadir. Allahumme la mania lima a'tayte vela mu'tiye lima mena'te vela yenfau ze'l ceddi minke'l ceddu** (Yegane Allah'tan başka hiçbir ilah yoktur. O'nun hiçbir ortağı yoktur. Mülk O'nundur. Hamd O'na mahsustur. Her şeye kudreti yeten de O'dur. Ya Allah, Senin verdiğine mani olabilecek hiç yok, vermediğini verebilecek de hiç yok. Zenginlik sahibinin zenginliği ve bahtı Senin lütfun ve ihsanın yerine geçip de kendisine fayda veremez)**."** derdi.
   
 	  Ve Şu'be, Abdulmelik'ten de bu hadisi rivayet etti. Ve yine Şu'be, el Hakem'den o da el-Kasım ibn Muhaymira'dan o da Verrad'dan olmak üzere bu hadisi rivayet etti. Hasan-ı Basri: Bu "el-Ceddu" zenginliktir, dedi.
   
@@ -1115,7 +1115,7 @@ Ve Ümmü Seleme şöyle dedi: "Ben insanların gerisinde tavaf ettim. (Sav) All
  
 	  (Ravi dedi ki:) Yatsı namazı o zamanda Medine'den başka bir yerde kılınmazdı. O zamanlarda Müslümanlar yatsı namazını kızıllığın kaybolmasından, gecenin ilk üçte birine kadar olan vakit arasında kılarlardı.
  
- 872) Bize Ubeydullah ibn Musa, Hanzala'dan o da Salim ibn Abdullah'tan o da İbn Ömer'den tahdis etti. (Sav) Allah Rasûlü Hz.leri **''Kadınlarınız sizden geceleyin mescide izin istediklerinde kendilerine izin veriniz."** buyurmuştur.
+ 873) Bize Ubeydullah ibn Musa, Hanzala'dan o da Salim ibn Abdullah'tan o da İbn Ömer'den tahdis etti. (Sav) Allah Rasûlü Hz.leri **''Kadınlarınız sizden geceleyin mescide izin istediklerinde kendilerine izin veriniz."** buyurmuştur.
  
 	  Bu hadisi el-A'meş'ten o da Mücahid'den o da İbn Ömer'den o da (Sav) Allah Rasûlü Hz.lerinden olmak üzere rivayet etmekte Şu'be ibn Haccac, Ubeydullah ibn Musa'ya mütabaat etmiştir.
  

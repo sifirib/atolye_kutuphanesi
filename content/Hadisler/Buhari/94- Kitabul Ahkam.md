@@ -254,10 +254,6 @@ Osman ibn Affan (Ra), Mugire ibn Şu'be'nin bir kölesinin davetine icabet etmi�
   
 7265) Bize Asim ibn Muhammed ibn Zeyd ibn Abdullah ibn Ömer, babası Muhammed ibn Zeyd'den tahdis etti: Birtakım insanlar İbn Ömer'e (Ra): Bizler sultanımızın huzuruna giriyoruz da onlar lehine, onların yanından dışarı çıktığımız zaman konuşmakta olduklarımızın zıddını söylüyoruz! Dediler. İbn Ömer: Biz bu fiili ((Sav) Allah Rasûlü Hz.leri zamanında) münafıklık sayıyorduk, dedi.
 
-### 27- Bir Kimsenin Sultanın Huzurunda Sultanı Methetmesi, Oradan Çıktığında da Bunun Zıddını Söylemesinin Çirkin Olması Bâbı  
-  
-7265) Bize Asim ibn Muhammed ibn Zeyd ibn Abdullah ibn Ömer, babası Muhammed ibn Zeyd'den tahdis etti: Birtakım insanlar İbn Ömer'e (Ra): Bizler sultanımızın huzuruna giriyoruz da onlar lehine, onların yanından dışarı çıktığımız zaman konuşmakta olduklarımızın zıddını söylüyoruz! Dediler. İbn Ömer: Biz bu fiili ((Sav) Allah Rasûlü Hz.leri zamanında) münafıklık sayıyorduk, dedi.
-
 7266) Bize el-Leys, Yezid ibn Ebu Habib'den o da Irak'tan tahdis eyledi ki Ebu Hureyre (Ra), (Sav) Allah Rasûlü Hz.lerinden: **"İnsanların en şerlisi, ikiyüzlü olan şu kimsedir ki şunlara bir yüzle gelir, bunlara da başka bir yüzle gelir."** buyururken işitmiştir.
 
 ### 28- (Allah Haklarında Değil de İnsan Hakları Hususunda) Hazır Olmayan Kimse Üzerine Hüküm Verme Bâbı  

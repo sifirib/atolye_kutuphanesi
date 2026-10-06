@@ -12,9 +12,9 @@ _"Ey peygamberler! Temiz şeylerden yiyiniz ve iyi ameller işleyiniz. Doğrusu 
   
 	  Ravi Sufyan: "El-Ani", "Esir"dir, dedi.
 
-5427) Bize Muhammed ibn Fudayl, babası Fudayl ibn Gazvan'dan o da Ebu Hazım'dan tahdis etti ki Ebu Hureyre (Ra): (Sav) Allah Rasûlü Hz.lerinin ailesi, kendisi kabzolununcaya kadar üç gün (üst üste) yemekten doymadı, demiştir.
+5428) Bize Muhammed ibn Fudayl, babası Fudayl ibn Gazvan'dan o da Ebu Hazım'dan tahdis etti ki Ebu Hureyre (Ra): (Sav) Allah Rasûlü Hz.lerinin ailesi, kendisi kabzolununcaya kadar üç gün (üst üste) yemekten doymadı, demiştir.
 
-5428) Ve yine Ebu Hazım'dan, Ebu Hureyre şöyle demiştir: Bana şiddetli bir açlık isabet etmişti. Yolda Ömer ibn Hattab'a kavuştum. Kendisinden Allah'ın Kitabı'ndan bir ayeti bana okumasını istedim. Ömer evine girdi ve o ayeti bana okudu. Evden ayrılıp uzak gitmeden meşakkat ve açlıktan dolayı yüzüm üstüne düştüm. Bu baygınlık sırasında bir de gördüm ki (Sav) Allah Rasûlü Hz.leri baş ucumda dikilmiş: **"Ya Ebu Hureyre!"** dedi. Ben de: "Buyur ya Rasûlallah, emrine hazırım. Her saadet Senindir!" dedim. Akabinde elimi tuttu, beni kaldırdı ve bendeki açlığı anladı. Beni evine götürdü. Hemen benim için büyük bir bardak süt emretti. Ben ondan içtim. Sonra: **"Tekrar iç ya Ebu Hureyre!"** buyurdu. Tekrar bir bardak daha içtim. Sonra yine: **"Tekrarla!"** buyurdu. Ben de tekrarlayıp bir daha içtim. Artık karnımın vaziyeti düzeldi, karnım bir ok gibi dümdüz oldu. Ebu Hureyre devamla dedi ki: Bir müddet sonra Ömer'e kavuştum, başımdan geçen bu vakayı ona zikrettim de: "Ya Ömer! Allah benim karnımı doyurmaya senden daha layık bir Zatı memur etti. Vallahi ben senden bana bir ayet okuyup öğretmeni istemiştim. Halbuki ben o ayeti senden daha düzgün okumaktaydım." dedim. Bunun üzerine Ömer: "Vallahi (ya Ebu Hureyre), seni evime koyup doyurmak benim için kırmızı develerim olmasından daha sevimlidir." dedi.
+5429) Ve yine Ebu Hazım'dan, Ebu Hureyre şöyle demiştir: Bana şiddetli bir açlık isabet etmişti. Yolda Ömer ibn Hattab'a kavuştum. Kendisinden Allah'ın Kitabı'ndan bir ayeti bana okumasını istedim. Ömer evine girdi ve o ayeti bana okudu. Evden ayrılıp uzak gitmeden meşakkat ve açlıktan dolayı yüzüm üstüne düştüm. Bu baygınlık sırasında bir de gördüm ki (Sav) Allah Rasûlü Hz.leri baş ucumda dikilmiş: **"Ya Ebu Hureyre!"** dedi. Ben de: "Buyur ya Rasûlallah, emrine hazırım. Her saadet Senindir!" dedim. Akabinde elimi tuttu, beni kaldırdı ve bendeki açlığı anladı. Beni evine götürdü. Hemen benim için büyük bir bardak süt emretti. Ben ondan içtim. Sonra: **"Tekrar iç ya Ebu Hureyre!"** buyurdu. Tekrar bir bardak daha içtim. Sonra yine: **"Tekrarla!"** buyurdu. Ben de tekrarlayıp bir daha içtim. Artık karnımın vaziyeti düzeldi, karnım bir ok gibi dümdüz oldu. Ebu Hureyre devamla dedi ki: Bir müddet sonra Ömer'e kavuştum, başımdan geçen bu vakayı ona zikrettim de: "Ya Ömer! Allah benim karnımı doyurmaya senden daha layık bir Zatı memur etti. Vallahi ben senden bana bir ayet okuyup öğretmeni istemiştim. Halbuki ben o ayeti senden daha düzgün okumaktaydım." dedim. Bunun üzerine Ömer: "Vallahi (ya Ebu Hureyre), seni evime koyup doyurmak benim için kırmızı develerim olmasından daha sevimlidir." dedi.
 
 ### 2- Yemeğe Başlama Sırasında Bismillahirrahmanirrahim Demek ve Sağ Elle Yemek Bâbı  
   
@@ -56,13 +56,13 @@ Ve Enes: (Sav) Allah Rasûlü Hz.leri: **"Allah'ın ismini anın ve her bir ki
   
 	  Ebu Talha onlara da izin verdi, onlar da doyuncaya kadar yedikten sonra dışarıya çıktılar. Böylece cemaatin hepsi yediler ve doydular. Halbuki bu topluluk seksen kişiydi.
 
-5435) Abdurrahman ibn Ebu Bekir (Ra) şöyle demiştir: Biz bir seferde (Sav) Allah Rasûlü Hz.lerinin maiyetinde yüz otuz kişi bulunduk. (Sav) Allah Rasûlü Hz.leri: **"Sizden birinizin yanında yiyecek bir şey var mıdır?"** diye sordu. O sırada bir kişinin yanında bir sa yahut buna benzer bir kap erzak bulundu. Bu hemen yoğrulup hamur yapıldı. Sonra başı açık, perişan, uzun boylu bir müşrik kişi; bir koyun sürüsünü sürüp geldi. (Sav) Allah Rasûlü Hz.leri ona: **"Bunlar satılık mı yoksa atıyye** -yahut: **Hediye**- **midir?"** diye sordu. Çoban: Hayır (atıyye ve hediye değil), satılıktır, diye cevap verdi.  
+5436) Abdurrahman ibn Ebu Bekir (Ra) şöyle demiştir: Biz bir seferde (Sav) Allah Rasûlü Hz.lerinin maiyetinde yüz otuz kişi bulunduk. (Sav) Allah Rasûlü Hz.leri: **"Sizden birinizin yanında yiyecek bir şey var mıdır?"** diye sordu. O sırada bir kişinin yanında bir sa yahut buna benzer bir kap erzak bulundu. Bu hemen yoğrulup hamur yapıldı. Sonra başı açık, perişan, uzun boylu bir müşrik kişi; bir koyun sürüsünü sürüp geldi. (Sav) Allah Rasûlü Hz.leri ona: **"Bunlar satılık mı yoksa atıyye** -yahut: **Hediye**- **midir?"** diye sordu. Çoban: Hayır (atıyye ve hediye değil), satılıktır, diye cevap verdi.  
   
 	  Ravi dedi ki: (Sav) Allah Rasûlü Hz.leri ondan bir koyun satın aldı. Koyun kesildi. (Sav) Allah Rasûlü Hz.leri (evvela) ciğer takımının pişirilmesini emretti. Allah'a yemin ederim ki yüz otuz içinden hiçbirisi eksik kalmadı muhakkak (Sav) Allah Rasûlü Hz.leri bu hayvanın ciğerinden bir parça kesip orada hazır bulunuyorsa hemen verdi, hariçte bulunanların hissesini de onlar için alıkoydu. Sonra koyunun eti pişirilince iki kaba koydu. Biz hepimiz bu iki kaptan yedik ve doyduk. İki kapta biraz et arttı. Ben kalan eti deveye yükledim.  
   
 	  Ravi: Yahut Abdurrahman ibn Ebu Bekir'in dediği söz gibi, demiştir.
 
-5436) Bize Mansur, annesi (Safiyye bint Şeybe ibn Osman el-Hacebi)'den o da Âişe'den (Ra) "Biz esvedeyn (iki kara) denilen hurma ile sudan doyup kandığımız zaman (Sav) Allah Rasûlü Hz.leri vefat etti." dediğini tahdis etti.
+5437) Bize Mansur, annesi (Safiyye bint Şeybe ibn Osman el-Hacebi)'den o da Âişe'den (Ra) "Biz esvedeyn (iki kara) denilen hurma ile sudan doyup kandığımız zaman (Sav) Allah Rasûlü Hz.leri vefat etti." dediğini tahdis etti.
 
 ### 7- Bâb  
   
@@ -194,13 +194,13 @@ Ve Humeyd et-Tavil şöyle demiştir: Ben Enes'ten işittim, şöyle diyordu: (
   
 	  Ebu Hazım dedi ki: Ben: Elenmemiş arpa ununu sizler nasıl yerdiniz? Dedim. Sehl: Biz onu öğütür, üflerdik de ondan uçan kabuklar uçar; kalanını da hamur yoğurup yerdik, dedi.
 
-5468) Bize İbn Ebu Zi'b, Said el-Makburi'den o da Ebu Hureyre'den (Ra) tahdis etti ki Ebu Hureyre bir kere önlerinde kebap yapılmış bir koyun bulunan bir cemaate uğramıştı. Onlar Ebu Hureyre'yi kebap yemeye davet etmişler fakat o kebap yemeyi kabul etmeyip: (Sav) Allah Rasûlü Hz.leri şu dünyadan arpa ekmeği ile karnı doymadan çıkıp gitti, demiştir.
+5469) Bize İbn Ebu Zi'b, Said el-Makburi'den o da Ebu Hureyre'den (Ra) tahdis etti ki Ebu Hureyre bir kere önlerinde kebap yapılmış bir koyun bulunan bir cemaate uğramıştı. Onlar Ebu Hureyre'yi kebap yemeye davet etmişler fakat o kebap yemeyi kabul etmeyip: (Sav) Allah Rasûlü Hz.leri şu dünyadan arpa ekmeği ile karnı doymadan çıkıp gitti, demiştir.
 
-5469) Enes ibn Malik (Ra): (Sav) Allah Rasûlü Hz.lerine yüksek masa üzerinde ne sükkürüce denilen sofra tahtasında yemek yedi. (Sav) Allah Rasûlü Hz.lerine halis buğday unundan yufka ekmeği de yapılmadı, demiştir.  
+5470) Enes ibn Malik (Ra): (Sav) Allah Rasûlü Hz.lerine yüksek masa üzerinde ne sükkürüce denilen sofra tahtasında yemek yedi. (Sav) Allah Rasûlü Hz.lerine halis buğday unundan yufka ekmeği de yapılmadı, demiştir.  
   
 	  Hadisin ravisi Yunus ibn Ebu Furat: Ben Katade'ye: Sizler ne üzerinde yerdiniz? Dedim. Katade: Deri sofralar üzerinde yerdik, dedi.
 
-5470) Âişe (Ra): (Sav) Muhammed ailesi, Medine'ye hicret edip geldikleri zamandan (Sav) Allah Rasûlü Hz.lerinin ruhu alınıncaya kadar arka arkaya üç gün buğday ekmeği ile karınları doymadı, demiştir.
+5471) Âişe (Ra): (Sav) Muhammed ailesi, Medine'ye hicret edip geldikleri zamandan (Sav) Allah Rasûlü Hz.lerinin ruhu alınıncaya kadar arka arkaya üç gün buğday ekmeği ile karınları doymadı, demiştir.
 
 ### 24- Telbine Bulamacı Bâbı  
   
@@ -228,7 +228,7 @@ Aişe ile Esma: Biz (Sav) Allah Rasûlü Hz.leriyle Ebu Bekir için (Hicret yolc
   
 	  Ravi İbn Kesir: Bize Sufyan haber verdi. Bize Abdurrahman ibn Abis bu hadisi tahdis etti, şeklinde söylemiştir.
 
-5478) Bana Abdullah ibn Muhammed el-Musnidi tahdis etti. Bize Sufyan ibn Uyeyne, Amr ibn Dinar'dan o da Ata ibn Ebu Rebah'tan tahdis etti ki Cabir (Ra): "Biz (Sav) Allah Rasûlü Hz.lerinin zamanında hedy kurbanlarımızın etlerini Medine'ye kadar azık edinirdik." demiştir. Abdullah ibn Muhammed el-Müsnidi'ye, Muhammed ibn Selam da İbn Uyeyne'den rivayet etmekle mütabaat etmiştir. İbn Cureyc de dedi ki: Ben Ata'ya: "Cabir 'Medine'ye gelinceye kadar...' sözünü söyledi mi?" dedim. Ata: "Hayır (Cabir 'Medine'ye gelinceye kadar...' sözünü söylemedi)." dedi.
+5479) Bana Abdullah ibn Muhammed el-Musnidi tahdis etti. Bize Sufyan ibn Uyeyne, Amr ibn Dinar'dan o da Ata ibn Ebu Rebah'tan tahdis etti ki Cabir (Ra): "Biz (Sav) Allah Rasûlü Hz.lerinin zamanında hedy kurbanlarımızın etlerini Medine'ye kadar azık edinirdik." demiştir. Abdullah ibn Muhammed el-Müsnidi'ye, Muhammed ibn Selam da İbn Uyeyne'den rivayet etmekle mütabaat etmiştir. İbn Cureyc de dedi ki: Ben Ata'ya: "Cabir 'Medine'ye gelinceye kadar...' sözünü söyledi mi?" dedim. Ata: "Hayır (Cabir 'Medine'ye gelinceye kadar...' sözünü söylemedi)." dedi.
 
 ### 28- Hays Yemeği Bâbı  
   

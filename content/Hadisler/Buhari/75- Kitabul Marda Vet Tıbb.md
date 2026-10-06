@@ -22,10 +22,6 @@
   
 	  (Sav) Allah Rasûlü Hz.leri: **"Evet. Herhangi Müslümana bir eza isabet ederse muhakkak ağacın yapraklarının düşmesi gibi Allah o Müslümandan günahlarını düşürür."** buyurdu.
 
-5707) Abdullah ibn Mesud (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.lerinin hastalığında vücudu hummanın hararetinden şiddetle sarsıldığı sırada huzuruna vardım ve: Ya Rasûlallah, şüphesiz ki humma hararetinden çok ızdırap çekmektesin! Dedim. Ardından: Ya Rasûlallah; bu şiddetli hummanın şüphesiz iki kat ızdırabı var, elbette buna karşılık size de iki kat ecir ve mükafat vardır! Diye arz ettim.  
-  
-	  (Sav) Allah Rasûlü Hz.leri: **"Evet. Herhangi Müslümana bir eza isabet ederse muhakkak ağacın yapraklarının düşmesi gibi Allah o Müslümandan günahlarını düşürür."** buyurdu.
-
 ### 3- Bâb: "İnsanlar İçinde Belası En Şiddetli Olanlar Peygamberlerdir. Sonra Sırasıyla Fazilette İlk Olan Sonra İlk Olandır."  
   
 5708) Abdullah ibn Mesud (Ra) şöyle demiştir: Ben, (Sav) Allah Rasûlü Hz.leri şiddetli humma hastalığıyla sarsılırken huzuruna girdim ve: Ya Rasûlallah, muhakkak ki Sen şiddetli bir humma hastalığıyla sarsılmaktasın, dedim. (Sav) Allah Rasûlü Hz.leri: **"Evet, ben sizlerden iki kişinin yanması kadar yanmaktayım."** buyurdu. Ben: Şüphesiz bu iki kat yanmanın Sizin için iki kat ecri vardır, dedim. (Sav) Allah Rasûlü Hz.leri: **"Evet, bu katlanmış hararetin mükafatı da böyle katlanmış olur: Müslümana bir diken batması ve daha küçük neviden bir eza isabet ederse Allah muhakkak bu ezaya mukabil, onun seyyielerini ağacın kendi yapraklarını** **atması gibi kefaretleyip örter."** buyurdu.

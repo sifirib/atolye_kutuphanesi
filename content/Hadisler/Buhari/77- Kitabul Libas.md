@@ -503,7 +503,7 @@ Ve Âişe'nin (Ra) üzerinde altın yüzükler vardı.
   
 	  İbn Abbas: (Sav) Allah Rasûlü Hz.leri filan kimseyi dışarı çıkardı. Ömer de filan kimseyi dışarı çıkardı, demiştir.
 
-5947) (Sav) Allah Rasûlü Hz.lerinin zevcesi Ümmü Seleme (Ra), kendinin ve Ebu Seleme'nin kızı olan Zeynep'e şöyle haber vermiştir: (Sav) Allah Rasûlü Hz.leri -Taif Muhasarası sırasında- Ümmü Seleme'nin yanındaydı, evde de (kardeşim Abdullah ile) bir muhannes bulunuyordu. Bu muhannes, kardeşim Abdullah'a: Ya Abdullah! Yarın size Taif fethedilirse ben sana Gaylan'ın (şişman) kızına delalet ederim. O kız (semizlikten) dört kıvrımla karşılar ve sekiz kıvrımla da arkaya döner, deyiverdi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Bu kabil kimseler sakın sizin yanınıza bir daha girmesin!"** buyurdu.  
+5948) (Sav) Allah Rasûlü Hz.lerinin zevcesi Ümmü Seleme (Ra), kendinin ve Ebu Seleme'nin kızı olan Zeynep'e şöyle haber vermiştir: (Sav) Allah Rasûlü Hz.leri -Taif Muhasarası sırasında- Ümmü Seleme'nin yanındaydı, evde de (kardeşim Abdullah ile) bir muhannes bulunuyordu. Bu muhannes, kardeşim Abdullah'a: Ya Abdullah! Yarın size Taif fethedilirse ben sana Gaylan'ın (şişman) kızına delalet ederim. O kız (semizlikten) dört kıvrımla karşılar ve sekiz kıvrımla da arkaya döner, deyiverdi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Bu kabil kimseler sakın sizin yanınıza bir daha girmesin!"** buyurdu.  
   
 	  Ebu Abdullah el-Buhari şöyle dedi: "Dört ile yönelir ve arkasına döner." demek "Karnının dört bükümü ile yönelir de kendisi bu bükümlerle yönelir gelir." demektir. "Sekiz ile arkasına döner." sözü de, bu dört bükümün kenarlarıyla arkasına döner manasınadır. Çünkü o bükümler kızın iki yanını da çepçevre kuşatmış ve birbirine katılmışlardır. (Yani semizlikten dolayı karnı dört büklümdür. Arkadan bakılınca iki taraftan taşarak sekiz büklüm görünür.) Müzekker olarak "Semanın" demiş, müennes olarak "Semaniyetun" dememiştir. "Etraf" kelimesinin tekili "Taraf"tır, bu da müzekkerdir. Çünkü o kimse "Semaniyete etrafın" demedi.
 
@@ -772,10 +772,6 @@ Ve Âişe'nin (Ra) üzerinde altın yüzükler vardı.
 ### 96- Suret Yapıcıya Lanet Eden Kimse Bâbı  
   
 6028) Bize Şu'be, Ebu Cuhayfe'nin oğlu Avn'dan tahdis etti ki Ebu Cuhayfe (Ra) kan alıcı bir köle satın almıştı. (Sav) Allah Rasûlü Hz.leri kan alma ücretinden, köpek bedelinden, zina kazancından nehyetti. Ve riba yiyene, riba yedirene, dövme yapana, dövme yaptırana, suret yapana lanet etti, dedi.
-
-### 97- Bâb: "Kim Suret Yaparsa Kıyamet Gününde Ona Yaptığı Surete Ruh Vermesi Teklif Olunur. Halbuki O, Hayat Vermek Kudretinde Değildir."  
-  
-6029) Bize Said ibn Ebu Arube tahdis edip şöyle dedi: Ben en-Nadr ibn Enes ibn Malik'ten işittim, o Katade'ye tahdis ediyordu. En-Nadr şöyle dedi: Ben İbn Abbas'ın yanındaydım. İnsanlar ona bir şeyler soruyorlar (o da onlara cevap veriyordu). Fakat "(Sav) Allah Rasûlü Hz.leri şöyle buyurdu." diye (Sav) Allah Rasûlü Hz.lerini zikretmiyordu. Nihayet kendisine birisi tarafından ("Ben şu resimleri yapan ressam bir kimseyim, halim nedir?" diye) bir sual soruldu. Bunun üzerine İbn Abbas (Ra): "Ben (Sav) Allah Rasûlü Hz.lerinden işittim: **"Her kim dünyada** (hayat sahibi) **bir suret resmederse kendisine kıyamet gününde o surete ruh vermesi teklif olunur. Halbuki o hayat üfürücü değildir** (yani hayat vermek kudretine haiz değildir)**."** buyuruyordu, dedi.
 
 ### 97- Bâb: "Kim Suret Yaparsa Kıyamet Gününde Ona Yaptığı Surete Ruh Vermesi Teklif Olunur. Halbuki O, Hayat Vermek Kudretinde Değildir."  
   

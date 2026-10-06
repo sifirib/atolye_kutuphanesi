@@ -66,7 +66,7 @@ _"Size bir selam verildiği zaman ondan daha güzeliyle veya aynı selamla karş
   
 	  Ebu Abdullah el-Buhari: Bu hadiste, (Sav) Allah Rasûlü Hz.lerinin kalkıp dışarı çıktığı zaman oturup kalanlara izin vermediği fıkhı vardır ve yine bunda, (Sav) Allah Rasûlü Hz.lerinin onların kalkmalarını isteyerek kalkmaya davranmasında böylece tariz etmenin cevazı hükmü de vardır, demiştir.
 
-6310) İbn Şihab şöyle dedi: Bana Urve ibn Zubeyr haber verdi ki (Sav) Allah Rasûlü Hz.lerinin zevcesi Âişe (Ra) şöyle demiştir: Ömer ibn Hattab, (Sav) Allah Rasûlü Hz.lerine: Kadınlarını perde arkasına alsan! (Çünkü onlarla iyi de kötü de konuşuyor) der dururdu. Âişe dedi ki: (Sav) Allah Rasûlü Hz.leri bunu yapmadı. (Sav) Allah Rasûlü Hz.lerinin kadınları geceden geceye Menası denilen tarafa doğru ihtiyaçlarını gidermek için dışarıya çıkarlardı. Bir keresinde Sevde bint Zema, ihtiyacı için dışarı çıkmıştı. Sevde, uzun boylu bir kadındı. Ömer ibn Hattab mecliste otururken onu görünce: Ya Sevde, ben seni tanıdım, demişti.  
+6312) İbn Şihab şöyle dedi: Bana Urve ibn Zubeyr haber verdi ki (Sav) Allah Rasûlü Hz.lerinin zevcesi Âişe (Ra) şöyle demiştir: Ömer ibn Hattab, (Sav) Allah Rasûlü Hz.lerine: Kadınlarını perde arkasına alsan! (Çünkü onlarla iyi de kötü de konuşuyor) der dururdu. Âişe dedi ki: (Sav) Allah Rasûlü Hz.leri bunu yapmadı. (Sav) Allah Rasûlü Hz.lerinin kadınları geceden geceye Menası denilen tarafa doğru ihtiyaçlarını gidermek için dışarıya çıkarlardı. Bir keresinde Sevde bint Zema, ihtiyacı için dışarı çıkmıştı. Sevde, uzun boylu bir kadındı. Ömer ibn Hattab mecliste otururken onu görünce: Ya Sevde, ben seni tanıdım, demişti.  
   
 	   Ömer bu sözü, Hicab emrinin indirilmesini çok istemekte olduğu için söylemişti.  
   
@@ -284,10 +284,6 @@ Habbab ibn Erett: Ben, (Sav) Allah Rasûlü Hz.lerinin yanına geldim. O (Kabe'n
   
 6354) Sehl ibn Sa'd (Ra) şöyle demiştir: Ali'nin (Ra) "Ebu Turab" kadar kendisine sevimli olan hiçbir isim yoktu. Şu muhakkak ki o, bu "Ebu Turab" ismiyle çağrıldığı zaman bundan pek sevinir, ferahlanırdı. Bir gün (Sav) Allah Rasûlü Hz.leri, kızı Fatıma'ya (As) geldi. Evde Ali'yi bulamadı. "Amcanın oğlu nerede?" diye sordu. Fatıma: "Benimle onun arasında bir şey oldu da bana öfkelenip darıldı. Bu sebeple dışarı çıktı; gündüz uykusunu evde, benim yanımda uyumadı." cevabını verdi. (Sav) Allah Rasûlü Hz.leri bir insana: **"Bak, o nerede?"** buyurdu. O adam gidip geldi de: "Ya Rasûlallah, Ali mescitte uyuyor." dedi. (Sav) Allah Rasûlü Hz.leri mescide geldi. Baktı ki Ali yan tarafına yatmış, ridası bir yanından sıyrılıp düşmüş, vücuduna toprak bulanmış. (Sav) Allah Rasûlü Hz.leri: **"Kalk Ebu Turab, kalk Ebu Turab!"** demeye ve onun bedeninden toprakları silkmeye başladı.
 
-### 40- Mescid İçinde Uyumak ve İstirahat Etmek Bâbı  
-  
-6354) Sehl ibn Sa'd (Ra) şöyle demiştir: Ali'nin (Ra) "Ebu Turab" kadar kendisine sevimli olan hiçbir isim yoktu. Şu muhakkak ki o, bu "Ebu Turab" ismiyle çağrıldığı zaman bundan pek sevinir, ferahlanırdı. Bir gün (Sav) Allah Rasûlü Hz.leri, kızı Fatıma'ya (As) geldi. Evde Ali'yi bulamadı. "Amcanın oğlu nerede?" diye sordu. Fatıma: "Benimle onun arasında bir şey oldu da bana öfkelenip darıldı. Bu sebeple dışarı çıktı; gündüz uykusunu evde, benim yanımda uyumadı." cevabını verdi. (Sav) Allah Rasûlü Hz.leri bir insana: **"Bak, o nerede?"** buyurdu. O adam gidip geldi de: "Ya Rasûlallah, Ali mescitte uyuyor." dedi. (Sav) Allah Rasûlü Hz.leri mescide geldi. Baktı ki Ali yan tarafına yatmış, ridası bir yanından sıyrılıp düşmüş, vücuduna toprak bulanmış. (Sav) Allah Rasûlü Hz.leri: **"Kalk Ebu Turab, kalk Ebu Turab!"** demeye ve onun bedeninden toprakları silkmeye başladı.
-
 ### 41- Bir Kavmi Ziyaret Edip de Onların Yanında Gündüz Uykusuna Yatan Kimse Bâbı  
   
 6355) Bize Muhammed ibnu Abdullah el-Ensari tahdis edip şöyle dedi: Bana babam Abdullah ibn Müsenna, Sumame ibn Abdullah'tan o da dedesi Enes ibn Malik'ten (Ra) şöyle tahdis etti: (Enes'in anası) Ümmü Suleym bint Milhan, (Sav) Allah Rasûlü Hz.leri için deriden düzülmüş bir döşek yayardı da (Sav) Allah Rasûlü Hz.leri, onun yanında bu döşek üzerinde gündüz uykusuna yatardı. Enes dedi ki: (Sav) Allah Rasûlü Hz.leri uyuduğu zaman, Ümmü Suleym, (Sav) Allah Rasûlü Hz.lerinin terinden ve saçlarından alırdı da bunları bir şişe içinde toplardı. Sonra bunları ramekten yapılan güzel koku içinde toplardı.  
@@ -319,14 +315,6 @@ Habbab ibn Erett: Ben, (Sav) Allah Rasûlü Hz.lerinin yanına geldim. O (Kabe'n
 ### 44- Sırtüstü Yatmak Bâbı  
   
 6460) Ez-Zuhri tahdis edip şöyle demiştir: Bana Abbad ibnu Temim, amcası Abdullah ibn Zeyd el-Ensari'den haber verdi ki o: Ben (Sav) Allah Rasûlü Hz.lerini mescidin içinde sırtüstü yatıp bir ayağını diğeri üzerine koymuş halde gördüm, demiştir.
-
-### 45- Bâb: "Üç Kişi Bir Arada Bulunurken Bunlardan İkisi, Üçüncüyü Bırakıp Gizli Konuşmaz."  
-  
-Ve yüce Allah'ın şu kavilleri: _"Ey iman edenler! Siz baş başa gizlice konuştuğunuz zaman günah, düşmanlık ve Peygamber'e isyanı konuşmayın. İyilik ve takvayı konuşun ve huzuruna toplanacağınız Allah'a karşı gelmekten sakının. O kötü fısıltılar iman edenleri üzmek için ancak şeytandan kaynaklanmaktadır. Oysa şeytan, Allah’ın izni olmadıkça Müminlere hiçbir zarar verebilecek değildir. Öyleyse Müminler ancak Allah'a tevekkül etsinler." (Mücadele 9-10)_   
-  
-_"Ey iman edenler! Peygamber ile baş başa konuşacağınız zaman baş başa konuşmanızdan önce bir sadaka verin. Bu, sizin için daha hayırlı ve daha temizdir. Şayet_ (sadaka verecek bir şey) _bulamazsanız bilin ki Allah çok bağışlayandır, çok merhamet edendir. Baş başa konuşmanızdan önce sadakalar vermekten çekindiniz mi? Bunu yapmadığınıza ve Allah da sizi affettiğine göre artık namazı kılın, zekatı verin, Allah'a ve Rasûlü'ne itaat edin. Allah, bütün yaptıklarınızdan hakkıyla haberdardır." (Mücadele 12-13)_   
-  
-6361) Bana Malik, Nafi'den o da Abdullah ibn Ömer'den (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Üç kişi bir arada bulundukları zaman bunlardan ikisi, üçüncüyü bırakıp da gizli konuşmasınlar."** buyurmuştur.
 
 ### 45- Bâb: "Üç Kişi Bir Arada Bulunurken Bunlardan İkisi, Üçüncüyü Bırakıp Gizli Konuşmaz."  
   
