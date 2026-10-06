@@ -8,10 +8,10 @@ dialog.setAttribute("aria-labelledby", "reading-settings-title")
 dialog.innerHTML = `<form method="dialog"><header><h2 id="reading-settings-title">Ayarlar</h2><button aria-label="Ayarları kapat" value="close">×</button></header>
 <label>Yazı tipi<select name="font">${fonts.map((font) => `<option>${font}</option>`).join("")}</select></label>
 <label>Yazı boyutu<select name="size">${sizes.map((size) => `<option value="${size}">${size} px</option>`).join("")}</select></label>
-<label>Okuma genişliği<select name="width"><option value="narrow">Dar</option><option value="wide">Geniş</option><option value="full">Tam</option></select></label>
+<label class="reading-settings-desktop">Okuma genişliği<select name="width"><option value="narrow">Dar</option><option value="wide">Geniş</option><option value="full">Tam</option></select></label>
 <label>Renk paleti<select name="palette"><option value="atolye">Atölye</option><option value="ttrpg">TTRPG</option><option value="green">Yeşil</option></select></label>
 <p>Açık ve koyu görünüm, tema düğmesinden değiştirilir.</p>
-<label class="reading-settings-check"><input type="checkbox" name="ticker">Günün ayeti barını göster</label>
+<label class="reading-settings-check reading-settings-desktop"><input type="checkbox" name="ticker">Günün ayeti barını göster</label>
 <button type="button" data-reset>Varsayılana dön</button><p role="status"></p></form>`
 document.body.append(dialog)
 const tickerCheckbox = dialog.querySelector<HTMLInputElement>('[name="ticker"]')!
