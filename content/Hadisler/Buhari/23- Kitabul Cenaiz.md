@@ -278,7 +278,7 @@ Ve Ömer (Ra): "Kadınlara ilişmeyin, Ebu Süleyman'a ağlasınlar. Başlarına
    
 	  Âişe dedi ki: Ben de o adama: "Allah senin burnunu topraklasın yani Allah seni zelil etsin. Sen ne (Sav) Allah Rasûlü Hz.lerinin sana verdiği emri yerine getirdin ne de hüzün ve keder içinde bulunan (Sav) Allah Rasûlü Hz.lerini kendi halinde bıraktın!" dedim.
  
-1311) Enes ibn Malik (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri Maune Kuyusu'nda yetmiş kadar kurra şehit edildiği zaman bir ay kunut yaptı (ve müşrikler aleyhine dua etti). Ben (Sav) Allah Rasûlü Hz.lerini o zamandan daha şiddetli bir hüzünle üzüldüğünü asla görmedim.
+1312) Enes ibn Malik (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri Maune Kuyusu'nda yetmiş kadar kurra şehit edildiği zaman bir ay kunut yaptı (ve müşrikler aleyhine dua etti). Ben (Sav) Allah Rasûlü Hz.lerini o zamandan daha şiddetli bir hüzünle üzüldüğünü asla görmedim.
 
 ### 41- Musibet Sırasında Kederini Açığa Vurmayan Kimse Bâbı  
   
@@ -542,9 +542,9 @@ Kabir içindeki oyuğa lahid denilmesi, onun kabrin bir tarafındaki meyil olmas
   
 	  Sufyan ibn Uyeyne şöyle dedi: Ebu Hureyre şöyle demiştir: (Sav) Allah Rasûlü Hz.lerinin üzerinde iki gömlek vardı. Abdullah ibn Ubeyy'in oğlu Abdullah, (Sav) Allah Rasûlü Hz.lerine: "Ya Rasûlallah, senin cildine dokunan gömleğini babama giydir." dedi. Sufyan ibn Uyeyne şöyle dedi: (Sav) Allah Rasûlü Hz.lerinin kendi gömleğini Abdullah ibn Ubeyy'e giydirmesini, vaktiyle onun Abbas'a gömlek giydirmiş olmasına bir karşılamadır zannederlerdi.
 
-1365) Cabir ibn Abdullah (Ra) şöyle demiştir: Uhud Harbi vakti geldiğinde babam Abdullah beni geceleyin çağırdı ve: "Ben (Sav) Allah Rasûlü Hz.lerinin sahabilerinden ilk şehit edilecekler içinde şehit olacağımı kuvvetle zannediyorum ve ben kendimden sonraya (Sav) Allah Rasûlü Hz.lerinin zatı müstesna senden daha kıymetli bir kimseyi geride bırakmıyorum. Benim üzerimde bir borç vardır. Binaenaleyh onu öde. Kız kardeşlerine hayır vasiyet etmeyi iste dur." dedi. Sabaha girdik. Babam ilk şehitlerden oldu ve bir tek kabir içinde diğer bir şehitle beraber gömüldü. Sonra gönlüm, onu başka bir kimsenin beraberinde terk etmekten hoşlanmadı. Altı ay geçtikten sonra onu mezarından çıkardım. Bir de gördüm ki o; kulağı müstesna, yenice gömülmüşçesine mezarına koyduğum gündeki gibi duruyor.
+1366) Cabir ibn Abdullah (Ra) şöyle demiştir: Uhud Harbi vakti geldiğinde babam Abdullah beni geceleyin çağırdı ve: "Ben (Sav) Allah Rasûlü Hz.lerinin sahabilerinden ilk şehit edilecekler içinde şehit olacağımı kuvvetle zannediyorum ve ben kendimden sonraya (Sav) Allah Rasûlü Hz.lerinin zatı müstesna senden daha kıymetli bir kimseyi geride bırakmıyorum. Benim üzerimde bir borç vardır. Binaenaleyh onu öde. Kız kardeşlerine hayır vasiyet etmeyi iste dur." dedi. Sabaha girdik. Babam ilk şehitlerden oldu ve bir tek kabir içinde diğer bir şehitle beraber gömüldü. Sonra gönlüm, onu başka bir kimsenin beraberinde terk etmekten hoşlanmadı. Altı ay geçtikten sonra onu mezarından çıkardım. Bir de gördüm ki o; kulağı müstesna, yenice gömülmüşçesine mezarına koyduğum gündeki gibi duruyor.
 
-1366) Cabir (Ra) şöyle demiştir: Babam Abdullah ibn Amr'ın beraberinde bir adam gömülmüştü. Benim gönlüm buna razı olmadı nihayet babamı mezardan çıkardım ve onu tek başına bir kabir içine koydum.
+1367) Cabir (Ra) şöyle demiştir: Babam Abdullah ibn Amr'ın beraberinde bir adam gömülmüştü. Benim gönlüm buna razı olmadı nihayet babamı mezardan çıkardım ve onu tek başına bir kabir içine koydum.
 
 ### 78- Kabir İçinde Bulunacak Lahid ve Yarık Bâbı  
   

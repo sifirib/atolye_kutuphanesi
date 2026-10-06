@@ -277,7 +277,7 @@ Ebu Meysere: "El-Evvah", Habeş dilinde "er-Rahim"dir, demiştir.
   
 	  Ve yine bu hadisi Muhammed ibn Amr da Ebu Seleme'den o da Ebu Hureyre'den olmak üzere rivayet etmiştir.
 
-3392) Bana Cerir ibn Hazım, Eyüp es-Sahtıyani'den o da Muhammed ibn Sirin'den haber verdi ki Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"İbrahim** (As) **yalnız üç defa** (başka manaya çevirerek) **yalan söylemiştir."** buyurdu.  
+3393) Bana Cerir ibn Hazım, Eyüp es-Sahtıyani'den o da Muhammed ibn Sirin'den haber verdi ki Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"İbrahim** (As) **yalnız üç defa** (başka manaya çevirerek) **yalan söylemiştir."** buyurdu.  
   
 	  Muhammed ibn Sirin'den o da Ebu Hureyre'den (Ra) tahdis etti. O şöyle demiştir: İbrahim Peygamber (As) yalnız üç defa yalan söylemiştir: Bunlardan ikisi aziz ve celil olan Allah'ın zatı ve rızası içindir: Puta tapanlara "Ben hastayım." demesi ve "Belki putların şu büyüğü bu kırma işini işlemiştir." demesi. (Sav) Allah Rasûlü Hz.leri üçüncüsü için de şöyle demiştir: **"İbrahim günün birinde** (bir kadın güzeli olan eşi) **Sare ile beraber ansızın cebbarlardan azılı bir zalimin memleketine uğrayıvermişti. Adamları tarafından o zalim hükümdara: Şehre yolcu bir kimse gelmiştir. Beraberinde insanların en güzeli bir kadın vardır, diye haber verildi. Zalim melik, İbrahim'e haber gönderdi. Geldiğinde Sare'den söz ederek: Bu kadın kimdir? Diye sordu. İbrahim:** (Din yönünden) **kız kardeşim, dedi. Sonra İbrahim, Sare'nin yanına geldi ve: Ya Sare, yeryüzünde** (bizim iman ettiğimiz esaslara) **benden ve senden başka iman eden hiçbir kişi yoktur. Bu melik, bana seni sordu. Ben de ona senin benim kız kardeşim olduğunu haber verdim. Sakın benim sözümü yalan çıkarma, dedi.  
   

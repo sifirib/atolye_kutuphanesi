@@ -108,7 +108,7 @@ Bir adam başkasının bir cariyesini gasp etse de onu gasp ettiğini iddia eder
   
 	  Bunun üzerine Ömer, Serığ'den geri döndü ve İbn Şihab'dan o da Salim ibn Abdullah'tan: Ömer ancak bu Abdurrahman hadisinden dolayı geri dönmüştür, diye rivayet de vardır.
 
-7059) Bize Amir ibn Sa'd ibn Ebu Vakkas tahdis etti ki o Usame ibn Zeyd'den (Ra) işitmiştir. Zeyd, Sa'd ibn Ebu Vakkas'a şöyle tahdis ediyordu. (Sav) Allah Rasûlü Hz.leri bu hastalığı zikretti de: **"Bu bir ricz** -yahut: **Azaptır ki bununla bazı ümmetler azaplandırıldı. Sonra onların ardından bundan bir bakiyye kaldı. Bir defa gider, diğer bir defa gelir. Artık her kim bir yerde onu işitirse sakın o hastalığın üzerine gitmesin. Her kim de bir araziye düşer ve orada da bu hastalık bulunursa artık hastalıktan kaçmak için kendisi oradan çıkmasın!"**
+7060) Bize Amir ibn Sa'd ibn Ebu Vakkas tahdis etti ki o Usame ibn Zeyd'den (Ra) işitmiştir. Zeyd, Sa'd ibn Ebu Vakkas'a şöyle tahdis ediyordu. (Sav) Allah Rasûlü Hz.leri bu hastalığı zikretti de: **"Bu bir ricz** -yahut: **Azaptır ki bununla bazı ümmetler azaplandırıldı. Sonra onların ardından bundan bir bakiyye kaldı. Bir defa gider, diğer bir defa gelir. Artık her kim bir yerde onu işitirse sakın o hastalığın üzerine gitmesin. Her kim de bir araziye düşer ve orada da bu hastalık bulunursa artık hastalıktan kaçmak için kendisi oradan çıkmasın!"**
 
 ### 14- Bâb: Hibeden Dönme Ve Şufayı Düşürme Hususundaki Hile Hakkındadır  
   

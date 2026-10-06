@@ -129,10 +129,6 @@ Ve yüce Allah da şöyle buyurdu: _"Kadınlar, oğullar, yük yük altın ve g�
   
 6518) Abdullah ibn Mesud (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri **"Hanginize mirasçısının malı, kendi malından daha çok sevimlidir?"** diye sordu. Sahabiler: Ya Rasûlallah! Bizden her bir kişiye muhakkak kendi malı daha sevimlidir! Dediler. (Sav) Allah Rasûlü Hz.leri: **"Çünkü kişinin kendi malı, ölümünden önce hayır yoluna harcayıp önden gönderdiği malıdır. Mirasçının malı da kişinin hayra sarf etmeyip ölünceye kadar geri bıraktığı malıdır."** buyurdu.
 
-### 12- "İnsanın Kendi Malından (Hayır Yollarına Harcayıp) Önden Gönderdikleri, Kendisinindir." Bâbı  
-  
-6518) Abdullah ibn Mesud (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri **"Hanginize mirasçısının malı, kendi malından daha çok sevimlidir?"** diye sordu. Sahabiler: Ya Rasûlallah! Bizden her bir kişiye muhakkak kendi malı daha sevimlidir! Dediler. (Sav) Allah Rasûlü Hz.leri: **"Çünkü kişinin kendi malı, ölümünden önce hayır yoluna harcayıp önden gönderdiği malıdır. Mirasçının malı da kişinin hayra sarf etmeyip ölünceye kadar geri bıraktığı malıdır."** buyurdu.
-
 ### 13- Bâb: "(Mallarını Allah Yolunda Harcamayıp) Çoğaltanlar, (Sevaplarını) Azaltanlardır."  
   
 Ve yüce Allah'ın şu kavli: _"Kim yalnız dünya hayatını ve onun ziynetini isterse biz onlara yaptıklarının karşılığını orada tastamam öderiz. Orada onlar bir eksikliğe uğratılmazlar. İşte onlar, kendileri için ahirette ateşten başka bir şey olmayan kimselerdir._ (Dünyada) _yaptıkları şeyler, orada boşa gitmiştir. Zaten bütün yapmakta oldukları da boş şeylerdir." (Hûd 15-16)_  
@@ -252,8 +248,6 @@ Sufyan ibn Uyeyne: Bana göre Kur'an-ı Kerim'de şu ayetten daha şiddetli bir 
 Er-Rabi ibn Huseym de: _"Kim Allah’a karşı gelmekten sakınırsa Allah ona bir çıkış yolu açar." (Talâk 2)_ kavli hakkında: "İnsanlar üzerine sıkışıklık yapan her şeyden..." demiştir.
 
 6550) Bize Şu'be tahdis edip şöyle dedi: Ben, Husayn ibn Abdurrahman'dan işittim, şöyle dedi: Ben Said ibn Cubeyr'in yanında oturuyordum. O, İbn Abbas'tan (Ra) söyledi: (Sav) Allah Rasûlü Hz.leri: **"Ümmetimden yetmiş bin kişi, cennete hesaba çekilmeden girerler; onlar efsun yapmazlar, uçan hayvanlarla uğursuzluk olacağı görüşüne gitmezler ve her hususta Rablerine güvenip dayanırlar."** buyurmuştur.
-
-6551) Bize Şu'be tahdis edip şöyle dedi: Ben, Husayn ibn Abdurrahman'dan işittim, şöyle dedi: Ben Said ibn Cubeyr'in yanında oturuyordum. O, İbn Abbas'tan (Ra) söyledi: (Sav) Allah Rasûlü Hz.leri: **"Ümmetimden yetmiş bin kişi, cennete hesaba çekilmeden girerler; onlar efsun yapmazlar, uçan hayvanlarla uğursuzluk olacağı görüşüne gitmezler ve her hususta Rablerine güvenip dayanırlar."** buyurmuştur.
 
 ### 22- Dedikodunun Çirkin Görülmesi Bâbı  
   

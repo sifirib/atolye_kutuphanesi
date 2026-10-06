@@ -34,17 +34,13 @@ Ve İbn Abbas'tan, Ata ibn Ebu Rebah'tan ve İkrime'den, Kur'an-ı Kerim'de "Min
   
 6797) Es-Saib ibn Yezid (Ra): (Sav) Allah Rasûlü Hz.leri zamanının sa ölçeği, bugünkü müdd ölçeğinizle bir müdd ve üçte bir müdd miktarıydı. Ömer ibn Abdülaziz zamanında sa ölçeğinde arttırma yapıldı, demişti.
 
-### 5- Medine Sa'ının ve (Sav) Allah Rasûlü Hz.leri Müddünün Miktarlarını ve Bunun Bereketini ve Medine Ahalisinin (Sav) Allah Rasûlü Hz.lerinden, Asırdan Asıra Birbirlerinden Nakledip Geldikleri Ölçüleri Beyan Bâbı  
-
-6797) Es-Saib ibn Yezid (Ra): (Sav) Allah Rasûlü Hz.leri zamanının sa ölçeği, bugünkü müdd ölçeğinizle bir müdd ve üçte bir müdd miktarıydı. Ömer ibn Abdülaziz zamanında sa ölçeğinde arttırma yapıldı, demişti.
-
 6798) Bize Ebu Kuteybe ki o (aslı Horasanlı olan) Selm'dir, şöyle dedi: Bize Malik tahdis etti ki Nafi şöyle demiştir: İbn Ömer, Ramazan zekatını yani fıtır sadakasını (Sav) Allah Rasûlü Hz.lerinin müddü ile ilk müdd ile verirdi. Yemin kefaretinde de yine (Sav) Allah Rasûlü Hz.lerinin müddü ile verirdi ((Sav) Allah Rasûlü Hz.leri için ancak bir tek müdd vardı).  
   
 	  Ebu Kuteybe şöyle dedi: İmam Malik bize şöyle dedi: Bizim müddümüz, sizin müddünüzden daha büyüktür. Biz fazlalığı ancak (duası bereketiyle) (Sav) Allah Rasûlü Hz.lerinin müddünde görürüz, dedi.  
   
 	  Yine Ebu Kuteybe şöyle dedi: Malik bana: Bir emir size (Sav) Allah Rasûlü Hz.lerinin müddünden daha küçük olan bir müdd darbetse siz fıtra ve yemin kefaretini hangi ölçekle verirdiniz? Diye sordu. Ben de ona: Biz bunu (Sav) Allah Rasûlü Hz.lerinin müddü ile verirdik, dedim. İmam Malik: Görmez misin, iş ancak Peygamber'in müddüne dönmektedir, dedi.
 
-6798) Bize İmam Malik, İshak ibn Abdullah ibn Talha'dan o da Enes ibn Malik'ten (Ra) haber verdi ki (Sav) Allah Rasûlü Hz.leri: **"Allahumme barik lehum fi mikyalihim ve saihim ve muddihim** (Allah'ım; Medineliler için mikyallerinde, sa'larında ve müddlerinde bereket ihsan eyle)**."** diye dua etmiştir.
+6799) Bize İmam Malik, İshak ibn Abdullah ibn Talha'dan o da Enes ibn Malik'ten (Ra) haber verdi ki (Sav) Allah Rasûlü Hz.leri: **"Allahumme barik lehum fi mikyalihim ve saihim ve muddihim** (Allah'ım; Medineliler için mikyallerinde, sa'larında ve müddlerinde bereket ihsan eyle)**."** diye dua etmiştir.
 
 ### 6- Yüce Allah'ın _"...Yahut da Bir Köle Azat Etmektir." (Maide 89)_ Kavli ve Boyunların yani Kölelerin Hangisi Daha Faziletlidir Bâbı  
   

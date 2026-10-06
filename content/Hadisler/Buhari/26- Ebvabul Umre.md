@@ -28,11 +28,11 @@ Ve İbn Ömer (Ra): Her bir kimse üzerinde muhakkak bir hac ve bir umre borcu v
   
 	  Katade dedi ki: Ben Enes'e (Ra): (Sav) Allah Rasûlü Hz.leri kaç hac yaptı? Diye de sordum. Enes: Bir hac yaptı, diye cevap verdi.
 
-1806) Katade şöyle demiştir: Ben Enes'e ((Sav) Allah Rasûlü Hz.leri kaç umre yaptı diye) sordum. Enes: (Sav) Allah Rasûlü Hz.leri; Mekkeliler kendisini geri çevirdiği yerde Hudeybiye Umresi, Hudeybiye'den sonra gelen senedeki kaza umresi, sekizinci sene Zilkade'sinde (Cırane'de) bir umre ve haccı ile beraber bir umre yaptı, dedi.
+1807) Katade şöyle demiştir: Ben Enes'e ((Sav) Allah Rasûlü Hz.leri kaç umre yaptı diye) sordum. Enes: (Sav) Allah Rasûlü Hz.leri; Mekkeliler kendisini geri çevirdiği yerde Hudeybiye Umresi, Hudeybiye'den sonra gelen senedeki kaza umresi, sekizinci sene Zilkade'sinde (Cırane'de) bir umre ve haccı ile beraber bir umre yaptı, dedi.
 
-1807) Bize Hemmam, yukarıda geçen isnatla tahdis etti. Bunda Enes: (Sav) Allah Rasûlü Hz.leri dört defa umre yaptı; bunlardan yalnız haccı ile beraber yaptığı umresi müstesna, diğerleri hep Zilkade ayındadır: Hudeybiye'den dönüşteki umresi, ertesi yıldaki umresi, Huneyn ganimetlerini dağıttığı yer olan Cırane'den yaptığı umresi ve haccı ile beraber yaptığı bir umre, demiştir.
+1808) Bize Hemmam, yukarıda geçen isnatla tahdis etti. Bunda Enes: (Sav) Allah Rasûlü Hz.leri dört defa umre yaptı; bunlardan yalnız haccı ile beraber yaptığı umresi müstesna, diğerleri hep Zilkade ayındadır: Hudeybiye'den dönüşteki umresi, ertesi yıldaki umresi, Huneyn ganimetlerini dağıttığı yer olan Cırane'den yaptığı umresi ve haccı ile beraber yaptığı bir umre, demiştir.
 
-1808) Bize İbrahim ibn Yusuf, babası Yusuf ibn İshak'tan tahdis etti. O şöyle demiştir: Ben Mesruk'a, Ata'ya ve Mücahid'e: (Sav) Allah Rasûlü Hz.leri kaç defa umre yaptı? Diye sordum. Onlar: (Sav) Allah Rasûlü Hz.leri hac yapmadan önce Zilkade ayı içinde umre yaptı, dediler.  
+1809) Bize İbrahim ibn Yusuf, babası Yusuf ibn İshak'tan tahdis etti. O şöyle demiştir: Ben Mesruk'a, Ata'ya ve Mücahid'e: (Sav) Allah Rasûlü Hz.leri kaç defa umre yaptı? Diye sordum. Onlar: (Sav) Allah Rasûlü Hz.leri hac yapmadan önce Zilkade ayı içinde umre yaptı, dediler.  
   
 	  Ve dedi ki: Ben el-Bera ibn Azib'den (Ra) işittim. O: (Sav) Allah Rasûlü Hz.leri haccetmezden evvel Zilkade ayı içinde iki kere umre yaptı, diyordu.
 
