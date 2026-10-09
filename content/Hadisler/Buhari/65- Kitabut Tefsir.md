@@ -131,13 +131,13 @@ Yüce Allah'ın şu kavli: _"Hani İbrahim, İsmail ile birlikte evin_ (Kabe'nin
   
 "El-Kavaid", onun temelleridir. Bunun müfredi "Kaidetun"dur. Kadınlardan olan "Kavaid"in müfredi ise"Kaid"dir.  
   
-4526) Abdullah ibn Muhammed ibn Ebu Bekir, Abdullah ibn Ömer'e, (Sav) Allah Rasûlü Hz.lerinin zevcesi Âişe'den (Ra) haber verdi ki (o şöyle demiştir): (Sav) Allah Rasûlü Hz.leri bana: **"Kavmin Kureyş'in Kabe'yi bina ettiklerini ve İbrahim'in temellerinden kısalttıklarını görmedin mi** (yani bilmedin mi)**?"** buyurdu. Ben: "Ya Rasûlallah, onların kısalttıkları temeli Sen İbrahim'in temelleri üzerine döndürmez misin? Dedim. (Sav) Allah Rasûlü Hz.leri: **"Kavmin küfür zamanına yakın olmasaydı** (muhakkak ben Kabe'yi İbrahim'in temelleri üzerine döndürürdüm)**."** buyurdu.  
+4525) Abdullah ibn Muhammed ibn Ebu Bekir, Abdullah ibn Ömer'e, (Sav) Allah Rasûlü Hz.lerinin zevcesi Âişe'den (Ra) haber verdi ki (o şöyle demiştir): (Sav) Allah Rasûlü Hz.leri bana: **"Kavmin Kureyş'in Kabe'yi bina ettiklerini ve İbrahim'in temellerinden kısalttıklarını görmedin mi** (yani bilmedin mi)**?"** buyurdu. Ben: "Ya Rasûlallah, onların kısalttıkları temeli Sen İbrahim'in temelleri üzerine döndürmez misin? Dedim. (Sav) Allah Rasûlü Hz.leri: **"Kavmin küfür zamanına yakın olmasaydı** (muhakkak ben Kabe'yi İbrahim'in temelleri üzerine döndürürdüm)**."** buyurdu.  
   
 	  Abdullah ibn Ömer, Âişe'den bunu rivayet ettikten sonra: Yemin olsun Âişe bunu muhakkak (Sav) Allah Rasûlü Hz.lerinden işitmiştir. Ben, (Sav) Allah Rasûlü Hz.lerinin Hıcr'a yakın olan iki köşeyi istilam etmemesinin ancak Beyt'in (bu iki köşesinin) İbrahim'in temelleri üzerinde tamamlanmamış olmasından ileri geldiğini sanıyorum, demiştir.
 
-##### 11. Bâb: _"Deyin ki: Biz Allah'a ve Bize İndirilene İman Ettik..." (Bakara 136)_  
+####  11. Bâb: _"Deyin ki: Biz Allah'a ve Bize İndirilene İman Ettik..." (Bakara 136)_  
   
-4527) Ebu Hureyre (Ra) şöyle demiştir: Kitap sahibi olanlar Tevrat'ı İbranice (metni) ile okurlar, Arap dili ile de onu Müslümanlara tefsir ederlerdi. (Sav) Allah Rasûlü Hz.leri bu hususta sahabilerine: **"Sizler Ehli Kitab'ı tasdik de etmeyin tekzip de etmeyin.** **Sizler şunu söyleyin:** _"Biz Allah'a, bize indirilene_ (Kur'an'a)_, İbrahim, İsmail, İshak, Yakub ve Yakuboğullarına indirilene, Musa ve İsa'ya verilen_ (Tevrat ve İncil) _ile bütün diğer peygamberlere Rablerinden verilene iman ettik. Onlardan hiçbirini diğerinden ayırt etmeyiz ve biz ona teslim olmuş kimseleriz." (Bakara 136)_
+4526) Ebu Hureyre (Ra) şöyle demiştir: Kitap sahibi olanlar Tevrat'ı İbranice (metni) ile okurlar, Arap dili ile de onu Müslümanlara tefsir ederlerdi. (Sav) Allah Rasûlü Hz.leri bu hususta sahabilerine: **"Sizler Ehli Kitab'ı tasdik de etmeyin tekzip de etmeyin.** **Sizler şunu söyleyin:** _"Biz Allah'a, bize indirilene_ (Kur'an'a)_, İbrahim, İsmail, İshak, Yakub ve Yakuboğullarına indirilene, Musa ve İsa'ya verilen_ (Tevrat ve İncil) _ile bütün diğer peygamberlere Rablerinden verilene iman ettik. Onlardan hiçbirini diğerinden ayırt etmeyiz ve biz ona teslim olmuş kimseleriz." (Bakara 136)_
 
 #### 11. Bâb:
 
@@ -536,7 +536,7 @@ _"...İçinizdekini açığa vursanız da gizleseniz de Allah sizi, onunla sorgu
   
 4588) Bize Şu'be, Halid el-Hazza'dan o da Mervan el-Asfar'dan o da (Sav) Allah Rasûlü Hz.lerinin sahabilerinden olan bir adamdan onun -el-Asfar: Ben o müphem adamın İbn Ömer olduğunu zannediyorum, demiştir- _"...İçinizdekini açığa vursanız da gizleseniz de..." (Bakara 284)_ ayetini ondan sonraki ayet neshetti, dediğini haber verdi.
 
-## 3- Âl-i İmrân Suresi  
+###  3- Âl-i İmrân Suresi  
   
 Rahman ve Rahim olan Allah'ın ismiyle  
   
@@ -2989,7 +2989,7 @@ Yüce Allah'ın şu kavli: _"İşte iki hasım taraf ki Rableri hakkında tart�
   
 	  Yine Kays: Bedir gününde birbirlerine karşı cenkleşmeye çıkan kimseler bunlardır: Ali, Hamza ibn Abdulmuttalib, Ubeyde ibn Haris ibn Abdulmuttalib; Şeybe ibn Rabia ibn Abdi'ş-Şems, kardeşi Utbe ibn Rabia ve el-Velid ibn Utbe.
 
-#### 23- Mü'minûn Suresi  
+###  23- Mü'minûn Suresi  
   
 Rahman ve Rahim olan Allah'ın ismiyle  
   
@@ -3177,12 +3177,12 @@ _"Bu iftirayı işittiğiniz vakit: 'Böyle sözleri ağzımıza almamız bize y
   
 Yüce Allah'ın şu kavli: _"Eğer inanıyorsanız bu gibi şeylere bir daha ebediyen dönmemeniz için Allah size öğüt veriyor." (Nûr 17)_  
   
-4803) Sufyan es-Sevri, el-Ameş'ten o da Ebu Duha'dan o da Mesruk'tan o da Âişe'den tahdis etti: ((Sav) Allah Rasûlü Hz.lerinin şairi) Hassan ibn Sabit geldi de Âişe'nin huzuruna girmek için izin istiyordu. Mesruk: Ben Âişe'ye: "Bu Hassan için yanına gelmesine izin veriyor musun?" dedim. Âişe (Ra): "(İftira işine bulaşmış olduğundan dolayı) ona büyük bir azap isabet etmiş değil mi?" dedi. Sufyan: Âişe bu sözüyle Hassan'ın gözünün gitmesini kastediyor, dedi. Hassan şöyle dedi: "Hasanun rezanun ma tuzennu bi-ribetin Ve tusbıhu garsey min luhumi'l-gavafili (Hiçbir şüphe ile ittiham edilmeyen tam akıllı ve iffetlidir. İffetli kadınların etlerinden yemediği için aç olarak sabahlar)." Hassan'ın bu beytine karşı Âişe: "Fakat sen böyle değilsin." dedi.
+4802) Sufyan es-Sevri, el-Ameş'ten o da Ebu Duha'dan o da Mesruk'tan o da Âişe'den tahdis etti: ((Sav) Allah Rasûlü Hz.lerinin şairi) Hassan ibn Sabit geldi de Âişe'nin huzuruna girmek için izin istiyordu. Mesruk: Ben Âişe'ye: "Bu Hassan için yanına gelmesine izin veriyor musun?" dedim. Âişe (Ra): "(İftira işine bulaşmış olduğundan dolayı) ona büyük bir azap isabet etmiş değil mi?" dedi. Sufyan: Âişe bu sözüyle Hassan'ın gözünün gitmesini kastediyor, dedi. Hassan şöyle dedi: "Hasanun rezanun ma tuzennu bi-ribetin Ve tusbıhu garsey min luhumi'l-gavafili (Hiçbir şüphe ile ittiham edilmeyen tam akıllı ve iffetlidir. İffetli kadınların etlerinden yemediği için aç olarak sabahlar)." Hassan'ın bu beytine karşı Âişe: "Fakat sen böyle değilsin." dedi.
 #### 11. Bâb  
   
 _"Allah size ayetleri açıklıyor. Allah her şeyi hakkıyla bilendir, hüküm ve hikmet sahibidir." (Nûr 18)_  
   
-4804) ...Bize Şu'be, el-Ameş'ten o da Ebu Duha'dan haber verdi ki Mesruk şöyle demiştir: Hassan ibn Sabit, Âişe'nin yanına girdi de gazel vechi üzere şiir okuyup şöyle dedi: "Hasanun rezanun ma tuzennu bi-ribetin. Ve tusbihu garsa min luhumi'l-gavafili." Âişe Hassan'ın bu şiirine karşı: "Sen böyle değilsin (sen iffetli kadınlara gıybet ettin)." dedi. Mesruk dedi ki: Ben Âişe'ye: Allah  "_...O günahın büyüğünü üstlenen için ise ağır bir azap vardır." (Nûr 11)_  ayetini indirmiş olduğu halde sen bu Hassan gibilerinin senin huzuruna girmelerini serbest bırakacak mısın? Dedim. Âişe: "Körlükten daha şiddetli hangi azap vardır?" dedi ve: "Şüphesiz bu Hassan, (Sav) Allah Rasûlü Hz.leri tarafından müşriklere reddiye yapar, onu savunurdu." sözünü ilave etti.
+4803) ...Bize Şu'be, el-Ameş'ten o da Ebu Duha'dan haber verdi ki Mesruk şöyle demiştir: Hassan ibn Sabit, Âişe'nin yanına girdi de gazel vechi üzere şiir okuyup şöyle dedi: "Hasanun rezanun ma tuzennu bi-ribetin. Ve tusbihu garsa min luhumi'l-gavafili." Âişe Hassan'ın bu şiirine karşı: "Sen böyle değilsin (sen iffetli kadınlara gıybet ettin)." dedi. Mesruk dedi ki: Ben Âişe'ye: Allah  "_...O günahın büyüğünü üstlenen için ise ağır bir azap vardır." (Nûr 11)_  ayetini indirmiş olduğu halde sen bu Hassan gibilerinin senin huzuruna girmelerini serbest bırakacak mısın? Dedim. Âişe: "Körlükten daha şiddetli hangi azap vardır?" dedi ve: "Şüphesiz bu Hassan, (Sav) Allah Rasûlü Hz.leri tarafından müşriklere reddiye yapar, onu savunurdu." sözünü ilave etti.
 
 #### 12. Bâb  
   
@@ -3340,7 +3340,7 @@ _"Sizi ve önceki nesilleri yaratana karşı gelmekten sakının." (Şuarâ 184)
   
 	  Bu hadisi rivayet etmekte Buhari'nin şeyhi Ebu Yeman'a Esbağ ibn Ferec mütabaat etmiştir. Buhari'nin diğer üstadı Esbağ da Abdullah ibn Vehb'den o da Yunus ibn Yezid el-Eyli'den o da İbn Şihab ez-Zuhri'den olmak üzere rivayet etmiştir.
 
-#### 27- Neml Suresi  
+###  27- Neml Suresi  
   
 Rahman ve Rahim olan Allah'ın ismiyle  
   
@@ -3396,7 +3396,7 @@ Yüce Allah'ın şu kavli: _"Şüphesiz Sen sevdiğin kimseyi doğru yola iletem
   
 4820) Bize Sufyan ibn Dinar el-Usfuri, (İbn Abbas'ın kölesi) İkrime'den tahdis etti ki İbn Abbas: "Le radduke ila maad", "O Seni muhakkak Mekke'ye döndürecektir." şeklinde tefsir etmiştir.
 
-#### 29- El-Ankebût Suresi  
+### 29- El-Ankebût Suresi  
   
 Rahman ve Rahim olan Allah'ın ismiyle  
   
@@ -3637,7 +3637,7 @@ Yüce Allah'ın şu kavli: _"Ey iman edenler! Siz Musa'ya eziyet eden kimseler g
   
 4847) Ebu Hureyre (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Musa çok hayalı kişiydi. Yüce Allah'ın şu kavli buna delalet eder:** _"Ey iman edenler! Siz Musa’ya eziyet eden kimseler gibi olmayın. Nihayet Allah onu onların dediklerinden temize çıkarmıştı. Musa, Allah katında itibarlı bir kimseydi." (Ahzâb 69)_**"**
 
-#### 34- Sebe' Suresi  
+###  34- Sebe' Suresi  
   
 Rahman ve Rahim olan Allah'ın ismiyle  
   
@@ -4798,7 +4798,7 @@ Mücahid şöyle demiştir: _"Allah'a ve Rasûlüne düşmanlık edenler, kendil
   
 _"Şeytan onları hakimiyeti altına alıp kendilerine Allah'ı anmayı unutturmuştur. İşte onlar şeytanın tarafında olanlardır. İyi bilin ki şeytanın tarafında olanlar ziyana uğrayanların ta kendileridir." (Mücâdele 19)_ buradaki "İstahveze", "Galebe" manasınadır.
 
-#### 59- El-Haşr Suresi  
+###  59- El-Haşr Suresi  
   
 Rahman ve Rahim olan Allah'ın ismiyle  
   
@@ -5190,7 +5190,7 @@ _"Şimdi, inkar edenlere ne oluyor ki boyunlarını uzatarak_ (alay etmek için)
   
 _"O gün onlar, sanki dikili bir şeye koşuşuyorlar gibi kabirlerinden fırlaya fırlaya çıkarlar." (Meâric 43)_ buradaki "Yufidun", "Çabuk çabuk, hızlı hızlı, süratle hareket ediyorlar." demektir. Bunun mastarı olan "el-Iyfad", "el-Isra (yani: Çabuk hareket etmek, sürat eylemek)" manasınadır.
 
-#### 71- Nûh Suresi  
+###  71- Nûh Suresi  
   
 Rahman ve Rahim olan Allah'ın ismiyle  
   
@@ -5495,7 +5495,7 @@ _"Onlara, mühürlü_ (el değmemiş) _saf bir içecekten içirilir. Onun_ (iç
 
 4988) Ma'n şöyle demiştir: Bana Malik, Nafi'den o da Abdullah ibn Ömer'den (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"İnsanlar** (hesap için) **Alemlerin Rabbi divanında durdukları gün o kadar terleyecekler ki hatta onlardan herhangi biri iki kulağının yarı yerine kadar kendi teri içinde kaybolacaktır."** buyurmuştur.
 
-#### 84- İnşikâk Suresi  
+###  84- İnşikâk Suresi  
   
 Rahman ve Rahim olan Allah'ın ismiyle  
   

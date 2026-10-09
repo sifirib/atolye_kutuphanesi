@@ -116,7 +116,7 @@ Ali ibn Ebu Talib: Koca için yarım, ana bir kardeş için altıda bir, geri ka
 
 6832) Bize Yezid ibn Zuray, Ravh'tan o da Abdullah ibn Tavus'tan o da babası Tavus'tan o da İbn Abbas'tan (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Miras paylarını sahiplerine veriniz. Bu payların terk ettiği herhangi bir şey de en yakın olan erkek kişiye aittir."** buyurmuştur.
 
-16- Zevu'l-Erham(ın Hükmü) Bâbı  
+###  16- Zevu'l-Erham(ın Hükmü) Bâbı  
   
 6833) Bana İshak İbrahim tahdis edip şöyle dedi: Ben, Ebu Usame'ye: Size İdris ibn Yezid tahdis etti mi? Dedim. O: Bize Talha ibn Musannıf, Said ibn Cubeyr'den o da İbn Abbas'tan (Ra) onun şu ayet hakkındaki sözünü tahdis etti, dedi: _"_(Erkek ve dişiden) _her biri için baba ve ananın, yakın hısımların terikelerinden de varisler yaptık._ _Yeminlerinizin bağladığı kimselere dahi hisselerini verin. Allah her şeyin üstünde hakiki bir şahittir." (Nisâ 33)_  
   

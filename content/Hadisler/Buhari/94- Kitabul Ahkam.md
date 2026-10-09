@@ -98,7 +98,7 @@ Merv Kadısı Yahya ibn Ya'mer yolda hüküm vermiş, eş-Şa'bi de kendi evinin
 
 7248) Muhammed ez-Zuhri şöyle dedi: Bana Salim haber verdi ki ona da babası Abdullah ibn Ömer (Ra) şöyle haber vermiştir: Kendisi hayız halinde bulunan karısını, (Sav) Allah Rasûlü Hz.leri zamanında boşamıştı. Babası Ömer ibn Hattab, oğlunun bu hareketini (Sav) Allah Rasûlü Hz.lerine zikretmiş, bundan dolayı (Sav) Allah Rasülü Hz.leri, İbn Ömer'in bu hareketi hakkında öfkelenmiş, sonra: **"Abdullah karısına dönsün! Sonra temizleninceye sonra tekrar hayız oluncaya sonra tekrar temizleninceye kadar onu kendi yanında tutsun** (yani onunla birlikte yaşasın)**. Kadın ikinci adetinden temizlendikten sonra kadını boşamak fikri kendisine zahir olursa o takdirde -kadını ile cinsi münasebet yapmaksızın- kadınını boşasın."** buyurmuştur.
 
-14- Hakim için (Hadler Gibi Allah Hakları Dışındaki Hususlarda) İnsanların İşlerinde, Zanlardan ve Töhmetten Korkmadığı Zaman Kendi Bilgisi ile Hükmetmek Hakkı Olduğu Görüşünde Olan Kimse Bâbı  
+### 14- Hakim için (Hadler Gibi Allah Hakları Dışındaki Hususlarda) İnsanların İşlerinde, Zanlardan ve Töhmetten Korkmadığı Zaman Kendi Bilgisi ile Hükmetmek Hakkı Olduğu Görüşünde Olan Kimse Bâbı  
   
 Nitekim (Sav) Allah Rasûlü Hz.leri, kocası Ebu Sufyan aleyhine karısı lehine hüküm verdiği zaman, Hind'e: **"Onun malından örfe göre kendine ve çocuklarına yetecek miktar şeyi al."** buyurmuştu. Bu, meşhur bir iş olduğu zamandır.  
   

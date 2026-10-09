@@ -10,7 +10,7 @@
   
 	  Âişe şöyle demiştir: Ey kız kardeşimin oğlu! Bu yetim kız, velisinin velayet ve himayesinde bulunur. Velisi onun malı ve güzelliği hakkında rağbet hisseder de o yetim kızın akranına vereceği mehrin en az miktarı mukabilinde onunla evlenmek ister. (Yani mehrinden az vermek suretiyle haksızlık eder.) İşte (bu ayette) o çeşit veliler, velayetleri altındaki yetim kızları, haklarında adalet edinceye ve mehirlerini tekmilleyinceye kadar nikah etmelerinden nehyolundular da bunlardan başka (kendilerine helal olan) kadınlardan nikah etmeleriyle emrolundular.
 
-## 2- (Sav) Allah Rasûlü Hz.lerinin Şu Kavli Bâbı  
+###  2- (Sav) Allah Rasûlü Hz.lerinin Şu Kavli Bâbı  
   
 **"Sizden kimin evlenmeye gücü yeterse evlensin çünkü evlenmek gözü** (haramdan) **en çok meneder, ferci de en iyi korur."**  
   
@@ -294,7 +294,7 @@ Kız erkeğin himayesinde olmasa da "Rabibe (Üvey kız)" ismi verilir mi? (Sav)
 
 5178) Ebu Seleme'nin kızı Zeynep şöyle haber vermiştir: Ümmü Habibe (Ramle bint Ebu Sufyan), (Sav) Allah Rasûlü Hz.lerine hitaben: "Bizler aramızda Senin Ümmü Seleme'nin kızı Durre'yi nikah edip alacağını konuşup duruyoruz." dedi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Ben onu Ümmü Seleme'nin üzerine mi alacakmışım? Ben Ümmü Seleme'yi nikah etmemiş olsaydım bile Ebu Seleme'nin kızı bana helal olmazdı çünkü onun babası benim süt kardeşimdir."** buyurdu.
 
-## 35- Aziz ve Celil Allah'ın Şu Kavli Bâbı  
+###  35- Aziz ve Celil Allah'ın Şu Kavli Bâbı  
 
 _"_(Vefat iddeti beklemekte olan) _kadınlara kendileri ile evlenmek istediğinizi üstü kapalı olarak anlatmanızda veya bu isteğinizi içinizde saklamanızda sizin için bir günah yoktur. Allah biliyor ki siz onlara_ (bunu er geç mutlaka) _söyleyeceksiniz. Meşru sözler söylemeniz dışında sakın onlarla gizliden gizliye buluşma yönünde sözleşmeyin. Bekleme müddeti bitinceye kadar da nikah yapmaya kalkışmayın. Şunu da bilin ki Allah içinizden geçeni hakkıyla bilir. Onun için Allah'a karşı gelmekten sakının ve yine şunu da bilin ki Allah gerçekten çok bağışlayandır, halimdir_ (hemen cezalandırmaz, mühlet verir)_." (Bakara 235)_  
   

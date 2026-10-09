@@ -48,24 +48,3 @@ _"Biz Nuh'a ve ondan sonra gelen peygamberlere vahyettiğimiz gibi sana da vahye
 	 İliya yani Beytu'l-Makdis sahibi ve Herakliyus'un dostu olup Şam Hristiyanlarına episkopos tayin edilen İbn Natur, Herakliyus'tan bahsederek derdi ki: Herakliyus Beytu'l-Makdis'e geldiği zaman (günün birinde) pek ziyade kederli göründü. Patriklerinden (kumandanlarından) bazıları ona: "Senin halini başka türlü görüyoruz." dediler. İbn Natur dedi ki: Herakliyus yıldızlara bakar, kahinliğe aşina bir kimseydi. Bu suale maruz kalınca onlara: "Bu gece yıldızlara baktığımda Hitan Meliki'ni zuhur etmiş gördüm. Bu ümmet içinde sünnet olanlar kimlerdir?" diye sordu. "Yahudilerden başka sünnet olan yoktur, onlardan da sakın endişe etme. Memleketinin şehirlerine yaz, oralardaki Yahudileri öldürsünler." dediler. Derken Herakliyus'un huzuruna Gassan Meliki tarafından (Sav) Allah Rasûlü Hz.lerine dair haber ulaştırmaya memur olarak gönderilmiş bir adam getirildi. Herakliyus o adamdan haberi alınca: "Gidin de bu adam sünnetli midir, değil midir, bakın." dedi. Baktılar ve sünnetli olduğunu bildirdiler. Sonra gelen adamdan: "Arap kavmi sünnetli midir?" diye sordu. Sünnet olurlar, cevabını aldı. Bunun üzerine Herakliyus: "Bu ümmetin Melik'i işte zuhur etmiştir." dedi.
 	 
 	 Ondan sonra Herakliyus, Roma'da ilimce kendi benzeri olan bir dostuna mektup yazıp Humus'a gitti. Humus'tan ayrılmadan o dostundan, peygamberin zuhur ettiği ve bunun bir peygamber olduğu hakkındaki görüşüne muvafık bir mektup geldi. Müteakiben Herakliyus, Humus'da bulunan bir kasrına Rum büyüklerini davet ederek kapıların kapanmasını emretti. Sonra yüksek bir yere çıkıp: "Ey Rum cemaati, bu Peygambere biat edip de felah ve rüşte nail olmayı istemez misiniz?" diye hitap etti. Bunun üzerine cemaati, yaban eşekleri kadar süratle kapılara doğru kaçıştılarsa da kapıları kapanmış buldular. Herakliyus, bu derece nefretlerini görüp imana girmelerinden ümitsiz olunca: "Bunları geri çevirin." diye emretti ve (onlara dönüp): "Deminki sözlerimi dininize olan sıkı bağlılığınızı öğrenmek için söyledim, (bunu da) gözlerimle gördüm." dedi. Bu söz üzerine oradakiler memnunluklarını beyan ederek kendisini tazimen secde ettiler. Herakliyus(un imana davet olunması) hakkındaki haberin sonu da bundan ibarettir. Bu hadisi Salih ibn Keysan, Yunus ve Ma'mer de Zuhri'den rivayet etmişlerdir.
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

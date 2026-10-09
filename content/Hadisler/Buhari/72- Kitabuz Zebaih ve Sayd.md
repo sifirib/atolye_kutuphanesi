@@ -48,7 +48,7 @@ Hasan-ı Basri ile İbrahim en-Nehai: İnsan bir avı vurup da ondan bir ön aya
 
 5540) Abdullah ibn Ömer (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"Davar köpeği yahut av yaralayıcı köpekten başka bir köpek edinen kimsenin hayırlı amelinden her gün iki kırat eksilir."** buyurdu.
 
-7- Bâb: Öğretilmiş Bile Olsa Köpek Avdan Yediği Zaman (O Avı Yemek Haram Olur)  
+###  7- Bâb: Öğretilmiş Bile Olsa Köpek Avdan Yediği Zaman (O Avı Yemek Haram Olur)  
   
 Ve yüce Allah'ın şu kavli: _"_(Ey Muhammed!) _Sana, kendilerine nelerin helal kılındığını soruyorlar. De ki: Size temiz ve hoş olan şeyler, bir de Allah'ın size verdiği yeteneklerle eğitip alıştırdığınız avcı hayvanların tuttuğu_ (avlar) _helal kılındı. Onların sizin için tuttuklarından yiyin. Onu_ (av için) _salarken üzerine Allah'ın adını anın_ (besmele çekin). _Allah'a karşı gelmekten sakının. Şüphesiz Allah, hesabı çabuk görendir." (Mâide 4)_  
   

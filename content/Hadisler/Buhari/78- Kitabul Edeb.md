@@ -306,7 +306,7 @@ _"Ey iman edenler! Bir topluluk bir diğerini alaya almasın. Belki onlar kendil
 
 6112) Abdullah ibn Ömer (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri Mina'da hutbe yapıp: **"Bugün hangi gündür biliyor musunuz?"** diye sordu. Sahabiler: Allah ve Rasûlü en bilendir! Dediler. (Sav) Allah Rasûlü Hz.leri: **"Şüphesiz bu haram bir gündür** (Allah'ın kıtali haram kıldığı bir gündür)**.** **Bu belde hangi beldedir biliyor musunuz?"** buyurdu. Sahabiler: Allah ve Rasûlü en bilendir! Dediler. (Sav) Allah Rasûlü Hz.leri: **"Bu haram kılınmış olan beldedir. Bu hangi aydır biliyor musunuz?"** dedi. Sahabiler: Allah ve Rasûlü en bilendir! Dediler. (Sav) Allah Rasûlü Hz.leri: **"Bu, haram kılınan aydır."** buyurdu da şöyle devam etti: **"Şüphesiz Allah; bu ayınızda, bu beldenizde, bugününüzün haramlığı gibi kanlarınızı, mallarınızı ve ırzlarınızı birbirlerinize karşı haram kılmıştır!"** buyurdu.
 
-44- Birbiriyle Sövüşmenin ve Lanet Etmenin Nehyedilmesi Bâbı  
+###  44- Birbiriyle Sövüşmenin ve Lanet Etmenin Nehyedilmesi Bâbı  
   
 6113) Abdullah ibn Mesud (Ra) tahdis edip şöyle dedi: (Sav) Allah Rasûlü Hz.leri: **"Müslümana sövmek fasıklık, onunla kıtal etmek küfürdür."** buyurdu.  
   
@@ -556,7 +556,7 @@ Fatıma (As): "(Sav) Allah Rasûlü Hz.leri, vefatına yakın bana ailesi içind
   
 	  Ve (Sav) Allah Rasûlü Hz.lerine geldim, kendisi sahabileri içinde bulunuyordu, o sözü O'na yavaşça haber verdim. O söz (Sav) Allah Rasûlü Hz.lerine ağır geldi, yüzünün rengi değişti ve öfkelendi hatta ben keşke bunu kendisine haber vermeyeydim, dedim sonra: **"Musa, bundan daha fazlasıyla eza edilmiş de sabretmiştir."** buyurdu.
 
-72- İnsanları Ceza Verme ve Azarlama ile Karşılamayan Kimse Bâbı  
+###  72- İnsanları Ceza Verme ve Azarlama ile Karşılamayan Kimse Bâbı  
   
 6168) Bize Müslim (ibn Subayh) Mesruk'tan tahdis etti ki Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir şey yapmış da o hususta insanlara ruhsat vermişti. Bir topluluk o işten çekindi ve ona yanaşmadılar. Onların bu çekingenliği (Sav) Allah Rasûlü Hz.lerine ulaşınca hemen hutbeye çıkıp Allah'a hamdetti sonra: **"Birtakım cemaatlere ne oluyor ki benim yapmış olduğum işten çekiniyorlar? Allah'a yemin ederim, ben Allah'ı onların en bileniyimdir ve Allah'a saygısı en şiddetli olanlarıyımdır."** buyurdu.
 

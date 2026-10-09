@@ -44,7 +44,7 @@
 
 6868) Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.lerine sarhoş bir adam getirildi. (Sav) Allah Rasûlü Hz.leri onun dövülmesini emretti. Artık bizden kimimiz onu eliyle dövüyor, kimimiz ayakkabısıyla dövüyor, kimimiz de elbisesiyle dövüyordu. Dövme işi bitince içimizden bir adam: Buna ne oluyor! Allah bunu zelil kılsın! Dedi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Kardeşinizin aleyhinde şeytanın yardımcıları olmayınız!"** buyurdu.
 
-7- Çalarken Hırsızın Hali (Nasıl Olur) Bâbı  
+###  7- Çalarken Hırsızın Hali (Nasıl Olur) Bâbı  
   
 6869) Bize Fudayl ibn Gazvan, İkrime'den o da İbn Abbas'tan (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Zina edici kişi zina ettiği sırada Mümin olduğu halde zina edemez. Hırsız kişi de hırsızlık ettiği sırada Mümin olduğu halde hırsızlık yapmaz!"**
 

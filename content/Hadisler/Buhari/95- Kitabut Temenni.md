@@ -10,7 +10,7 @@
 
 ### 2- Hayır Temenni Etmek ve (Sav) Allah Rasûlü Hz.lerinin: "Benim Uhud Dağı Kadar Altınım Olsa..." Sözü Bâbı  
   
-7314) Bize Abdurrezzak, Ma'mer'den tahdis etti ki Hemmam ibn Münebbih es-San'ani, Ebu Hureyre'den (Ra) şöyle işitmiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Benim Uhud Dağı kadar altınım olsaydı ondan bir dinar yanımda bulunduğu halde üzerimden üç gece geçmemesini isterdim ancak üzerimdeki bir borç hakkında ayırıp da onu kabul edecek kimseyi bulmak maksadıyla gözetlemekte olduğum altın müstesnadır."**
+7313) Bize Abdurrezzak, Ma'mer'den tahdis etti ki Hemmam ibn Münebbih es-San'ani, Ebu Hureyre'den (Ra) şöyle işitmiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Benim Uhud Dağı kadar altınım olsaydı ondan bir dinar yanımda bulunduğu halde üzerimden üç gece geçmemesini isterdim ancak üzerimdeki bir borç hakkında ayırıp da onu kabul edecek kimseyi bulmak maksadıyla gözetlemekte olduğum altın müstesnadır."**
 
 ### 3- (Sav) Allah Rasûlü Hz.lerinin: "Hac Aylarında Umrenin Cevazını Şimdi Hatırladığım Gibi İhrama Girerken de Önden Bilmiş Olaydım Kurbanlık Sevk Etmezdim." Sözü Bâbı  
   

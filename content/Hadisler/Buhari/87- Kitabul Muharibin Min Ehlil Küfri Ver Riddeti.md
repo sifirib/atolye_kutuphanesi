@@ -18,7 +18,7 @@ _"Allah’a ve Rasûlü'ne savaş açanların ve yeryüzünde bozgunculuk çıka
   
 	  Ebu Kılabe: Bunlar hırsızlık yaptılar, insan öldürdüler, Allah ve Rasûlü'ne de harp açtılar, demiştir.
 
-4- (Sav) Allah Rasûlü Hz.lerinin (Büyük Cürümler İşleyen) Muhariplerin Gözlerini Kızgın Demirlerle Çıkartması Bâbı
+###  4- (Sav) Allah Rasûlü Hz.lerinin (Büyük Cürümler İşleyen) Muhariplerin Gözlerini Kızgın Demirlerle Çıkartması Bâbı
 
 6893) Bize Hammad, Eyüp'ten o da Ebu Kılabe'den o da Enes ibn Malik'ten (Ra) şöyle tahdis etti. Ukl veya Ureyne kabilelerinden bir topluluk -Ravi: Ben onun ancak Ukl'den dediğini biliyorum, demiştir.- Medine'ye geldiler. (Sav) Allah Rasûlü Hz.leri onlar için sütlü develer emretti. Onlara sadaka develerinin bulundukları yere çıkmalarını, onların sidiklerinden ve sütlerinden içmelerini emretti. Onlar gidip o develerin sütlerinden ve sidiklerinden içtiler. Nihayet hastalıklarından kurtulup iyileştikleri zaman çobanı öldürdüler de develeri sürüp götürdüler. Bu haber kuşluk vakti (Sav) Allah Rasûlü Hz.lerine ulaşınca hemen arkalarından arayıcılar gönderdi. Gündüz yükselmeden yakalanıp getirildiler. (Sav) Allah Rasûlü Hz.leri onlarla ilgili emrini verdi. Onların ellerini, ayaklarını kestirdi, gözlerini çıkarttı. Sonra onlar Harre mevkiine atıldılar. Onlar su istediler fakat kendilerine su verilmedi.  
   
@@ -282,7 +282,7 @@ _"Eşlerine zina isnat edip de kendilerinden başka şahitleri olmayanlara gelin
   
 6943) Ebu Hureyre (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.lerinden işittim, şöyle buyuruyordu: **"Her kim maliki olduğu kölesine zina isnat eder, köle de onun söylediği bu isnattan beri bulunursa o kimse kıyamet gününde dövülür ancak kölenin onun söylediği gibi olması halinde dövülmez."**
 
-33- Bâb: İmam Bir Kimseye Emreder ve O Kimse de İmamdan Uzakta Olarak Had Uygular mı?
+###  33- Bâb: İmam Bir Kimseye Emreder ve O Kimse de İmamdan Uzakta Olarak Had Uygular mı?
   
 Ömer ibn Hattab bunu yapmıştır.  
   

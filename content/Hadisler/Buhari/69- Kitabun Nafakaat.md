@@ -108,7 +108,7 @@ _"Allah;_ (şöyle) _iki adamı da misal verdi: Onlardan biri dilsizdir, hiçbir
   
 	  (Sav) Allah Rasûlü Hz.leri: **"Örfe göre** (onun malından sana ve oğullarına yetecek miktarı) **al!**" buyurdu.
 
-15- (Sav) Allah Rasûlü Hz.lerinin: "Bir Borç Yükü yahut Aciz Evlat ve İyal Bırakan Kişinin İşi Bana Aittir." Sözü Bâbı  
+###  15- (Sav) Allah Rasûlü Hz.lerinin: "Bir Borç Yükü yahut Aciz Evlat ve İyal Bırakan Kişinin İşi Bana Aittir." Sözü Bâbı  
   
 5425) Bize el-Leys, Ukayl'den o da İbn Şihab'dan o da Ebu Seleme'den o da Ebu Hureyre'den (Ra) şöyle tahdis etti: (Sav) Allah Rasûlü Hz.lerine, üzerinde borç varken ölmüş kimsenin cenazesi getirildi de O: **"Bu kimse borcu için bir fazla mal bıraktı mı?"** diye sorardı.  
   

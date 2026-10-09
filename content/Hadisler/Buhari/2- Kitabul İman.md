@@ -32,7 +32,7 @@ Mucahid ibn Cebr (Ra), _"...Nuh'a emrettiğini, sana vahyettiğini; İbrahim'e, 
 
 İbn Abbas (Ra), _"...Sizden her biriniz için bir şeriat ve bir yol koyduk..." (Mâide 48)_ ayetindeki "şır'a ve minhac"ı, geniş yol ve sünnet diye tefsir etti. Yine İbn Abbas (Ra), _"_(Ey Muhammed!) _De ki: Duanız olmasa Rabb'im size ne diye değer versin!.." (Furkân 77)_ kelamı sebebiyle: "Duanız, imanınız demektir." diye tefsir etti. Duanın lügatteki manası imandır.
 
-## 2- Duaukum İmanüküm
+### 2- Duaukum İmanüküm
 
 8) Bize Ubeydullah ibn Musa tahdis edip şöyle dedi: Bize Hanzala ibn Ebu Sufyan, İkrime ibn Halid'den o da İbn Ömer'den (Ra) haber verdi: İbn Ömer (Ra) şöyle demiştir: (Sav) Allah Rasulü Hz.leri şöyle buyurdu: **"İslam beş şey üzerine kurulmuştur: Allah'tan başka ilah olmadığına ve** (Sav) **Muhammed'in Allah'ın Rasûlü olduğuna şehadet etmek, namaz kılmak, zekat vermek, haccetmek, Ramazan orucunu tutmak."**
 

@@ -34,7 +34,7 @@
 
 1205) Ubeydullah şöyle demiştir: Bana Hubeyb ibn Abdurrahman, Hafs ibn Asım'dan o da Ebu Hureyre'den (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Benim evimle minberim arası cennet bahçelerinden bir bahçedir ve minberim de havzım üzerindedir."** buyurmuştur.
 
-## 6- Beytül Makdis Mescidi Bâbı  
+### 6- Beytül Makdis Mescidi Bâbı  
   
 1206) Bize Şu'be, Abdulmelik ibn Umeyr'den tahdis etti. O şöyle demiştir: Ben, Ziyad'ın himayesinde olan Kazaa'dan işittim, o şöyle dedi: Ben Ebu Said el-Hudri'den işittim; o, (Sav) Allah Rasûlü Hz.lerinden dört şey tahdis ediyordu ki bu dört şey hem beni hayrete düşürdü hem de sevindirdi. (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Eşi veya bir mahremi kendisiyle beraber bulunmayan kadın, iki günlük mesafeye sefer etmesin. Ramazan Bayramı'nın ilk günü ile Kurban Bayramı'nın dört gününden ibaret olan Ramazan ve Kurban Bayramı günlerinde oruç tutmak yoktur.** **İki namazdan sonra da namaz yoktur: Biri sabah namazından sonra güneş doğup yükselinceye kadar, öbürü ikindi namazından sonra güneş batıncaya kadar. Namaz kılmak için şu üç mescitten başka hiçbir mescide sefer edilmez: Harem Mescidi, Aksa Mescidi ve benim mescidim."**
 

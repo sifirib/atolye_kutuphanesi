@@ -599,7 +599,7 @@ Ve Âişe'nin (Ra) üzerinde altın yüzükler vardı.
 
 5977) Bize Malik, Nafi'den o da Abdullah ibn Ömer'den tahdis etti ki (Sav) Allah Rasûlü Hz.lerinin zevcesi Hafsa (Ra): "Ya Rasûlallah! Bu insanların hali nedir? Herkes umre ile ihramdan çıktılar halbuki Sen umren ile ihramdan çıkmadın?" diye sordu. (Sav) Allah Rasûlü Hz.leri: **"Ben başımın saçlarını yapıştırıp telbid yaptım, kurbanıma da gerdanlık taktım. Artık ben kurbanımı kesinceye kadar ihramdan çıkamam."** diye cevap verdi.
 
-70- Başın Saçlarını Ortasından İkiye Ayırmak Bâbı  
+###  70- Başın Saçlarını Ortasından İkiye Ayırmak Bâbı  
   
 5978) İbn Abbas (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri, hakkında müsbet menfi hiçbir şey ile emrolunmayan hususlarda kitap ehline uymayı severdi. Kitap ehli olanlar saçlarını salıp sarkıtırlardı. Müşrikler ise başlarının saçlarını ortadan iki tarafa ayırırlardı. (Sav) Allah Rasûlü Hz.leri (evvela kitap ehline uyarak) alın saçlarını salıverdi. Sonra bunun bir müddet ardından başının saçlarını ortasından ikiye ayırdı.
 
@@ -613,7 +613,7 @@ Ve Âişe'nin (Ra) üzerinde altın yüzükler vardı.
 
 5981) Bana Amr ibn Muhammed tahdis etti. Bize Huşeym tahdis etti: Bize Ebu Bişr bu hadisi haber verdi ve "Zülüflerimden yahut başımdan tuttu." şeklinde söyledi.
 
-72- Baş Saçının Bir Kısmını Tıraş Edip Bir Kısmını Parça Parça Bulutlar gibi Bırakma(nın Hükmü) Bâbı  
+###  72- Baş Saçının Bir Kısmını Tıraş Edip Bir Kısmını Parça Parça Bulutlar gibi Bırakma(nın Hükmü) Bâbı  
   
 5982) İbn Cureyc haber verip şöyle demiştir: Bana Ubeydullah ibn Hafs haber verdi ona da Nafi'nin oğlu Ömer haber verdi. Ona da Abdullah ibn Ömer'in hizmetinde bulunan Nafi haber verdi. O da Abdullah ibn Ömer'den (Ra) şöyle derken işitmiştir: Ben (Sav) Allah Rasûlü Hz.lerinden başın bir kısmını tıraş edip bir kısmını parçalı bulutlar gibi bırakmaktan nehyederken işittim.  
   
@@ -715,7 +715,7 @@ Ve Âişe'nin (Ra) üzerinde altın yüzükler vardı.
 
 6012) Bize Abdurrahman ibn Mehdi, Sufyan es-Sevri'den o da Mansur ibn Mu'temir'den o da İbrahim en-Nehai'den o da Alkame'den tahdis etti ki Abdullah ibn Mesud (Ra): Allah; dövme yapan, dövme yaptıran, yüzlerinin tüylerini yoldurtan, güzellik için dişlerinin aralarını yontturup seyrekleştiren, Allah'ın yarattığını değiştiren kadınlara lanet etti. Bana ne var ki ben (Sav) Allah Rasûlü Hz.lerinin lanet ettiği kimselere lanet etmeyeceğim? O, Allah'ın Kitabı'nda var! Demiştir.
 
-## 88- Tasvirler(in Hükmü) Bâbı  
+###  88- Tasvirler(in Hükmü) Bâbı  
   
 6013) Ebu Talha (Zeyd ibn Sehl el-Ensari (Ra)) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"İçinde köpek ve tasvirler bulunan bir eve melekler girmez."** buyurdu.
 

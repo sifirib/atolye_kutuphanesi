@@ -190,7 +190,7 @@ Bu konuda Ümmü Atıyye'den bir hadis vardır.
 
 5780) Abbad ibn Mansur, Eyüp'ten o da Ebu Kılabe'den olmak üzere söyledi ki Enes ibn Malik (Ra): "(Sav) Allah Rasûlü Hz.leri Ensar'dan bir ev halkına ağulu hayvanların zehrinden ve kulak ağrısından, okumak suretiyle sığınma ve korunma tedavisi yapmalarına izin verdi." demiştir. Yine Enes: "Ben (Sav) Allah Rasûlü Hz.leri hayattayken zatu'l-cenb hastalığından dolayı dağlama tedavisi yapıldım. Ebu Talha, Enes ibn Nadr, Zeyd ibn Sabit benim bu tedavimde hazır bulundular. Beni Ebu Talha dağlamıştı." demiştir.
 
-27- Külü ile Kan Yolunun Kapatılması için Hasır Yakılması Bâbı  
+###  27- Külü ile Kan Yolunun Kapatılması için Hasır Yakılması Bâbı  
   
 5781) Sehl ibn Sa'd es-Saidi (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.lerinin başı üzerindeki miğfer kırılıp da yüzü kanlandığı ve rabaiyye dişleri kırıldığı zaman Ali (Ra) kalkanı içinde su getiriyordu. Fatıma da gelip (Sav) Allah Rasûlü Hz.lerinin yüzündeki kanı yıkıyordu. Fatıma (As), kanın suya galip gelmekte olduğunu görünce bir hasır parçasına gitti ve onu yaktı da külünü (Sav) Allah Rasûlü Hz.lerinin yarası üzerine yapıştırdı, böylece kan kesildi.
 

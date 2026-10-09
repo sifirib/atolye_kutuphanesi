@@ -24,7 +24,7 @@ Ata ibn Rebah da: Satın almak istemesi hali müstesna, Mekke'de satılmakta ola
 
 6301) Bize Zuheyr, Zeyd ibn Eslem'den o da Ata ibn Yesar'dan o da Ebu Said el-Hudri'den (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Sizleri yollarda oturmaktan sakındırırım."** buyurdu. Sahabiler: "Ya Rasûlallah! Bizim için oralarda oturmalarımızdan kurtuluş yoktur, biz yollarda oturup konuşuruz!" dediler. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Mademki sizler için oralarda oturmak zarureti vardır, öyleyse yola hakkını veriniz!"** buyurdu. Sahabiler: "Yolun hakkı nedir ya Rasûlallah?" dediler. (Sav) Allah Rasûlü Hz.leri: **"Haramdan bakışı kısmak, gelip geçenlere eza vermekten çekinmek, selam alıp vermek, marufu emredip münkerden nehyetmektir."** buyurdu.
 
-3- Bâb: Selam, Yüce Allah'ın İsimlerinden Bir İsimdir  
+###  3- Bâb: Selam, Yüce Allah'ın İsimlerinden Bir İsimdir  
 
 _"Size bir selam verildiği zaman ondan daha güzeliyle veya aynı selamla karşılık verin..." (Nisâ 86)_  
   
@@ -188,7 +188,7 @@ Ka'b ibn Malik de (tevbesinin kabulü hadisinde) şöyle dedi: Nihayet mescide g
 
 6337) Hayve ibn Şurayh el-Basri şöyle demiştir: Bana Ebu Ukayl Zuhre ibn Ma'bed tahdis etti ki kendisi dedesi Abdullah ibn Hişam'dan şöyle dediğini işitmiştir: Bizler (Sav) Allah Rasûlü Hz.lerinin beraberindeydik. (Sav) Allah Rasûlü Hz.leri, Ömer ibn Hattab'ın elini tutmuş haldeydi.
 
-28- İki Eli Tutup Musafaha Etmek Bâbı  
+###  28- İki Eli Tutup Musafaha Etmek Bâbı  
   
 Hammad ibn Zeyd de Abdullah ibn Mübarek'le iki elini tutmak suretiyle musafaha etmiştir.  
   
@@ -314,7 +314,7 @@ Habbab ibn Erett: Ben, (Sav) Allah Rasûlü Hz.lerinin yanına geldim. O (Kabe'n
 
 ### 44- Sırtüstü Yatmak Bâbı  
   
-6460) Ez-Zuhri tahdis edip şöyle demiştir: Bana Abbad ibnu Temim, amcası Abdullah ibn Zeyd el-Ensari'den haber verdi ki o: Ben (Sav) Allah Rasûlü Hz.lerini mescidin içinde sırtüstü yatıp bir ayağını diğeri üzerine koymuş halde gördüm, demiştir.
+6360) Ez-Zuhri tahdis edip şöyle demiştir: Bana Abbad ibnu Temim, amcası Abdullah ibn Zeyd el-Ensari'den haber verdi ki o: Ben (Sav) Allah Rasûlü Hz.lerini mescidin içinde sırtüstü yatıp bir ayağını diğeri üzerine koymuş halde gördüm, demiştir.
 
 ### 45- Bâb: "Üç Kişi Bir Arada Bulunurken Bunlardan İkisi, Üçüncüyü Bırakıp Gizli Konuşmaz."  
   

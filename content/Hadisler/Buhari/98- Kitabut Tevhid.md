@@ -105,7 +105,7 @@ Eyüp Peygamber (As) de (mucizeli suda yıkandığı sırada önüne altından d
   
 7480) Abdullah ibn Ömer (Ra): (Sav) Allah Rasûlü Hz.leri çok defa **"Gönülleri çevirip döndüren Allah'a ant ederim ki yapmam!"** diye yemin ederdi, demiştir.
 
-"Allah'ın Yüzden Bir Eksik Olarak Doksan Dokuz İsmi Vardır." Bâbı  
+### 12- "Allah'ın Yüzden Bir Eksik Olarak Doksan Dokuz İsmi Vardır." Bâbı  
   
 İbn Abbas: "Zu'l-Celali", _(Rahmân 27)_ "el-Azameti"; "el Berru", "el-Latifu" demektir, demiştir.  
   

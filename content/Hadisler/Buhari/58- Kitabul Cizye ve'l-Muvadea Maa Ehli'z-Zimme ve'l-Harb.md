@@ -158,7 +158,7 @@ _"Onlar, kendileriyle antlaşma yaptığın sonra da her defasında antlaşmalar
 
 ### 20- Bir Vakit Tayin Etmeden Mütareke ve Barış Yapma(nın Cevazı) ve (Sav) Allah Rasûlü Hz.lerinin (Hayberlilere): "Allah'ın Sizleri Oturttuğu Müddetçe Ben Sizleri Burada Oturtuyorum." Kavli Bâbı  
   
-21- Müşriklerin Cesetlerinin Kuyu İçine Atılmasının (Cevazı) ve Onların Kokmuş Leşleri için Bir Bedel Alınmaması Bâbı  
+###  21- Müşriklerin Cesetlerinin Kuyu İçine Atılmasının (Cevazı) ve Onların Kokmuş Leşleri için Bir Bedel Alınmaması Bâbı  
 
 3221) Abdullah ibn Mesud (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri Kabe'nin yanında secde edici olduğu sırada etrafında Kureyş müşriklerinden birtakım insanlar vardı. Bu sırada Ukbe ibn Ebu Muayt, (kesilmiş olan) bir devenin döl eşini getirdi ve onu secde halindeki (Sav) Allah Rasûlü Hz.lerinin sırtı üzerine attı. (Sav) Allah Rasûlü Hz.leri secdeden başını kaldırmadı. Nihayet kızı Fatıma (As) geldi, onu sırtından aldı ve bu işi yapan kimseler aleyhine beddua etti.  
   

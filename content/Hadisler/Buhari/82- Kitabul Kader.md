@@ -1,6 +1,6 @@
 ## Kitabul Kader
 
-## 1- Kader Bâbı
+###  1- Kader Bâbı
 
 6674) Abdullah (ibn Mesud) (Ra), şöyle dedi: Bize daima doğru söyleyen ve kendisine de doğru bildirilen (Sav) Allah Rasûlü Hz.leri şöyle tahdis etti: **"Sizin her birinizin** (yaratılışının başlangıcında) **ana baba maddeleri, kırk gün anasının karnında toplanır. Sonra o maddeler bir o kadar zaman içinde katı bir kan pıhtısı halini alır. Sonra yine bir o kadar zaman içinde bir çiğnem olur. Sonra** (dördüncü tekamül safhasında) **Allah, bir melek gönderir de bu melek** (ona ruh üfürür) **ve dört kelime ile yani rızkını, ecelini, şaki yahut said olduğunu yazmakla emrolunur. Allah'a yemin ederim ki sizlerden biriniz yahut bir adam, ateş ehlinin ameliyle amel etmeye devam eder nihayet kendisiyle cehennem arasında bir kulaç yahut bir ziradan başka mesafe kalmaz. Bu sırada** (meleğin ana karnında yazdığı) **yazı, o kişinin önüne geçer. Bu sefer o kimse, cennet ehlinin ameliyle amel etmeye devam eder ve cennete girer. Ve yine bir kimse cennet ehlinin ameliyle amel eder nihayet kendisiyle cennet arasında bir zira yahut iki ziradan başka mesafe kalmaz. Bu sırada yazı, onun önüne geçer. Bu defa da o kimse, ateş ehlinin ameliyle amel eder ve ateşe girer."**  
   

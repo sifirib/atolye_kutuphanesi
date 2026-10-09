@@ -231,7 +231,7 @@ Ve Allah'ın şu kavli: _"Ey iman edenler! Ne oldunuz ki size 'Allah yolunda sef
   
 	  Ebu Abdullah el-Buhari dedi ki: Es-Saidi, Amr ibn Yahya ibn Said ibn Amr ibn Said ibn As'tır.
 
- 29- Düşmanla Cenk ve Kıtal Etmeye Gitmeyi, Oruç Tutmaya Tercih Eden Kimse Bâbı  
+###  29- Düşmanla Cenk ve Kıtal Etmeye Gitmeyi, Oruç Tutmaya Tercih Eden Kimse Bâbı  
   
 2865) Enes ibn Malik (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri zamanında Ebu Talha, düşmanla cenk etmek için oruç tutmazdı. (Sav) Allah Rasûlü Hz.lerinin ruhu kabzolununca ben Ebu Talha'yı hiç oruçsuz görmedim, yalnız Ramazan Bayramı günü yahut (teşrik günleri dahil olduğu halde) Kurban günü oruç tutmazdı.
 
@@ -831,7 +831,7 @@ Bazıları da "Ölmek üzere biat" demiştir. Her iki şey üzerine biatının d
 
 3002) Sonra asker içinde ayağa kalkıp şöyle hitap etti: **"Ey insanlar! Düşmanla karşılaşmayı** (harp etmeyi) **temenni etmeyiniz. Allah'tan** (harp felaketinden) **korumasını isteyiniz fakat düşmanla karşılaştığınız zamanda da** (harbin bütün şiddetlerine karşı) **sabrediniz ve biliniz ki cennet muhakkak surette kılıçların gölgeleri altındadır."** buyurdu. Sonra şu duayı söyledi: **"Allah'ım! Ey bulutları yürüten, ey toplanmış orduları bozan** (Allah)**! Düşmanları bozgunluğa uğrat, düşmanlara karşı bizlere yardım edip zafer ver!"**
 
-113- Kişinin Gazveden Dönmek yahut Geri Kalmak (Hususunda) Devlet Başkanından İzin İstemesi Bâbı  
+###  113- Kişinin Gazveden Dönmek yahut Geri Kalmak (Hususunda) Devlet Başkanından İzin İstemesi Bâbı  
   
 Çünkü aziz ve celil olan Allah'ın şu kavli vardır: _"Müminler ancak Allah'a ve Peygamberine inanan, onunla beraber toplumu ilgilendiren bir iş üzerindeyken ondan izin almadan çekip gitmeyen kimselerdir. O halde bazı işlerini görmek için Senden izin isterlerse içlerinden dilediğine izin ver ve onlar için Allah'tan bağışlama dile. Şüphesiz Allah çok bağışlayandır, çok merhamet edendir." (Nûr 62)_  
   

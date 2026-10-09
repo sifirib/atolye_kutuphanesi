@@ -530,7 +530,7 @@ Bu hadisi Said ibn Mina, Cabir'den o da (Sav) Allah Rasûlü Hz.lerinden rivaye
   
 	  Ravi: "Ümmü Seleme böyle veyahut buna benzer bir söz söyledi." dedi. Süleyman ibn Tarhan dedi ki: Ben, Ebu Osman'a: "Sen bu hadisi kimden işittin?" diye sordum. Ebu Osman: "Usame ibn Zeyd'den işittim." dedi.
 
-27- Yüce Allah'ın Şu Kavli Bâbı  
+###  27- Yüce Allah'ın Şu Kavli Bâbı  
   
 _"Kendilerine kitap verdiklerimiz onu_ (Peygamberi) _oğullarını tanıdıkları gibi tanırlar. Böyleyken içlerinden birtakımı bile bile gerçeği gizlerler." (Bakara 146)_  
   

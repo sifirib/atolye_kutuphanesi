@@ -186,7 +186,7 @@ _"İman etmedikleri sürece Allah'a ortak koşan kadınlarla evlenmeyin. Allah'a
 
 5342) Yine Ata, geçen isnatla İbn Abbas'tan söyledi: Karibe -yahut Kureybe- bint Ebu Umeyye -ki Ümmü Seleme'nin kız kardeşidir- Ömer ibn Hattab'ın nikahındaydı. Ömer onu boşadı müteakiben o kadınla Muaviye ibn Ebu Sufyan evlendi. Ebu Sufyan'ın kızı Ümmü Hakem de -ki bu kadın Muaviye ile Ümmü Habibe'nin baba bir kız kardeşleriydi- İyad ibn Ganin el-Fıhri'nin nikahındaydı. Bu İyad, Ümmü Hakem'i boşadı. Akabinde bu kadınla Abdullah ibn Osman es-Sakafi evlendi.
 
-	  20- Bâb: Zımminin yahut Harbinin Nikahındaki Müşrike yahut Nasraniyye Bir Kadın İslam'a Girdiği Zaman (Hüküm Nasıldır? Sırf İslam'a Girişi ile Aralarında Ayrılık Hasıl Olur mu yahut Kadına Muhayyerlik mi Sabit Olur?)  
+###  20- Bâb: Zımminin yahut Harbinin Nikahındaki Müşrike yahut Nasraniyye Bir Kadın İslam'a Girdiği Zaman (Hüküm Nasıldır? Sırf İslam'a Girişi ile Aralarında Ayrılık Hasıl Olur mu yahut Kadına Muhayyerlik mi Sabit Olur?)  
   
 5343) Abdu'l-varis, Halid el-Hazza'dan o da İkrime'den o da İbn Abbas'tan (Ra) olmak üzere söyledi: Nasraniyye bir kadın, kocasından bir saat önce İslam'a girdiğinde o kadın, kocasına haram olmuştur. Ebu Davud ibn Ebu Furat da İbrahim es-Saığ'dan söyledi ki o şöyle demiştir: Ata ibn Ebu Rebah'a: Ahd ehli olan zımmilerden bir kadın İslam'a girse ondan sonra da kadın daha iddet içindeyken kocası İslam'a girse kadın o kocanın karısı mıdır? Diye soruldu.  
   
@@ -272,7 +272,7 @@ Ebu Katade de şöyle demiştir: (Sav) Allah Rasûlü Hz.leri ihramlıya hitaben
   
 	  Bunu söylerken parmağı ile boğazını işaret ediyordu.
 
-26- Li'an (yani Lanetleşme) ve Yüce Allah'ın Şu Kavli Bâbı
+###  26- Li'an (yani Lanetleşme) ve Yüce Allah'ın Şu Kavli Bâbı
 
 _"Eşlerine zina isnat edip de kendilerinden başka şahitleri olmayanlara gelince onların her birinin şahitliği; kendisinin doğru söyleyenlerden olduğuna dair, Allah adına dört defa yemin ederek şahitlik etmesi beşinci defada da eğer yalancılardan ise Allah'ın lanetinin kendi üzerine olmasını ifade etmesiyle yerine gelir. Kocasının yalancılardan olduğuna dair Allah'ı dört defa şahit getirmesi_ (Allah adına yemin etmesi) _beşinci defada da eğer kocası doğru söyleyenlerden ise Allah’ın gazabının kendi üzerine olmasını dilemesi, kadından cezayı kaldırır." (Nûr 6-9)_  
 
@@ -408,7 +408,7 @@ Ez-Zuhri ise: "Kadın bu üç hayzı birinci için olduğu gibi ikincisi için d
   
 Ebu Ubeyde Mamer ibn Musenna: Kadının hayzı yakın olduğu zamanda da temizliği yakın olduğu zamanda da "Akraati'l-Meretu" denilir (yani bu kelime iki zıt manada kullanılır) ve kadın karnında bir çocuk toplamadığı zaman "Ma karaat bi-selan kattu (Onun döl yatağı asla bir şey toplamadı.)" denilir, demiştir.
 
-42- Fatıma Bint Kays Kıssası ve Yüce Allah'ın Şu Kavli Bâbı  
+###  42- Fatıma Bint Kays Kıssası ve Yüce Allah'ın Şu Kavli Bâbı  
 
 _"...Apaçık bir hayasızlık yapmaları dışında onları_ (bekleme süresince) _evlerinden çıkarmayın, kendileri de çıkmasınlar. Bunlar Allah'ın sınırlarıdır. Kim Allah'ın sınırlarını aşarsa şüphesiz kendine zulmetmiş olur. Bilemezsin, olur ki Allah sonra yeni bir durum ortaya çıkarır." (Talâk 1)_  
 
