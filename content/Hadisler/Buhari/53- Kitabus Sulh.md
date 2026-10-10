@@ -8,7 +8,7 @@ Ve yüce Allah'ın şu kavli: _"Bir sadaka vermeyi yahut iyilik yapmayı yahut d
   
 2731) Bana Ebu Hazım, Sehl ibn Sa'd'dan (Ra) tahdis etti ki (o, şöyle demiştir): Amr ibn Avfoğullarından birtakım insanlar arasında bir kavga olmuştu. Bunun üzerine (Sav) Allah Rasûlü Hz.leri bunların arasını düzeltmek için sahabilerinden bazı insanlarla birlikte Avfoğullarına (onların Kuba'daki yurduna) çıkıp gitti. Namaz vakti gelmişti. Halbuki (Sav) Allah Rasûlü Hz.leri henüz Medine Mescidi'ne gelmemişti. Bilal geldi, namaz için ezan okudu da (Sav) Allah Rasûlü Hz.leri hala gelmemişti. Bunun üzerine Bilal, Ebu Bekir'e geldi ve: (Sav) Allah Rasûlü Hz.leri (ara düzeltmek sebebiyle) alıkonuldu. Namaz vakti de geldi. Sen cemaate imam olup namaz kıldırır mısın? Dedi. Ebu Bekir: Evet, istersen namaza ikamet et, dedi.  
   
-	  Ve Ebu Bekir öne geçip namaza durdu. Sonra (Sav) Allah Rasûlü Hz.leri geldi, saflar arasında yürüyerek ta birinci safta durdu. (Sav) Allah Rasûlü Hz.lerini gören insanlar el çırpmaya başladılar. Ebu Bekir namazda başını çevirip bir tarafa bakmazdı. İnsanlar el çırpmayı çoğaltınca dönüp baktı ve (Sav) Allah Rasûlü Hz.lerini arkasında gördü. (Sav) Allah Rasûlü Hz.leri ona eliyle işaret ederek yerinde durmasını ve öylece namazı kıldırmasını emretti. Ebu Bekir de elini kaldırıp ((Sav) Allah Rasûlü Hz.lerinin bu emrinden dolayı) Allah'a hamd etti. Sonra Ebu Bekir birinci safa girinceye kadar arkasına geri geri çekildi. (Sav) Allah Rasûlü Hz.leri de ilerledi ve insanlara namazı kıldırdı. Namazı bitirince insanlara karşı döndü de: "**Ey insanlar! Namazınızın içinde size bir şey arız olunca el çırpmaya başladınız. Namaz içinde el çırpmak ancak kadınlara mahsustur. Her kime namazı içinde** (hatırlatmaya değer) **bir şey arız olursa 'Subhanallah!' desin çünkü onun tesbihini işiten kimse** (yani imam) **muhakkak ona döner."** buyurdu. Sonra (Sav) Allah Rasûlü Hz.leri: **"Ya Ebu Bekir! Sana işaret ettiğim zaman seni yerinde durmaktan ne menetti de insanlara namaz kıldırmadın?"** diye sordu. Ebu Bekir: (Ya Rasûlallah!) Ebu Kuhafe'nin oğluna (Sav) Allah Rasûlü Hz.lerinin önünde insanlara namaz kıldırması yakışmazdı, dedi.
+	  Ve Ebu Bekir öne geçip namaza durdu. Sonra (Sav) Allah Rasûlü Hz.leri geldi, saflar arasında yürüyerek ta birinci safta durdu. (Sav) Allah Rasûlü Hz.lerini gören insanlar el çırpmaya başladılar. Ebu Bekir namazda başını çevirip bir tarafa bakmazdı. İnsanlar el çırpmayı çoğaltınca dönüp baktı ve (Sav) Allah Rasûlü Hz.lerini arkasında gördü. (Sav) Allah Rasûlü Hz.leri ona eliyle işaret ederek yerinde durmasını ve öylece namazı kıldırmasını emretti. Ebu Bekir de elini kaldırıp ((Sav) Allah Rasûlü Hz.lerinin bu emrinden dolayı) Allah'a hamd etti. Sonra Ebu Bekir birinci safa girinceye kadar arkasına geri geri çekildi. (Sav) Allah Rasûlü Hz.leri de ilerledi ve insanlara namazı kıldırdı. Namazı bitirince insanlara karşı döndü de: "**Ey insanlar! Namazınızın içinde size bir şey arız olunca el çırpmaya başladınız. Namaz içinde el çırpmak ancak kadınlara mahsustur. Her kime namazı içinde** (hatırlatmaya değer) **bir şey arız olursa 'Subhanallah!' desin çünkü onun tesbihini işiten kimse** (yani imam) **muhakkak ona döner."** buyurdu. Sonra (Sav) Allah Rasûlü Hz.leri: **"Ya Ebu Bekir! Sana işaret ettiğim zaman seni yerinde durmaktan ne menetti de insanlara namaz kıldırmadın?"** diye sordu. Ebu Bekir: (Ya Rasûlallah!) Ebu Kuhafe'nin oğluna (Sav) Allah Rasûlü Hz.lerinin önünde insanlara namaz kıldırması yakışmazdı, dedi. ^buhari-2731
 
 2732) Bize Mu'temir tahdis edip şöyle dedi: Ben babam Süleyman ibn Tarhan'dan işittim ki Enes (Ra) şöyle demiştir: (Medine'ye gelişinin ilk günlerinde) (Sav) Allah Rasûlü Hz.lerine: (Hazreclilerin başkanı) Abdullah ibn Ubeyy'in yanına gitseniz (de İslam'a çağırsanız hayırlı olur), denildi.  
   
@@ -16,19 +16,19 @@ Ve yüce Allah'ın şu kavli: _"Bir sadaka vermeyi yahut iyilik yapmayı yahut d
   
 	  Abdullah ibn Ubeyy hesabına onun kavminden biri öfkelendi de bu iki kişi sövüştüler. Bunlardan her birinin taraftarları öfkelendiler de aralarında hurma değneğiyle, ellerle ve pabuçlarla vuruşma oldu.  
   
-	  Enes: _"Eğer inananlardan iki grup birbirleriyle savaşırlarsa aralarını düzeltin..." (Hucurât 9)_ ayetinin indirildiği haberi bize ulaştı, demiştir.
+	  Enes: _"Eğer inananlardan iki grup birbirleriyle savaşırlarsa aralarını düzeltin..." (Hucurât 9)_ ayetinin indirildiği haberi bize ulaştı, demiştir. ^buhari-2732
 
 ### 2- İnsanlar Arasını İyileştirip Düzelten Kimse Yalancı Değildir  
   
-2733) Bize İbrahim ibn Sa'd, Salih ibn Keysa'dan, o da İbn Şihab'dan tahdis etti ki ona Humeyd ibn Abdurrahman ona da annesi Ukbe kızı Ümmü Gülsüm haber vermiştir: Ümmü Gülsüm, (Sav) Allah Rasûlü Hz.lerinden: **"İnsanlar arasını iyileştirip düzelten ve bunun için hayır maksadıyla söz ulaştıran veya hayır kastıyla söz söyleyen kimse yalancı değildir."** buyururken işitmiştir.
+2733) Bize İbrahim ibn Sa'd, Salih ibn Keysa'dan, o da İbn Şihab'dan tahdis etti ki ona Humeyd ibn Abdurrahman ona da annesi Ukbe kızı Ümmü Gülsüm haber vermiştir: Ümmü Gülsüm, (Sav) Allah Rasûlü Hz.lerinden: **"İnsanlar arasını iyileştirip düzelten ve bunun için hayır maksadıyla söz ulaştıran veya hayır kastıyla söz söyleyen kimse yalancı değildir."** buyururken işitmiştir. ^buhari-2733
 
 ### 3- İmamın Kendi Arkadaşlarına Hitaben: "Bizi Götürün, Aralarını İyileştirip Barıştıralım." Sözü Bâbı  
   
-2734) Sehl ibn Sa'd'dan (Ra) (şöyle demiştir): Kuba ahalisi birbirleriyle dövüştüler hatta birbirlerine taşlar attılar. Bu hadise (Sav) Allah Rasûlü Hz.lerine haber verilince (Sav) Allah Rasûlü Hz.leri hemen: **"Bizi götürün de aralarını iyileştirip barıştıralım."** buyurdu.
+2734) Sehl ibn Sa'd'dan (Ra) (şöyle demiştir): Kuba ahalisi birbirleriyle dövüştüler hatta birbirlerine taşlar attılar. Bu hadise (Sav) Allah Rasûlü Hz.lerine haber verilince (Sav) Allah Rasûlü Hz.leri hemen: **"Bizi götürün de aralarını iyileştirip barıştıralım."** buyurdu. ^buhari-2734
 
 ### 4- Yüce Allah'ın Şu Kavli Bâbı: "Eğer Bir Kadın Kocasının, Kendisine Kötü Davranmasından yahut Yüz Çevirmesinden Endişe Ederse Uzlaşarak Aralarını Düzeltmelerinde İkisine de Bir Günah Yoktur. Uzlaşmak Daha Hayırlıdır..." (Nisâ 128)  
   
-2735) Aişe (Ra), _**"**Eğer bir kadın kocasının, kendisine kötü davranmasından yahut yüz çevirmesinden endişe ederse uzlaşarak aralarını düzeltmelerinde ikisine de bir günah yoktur. Uzlaşmak daha hayırlıdır...**"**_ _(Nisâ 128)_ ayetinin tefsiri hakkında şöyle demiştir: Bu öyle bir adamdır ki karısından hoşlanmayacağı yaşlılık yahut da bunun gayrı kötü bir hal görür de o kadından ayrılmak ister. Bunu sezen karısı: Sen beni nikahında tut ve benim için (nafaka ve diğer şeylerden) istediğin taksimi yap, der. Âişe: İşte, kadın ile kocası bu suretle karşılıklı razı olurlarsa bu anlaşmada günah yoktur, demiştir.
+2735) Aişe (Ra), _**"**Eğer bir kadın kocasının, kendisine kötü davranmasından yahut yüz çevirmesinden endişe ederse uzlaşarak aralarını düzeltmelerinde ikisine de bir günah yoktur. Uzlaşmak daha hayırlıdır...**"**_ _(Nisâ 128)_ ayetinin tefsiri hakkında şöyle demiştir: Bu öyle bir adamdır ki karısından hoşlanmayacağı yaşlılık yahut da bunun gayrı kötü bir hal görür de o kadından ayrılmak ister. Bunu sezen karısı: Sen beni nikahında tut ve benim için (nafaka ve diğer şeylerden) istediğin taksimi yap, der. Âişe: İşte, kadın ile kocası bu suretle karşılıklı razı olurlarsa bu anlaşmada günah yoktur, demiştir. ^buhari-2735
 
 ### 5- Birbirleriyle Çekişen Kimseler yahut Topluluklar Bir Haksızlık ve Zulüm Barışı Üzerine Anlaşma Yaptıkları Zaman Bu Barış Reddedilmiştir  
   
@@ -38,11 +38,11 @@ Ve yüce Allah'ın şu kavli: _"Bir sadaka vermeyi yahut iyilik yapmayı yahut d
   
 	  Bu ifade üzerine (Sav) Allah Rasûlü Hz.leri **"Elbette aranızda Allah'ın Kitabı ile hükmedeceğim: Cariye ile koyunlar sana geri verilecektir, oğluna da yüz değnek vurulacak ve bir sene de sürgün edilecektir. Sana gelince ya Uneys** -ki Uneys ibn Dahhak el-Eslemi adında sahabilerden bir adamdır-**, sen yarın kuşluk vaktinde bu adamın karısına git** (suçunu itiraf ederse) **ona taşlama cezası uygula!"** buyurdu.  
   
-	  (Ravi dedi ki:) Ertesi günü kuşluk vaktinde Uneys o kadına gitti ve (suçunu itiraf etmesi üzerine) o kadına taşlama cezası uyguladı.
+	  (Ravi dedi ki:) Ertesi günü kuşluk vaktinde Uneys o kadına gitti ve (suçunu itiraf etmesi üzerine) o kadına taşlama cezası uyguladı. ^buhari-2736
 
 2737) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"Her kim bizim şu din işimizin içinde ondan olmayan bir bidat icat ederse o reddedilmiştir, batıldır!"** buyurdu.  
   
-	  Bu hadisi Abdullah ibn Cafer el-Mahrami ile Abdulvahid ibn Ebu Avn da, Said ibn İbrahim'den rivayet etmişlerdir.
+	  Bu hadisi Abdullah ibn Cafer el-Mahrami ile Abdulvahid ibn Ebu Avn da, Said ibn İbrahim'den rivayet etmişlerdir. ^buhari-2737
 
 ### 6- (Barış Yazısı) Nasıl Yazılır?  
   
@@ -52,7 +52,7 @@ Ve yüce Allah'ın şu kavli: _"Bir sadaka vermeyi yahut iyilik yapmayı yahut d
   
 	  Bunun üzerine (Sav) Allah Rasûlü Hz.leri, Ali'ye hitaben: **"Rasûlullah sözünü sil!"** buyurdu. Ali de: "Ben onu silen kimse olmam." dedi. Bunun üzerine onu (Sav) Allah Rasûlü Hz.leri bizzat kendi eliyle sildi ve gelecek sene kendisiyle sahabileri Mekke'ye girip üç gün ikamet etmeleri, oraya ancak silahların kılıfları içinde olarak girmeleri şartı üzere Mekkeliler ile barış anlaşması yaptı.  
   
-	  Raviye: "Bu 'Culubbanu's-silah' nedir?" diye sordular. "İçindekiyle beraber kılıftır." dedi.
+	  Raviye: "Bu 'Culubbanu's-silah' nedir?" diye sordular. "İçindekiyle beraber kılıftır." dedi. ^buhari-2738
 
 2739) El-Bera (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri (altıncı hicret yılının) Zilkade ayında umre yapmak istedi (yola çıktı). Mekke ahalisi bunu kabul etmeyip (Sav) Allah Rasûlü Hz.lerini Mekke'ye girmesine bırakmadılar. Nihayet (Sav) Allah Rasûlü Hz.leri Mekkeliler ile (gelecek yıl) Mekke'de üç gün ikamet etmek üzere bir barış anlaşması yaptı.  
   
@@ -94,9 +94,9 @@ Yine bu konuda Sehl ibn Huneyf, Esma bint Ebu Bekir ve Mısver ibn Mahreme de (S
   
 (Buhari dedi ki): Ravi Müemmel ibn İsmail, Sufyan es-Sevri'den rivayetinde Ebu Cendel'i zikretmedi de onun yerine "İlla bi-culubbi's-silah" dedi.
 
- 2741) ...Bize Fulayh, Nafi'den o da İbn Ömer'den (Ra) tahdis etti ki: (Sav) Allah Rasûlü Hz.leri umre yapmak niyetiyle (Medine'den) çıkmıştı fakat Kureyş kafirleri (Sav) Allah Rasûlü Hz.leri ile Kabe arasına girip menettiler. (Sav) Allah Rasûlü Hz.leri de Hudeybiye'de kurbanını kesti ve başını tıraş etti (ihramdan çıktı) ve müşriklerle: "Gelecek sene umre yapmak, (Sav) Allah Rasûlü Hz.lerinin sahabileri Mekkelilere karşı kılıçlardan başka silah taşımamak ve Mekke'de, Mekkelilerin istedikleri müddetten fazla ikamet etmemek." şartları üzerine barış anlaşması yaptı. Bu suretle (Sav) Allah Rasûlü Hz.leri, gelecek sene umre yaptı. (Sav) Allah Rasûlü Hz.leri onlarla yaptığı barış anlaşmasına uygun olarak Mekke'ye gidip üç gün orada ikamet edince (bu müddetin girmesinde) Mekkeliler (Sav) Allah Rasûlü Hz.lerine Mekke'den çıkmasını söylediler, O da Mekke'den çıktı.
+ 2741) ...Bize Fulayh, Nafi'den o da İbn Ömer'den (Ra) tahdis etti ki: (Sav) Allah Rasûlü Hz.leri umre yapmak niyetiyle (Medine'den) çıkmıştı fakat Kureyş kafirleri (Sav) Allah Rasûlü Hz.leri ile Kabe arasına girip menettiler. (Sav) Allah Rasûlü Hz.leri de Hudeybiye'de kurbanını kesti ve başını tıraş etti (ihramdan çıktı) ve müşriklerle: "Gelecek sene umre yapmak, (Sav) Allah Rasûlü Hz.lerinin sahabileri Mekkelilere karşı kılıçlardan başka silah taşımamak ve Mekke'de, Mekkelilerin istedikleri müddetten fazla ikamet etmemek." şartları üzerine barış anlaşması yaptı. Bu suretle (Sav) Allah Rasûlü Hz.leri, gelecek sene umre yaptı. (Sav) Allah Rasûlü Hz.leri onlarla yaptığı barış anlaşmasına uygun olarak Mekke'ye gidip üç gün orada ikamet edince (bu müddetin girmesinde) Mekkeliler (Sav) Allah Rasûlü Hz.lerine Mekke'den çıkmasını söylediler, O da Mekke'den çıktı. ^buhari-2741
  
-2742) Sehl ibn Ebu Hasmete (Ra) şöyle demiştir: Abdullah ibn Sehl ile Mesud ibn Zeyd'in oğlu Muhayyısa, Hayber'e (hurma toplamaya) gitmişlerdi. O sene Hayberli Yahudilerle Müslümanlar arasında barış anlaşması vardı.
+2742) Sehl ibn Ebu Hasmete (Ra) şöyle demiştir: Abdullah ibn Sehl ile Mesud ibn Zeyd'in oğlu Muhayyısa, Hayber'e (hurma toplamaya) gitmişlerdi. O sene Hayberli Yahudilerle Müslümanlar arasında barış anlaşması vardı. ^buhari-2742
  
 ### 8- Diyet Hususunda Sulh Bâbı  
   
@@ -104,7 +104,7 @@ Yine bu konuda Sehl ibn Huneyf, Esma bint Ebu Bekir ve Mısver ibn Mahreme de (S
   
 	  (Sav) Allah Rasûlü Hz.leri: **"Ya Enes! Allah'ın Kitabı’nın hükmü kısastır."** buyurdu. Akabinde davacılar diyete razı olup Rubeyyi'den kısası affettiler. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **''Allah'ın kullarından öyle kimse vardır ki o Allah'a yemin etse muhakkak Allah onun yeminini yerine getirir** (onu yemininde doğru çıkarır)**."** buyurdu.  
   
-	  El-Fezari, Humeyd'den o da Enes'ten "Kızın kavmi razı oldular ve diyeti kabul ettiler." sözünü ziyade etmiştir.
+	  El-Fezari, Humeyd'den o da Enes'ten "Kızın kavmi razı oldular ve diyeti kabul ettiler." sözünü ziyade etmiştir. ^buhari-2743
 
 ### 9- (Sav) Allah Rasûlü Hz.lerinden Ali'nin Oğlu Hasan için (Allah İkisinden de Razı Olsun): "Şu Benim Oğlumdur, Bir Seyyiddir. Umarım ki Allah Bu Oğlum Sebebiyle İki Büyük Fırka Arasını Düzeltir." Sözü Bâbı  
   
@@ -120,19 +120,19 @@ Ve zikri ulu Allah'ın şu kavli: _"Eğer Müminlerden iki grup birbiriyle kavga
   
 	  Hasan-ı Basri şöyle dedi: Ben Ebu Bekir'den (Nufey ibn Haris (Ra)) işittim, o şöyle diyordu: Ben (Sav) Allah Rasûlü Hz.lerini minber üzerinde torunu Hasan ibn Ali yanı başında olduğu halde gördüm. Kendisi bir kere cemaate, diğer bir defa da Hasan ibn Ali'ye dönüp ona işaret ederek şöyle buyuruyordu: **"Şüphesiz bu benim oğlumdur, bir seyyiddir** (şeref sahibi efendidir)**. Allah'ın bu oğlum sebebiyle Müslümanlardan iki büyük fırkanın arasını düzeltmesini umarım."**  
   
-	  Ebu Abdullah Buhari dedi ki: Ali ibn Abdullah bana şöyle dedi: Hasan-ı Basri'nin Ebu Bekir'den işitmesi bize ancak bu hadis ile sabit olmuştur.
+	  Ebu Abdullah Buhari dedi ki: Ali ibn Abdullah bana şöyle dedi: Hasan-ı Basri'nin Ebu Bekir'den işitmesi bize ancak bu hadis ile sabit olmuştur. ^buhari-2744
 
 ### 10- İmam (Hasımlardan Birine yahut Her İkisine Birden) Barışmaya İşaret Eder mi?  
   
 2745) Ebu Rical Muhammed ibn Abdurrahman tahdis etti ki annesi Amrete bint Abdurrahman şöyle demiştir: Ben Âişe'den (Ra) işittim, şöyle diyordu: (Sav) Allah Rasûlü Hz.leri kendi kapısı önünde (bir alacak davasından dolayı) hasımların yüksek sesle çekiştiklerini işitti. İki hasımdan biri (yani borçlu) ötekinden (yani alacaklıdan) borcun bir miktarını indirmesini ve alacağını kendinden yumuşaklıkla talep etmesini istiyordu. Borç veren ise: Vallahi indirme işini yapmam, diyordu.  
   
-	  Bunun üzerine (Sav) Allah Rasûlü Hz.leri evinden bu iki muhasımın yanına çıktı da: **"Maruf olan bir iyiliği işlememek üzere Allah üzerine yemin eden nerededir?"** diye sordu. Borç veren utanarak: Benim ya Rasûlallah! Şimdi borçlu bunlardan hangisini arzu ederse onun olsun, dedi (ve yarı yarıya sulh oldu).
+	  Bunun üzerine (Sav) Allah Rasûlü Hz.leri evinden bu iki muhasımın yanına çıktı da: **"Maruf olan bir iyiliği işlememek üzere Allah üzerine yemin eden nerededir?"** diye sordu. Borç veren utanarak: Benim ya Rasûlallah! Şimdi borçlu bunlardan hangisini arzu ederse onun olsun, dedi (ve yarı yarıya sulh oldu). ^buhari-2745
 
-2746) Ka'b ibn Malik'in oğlu Abdullah şöyle tahdis etmiştir: Babam Ka'b'ın, Eslemi Abdullah ibn Ebu Hadred üzerinde bir mal alacağı vardı. Ka'b, borçlu olan Abdullah'a kavuştu ve ondan alacağını istedi. Her ikisi, sesleri yükselinceye kadar birbirine söylendiler. Bu sırada (Sav) Allah Rasûlü Hz.leri bunların yanına uğradı da: **"Ya Ka'b!"** dedi ve **"Abdullah'ın üzerindeki alacağının yarısını al!"** der gibi eliyle işaret etti. Bunun üzerine Ka'b da Eslemi'deki alacağının yarısını aldı ve öbür yarısını ona terk etti.
+2746) Ka'b ibn Malik'in oğlu Abdullah şöyle tahdis etmiştir: Babam Ka'b'ın, Eslemi Abdullah ibn Ebu Hadred üzerinde bir mal alacağı vardı. Ka'b, borçlu olan Abdullah'a kavuştu ve ondan alacağını istedi. Her ikisi, sesleri yükselinceye kadar birbirine söylendiler. Bu sırada (Sav) Allah Rasûlü Hz.leri bunların yanına uğradı da: **"Ya Ka'b!"** dedi ve **"Abdullah'ın üzerindeki alacağının yarısını al!"** der gibi eliyle işaret etti. Bunun üzerine Ka'b da Eslemi'deki alacağının yarısını aldı ve öbür yarısını ona terk etti. ^buhari-2746
 
 ### 11- İnsanlar Arasını İyileştirip Barıştırmanın ve Yine İnsanlar Arasında Adalet Yapmanın Fazileti Bâbı  
   
-2747) Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Her insanın bedenindeki her bir eklemin faydalarına karşı** (şükretmesi kendi) **üzerine bir sadakadır.** **Güneşin doğmakta olduğu her gün** (yani her günün gündüzünde) **insanlar arasında adalet yapması büyük bir sadakadır."**
+2747) Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri şöyle buyurdu: **"Her insanın bedenindeki her bir eklemin faydalarına karşı** (şükretmesi kendi) **üzerine bir sadakadır.** **Güneşin doğmakta olduğu her gün** (yani her günün gündüzünde) **insanlar arasında adalet yapması büyük bir sadakadır."** ^buhari-2747
 
 ### 12- İmam Barışmaya İşaret Ettiği ve Üzerinde Hak Bulunan Kimse de Barıştan Çekindiği Zaman İmam (yani Hakim), O Kimse Üzerine Kendisine Apaçık Olan Hükümle Hükmeder  
   
@@ -140,7 +140,7 @@ Ve zikri ulu Allah'ın şu kavli: _"Eğer Müminlerden iki grup birbiriyle kavga
   
 	  (Sav) Allah Rasûlü Hz.leri o vakit Zubeyr'e kendi hakkını bol bol kullanmasını söyledi. Halbuki bundan önce Zubeyr'e, hem kendisine hem de Ensari lehine müsamahalı bir sulama yapmasını işaret etmişti. Ensari (Sav) Allah Rasûlü Hz.lerine öfkelenince (Sav) Allah Rasûlü Hz.leri Zubeyr'e apaçık hüküm içinde hakkını bol bol kullanmasını bildirmiştir.  
   
-	  Urve dedi ki: Zubeyr: Vallahi ben şu ayetin bu hadise hakkında indiğini zannediyorum, dedi: _"Hayır! Rabb'ine andolsun ki onlar, aralarında çıkan çekişmeli işlerde seni hakem yapıp sonra da verdiğin hükme içlerinde hiçbir sıkıntı duymaksızın tam bir teslimiyetle boyun eğmedikçe iman etmiş olmazlar." (Nisâ 65)_
+	  Urve dedi ki: Zubeyr: Vallahi ben şu ayetin bu hadise hakkında indiğini zannediyorum, dedi: _"Hayır! Rabb'ine andolsun ki onlar, aralarında çıkan çekişmeli işlerde seni hakem yapıp sonra da verdiğin hükme içlerinde hiçbir sıkıntı duymaksızın tam bir teslimiyetle boyun eğmedikçe iman etmiş olmazlar." (Nisâ 65)_ ^buhari-2748
 
 ### 13- Alacaklılar Arasında ve Miras Sahipleri Arasında Barış ve Bunların Her Birine Bir Şeyi Bedel ve İvaz Verme Sırasında Ölçüp Tartmadan Takdir ve Tahmin Yapma(nın Hükmü) Bâbı  
 İbn Abbas şöyle demiştir: İki ortağın bir insan üzerinde alacakları olup da onun iflası yahut ölmesi halinde, ortaklardan her biri diğerinin payına düşenden çıkmasında ve şunun borcu ve şunun da bulunan malı almasında beis yoktur. Eğer ikisinden birinin aldığı şey helak olursa arkadaşına dönmez.  
@@ -153,10 +153,10 @@ Ve zikri ulu Allah'ın şu kavli: _"Eğer Müminlerden iki grup birbiriyle kavga
   
 	  Hişam ibn Urve, Vehb ibn Keysan'dan o da Cabir'den senediyle yaptığı rivayetinde (akşam namazı yerine) ikindi namazı diye söyledi. Ebu Bekir'i de zikretmedi. (Sav) Allah Rasûlü Hz.leri güldü sözünü de söylemedi ve Cabir: Babam üzerinde otuz vesk ölçeği hurma borcu bırakmıştı, dedi.  
   
-	  Muhammed ibn İshak ise Vehb ibn Keysan'dan o da Cabir'den senediyle yaptığı kendi rivayetinde, öğle namazında bulduğunu söylemiştir.
+	  Muhammed ibn İshak ise Vehb ibn Keysan'dan o da Cabir'den senediyle yaptığı kendi rivayetinde, öğle namazında bulduğunu söylemiştir. ^buhari-2749
 
 ### 14- Borçla ve Mevcut Olan Şeyle Sulh Bâbı  
   
-2750) İbn Şihab şöyle demiştir: Bana Ka'b'ın oğlu Abdullah haber verdi. Ona da babası Ka'b ibn Malik (Ra) şöyle haber vermiştir: Kendisi yani Ka'b ibn Malik el-Ensari, Abdullah ibn Ebu Hadred el-Eslemi üzerinde bulunan bir alacağını (Sav) Allah Rasûlü Hz.leri zamanında mescitte, (hasmının yakasına yapışıp) borcunu ödemesini istedi. Her ikisinin sesleri, evinde olan (Sav) Allah Rasûlü Hz.leri işitecek derecede yükseldi. (Sav) Allah Rasûlü Hz.leri onlara doğru çıkıp hücresinin perdesini açtı ve: **"Ya Ka'b ibn Malik!"** diye nida etti. Ka'b: Lebbeyk ya Rasûlallah, deyince (Sav) Allah Rasûlü Hz.leri eliyle işaret vererek: **"Yarısını indir** (yani alacağından yarısını bağışla)**."** buyurdu. Ka'b da hemen: Vallahi bağışladım ya Rasûlallah! Dedi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri, Abdullah ibn Ebu Hadred el-Eslemi'ye hitaben: **"Şimdi kalk da** (kalan) **borcunu öde!"** buyurdu.
+2750) İbn Şihab şöyle demiştir: Bana Ka'b'ın oğlu Abdullah haber verdi. Ona da babası Ka'b ibn Malik (Ra) şöyle haber vermiştir: Kendisi yani Ka'b ibn Malik el-Ensari, Abdullah ibn Ebu Hadred el-Eslemi üzerinde bulunan bir alacağını (Sav) Allah Rasûlü Hz.leri zamanında mescitte, (hasmının yakasına yapışıp) borcunu ödemesini istedi. Her ikisinin sesleri, evinde olan (Sav) Allah Rasûlü Hz.leri işitecek derecede yükseldi. (Sav) Allah Rasûlü Hz.leri onlara doğru çıkıp hücresinin perdesini açtı ve: **"Ya Ka'b ibn Malik!"** diye nida etti. Ka'b: Lebbeyk ya Rasûlallah, deyince (Sav) Allah Rasûlü Hz.leri eliyle işaret vererek: **"Yarısını indir** (yani alacağından yarısını bağışla)**."** buyurdu. Ka'b da hemen: Vallahi bağışladım ya Rasûlallah! Dedi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri, Abdullah ibn Ebu Hadred el-Eslemi'ye hitaben: **"Şimdi kalk da** (kalan) **borcunu öde!"** buyurdu. ^buhari-2750
  
  

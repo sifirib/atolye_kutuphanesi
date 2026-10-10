@@ -4,25 +4,25 @@
   
 2751) İbn Şihab şöyle demiştir: Bana Urve ibn Zubeyr haber verdi. O, Mervan ibn Hakem ve el-Misver ibn Mahreme'den (Ra) işitmiştir. Bu iki sahabi, (Sav) Allah Rasûlü Hz.lerinin diğer sahabilerinden naklen haber veriyorlardı. Bunlardan her biri şöyle demiştir: Suheyl ibn Amr, Hudeybiye Barışı günü barış metnini yazmaya girişince Suheyl ibn Amr'ın (Sav) Allah Rasûlü Hz.lerine şart eylediği şeyler içinde şu da vardı: "Bizden sana bir adam gelirse o senin dininde dahi olsa onu muhakkak bize geri verirsin ve bizimle onun arasını boşaltırsın." dedi. Müslümanlar bu şartı beğenmeyip çirkin gördüler ve bu şarttan dolayı öfkelendiler. Kureyş elçisi Suheyl ise bu şartta diretti. Onun bunda dayatması üzerine (Sav) Allah Rasûlü Hz.leri de barış yazısını bu şart üzere yazdırdı.  
   
-	  (Sav) Allah Rasûlü Hz.leri o gün Mekke'den kaçıp gelmiş olan Ebu Cendel'i de bu şart uyarınca ve Suheyl'in ısrarlı isteği ile babası Suheyl ibn Amr'e geri verdi. Bu barış anlaşması müddeti içinde Müslüman olarak gelmiş olsa da Mekkelilerden (Sav) Allah Rasûlü Hz.lerine gelen her erkeği (Sav) Allah Rasûlü Hz.leri muhakkak geri verdi ve sonra Mümin kadınlar da Muhacirler olarak geldiler ve Ukbe ibn Ebu Muayt'ın kızı Ümmü Gülsüm de kadınlık çağına erişmiş olduğu halde o gün (Sav) Allah Rasûlü Hz.lerinin yanına çıkıp gelenlerdendi. Müteakiben ailesi gelerek (Sav) Allah Rasûlü Hz.lerinden Ümmü Gülsüm'ü kendilerine geri vermesini istediler fakat (Sav) Allah Rasûlü Hz.leri Ümmü Gülsüm'ü ailesine vermemiştir çünkü kendisine gelen bu kadınlar hakkında Allah şu ayeti indirmiştir: _"Ey iman edenler! Mümin kadınlar muhacir olarak size geldiklerinde onları imtihan edin. Allah onların imanlarını daha iyi bilir. Eğer siz onların inanmış kadınlar olduklarını anlarsanız onları kafirlere geri göndermeyin çünkü Müslüman hanımlar kafirlere helal değillerdir. Kafirler de Müslüman hanımlara helal olmazlar. Mehir olarak harcadıklarını onlara_ (kocalarına geri) _verin. Mehirlerini verdiğiniz takdirde bu kadınlarla evlenmenizde size bir günah yoktur. Müşrik karılarınızın nikahlarına tutunmayın._ (Zira bu nikahlar ortadan kalkmıştır.) _Onlara harcadığınız mehri_ (evlendikleri kafir kocalarından) _isteyin. Kafirler de_ (İslam'ı kabul eden ve sizinle evlenen eski hanımlarına) _harcamış oldukları mehri_ (sizden) _istesinler. Bu, Allah'ın hükmüdür. O, aranızda hüküm veriyor. Allah hakkıyla bilendir, hüküm ve hikmet sahibidir." (Mümtehine 10)_
+	  (Sav) Allah Rasûlü Hz.leri o gün Mekke'den kaçıp gelmiş olan Ebu Cendel'i de bu şart uyarınca ve Suheyl'in ısrarlı isteği ile babası Suheyl ibn Amr'e geri verdi. Bu barış anlaşması müddeti içinde Müslüman olarak gelmiş olsa da Mekkelilerden (Sav) Allah Rasûlü Hz.lerine gelen her erkeği (Sav) Allah Rasûlü Hz.leri muhakkak geri verdi ve sonra Mümin kadınlar da Muhacirler olarak geldiler ve Ukbe ibn Ebu Muayt'ın kızı Ümmü Gülsüm de kadınlık çağına erişmiş olduğu halde o gün (Sav) Allah Rasûlü Hz.lerinin yanına çıkıp gelenlerdendi. Müteakiben ailesi gelerek (Sav) Allah Rasûlü Hz.lerinden Ümmü Gülsüm'ü kendilerine geri vermesini istediler fakat (Sav) Allah Rasûlü Hz.leri Ümmü Gülsüm'ü ailesine vermemiştir çünkü kendisine gelen bu kadınlar hakkında Allah şu ayeti indirmiştir: _"Ey iman edenler! Mümin kadınlar muhacir olarak size geldiklerinde onları imtihan edin. Allah onların imanlarını daha iyi bilir. Eğer siz onların inanmış kadınlar olduklarını anlarsanız onları kafirlere geri göndermeyin çünkü Müslüman hanımlar kafirlere helal değillerdir. Kafirler de Müslüman hanımlara helal olmazlar. Mehir olarak harcadıklarını onlara_ (kocalarına geri) _verin. Mehirlerini verdiğiniz takdirde bu kadınlarla evlenmenizde size bir günah yoktur. Müşrik karılarınızın nikahlarına tutunmayın._ (Zira bu nikahlar ortadan kalkmıştır.) _Onlara harcadığınız mehri_ (evlendikleri kafir kocalarından) _isteyin. Kafirler de_ (İslam'ı kabul eden ve sizinle evlenen eski hanımlarına) _harcamış oldukları mehri_ (sizden) _istesinler. Bu, Allah'ın hükmüdür. O, aranızda hüküm veriyor. Allah hakkıyla bilendir, hüküm ve hikmet sahibidir." (Mümtehine 10)_ ^buhari-2751
 
 2752) Urve dedi ki: Bana Âişe, (Sav) Allah Rasûlü Hz.lerinin gelen kadınları şu ayetler ile imtihan edip dener olduğunu haber verdi: _"Ey iman edenler! Mümin kadınlar muhacir olarak size geldiklerinde onları imtihan edin... Şüphesiz Allah çok bağışlayandır, çok merhamet edendir." (Mümtehine 10-12)_ kavline kadar.  
   
-	  Urve dedi ki: Âişe şöyle dedi: İşte kadınlardan her kim bu ayetteki şartı ikrar ve itiraf etti ise (Sav) Allah Rasûlü Hz.leri o kadına konuşmakta olduğu bir kelam olarak: **"Ben seninle biat ettim."** buyurdu. Allah'a yemin ederim ki (Sav) Allah Rasûlü Hz.lerinin eli, bu biatlaşma töreninde asla hiçbir kadının eline dokunmadı. (Sav) Allah Rasûlü Hz.leri kadınlara ancak sözü ile biat etti.
+	  Urve dedi ki: Âişe şöyle dedi: İşte kadınlardan her kim bu ayetteki şartı ikrar ve itiraf etti ise (Sav) Allah Rasûlü Hz.leri o kadına konuşmakta olduğu bir kelam olarak: **"Ben seninle biat ettim."** buyurdu. Allah'a yemin ederim ki (Sav) Allah Rasûlü Hz.lerinin eli, bu biatlaşma töreninde asla hiçbir kadının eline dokunmadı. (Sav) Allah Rasûlü Hz.leri kadınlara ancak sözü ile biat etti. ^buhari-2752
 
-2753) Ziyad ibn Ilaka şöyle demiştir: Ben Cerir'den (Ra) işittim, şöyle diyordu: Ben, (Sav) Allah Rasûlü Hz.lerine (Müslüman olmak üzere) biat ettim. O bana (şart kıldığı şeyler arasında) her Müslümana iyilik isteyici olmayı da şart kıldı. (Ben de bu şart üzerine biat ettim.)
+2753) Ziyad ibn Ilaka şöyle demiştir: Ben Cerir'den (Ra) işittim, şöyle diyordu: Ben, (Sav) Allah Rasûlü Hz.lerine (Müslüman olmak üzere) biat ettim. O bana (şart kıldığı şeyler arasında) her Müslümana iyilik isteyici olmayı da şart kıldı. (Ben de bu şart üzerine biat ettim.) ^buhari-2753
 
-2754) ...Bana Kays ibn Ebu Hazım, Cerir ibn Abdullah'tan (Ra) tahdis etti. O: "Ben (Sav) Allah Rasûlü Hz.lerine namazı devamlı kılmak, zekat vermek ve her Müslümana samimiyetle iyilik isteyici olmak üzere biat ettim." demiştir.
+2754) ...Bana Kays ibn Ebu Hazım, Cerir ibn Abdullah'tan (Ra) tahdis etti. O: "Ben (Sav) Allah Rasûlü Hz.lerine namazı devamlı kılmak, zekat vermek ve her Müslümana samimiyetle iyilik isteyici olmak üzere biat ettim." demiştir. ^buhari-2754
 
 ### 2- Bâb: Bir Şahıs, Erkek Çiçek Asılmış Olduğu Halde Hurma Ağacı Sattığı Zaman  
   
-2755) Abdullah ibn Ömer'den (Ra) (şöyle demiştir): (Sav) Allah Rasûlü Hz.leri: **"Her kim erkek çiçeği asıldıktan sonra meyveli hurma ağacını satarsa üstündeki mahsulü satıcıya aittir. Meğerki mahsulün satışta dahil olduğu müşteri tarafından şart kılınmış olsun."** buyurdu.
+2755) Abdullah ibn Ömer'den (Ra) (şöyle demiştir): (Sav) Allah Rasûlü Hz.leri: **"Her kim erkek çiçeği asıldıktan sonra meyveli hurma ağacını satarsa üstündeki mahsulü satıcıya aittir. Meğerki mahsulün satışta dahil olduğu müşteri tarafından şart kılınmış olsun."** buyurdu. ^buhari-2755
 
 ### 3- Alım Satım İşlerindeki Şartlar Bâbı  
   
 2756) Âişe (Ra), Urve'ye şöyle haber vermiştir: Berire, hürriyetini satın alma bedeli hakkında yardım istemek için Âişe'ye geldi. Kendisi o güne kadar bu bedelden bir şey ödememişti. Âişe, Berire'ye: Sen efendilerine git (görüş). Velan bana ait olmak üzere senin namına hürriyet satın alma bedelini bir defada ödememi arzu ederlerse vereyim, dedi.  
   
-	  Bu teklifi Berire sahiplerine bildirdi fakat onlar bunu kabul etmediler ve: Âişe, hürriyet satın alma bedelini senin hesabına karşılıksız olarak vermek isterse velan bize ait olmak üzere versin, dediler. Berire: Ben bu meseleyi (Sav) Allah Rasûlü Hz.lerine arz ettim. (Sav) Allah Rasûlü Hz.leri, Âişe'ye: **"Sen Berire'yi satın al sonra hürriyetine kavuştur! Vela da muhakkak surette hürriyet verene aittir."** buyurdu.
+	  Bu teklifi Berire sahiplerine bildirdi fakat onlar bunu kabul etmediler ve: Âişe, hürriyet satın alma bedelini senin hesabına karşılıksız olarak vermek isterse velan bize ait olmak üzere versin, dediler. Berire: Ben bu meseleyi (Sav) Allah Rasûlü Hz.lerine arz ettim. (Sav) Allah Rasûlü Hz.leri, Âişe'ye: **"Sen Berire'yi satın al sonra hürriyetine kavuştur! Vela da muhakkak surette hürriyet verene aittir."** buyurdu. ^buhari-2756
 
 ### 4- Bâb: Satıcı Belli Bir Yere Kadar Binek Hayvanının Sırtını Kullanmayı Şart Kıldığında Bu Satış Caizdir  
   
@@ -57,27 +57,27 @@
 	  
 	  Ebu Nadre de Cabir'den: "(Sav) Allah Rasûlü Hz.leri deveyi yirmi dinar mukabilinde satın aldı." diye söylemiştir.  
 	  
-	  Eş-Şa'bi'nin "Bir ukıyye mukabilinde" sözü rivayetler içinde daha çoktur, şart kılma hükmü de benim nazarımda çıkış kaynağı bakımından daha sahihtir. Bunu Ebu Abdullah el-Buhari söyledi.
+	  Eş-Şa'bi'nin "Bir ukıyye mukabilinde" sözü rivayetler içinde daha çoktur, şart kılma hükmü de benim nazarımda çıkış kaynağı bakımından daha sahihtir. Bunu Ebu Abdullah el-Buhari söyledi. ^buhari-2757
 
 ### 5- Her Çeşit Akid Muamelelerindeki Şartlar(ın Hükümlerini Beyan) Bâbı  
   
-2758) ...Ebu Hureyre (Ra) şöyle demiştir: Ensar (Muhacirler Medine'ye gelince) (Sav) Allah Rasûlü Hz.lerine: Hurmalıklarımızı bizimle Muhacir kardeşlerimiz arasında taksim et, dediler. (Sav) Allah Rasûlü Hz.leri: **"Hayır** (öyle olmaz)**."** buyurdu. Bunun üzerine Ensar: Bakım ve sulama külfetini sizler üzerinize alırsınız, biz de sizleri mahsulde ortak yaparız, dediler. Bu suretle Ensar ve Muhacirler: ((Sav) Allah Rasûlü Hz.lerinin bu husustaki emrini) işittik ve itaat ettik, dediler (ve bu şart üzere uyuştular).
+2758) ...Ebu Hureyre (Ra) şöyle demiştir: Ensar (Muhacirler Medine'ye gelince) (Sav) Allah Rasûlü Hz.lerine: Hurmalıklarımızı bizimle Muhacir kardeşlerimiz arasında taksim et, dediler. (Sav) Allah Rasûlü Hz.leri: **"Hayır** (öyle olmaz)**."** buyurdu. Bunun üzerine Ensar: Bakım ve sulama külfetini sizler üzerinize alırsınız, biz de sizleri mahsulde ortak yaparız, dediler. Bu suretle Ensar ve Muhacirler: ((Sav) Allah Rasûlü Hz.lerinin bu husustaki emrini) işittik ve itaat ettik, dediler (ve bu şart üzere uyuştular). ^buhari-2758
 
-2759) Abdullah ibn Ömer (Ra): (Sav) Allah Rasûlü Hz.leri Hayber arazisini, orada çalışmaları ve ekincilik yapmaları ve araziden çıkacak mahsulün yarısı onların olması şartı üzere Hayber Yahudilerine verdi, demiştir.
+2759) Abdullah ibn Ömer (Ra): (Sav) Allah Rasûlü Hz.leri Hayber arazisini, orada çalışmaları ve ekincilik yapmaları ve araziden çıkacak mahsulün yarısı onların olması şartı üzere Hayber Yahudilerine verdi, demiştir. ^buhari-2759
 
 ### 6- Nikah Düğümünü Bağlama Sırasında Tayin Edilen Mehir Hakkındaki Şartların (Hükmünü Beyan) Bâbı  
   
 Ve Ömer ibn Hattab: Şüphesiz ki hakların kesilme yerleri şartların yanındadır ve senin için şart kıldığın şey vardır, demiştir. El-Mısver de şöyle demiştir: Ben, (Sav) Allah Rasûlü Hz.lerinden işittim; kendisi bir damadını (yani Zeynep'in kocası Ebu As'ı) zikretti de onu damatlığını yürütüşü hususunda övdü ve güzel şeyler söyledi ve: **"O bana söz söyledi ve bana doğru söz konuştu. Bana vadetti ve vaadini yerine getirdi."** buyurdu.  
   
-2760) Ukbe ibn Amir (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"Yerine getirmeniz gereken şartların en haklısı, kendisiyle ferçleri helal kılmak istediğiniz şarttır."** buyurdu.
+2760) Ukbe ibn Amir (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"Yerine getirmeniz gereken şartların en haklısı, kendisiyle ferçleri helal kılmak istediğiniz şarttır."** buyurdu. ^buhari-2760
 
 ### 7- Ekicilik Akdindeki Şartlar Bâbı  
   
-2761) Ben Rafi ibn Hadic'den (Ra) işittim, o da şöyle diyordu: Biz tarla (ve arazi) yönünden Ensar'ın en çok mallısıydık. Biz arazileri (kısımlara ayırıp) kiraya verirdik. Bazen bu arazi parçası mahsul çıkarırdı da şu arazi parçası mahsul çıkarmazdı. (Bazen ortağın, bazen arazi sahibinin zararı olurdu.) İşte bunun için bizler bu nevi ekicilik anlaşmasından nehyolunduk fakat gümüş parayla kiraya vermekten nehyolunmadık.
+2761) Ben Rafi ibn Hadic'den (Ra) işittim, o da şöyle diyordu: Biz tarla (ve arazi) yönünden Ensar'ın en çok mallısıydık. Biz arazileri (kısımlara ayırıp) kiraya verirdik. Bazen bu arazi parçası mahsul çıkarırdı da şu arazi parçası mahsul çıkarmazdı. (Bazen ortağın, bazen arazi sahibinin zararı olurdu.) İşte bunun için bizler bu nevi ekicilik anlaşmasından nehyolunduk fakat gümüş parayla kiraya vermekten nehyolunmadık. ^buhari-2761
 
 ### 8- Nikah Akdinde Caiz Olmayan Şartlar Bâbı  
   
-2762) Ebu Hureyre'den (Ra) (şöyle demiştir): (Sav) Allah Rasûlü Hz.leri: **"Şehirli, köylünün malını onun adına satmaz.** (Başkalarını kandırmak için yalandan) **fiyat kızıştırması yapmayınız. Hiçbir kimse** (din ve toprak) **kardeşinin alışverişi üzerine artırma yapmasın ve yine hiç kimse kardeşinin istemekte olduğu kadını istemeye kalkmasın. Hiçbir kadın da kendi** (din ve toprak) **kardeşi olan diğer bir kadının çanağının altını üstüne getirmek için onu boşaltmayı istemesin."** buyurdu.
+2762) Ebu Hureyre'den (Ra) (şöyle demiştir): (Sav) Allah Rasûlü Hz.leri: **"Şehirli, köylünün malını onun adına satmaz.** (Başkalarını kandırmak için yalandan) **fiyat kızıştırması yapmayınız. Hiçbir kimse** (din ve toprak) **kardeşinin alışverişi üzerine artırma yapmasın ve yine hiç kimse kardeşinin istemekte olduğu kadını istemeye kalkmasın. Hiçbir kadın da kendi** (din ve toprak) **kardeşi olan diğer bir kadının çanağının altını üstüne getirmek için onu boşaltmayı istemesin."** buyurdu. ^buhari-2762
 
 ### 9- Dini Cezalarda Helal Olmayacak Şartlar Bâbı  
   
@@ -87,7 +87,7 @@ Ve Ömer ibn Hattab: Şüphesiz ki hakların kesilme yerleri şartların yanınd
   
 	  Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Nefsim elinde olan Allah'a yemin ederim ki ben, aranızda elbette Allah'ın Kitabı ile hükmedeceğim. Cariye ile koyunlar sana geri verilir, oğluna da yüz değnek vurulup bir sene sürgün edilir."** buyurdu. (Sonra sahabilerden) Uneys'e de: **"Ya Uneys! Sen kuşluk vaktinde bu adamın karısına git. Eğer suçunu itiraf ederse ona taşlama cezası uygula!"** buyurdu.  
   
-	  Ravi: Uneys, kadına gitti. Kadın da suçunu itiraf etti. (Sav) Allah Rasûlü Hz.leri kadının taşlanmasını emretti, kadın taşlandı, dedi.
+	  Ravi: Uneys, kadına gitti. Kadın da suçunu itiraf etti. (Sav) Allah Rasûlü Hz.leri kadının taşlanmasını emretti, kadın taşlandı, dedi. ^buhari-2763
 
 ### 10- Kendisinin Hürriyete Kavuşturulması için Satın Alınmaya Razı Olduğu Zaman Hürriyetini Satın Alma Yazışmasına Bağlanmış Olan Kölenin Şartlarından Caiz Olacak Şeyler Bâbı  
   
@@ -95,7 +95,7 @@ Ve Ömer ibn Hattab: Şüphesiz ki hakların kesilme yerleri şartların yanınd
   
 	  Bu konuşmamızı (Sav) Allah Rasûlü Hz.leri işitti yahut bu konuşmamız (Sav) Allah Rasûlü Hz.lerine ulaştı da O: **"Berire'nin işi nedir?"** buyurdu. Ben kendisine Berire'nin durumunu anlattım. Bunun üzerine (Sav) Allah Rasûlü Hz.leri bana: **"Sen Berire'yi satın al da onu hürriyetine kavuştur. Onlar istedikleri şartı koysunlar."** buyurdu.  
   
-	  Âişe dedi ki: Bu emir üzerine ben Berire'yi satın aldım ve ona hürriyetini verdim. Sahipleri de onun velasının kendilerine ait olmasını şart kıldılar. (Sav) Allah Rasûlü Hz.leri: **"Vela, hürriyeti verene aittir. İsterlerse yüz tane şart koşsunlar."** buyurdu.
+	  Âişe dedi ki: Bu emir üzerine ben Berire'yi satın aldım ve ona hürriyetini verdim. Sahipleri de onun velasının kendilerine ait olmasını şart kıldılar. (Sav) Allah Rasûlü Hz.leri: **"Vela, hürriyeti verene aittir. İsterlerse yüz tane şart koşsunlar."** buyurdu. ^buhari-2764
 
 ### 11- Boşama Hususundaki Şartlar Bâbı  
   
@@ -103,7 +103,7 @@ Said ibn Müseyyeb, Hasan-ı Basri, Ata ibn Ebu Rebah şöyle demişlerdir: Eğe
   
 2765) Bize Muhammed ibn Ar'ara tahdis edip şöyle dedi: Bize Şu'be, Adiyy ibn Sabit'ten o da Ebu Hazım'dan o da Ebu Hureyre'den tahdis etti. Ebu Hureyre (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri beldeye mal getiren süvarileri karşılamaktan; şehirde oturan Muhacirin, bedevi adına bedevinin malını alıp satmaktan; kadının nikah sırasında beşer kardeşi olan diğer bir kadını boşamayı şart kılmasından; kişinin beşer kardeşi olan diğer birisinin pazarlık etmesi aleyhine pazarlığa girişmesinden nehyetti ve yine (Sav) Allah Rasûlü Hz.leri, başkalarını aldatmak için yalandan pazarlık sırasında fiyat artırmaktan; keza alıcıları aldatmak için hayvanı sağmadan sütünü memede biriktirmekten de nehyetti.  
   
-	  Bu hadisi Şu'be yolundan (Sav) Allah Rasûlü Hz.lerine yükseltmeyi açıkça söylemekte Muaz ibn Muaz ile Abdussamed, Muhammed ibn Ar'ara'ya mütabaat etmişlerdir. Gunder ile Abdurrahman "Nehyolundu." demişlerdir. Adem ibn Ebu İyas ise "Biz nehyolunduk." demiştir. En-Nadr ile Haccac ibn Minhal ise "Nehyetti." diye söylemişlerdir.
+	  Bu hadisi Şu'be yolundan (Sav) Allah Rasûlü Hz.lerine yükseltmeyi açıkça söylemekte Muaz ibn Muaz ile Abdussamed, Muhammed ibn Ar'ara'ya mütabaat etmişlerdir. Gunder ile Abdurrahman "Nehyolundu." demişlerdir. Adem ibn Ebu İyas ise "Biz nehyolunduk." demiştir. En-Nadr ile Haccac ibn Minhal ise "Nehyetti." diye söylemişlerdir. ^buhari-2765
 
 ### 12- (Şahit Dikmeden ve Yazıya da Geçirmeden) İnsanlarla Sadece Söz ile Yapılan Şartlar Bâbı  
   
@@ -111,7 +111,7 @@ Said ibn Müseyyeb, Hasan-ı Basri, Ata ibn Ebu Rebah şöyle demişlerdir: Eğe
   
 	  Bu hadiste Hızır, Musa'ya: "Sen beraberimde asla sabredemezsin demedim mi, dedi." Gerçekten bu birinci soru Musa tarafından bir unutma eseri olmuştu. Orta soru ise söz ile bir şart olmuştu. Üçüncü soru ise kasten olmuştu. Birinciye şu kavliyle işaret etti: "Unuttuğum şeyden dolayı beni muaheze etme, şu arkadaşlığımızda bana güçlük çıkarma, dedi." Sözlü bir şart olan orta soruya şu sözle işaret etti: "Yine gittiler. Nihayet bir oğlan çocuğuna rast geldikleri zaman o hemen bunu öldürdü... Musa; Eğer bundan sonra sana bir şey sorarsam, benimle arkadaşlık etme, dedi." Üçüncü soruya da şununla işaret etti: "Yine gittiler... Derken yıkılmak isteyen bir duvar buldular. O bunu derhal doğrultuverdi..."   
   
-	  İbn Abbas: _"O gemi, denizde çalışan bir takım yoksul kimselere aitti. Onu yaralamak istedim çünkü onların ilerisinde, her gemiyi zorla ele geçiren bir kral vardı." (Kehf 79)_ ayetindeki "Veraehum (arkalarında)" sözünü "Emamehum melikun (önlerinde bir melik vardı)." şeklinde okumuştur.
+	  İbn Abbas: _"O gemi, denizde çalışan bir takım yoksul kimselere aitti. Onu yaralamak istedim çünkü onların ilerisinde, her gemiyi zorla ele geçiren bir kral vardı." (Kehf 79)_ ayetindeki "Veraehum (arkalarında)" sözünü "Emamehum melikun (önlerinde bir melik vardı)." şeklinde okumuştur. ^buhari-2766
 
 ### 13- Vela Hakkındaki Şartlar(ın Hükmünü Beyan) Bâbı  
   
@@ -119,7 +119,7 @@ Said ibn Müseyyeb, Hasan-ı Basri, Ata ibn Ebu Rebah şöyle demişlerdir: Eğe
   
 	  Bunun üzerine Berire sahiplerine gitti ve Âişe'nin dediği teklifi onlara söyledi. Onlar velanın Âişe'ye ait olmasını kabul etmediler. Berire onların yanından Âişe'ye geldi. Bu sırada (Sav) Allah Rasûlü Hz.leri, Âişe'nin yanında oturuyordu. Berire: Ben sahiplerime senin teklifini arz ettim. Onlar, velanın kendilerine ait olması şartında dayattılar, dedi. (Sav) Allah Rasûlü Hz.leri de bunu işitti. Âişe de bunu (Sav) Allah Rasûlü Hz.lerine haber verdi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri, Âişe'ye: **"Sen Berire'yi** (satın) **al! Velayı da onlara şart kıl çünkü vela ancak hürriyet verenindir."** buyurdu.  
   
-	  Âişe bu satın alma ve azat etme işlerini yaptı. Sonra (Sav) Allah Rasûlü Hz.leri (mescitte) insanlar içinde ayağa kalktı. Allah'a hamd etti ve layık olduğu sıfatlarla övdü. Bundan sonra şu hutbeyi yaptı: **"Birtakım insanların hali nedir ki onlar Allah'ın Kitabı'nda bulunmayan birçok şartları şart kılıyorlar? Allah'ın Kitabı'nda bulunmayan herhangi bir şart batıldır, hükümsüzdür. İsterse yüz kere şart edilmiş olsun** (onun hükmü yoktur)**. Allah'ın hükmü en haklıdır, Allah'ın şartı en sağlamdır. Vela ancak hürriyet verenindir!"** buyurdu.
+	  Âişe bu satın alma ve azat etme işlerini yaptı. Sonra (Sav) Allah Rasûlü Hz.leri (mescitte) insanlar içinde ayağa kalktı. Allah'a hamd etti ve layık olduğu sıfatlarla övdü. Bundan sonra şu hutbeyi yaptı: **"Birtakım insanların hali nedir ki onlar Allah'ın Kitabı'nda bulunmayan birçok şartları şart kılıyorlar? Allah'ın Kitabı'nda bulunmayan herhangi bir şart batıldır, hükümsüzdür. İsterse yüz kere şart edilmiş olsun** (onun hükmü yoktur)**. Allah'ın hükmü en haklıdır, Allah'ın şartı en sağlamdır. Vela ancak hürriyet verenindir!"** buyurdu. ^buhari-2767
 
 ### 14- Bâb: Arazi Sahibinin Ekicilik Anlaşmasında "İstediğim Zaman Seni Çıkarırım" Şartını Koyması  
   
@@ -129,9 +129,9 @@ Said ibn Müseyyeb, Hasan-ı Basri, Ata ibn Ebu Rebah şöyle demişlerdir: Eğe
   
 	  Ömer onları çıkarmaya karar verince kendisine Yahudi başkanlarından Ebu Hukaykoğullarından biri geldi de: Ey Müminlerin emiri! (Sav) Muhammed bizleri burada bırakmış, mallar üzerine bizimle ortaklık anlaşması yapmış ve bizleri vatanımızda bırakmayı şart kılmışken sen bizleri çıkarıyor musun? Dedi. Ömer de: Sen benim, (Sav) Allah Rasûlü Hz.lerinin sana söylediği şu sözü unuttuğumu mu sandın: **"Hayber'den çıkarıldığın zaman uzun bacaklı, yürüyüşe sabırlı dişi deven seni geceden geceye akıtıp götürürken senin halin nice olur!"** buyurmuştu, dedi.  
   
-	  Yahudi, Ömer'e: Bu söz (Sav) Ebu-l Kasım'dan bir şakacıktı, dedi. Ömer: Yalan söyledin ey Allah'ın düşmanı! Dedi ve onları Hayber'den sürüp çıkardı ve onlara mahsulden olan haklarının kıymetini mal olarak, deve olarak; deve semerleri, ipler ve daha başka şeylerden metalar olarak kendilerine verdi.
+	  Yahudi, Ömer'e: Bu söz (Sav) Ebu-l Kasım'dan bir şakacıktı, dedi. Ömer: Yalan söyledin ey Allah'ın düşmanı! Dedi ve onları Hayber'den sürüp çıkardı ve onlara mahsulden olan haklarının kıymetini mal olarak, deve olarak; deve semerleri, ipler ve daha başka şeylerden metalar olarak kendilerine verdi. ^buhari-2768
 
-2769) Bu hadisi Hammad ibn Seleme, Ubeydullah'tan; sanıyorum ki o da Nafi'den o da İbn Ömer'den o da Ömer'den o da (Sav) Allah Rasûlü Hz.lerinden rivayet etti ve hadisi Hammad kısalttı.
+2769) Bu hadisi Hammad ibn Seleme, Ubeydullah'tan; sanıyorum ki o da Nafi'den o da İbn Ömer'den o da Ömer'den o da (Sav) Allah Rasûlü Hz.lerinden rivayet etti ve hadisi Hammad kısalttı. ^buhari-2769
 
 ### 15- Cihadda ve Harp Ehli ile Yapılacak Barış Antlaşmalarında İleri Sürülecek Şartlar ve Bu Şartların Yazılması(nı Beyan) Bâbı  
   
@@ -223,7 +223,7 @@ Said ibn Müseyyeb, Hasan-ı Basri, Ata ibn Ebu Rebah şöyle demişlerdir: Eğe
   
 	  Müşriklerin hamiyyetleri: (Sav) Muhammed'in Allah'ın Peygamberi olduğunu ikrar etmemeleri, "Bismillahirrahmahirrahim"i ikrar etmemeleri, Müslümanlarla Beyt arasına engel olmalarıdır.  
   
-	  Ebu Abdullah el-Buhari dedi ki: "Maarratun", uyuz illeti demek olan "el-Urrun"dur. "Tezeyyelu", "Ayrılıp seçilselerdi" demektir. "Hameytu'l-kavme" demek, "Onları koruma olarak menettim." demektir ve "Ahmeytu’l-hıma", "Onu içine girilmez bir koruluk yaptım." demektir. Kendisini iyice kızdırdığım zaman: "Ahmeytu'l-hadide" ve "Ahmeytu'r-racule" derim.
+	  Ebu Abdullah el-Buhari dedi ki: "Maarratun", uyuz illeti demek olan "el-Urrun"dur. "Tezeyyelu", "Ayrılıp seçilselerdi" demektir. "Hameytu'l-kavme" demek, "Onları koruma olarak menettim." demektir ve "Ahmeytu’l-hıma", "Onu içine girilmez bir koruluk yaptım." demektir. Kendisini iyice kızdırdığım zaman: "Ahmeytu'l-hadide" ve "Ahmeytu'r-racule" derim. ^buhari-2770
 
 2771) Ve Ukayl, Ez-Zuhri'den söyledi: Urve şöyle demiştir: Bana Âişe (Ra) haber verdi ki (Sav) Allah Rasûlü Hz.leri Mümin kadınlardan hicret edip gelenleri (yemin vererek ve diğer deliller ve emarelere bakarak) imtihan ederdi.  
   
@@ -233,13 +233,13 @@ Said ibn Müseyyeb, Hasan-ı Basri, Ata ibn Ebu Rebah şöyle demişlerdir: Eğe
   
 	  Bu ayetteki "el-Akbu"; Müslümanların, karısı Müslümanlara hicret etmiş olan kafir erkeklere ödeyecekleri masraftır. İşte Allah, Müslümanlardan karısı dinden çıkarak kafirlere gitmiş olan kimselere de kafirlerin Müslümanlara hicret etmiş olan kadınlarına vermiş oldukları mehrin benzerinin verilmesini emretti fakat biz iman etmesinden sonra dininden dönmüş hiçbir muhacir kadın bilmiyoruz.  
   
-	  Ez-Zuhri şöyle dedi: Yine bize ulaştı ki Ebu Basir ibn Esid es-Sakafi, (Sav) Allah Rasûlü Hz.lerinin huzuruna bu barış müddeti için bir Mümin muhacir olarak gelmiştir. Bunun üzerine El-Ahnes ibn Şerik de (Sav) Allah Rasûlü Hz.lerine bir mektup yazıp Ebu Basir'i (barış maddesi gereğince kendilerine) geri göndermesini istiyordu. Bu iş için iki de adam gönderdiler, diyerek yukarıda geçen hadisi zikretti.
+	  Ez-Zuhri şöyle dedi: Yine bize ulaştı ki Ebu Basir ibn Esid es-Sakafi, (Sav) Allah Rasûlü Hz.lerinin huzuruna bu barış müddeti için bir Mümin muhacir olarak gelmiştir. Bunun üzerine El-Ahnes ibn Şerik de (Sav) Allah Rasûlü Hz.lerine bir mektup yazıp Ebu Basir'i (barış maddesi gereğince kendilerine) geri göndermesini istiyordu. Bu iş için iki de adam gönderdiler, diyerek yukarıda geçen hadisi zikretti. ^buhari-2771
 
 ### 16- Ödünç Vermek Hususundaki Şartlar Bâbı  
   
 2772) Ebu Hureyre (Ra) tahdis etti. (Sav) Allah Rasûlü Hz.leri şöyle zikretmiştir: **"Bir kimse İsrailoğullarının bazısından ödünç olarak kendisine bin dinar vermesini istedi. O da bu parayı belli bir müddet sonunda ödemesi şartıyla ona verdi..."** (Borç alanın bu parayı bir odun içine koyup denize atması suretiyle ödemesi hadisi)  
   
-	  Abdullah ibn Ömer ile Ata ibn Ebu Rebah: Ödünç vermede, borç veren kimse belli bir müddet tayin ettiği zaman bu müddet tayini ile ödünç vermek caiz olur, demişlerdir.
+	  Abdullah ibn Ömer ile Ata ibn Ebu Rebah: Ödünç vermede, borç veren kimse belli bir müddet tayin ettiği zaman bu müddet tayini ile ödünç vermek caiz olur, demişlerdir. ^buhari-2772
 
 ### 17- Hürriyeti Satın Alma Yazışmasına Bağlanan Kimsenin Hükmü ile Allah'ın Kitabı'na Aykırı Neviden Helal Olmayan Şartlar(ın Hükmü) Bâbı  
 
@@ -249,7 +249,7 @@ Cabir ibn Abdullah (Ra) hürriyeti satın almaya bağlanan hakkında: Bu hürriy
   
 2773) Âişe (Ra) Berire'nin kendisine geldiğini ve kendisinden hürriyetini satın alma yazışması hususunda yardım istediğini zikretti. Âişe, Berire'ye: "Eğer istersen ben senin sahiplerine bu bedeli vereyim ve senin üzerindeki vela da benim olur, dedi. Âişe dedi ki: (Sav) Allah Rasûlü Hz.leri gelince bunu kendisine hatırlattım. (Sav) Allah Rasûlü Hz.leri bana: **"Berire'yi satın al ve ona hürriyet ver. Şüphesiz vela hakkı hürriyet verene aittir."** buyurdu.  
   
-	  Bundan sonra (Sav) Allah Rasûlü Hz.leri minber üzerinde ayakta durdu ve şunları söyledi: **"Birtakım insanlara ne oluyor ki onlar, Allah'ın Kitabı'nda olmayan birçok şartları şart koşuyorlar. Her kim Allah'ın Kitabı'nda bulunmayan** (ve ona aykırı olan) **bir şartı şart kılarsa** **-isterse böyle yüz şart kılmış olsa da- o şartın kendi lehine hiçbir faydası yoktur."**
+	  Bundan sonra (Sav) Allah Rasûlü Hz.leri minber üzerinde ayakta durdu ve şunları söyledi: **"Birtakım insanlara ne oluyor ki onlar, Allah'ın Kitabı'nda olmayan birçok şartları şart koşuyorlar. Her kim Allah'ın Kitabı'nda bulunmayan** (ve ona aykırı olan) **bir şartı şart kılarsa** **-isterse böyle yüz şart kılmış olsa da- o şartın kendi lehine hiçbir faydası yoktur."** ^buhari-2773
 
 ### 18- Şart Kılmak ve Borç İkrarında İstisna Yapmak Nevinden Caiz Olanları Beyan ile İnsanların Kendi Aralarında Örf Edinip Tanıyageldikleri Şartları Beyan Bâbı  
   
@@ -259,7 +259,7 @@ Bir kimse: Filan'ın benim üzerinde bir yahut iki müstesna, yüz alacağı var
   
 Eyüp es-Sahtıyani de İbn Sirin'den söyledi ki İbn Sirin: Bir adam başka birine buğday satsa ve müşteri, satıcıya: Eğer sana çarşamba günü gelmezsem seninle aramda satış yoktur, dese de gelmese Kadı Şurayh (muhakeme sırasında müşteriye): Sen vaadinden döndün, dedi de onun aleyhine satışı kaldırmakla hükmetti.  
   
-2774) Bize Ebu Zinad, el-A'rac'dan o da Ebu Hureyre'den (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Allah'ın yüzden bir eksik olarak doksan dokuz ismi vardır. Bu isimleri kim** (tamamen) **sayarsa cennete girer.**" buyurmuştur.
+2774) Bize Ebu Zinad, el-A'rac'dan o da Ebu Hureyre'den (Ra) tahdis etti ki (Sav) Allah Rasûlü Hz.leri: **"Allah'ın yüzden bir eksik olarak doksan dokuz ismi vardır. Bu isimleri kim** (tamamen) **sayarsa cennete girer.**" buyurmuştur. ^buhari-2774
 
 ### 19- Vakıftaki Şartlar(ın Hükmünü Beyan) Bâbı  
   
@@ -267,7 +267,7 @@ Eyüp es-Sahtıyani de İbn Sirin'den söyledi ki İbn Sirin: Bir adam başka bi
   
 	  Ravi dedi ki: Ömer de bu araziyi o suretle vakfetti. Ömer: Artık o satılmaz, hibe edilmez, miras yapılmaz, dedi. Ömer bu malın gelirini de fakirlere, yakınlara, köle ve esirleri hürriyete kavuşturma yolunda ve Allah yolunda mücahede edenlere, yolculara ve zayıflara sadaka yaptı. Bununla beraber vakfa mütevelli tayin edilen kimsenin vakfın köküne tecavüz etmeyerek yalnız gelirinden örfe göre yemesinde ve dostuna yedirmesinde üzerine günah yoktur.  
   
-	  İbn Avn dedi ki: Ben bu hadisi İbn Sirin'e tahdis ettim. İbn Sirin: "Gayre müteessilin malen" yani ''Mal toplayıcı olmayarak" diye söyledi.
+	  İbn Avn dedi ki: Ben bu hadisi İbn Sirin'e tahdis ettim. İbn Sirin: "Gayre müteessilin malen" yani ''Mal toplayıcı olmayarak" diye söyledi. ^buhari-2775
 
 
 

@@ -14,73 +14,73 @@ Ve aziz, celil olan Allah'ın şu kavli: _"Gecenin bir vaktinde kalkıp kendine 
   
 	  Sufyan şöyle demiştir: Abdulkerim Ebu Umeyye: **"Vela havle vela kuvvete illa billahi** (Hareket ve kuvvet ancak Allah iledir)**."** fıkrasını ziyade etti.  
   
-	  Yine Sufyan şöyle dedi: Süleyman ibn Ebu Müslim, bu hadisi Tavus'tan o da İbn Abbas'tan o da (Sav) Allah Rasûlü Hz.lerinden işittiğini söyledi.
+	  Yine Sufyan şöyle dedi: Süleyman ibn Ebu Müslim, bu hadisi Tavus'tan o da İbn Abbas'tan o da (Sav) Allah Rasûlü Hz.lerinden işittiğini söyledi. ^buhari-1128
 
 ### 2- Gece (Namazına) Kalkmanın Fazileti Bâbı  
   
-1129) İbn Ömer (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.lerinin hayatında birisi bir düş gördüğü zaman o düşü (Sav) Allah Rasûlü Hz.lerine hikaye ederdi. Ben de bir düş görmeyi ve onu (Sav) Allah Rasûlü Hz.lerine arz etmeyi temenni ettim. O sırada ben taze bir gençtim ve (Sav) Allah Rasûlü Hz.leri zamanının adeti üzere mescitte uyurdum. Derken ben de rüyamda şöyle gördüm: İki melek beni yakaladılar ve beni ateşin (yani cehennemin) yanına götürdüler. Cehennem kuyu duvarı gibi yanları örülüp dürülmüş ve iki tane boynuzu vardı. Bir de gördüm ki içinde kendilerini iyice tanıdığım birtakım insanlar var. Ben hemen "Euzu billahi mine'n-nar (Ben ateşten Allah'a sığınırım)." demeye başladım. İbn Ömer dedi ki: "Bu sırada bize başka bir melek kavuştu ve bana hitaben: 'Sen korkma.' dedi."
+1129) İbn Ömer (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.lerinin hayatında birisi bir düş gördüğü zaman o düşü (Sav) Allah Rasûlü Hz.lerine hikaye ederdi. Ben de bir düş görmeyi ve onu (Sav) Allah Rasûlü Hz.lerine arz etmeyi temenni ettim. O sırada ben taze bir gençtim ve (Sav) Allah Rasûlü Hz.leri zamanının adeti üzere mescitte uyurdum. Derken ben de rüyamda şöyle gördüm: İki melek beni yakaladılar ve beni ateşin (yani cehennemin) yanına götürdüler. Cehennem kuyu duvarı gibi yanları örülüp dürülmüş ve iki tane boynuzu vardı. Bir de gördüm ki içinde kendilerini iyice tanıdığım birtakım insanlar var. Ben hemen "Euzu billahi mine'n-nar (Ben ateşten Allah'a sığınırım)." demeye başladım. İbn Ömer dedi ki: "Bu sırada bize başka bir melek kavuştu ve bana hitaben: 'Sen korkma.' dedi." ^buhari-1129
 
-1130) Ben bu rüyamı (kız kardeşim ve Müminlerin annesi olan) Hafsa'ya anlattım. Hafsa da bunu (Sav) Allah Rasûlü Hz.lerine hikaye etti. (Sav) Allah Rasûlü Hz.leri: **"Abdullah ne iyi adamdır, keşke gecenin bir kısmında kalkıp da namaz kılmayı adet edinseydi."** buyurmuş. (Salim) Bundan sonra Abdullah geceden az bir kısmı müstesna olmak üzere, uyumaz oldu (demiştir).
+1130) Ben bu rüyamı (kız kardeşim ve Müminlerin annesi olan) Hafsa'ya anlattım. Hafsa da bunu (Sav) Allah Rasûlü Hz.lerine hikaye etti. (Sav) Allah Rasûlü Hz.leri: **"Abdullah ne iyi adamdır, keşke gecenin bir kısmında kalkıp da namaz kılmayı adet edinseydi."** buyurmuş. (Salim) Bundan sonra Abdullah geceden az bir kısmı müstesna olmak üzere, uyumaz oldu (demiştir). ^buhari-1130
 
 ### 3- Gece Namazında Sücudun Uzunluğu Bâbı  
   
-1131) Âişe (Ra) şöyle haber vermiştir: (Sav) Allah Rasûlü Hz.leri on bir rekat namaz kılardı. O'nun gece namazı işte buydu. O namaz içinde öyle secdeler vardı ki başını kaldırmadan her birinizin elli ayet okuyacağı kadar dururdu ve (sonunda) sabah namazından evvel iki rekat kılar sonra sağ yanı üzerine yatardı. Ta müezzin (sabah namazının vaktini haber vermek için) O'na gelinceye kadar.
+1131) Âişe (Ra) şöyle haber vermiştir: (Sav) Allah Rasûlü Hz.leri on bir rekat namaz kılardı. O'nun gece namazı işte buydu. O namaz içinde öyle secdeler vardı ki başını kaldırmadan her birinizin elli ayet okuyacağı kadar dururdu ve (sonunda) sabah namazından evvel iki rekat kılar sonra sağ yanı üzerine yatardı. Ta müezzin (sabah namazının vaktini haber vermek için) O'na gelinceye kadar. ^buhari-1131
 
 ### 4- Hasta Olan Kimsenin Gece Namazını Terk Etmesi (yani Terk Edebileceği) Bâbı  
   
-1132) Bize Sufyan (es-Sevri), el-Esved'den tahdis etti. O şöyle demiştir: Ben Cundeb'den işittim, şöyle diyordu: (Sav) Allah Rasûlü Hz.leri keyifsizlendi de bu sebeple bir gece yahut iki gece (namaza) kalkmadı.
+1132) Bize Sufyan (es-Sevri), el-Esved'den tahdis etti. O şöyle demiştir: Ben Cundeb'den işittim, şöyle diyordu: (Sav) Allah Rasûlü Hz.leri keyifsizlendi de bu sebeple bir gece yahut iki gece (namaza) kalkmadı. ^buhari-1132
 
-1133) Cundeb (Ra) şöyle demiştir: Cibril (As) bir müddet (Sav) Allah Rasûlü Hz.lerine görünmemişti. O sırada Kureyş'ten bir kadın: (Sav) Muhammed'in şeytanı (Sav) Muhammed'e gelmekte gecikti, demişti. Müteakiben _"Ve'd-duha ve'l-leyli iza seca. Ma ve'd-deake Rabbuke ve ma kala...” (Yemin olsun, kuşluk vaktine, kararıp sakinleştiğinde geceye ki Rabb'in seni bırakmadı ve sana darılmadı...)_ suresi indi.
+1133) Cundeb (Ra) şöyle demiştir: Cibril (As) bir müddet (Sav) Allah Rasûlü Hz.lerine görünmemişti. O sırada Kureyş'ten bir kadın: (Sav) Muhammed'in şeytanı (Sav) Muhammed'e gelmekte gecikti, demişti. Müteakiben _"Ve'd-duha ve'l-leyli iza seca. Ma ve'd-deake Rabbuke ve ma kala...” (Yemin olsun, kuşluk vaktine, kararıp sakinleştiğinde geceye ki Rabb'in seni bırakmadı ve sana darılmadı...)_ suresi indi. ^buhari-1133
 
 ### 5- (Sav) Allah Rasûlü Hz.lerinin Vacip Kılmaksızın Gece Namazına ve Nafile Namazlara Teşvik Etmesi Bâbı  
   
 Ve (Sav) Allah Rasûlü Hz.leri bir gece kızı Fatıma ve Ali'ye (ikisine de selam olsun) namaza kalkmalarını teşvik için gitmiştir.  
   
-1134) Ümmü Seleme (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir gece uyandı da: **"Subhanallah! Bu gece ne fitneler indirildi ve ne hazineler indirildi! Hücrelerin sahibelerini kim uyandırır? Dünyada nice giyinik kadınlar vardır ki ahirette çıplaktırlar."** buyurdu.
+1134) Ümmü Seleme (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir gece uyandı da: **"Subhanallah! Bu gece ne fitneler indirildi ve ne hazineler indirildi! Hücrelerin sahibelerini kim uyandırır? Dünyada nice giyinik kadınlar vardır ki ahirette çıplaktırlar."** buyurdu. ^buhari-1134
 
-1135) Ali ibn Ebu Talib şöyle haber vermiştir: (Sav) Allah Rasûlü Hz.leri bir gece kendisine ve Peygamber kızı Fatıma'ya geldi de: **"Sizler gece namazı kılmaz mısınız?"** dedi. Ben: Ya Rasûlallah, nefislerimiz Allah'ın elindedir. Bizi uyandırmak dilerse uyandırır, dedim. Biz bu sözü söylediğimiz zaman (Sav) Allah Rasûlü Hz.leri bana hiçbir cevap vermeyerek hemen geri döndü. Bu arada yüzünü bizden çevirirken kendi uyluğuna vurarak: _"...Ve kanel-insanu eksera şey'in cedelen (...Fakat insan tartışmaya çok düşkün olan bir varlıktır)." (Kehf 54)_ buyurduğunu işittim.
+1135) Ali ibn Ebu Talib şöyle haber vermiştir: (Sav) Allah Rasûlü Hz.leri bir gece kendisine ve Peygamber kızı Fatıma'ya geldi de: **"Sizler gece namazı kılmaz mısınız?"** dedi. Ben: Ya Rasûlallah, nefislerimiz Allah'ın elindedir. Bizi uyandırmak dilerse uyandırır, dedim. Biz bu sözü söylediğimiz zaman (Sav) Allah Rasûlü Hz.leri bana hiçbir cevap vermeyerek hemen geri döndü. Bu arada yüzünü bizden çevirirken kendi uyluğuna vurarak: _"...Ve kanel-insanu eksera şey'in cedelen (...Fakat insan tartışmaya çok düşkün olan bir varlıktır)." (Kehf 54)_ buyurduğunu işittim. ^buhari-1135
 
-1136) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.lerinin, halk onunla amel eder de üzerlerine farz kılınır korkusuyla işlemesini sevdiği bir kısım hayırlı işi (işlemeyip) bırakmak adetiydi. (Sav) Allah Rasûlü Hz.leri asla Duha namazı kılmamıştı. Duha namazını ancak ben kılmaktayımdır.
+1136) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.lerinin, halk onunla amel eder de üzerlerine farz kılınır korkusuyla işlemesini sevdiği bir kısım hayırlı işi (işlemeyip) bırakmak adetiydi. (Sav) Allah Rasûlü Hz.leri asla Duha namazı kılmamıştı. Duha namazını ancak ben kılmaktayımdır. ^buhari-1136
 
-1137) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir gece mescitte namaz kıldı. Birtakım insanlar da O'nun namazına uyup gece namazı kıldılar. Sonra ikinci gece de namaz kıldı. Bu sefer O'na uyan insanlar çoğaldı. Sonra üçüncü yahut dördüncü gece de insanlar toplandılar fakat (Sav) Allah Rasûlü Hz.leri onların yanına çıkmadı. Sabah olunca: **"Yaptığınız işi gördüm. Beni sizin yanınıza çıkmaktan ancak üzerinize farz kılınmaktan korkmuş olmam menetmiştir."** buyurdu. Bu da Ramazan'da olmuştu.
+1137) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri bir gece mescitte namaz kıldı. Birtakım insanlar da O'nun namazına uyup gece namazı kıldılar. Sonra ikinci gece de namaz kıldı. Bu sefer O'na uyan insanlar çoğaldı. Sonra üçüncü yahut dördüncü gece de insanlar toplandılar fakat (Sav) Allah Rasûlü Hz.leri onların yanına çıkmadı. Sabah olunca: **"Yaptığınız işi gördüm. Beni sizin yanınıza çıkmaktan ancak üzerinize farz kılınmaktan korkmuş olmam menetmiştir."** buyurdu. Bu da Ramazan'da olmuştu. ^buhari-1137
 
 ### 6- (Sav) Allah Rasûlü Hz.lerinin Geceleyin Ayakları Şişinceye Kadar Gece Namazında Dikilmesi Bâbı  
   
 Âişe (Ra) de: (Sav) Allah Rasûlü Hz.leri ayakları çatlayıncaya kadar ayakta durdu, demiştir. "Futur", "Şukuk" (yani yarmak); "İnfatarat"‏ da "İnşakkat" (yani yarıldı) manasınadır.  
   
-1138) Ziyad şöyle demiştir: Ben el-Mugire'den işittim, şöyle diyordu: (Sav) Allah Rasûlü Hz.leri (gece) namaz kılmak için iki ayağı yahut iki baldırı şişinceye kadar ayakta dururdu. Kendisine (niçin bu kadar meşakkatle ibadet yapıyorsun?) denilirdi de (Sav) Allah Rasûlü Hz.leri: **"Ben çok şükreder bir kul olmayayım mı?"** diye cevap verirdi.
+1138) Ziyad şöyle demiştir: Ben el-Mugire'den işittim, şöyle diyordu: (Sav) Allah Rasûlü Hz.leri (gece) namaz kılmak için iki ayağı yahut iki baldırı şişinceye kadar ayakta dururdu. Kendisine (niçin bu kadar meşakkatle ibadet yapıyorsun?) denilirdi de (Sav) Allah Rasûlü Hz.leri: **"Ben çok şükreder bir kul olmayayım mı?"** diye cevap verirdi. ^buhari-1138
 
 ### 7- Seher Sırasında Uyuyan Kimse Bâbı  
   
-1139) Abdullah ibn Amr ibn Asi (Ra) haber vermiştir ki (Sav) Allah Rasûlü Hz.leri ona hitaben şöyle buyurmuştur: **"Allah'a en sevimli olan namaz, Davud'un** (As) **namazıdır. Allah'a en sevimli olan oruç da yine Davud Peygamber'in orucudur. Davud, gecenin yarısında uyurdu, gecenin üçte birinde namaz kılardı. Gecenin altıda birinde yine uyurdu. Ve Davud, bir gün oruç tutar, bir gün de oruç tutmazdı."**
+1139) Abdullah ibn Amr ibn Asi (Ra) haber vermiştir ki (Sav) Allah Rasûlü Hz.leri ona hitaben şöyle buyurmuştur: **"Allah'a en sevimli olan namaz, Davud'un** (As) **namazıdır. Allah'a en sevimli olan oruç da yine Davud Peygamber'in orucudur. Davud, gecenin yarısında uyurdu, gecenin üçte birinde namaz kılardı. Gecenin altıda birinde yine uyurdu. Ve Davud, bir gün oruç tutar, bir gün de oruç tutmazdı."** ^buhari-1139
 
-1140) Eş'as şöyle demiştir: Ben babam Suleym ibn Esved el Muharibi'den işittim, şöyle dedi: Ben Mesruk'tan işittim, şöyle dedi: Ben Âişe'ye: "Hangi amel (Sav) Allah Rasûlü Hz.lerine daha sevimliydi?" diye sordum. Âişe: "Devamlı olan amel." dedi. Ben: "(Sav) Allah Rasûlü Hz.leri (gece namazına) ne zaman kalkardı?" dedim. Âişe: "Horoz sesini işittiği zaman kalkardı." dedi.
+1140) Eş'as şöyle demiştir: Ben babam Suleym ibn Esved el Muharibi'den işittim, şöyle dedi: Ben Mesruk'tan işittim, şöyle dedi: Ben Âişe'ye: "Hangi amel (Sav) Allah Rasûlü Hz.lerine daha sevimliydi?" diye sordum. Âişe: "Devamlı olan amel." dedi. Ben: "(Sav) Allah Rasûlü Hz.leri (gece namazına) ne zaman kalkardı?" dedim. Âişe: "Horoz sesini işittiği zaman kalkardı." dedi. ^buhari-1140
 
 1141) El-Eş'as (yukarıda geçen isnatla): (Sav) Allah Rasûlü Hz.leri horoz sesini işitince kalktı, müteakiben namaz kıldı, dediğini rivayet etmiştir.  
   
-	  Âişe (Ra): Seher vakti O'nu, benim yanımda muhakkak uyur bulurdu, demiştir; "O'nu" zamiriyle de (Sav) Allah Rasûlü Hz.lerini kastetmektedir.
+	  Âişe (Ra): Seher vakti O'nu, benim yanımda muhakkak uyur bulurdu, demiştir; "O'nu" zamiriyle de (Sav) Allah Rasûlü Hz.lerini kastetmektedir. ^buhari-1141
 
 ### 8- Sahur Yemeği Yiyip de Sabah Namazını Kılıncaya Kadar Uyumayan Kimse Bâbı  
   
-1142) Bize Said ibn Ebu Arube, Katade'den o da Enes ibn Malik'ten tahdis etti ki (Sav) Allah Rasûlü Hz.leri ile Zeyd ibn Sabit (Ra) beraber sahur yemeği yemişler. Sahur yemeğini bitirdiklerinde (Sav) Allah Rasûlü Hz.leri namaza kalkmış ve namaz kıldırmıştır. (Ravi dedi ki:) Biz Enes'e: Sahur yemeklerini bitirmeleri ile namaza girmeleri arasında ne kadar zaman vardı? Dedik. Enes: İnsanın elli ayet okuyabileceği kadar, dedi.
+1142) Bize Said ibn Ebu Arube, Katade'den o da Enes ibn Malik'ten tahdis etti ki (Sav) Allah Rasûlü Hz.leri ile Zeyd ibn Sabit (Ra) beraber sahur yemeği yemişler. Sahur yemeğini bitirdiklerinde (Sav) Allah Rasûlü Hz.leri namaza kalkmış ve namaz kıldırmıştır. (Ravi dedi ki:) Biz Enes'e: Sahur yemeklerini bitirmeleri ile namaza girmeleri arasında ne kadar zaman vardı? Dedik. Enes: İnsanın elli ayet okuyabileceği kadar, dedi. ^buhari-1142
 
 ### 9- Gece Namazında Kıyamın Uzun Olması Bâbı  
   
-1143) Abdullah ibn Mesud (Ra) şöyle demiştir: Bir gece ben (Sav) Allah Rasûlü Hz.leri ile beraber namaz kıldım. (Sav) Allah Rasûlü Hz.leri devamlı ayakta duruyordu. Nihayet ben fena bir iş yapmayı kurdum. (Ravi dedi ki:) Biz: Ne yapmayı düşündün? Diye sorduk. İbn Mesud: Oturmak ve (Sav) Allah Rasûlü Hz.lerini (ayakta yalnız) bırakmak istedim, dedi.
+1143) Abdullah ibn Mesud (Ra) şöyle demiştir: Bir gece ben (Sav) Allah Rasûlü Hz.leri ile beraber namaz kıldım. (Sav) Allah Rasûlü Hz.leri devamlı ayakta duruyordu. Nihayet ben fena bir iş yapmayı kurdum. (Ravi dedi ki:) Biz: Ne yapmayı düşündün? Diye sorduk. İbn Mesud: Oturmak ve (Sav) Allah Rasûlü Hz.lerini (ayakta yalnız) bırakmak istedim, dedi. ^buhari-1143
 
-1144) Huzeyfe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri geceleyin teheccüd namazı kılmak için kalktığında ağzını misvak ile ovardı.
+1144) Huzeyfe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri geceleyin teheccüd namazı kılmak için kalktığında ağzını misvak ile ovardı. ^buhari-1144
 
 ### 10- Bâb: (Sav) Allah Rasûlü Hz.lerinin Namazı Nasıldı?  
   
 Ve (Sav) Allah Rasûlü Hz.leri, gecenin bir kısmında kaç rekat namaz kılardı?  
   
-1145) Salim ibn Abdullah, babası Abdullah ibn Ömer'in şöyle dediğini haber verdi: Bir kimse: Ya Rasûlallah, gece namazı nasıldır? Diye sordu. (Sav) Allah Rasûlü Hz.leri: **"İkişer ikişerdir. Sabah vaktinin gireceğinden korktuğun zaman bir tek rekatla vitir namazı kıl."** buyurdu.
+1145) Salim ibn Abdullah, babası Abdullah ibn Ömer'in şöyle dediğini haber verdi: Bir kimse: Ya Rasûlallah, gece namazı nasıldır? Diye sordu. (Sav) Allah Rasûlü Hz.leri: **"İkişer ikişerdir. Sabah vaktinin gireceğinden korktuğun zaman bir tek rekatla vitir namazı kıl."** buyurdu. ^buhari-1145
 
-1146) İbn Abbas (Ra): (Sav) Allah Rasûlü Hz.lerinin namazı on üç rekattı, demiştir. İbn Abbas (bu namaz ile) gece namazını kastediyor.
+1146) İbn Abbas (Ra): (Sav) Allah Rasûlü Hz.lerinin namazı on üç rekattı, demiştir. İbn Abbas (bu namaz ile) gece namazını kastediyor. ^buhari-1146
 
-1147) Mesruk şöyle demiştir: Ben Âişe'ye (Ra), (Sav) Allah Rasûlü Hz.lerinin geceleyin kıldığı namazını sordum. Âişe: Sabah namazının iki rekat sünnetinden başka (kah) yedi, (kah) dokuz, (kah) on bir rekattır, dedi.
+1147) Mesruk şöyle demiştir: Ben Âişe'ye (Ra), (Sav) Allah Rasûlü Hz.lerinin geceleyin kıldığı namazını sordum. Âişe: Sabah namazının iki rekat sünnetinden başka (kah) yedi, (kah) dokuz, (kah) on bir rekattır, dedi. ^buhari-1147
 
-1148) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri gecenin bir kısmında on üç rekat namaz kılardı. Vitir namazı ile sabah namazının iki rekat sünneti de bu sayıdandır.
+1148) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri gecenin bir kısmında on üç rekat namaz kılardı. Vitir namazı ile sabah namazının iki rekat sünneti de bu sayıdandır. ^buhari-1148
 
 ### 11- (Sav) Allah Rasûlü Hz.lerinin Geceki İbadeti, Uykusu ve Gece İbadetinden Neshedilen (Miktar) Hakkında Bâbı  
   
@@ -92,63 +92,63 @@ Ve yüce Allah'ın şu kavli: _"_(Ey Muhammed!) _Şüphesiz Rabb'in, Senin; gec
   
 1149) Bana Muhammed ibn Cafer, Humeyd et-Tavil'den tahdis etti ki o, Enes'ten şöyle derken işitmiştir: (Sav) Allah Rasûlü Hz.leri her aydan (o kadar günlerde) oruç tutmazdı ki biz O'nu artık o ayın hiçbir gününde oruç tutmayacak zannederdik. Yine (Sav) Allah Rasûlü Hz.leri her aydan (o kadar günlerde) oruç tutardı ki biz O'nu artık o aydan hiçbir gün orucu bırakmayacak zannederdik. Yine (Sav) Allah Rasûlü Hz.lerini geceden bir kısmında namaz kılar görmek istemiyorsundur ki muhakkak namaz kılar görürdün. Uyur görmek istemiyorsundur ki muhakkak uyur görürdün.  
   
-	  Bu hadisi Humeyd'den rivayet etmekte Süleyman ibn Bilal ile Ebu Halid Süleyman ibn Hayyan el-Ahmer, Muhammed ibn Cafer'e mütabaat etmişlerdir.
+	  Bu hadisi Humeyd'den rivayet etmekte Süleyman ibn Bilal ile Ebu Halid Süleyman ibn Hayyan el-Ahmer, Muhammed ibn Cafer'e mütabaat etmişlerdir. ^buhari-1149
 
 ### 12- İnsan Geceleyin Namaz Kılmadığı Zaman Şeytanın Onun Başının Arka Köküne Düğüm Bağlaması Bâbı  
   
-1150) Bize Malik, Ebu Zinad'dan o da el A'rec'den o da Ebu Hureyre'den haber verdi ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Sizin herhangi biriniz** (gece) **uyuyunca Şeytan,** **onun boyun köküne üç düğüm bağlar. Her düğüme: 'Senin üzerinde uzun bir gece vardır** (rahat uyu telkinini)**.' vurur. O kimse, uyanıp Allah'ı anarsa bir düğüm çözülür. Abdest alırsa bir düğüm daha çözülür. Namaz da kılarsa bir düğüm daha çözülür. Artık o** (teheccüd sahibi) **kimse düğümü çözük, gönlü hoş ve neşeli olarak sabaha girer fakat Allah'ı anmaz, abdest alıp namaz kılmazsa gönlü kirli ve uyuşuk halde sabaha girer."**
+1150) Bize Malik, Ebu Zinad'dan o da el A'rec'den o da Ebu Hureyre'den haber verdi ki (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Sizin herhangi biriniz** (gece) **uyuyunca Şeytan,** **onun boyun köküne üç düğüm bağlar. Her düğüme: 'Senin üzerinde uzun bir gece vardır** (rahat uyu telkinini)**.' vurur. O kimse, uyanıp Allah'ı anarsa bir düğüm çözülür. Abdest alırsa bir düğüm daha çözülür. Namaz da kılarsa bir düğüm daha çözülür. Artık o** (teheccüd sahibi) **kimse düğümü çözük, gönlü hoş ve neşeli olarak sabaha girer fakat Allah'ı anmaz, abdest alıp namaz kılmazsa gönlü kirli ve uyuşuk halde sabaha girer."** ^buhari-1150
 
-1151) Bize Ebu Reca el-Utaridi tahdis edip şöyle dedi: Bize Semure ibn Cundeb (Ra), (Sav) Allah Rasûlü Hz.lerinden tahdis etti ki uzun rüya hadisinin içinde (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"O başı taş ile yarılıp berelendiğini gördüğün kimseye gelince şüphesiz o, Kur'an'ı alıyor müteakiben onu** (ezberlemeyi ve onunla amel etmeyi) **terk ediyor ve farz olan namazdan gafil olarak** (bütün gece) **uyuyordu."**
+1151) Bize Ebu Reca el-Utaridi tahdis edip şöyle dedi: Bize Semure ibn Cundeb (Ra), (Sav) Allah Rasûlü Hz.lerinden tahdis etti ki uzun rüya hadisinin içinde (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"O başı taş ile yarılıp berelendiğini gördüğün kimseye gelince şüphesiz o, Kur'an'ı alıyor müteakiben onu** (ezberlemeyi ve onunla amel etmeyi) **terk ediyor ve farz olan namazdan gafil olarak** (bütün gece) **uyuyordu."** ^buhari-1151
 
 ### 13- Bâb: İnsan Uyuyup Namaz Kılmadığı Zaman Şeytan Onun Kulağına Bevleder  
   
-1152) Abdullah ibn Mesud (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.lerinin yanında bir adam anıldı ve bu adam sabaha kadar uykuya dalar, namaza kalkmaz denildi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Öyle ise onun kulağına şeytan bevletmiştir."** buyurdu.
+1152) Abdullah ibn Mesud (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.lerinin yanında bir adam anıldı ve bu adam sabaha kadar uykuya dalar, namaza kalkmaz denildi. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Öyle ise onun kulağına şeytan bevletmiştir."** buyurdu. ^buhari-1152
 
 ### 14- Gecenin Son Saatlerinde Namaz İçinde Dua Bâbı  
   
 Aziz ve celil olan Allah da şöyle buyurdu: _"Onlar gecenin az bir kısmında uyurlardı. Seher vakitlerinde Rablerinden bağışlanmalarını dilerlerdi." (Zâriyât 17-18)_  
   
-1153) Bize Abdullah ibn Mesleme, Malik'ten o da İbn Şihab'dan o da Ebu Seleme ile Ebu Abdullah el-Ağarr'dan bunların her ikisi de Ebu Hureyre'den (Ra) tahdis ettiler ki (Sav) Allah Rasûlü Hz.leri şöyle demiştir: **"Gecenin son üçte biri kaldığı zaman Tebareke ve Teala olan Rabb'imiz** (zaman ve mekandan münezzeh olarak) **her gece dünya semasına iner ve: 'Bana kim dua eder ki onun duasına icabet edeyim! Benden kim bir hacet ister ki ona dileğini vereyim! Benden kim mağfiret diler ki onun için mağfiret edeyim!' buyurur."**
+1153) Bize Abdullah ibn Mesleme, Malik'ten o da İbn Şihab'dan o da Ebu Seleme ile Ebu Abdullah el-Ağarr'dan bunların her ikisi de Ebu Hureyre'den (Ra) tahdis ettiler ki (Sav) Allah Rasûlü Hz.leri şöyle demiştir: **"Gecenin son üçte biri kaldığı zaman Tebareke ve Teala olan Rabb'imiz** (zaman ve mekandan münezzeh olarak) **her gece dünya semasına iner ve: 'Bana kim dua eder ki onun duasına icabet edeyim! Benden kim bir hacet ister ki ona dileğini vereyim! Benden kim mağfiret diler ki onun için mağfiret edeyim!' buyurur."** ^buhari-1153
 
 ### 15- Gecenin Evvelini Uyuyup Sonunu (Namaz, Kıraat, Zikir gibi İbadetle) İhya Eden Kimse Bâbı  
   
 Ve Selman el-Farisi, kardeşliği Ebu Derda'ya: "Sen uyu." demiş. Gecenin sonundan bir vakit olunca da: "Şimdi kalk." demiştir. (Sav) Allah Rasûlü Hz.leri de: **"Selman doğru söylemiştir."** buyurdu.  
   
-1154) El-Esved şöyle demiştir: Ben Âişe'ye: "(Sav) Allah Rasûlü Hz.lerinin gece namazı nasıldı?" diye sordum. Âişe (Ra) şöyle cevap verdi: "(Sav) Allah Rasûlü Hz.leri gecenin evvelinde uyurdu. Gecenin sonunda da kalkar, namaz kılardı. (Namazdan) sonra da yatağına dönerdi. Müezzin ezan okumaya başlayınca sıçrayıp kalkardı. Eğer kendisine bir ihtiyaç olmuşsa yıkanır (yıkanmaya ihtiyaç) yoksa abdest alır ve (mescide) çıkardı."
+1154) El-Esved şöyle demiştir: Ben Âişe'ye: "(Sav) Allah Rasûlü Hz.lerinin gece namazı nasıldı?" diye sordum. Âişe (Ra) şöyle cevap verdi: "(Sav) Allah Rasûlü Hz.leri gecenin evvelinde uyurdu. Gecenin sonunda da kalkar, namaz kılardı. (Namazdan) sonra da yatağına dönerdi. Müezzin ezan okumaya başlayınca sıçrayıp kalkardı. Eğer kendisine bir ihtiyaç olmuşsa yıkanır (yıkanmaya ihtiyaç) yoksa abdest alır ve (mescide) çıkardı." ^buhari-1154
 
 ### 16- (Sav) Allah Rasûlü Hz.lerinin Ramazan'daki ve Diğer Aylardaki Gece İbadeti Bâbı  
   
-1155) Abdurrahman ibn Avf'ın oğlu Ebu Seleme, kendisinin Âişe'den (Sav) Allah Rasûlü Hz.lerinin Ramazan ayındaki namazının nasıl olduğunu sorduğunu ve Âişe'nin cevabını Said'e haber vermiştir. Âişe (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri ne Ramazan'da ne de Ramazan'dan gayrı (geceler)de on bir rekat üzerine ziyade etmezdi. (Sav) Allah Rasûlü Hz.leri evvela dört rekat kılardı ki artık sen o rekatların güzelliğinden ve uzunluğundan sorma. Sonra (Sav) Allah Rasûlü Hz.leri dört rekat daha kılardı. Bunların da güzelliğinden ve uzunluğundan sorma. Sonra üç rekat kılardı. Âişe dedi ki: Ben: "Ya Rasûlallah, vitir kılmandan önce uyur musun?" diye sordum. (Sav) Allah Rasûlü Hz.leri: **"Ya Âişe, benim iki gözüm uyur fakat kalbim uyumaz."** buyurdu.
+1155) Abdurrahman ibn Avf'ın oğlu Ebu Seleme, kendisinin Âişe'den (Sav) Allah Rasûlü Hz.lerinin Ramazan ayındaki namazının nasıl olduğunu sorduğunu ve Âişe'nin cevabını Said'e haber vermiştir. Âişe (Ra) şöyle dedi: (Sav) Allah Rasûlü Hz.leri ne Ramazan'da ne de Ramazan'dan gayrı (geceler)de on bir rekat üzerine ziyade etmezdi. (Sav) Allah Rasûlü Hz.leri evvela dört rekat kılardı ki artık sen o rekatların güzelliğinden ve uzunluğundan sorma. Sonra (Sav) Allah Rasûlü Hz.leri dört rekat daha kılardı. Bunların da güzelliğinden ve uzunluğundan sorma. Sonra üç rekat kılardı. Âişe dedi ki: Ben: "Ya Rasûlallah, vitir kılmandan önce uyur musun?" diye sordum. (Sav) Allah Rasûlü Hz.leri: **"Ya Âişe, benim iki gözüm uyur fakat kalbim uyumaz."** buyurdu. ^buhari-1155
 
-1156) Âişe (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.lerini gece namazından hiçbir rekatta, ta yaşlanıncaya kadar oturarak okur görmedim. Yaşlandığı zaman oturarak okurdu. Üzerinde sureden otuz yahut kırk ayet kaldığında ayağa kalkar ve o ayetleri de okur sonra rüku yapardı.
+1156) Âişe (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.lerini gece namazından hiçbir rekatta, ta yaşlanıncaya kadar oturarak okur görmedim. Yaşlandığı zaman oturarak okurdu. Üzerinde sureden otuz yahut kırk ayet kaldığında ayağa kalkar ve o ayetleri de okur sonra rüku yapardı. ^buhari-1156
 
 ### 17- Gece ve Gündüz Temizlenip Paklanmanın Fazileti ile Gece ve Gündüzde Abdest Almanın Ardından Namaz Kılmanın Fazileti Bâbı  
   
 1157) Bize Ebu Usame, Ebu Hayyan'dan o da Ebu Zura'dan o da Ebu Hureyre'den tahdis etti ki (Sav) Allah Rasûlü Hz.leri sabah namazı sırasında Bilal'e hitaben şöyle buyurmuştur: "**Ya Bilal! İslam içinde işlediğin ve senin nazarında menfaatçe en ümitli olan bir amelini bana söyle çünkü ben bu gece cennetin içinde, önümde senin iki ayakkabının yürüyüş sesini işittim."** Bilal: Ben kendime göre menfaatçe şundan daha ümitli olan bir iş işlemedim: Ben gece yahut gündüzün herhangi bir saatinde iyice temizlenir ve bu temizlik ile de muhakkak bana kılmam takdir buyrulduğu kadar namaz kılarım, dedi.  
   
-	  Ebu Abdullah el-Buhari: "Deffu na'leyk" ile ayakkabıların hareket ettirilmesini kastediyor, dedi.
+	  Ebu Abdullah el-Buhari: "Deffu na'leyk" ile ayakkabıların hareket ettirilmesini kastediyor, dedi. ^buhari-1157
 
 ### 18- İbadette Şiddet ve Katılık Yapmanın (yani Fazla Meşakkat Yüklemenin) Mekruh Kılınması Bâbı  
   
-1158) Bize Abdulvaris, Abdülaziz ibn Suheyb'den o da Enes ibn Malik'ten (Ra) tahdis etti. O şöyle demiştir: (Sav) Allah Rasûlü Hz.leri -mescide- girdi. Girince mescidin iki direği arasına bir ip çekilmiş olduğunu gördü. **"Bu ip nedir?"** diye sordu. Sahabiler: Bu Zeynep'in (bint Cahş) ipidir. Zeynep (namazda ayakta durmaktan) yorulunca bu ipe tutunur, dediler. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Hayır** (ibadette böyle güçlük olmaz)**.** **Bu ipi çözünüz. Sizin biriniz zinde ve kuvvetli oldukça namazı** (ayakta) **kılsın. Yorulup gevşeyince de hemen otursun** (ve oturarak tamamlasın)**."** buyurdu.
+1158) Bize Abdulvaris, Abdülaziz ibn Suheyb'den o da Enes ibn Malik'ten (Ra) tahdis etti. O şöyle demiştir: (Sav) Allah Rasûlü Hz.leri -mescide- girdi. Girince mescidin iki direği arasına bir ip çekilmiş olduğunu gördü. **"Bu ip nedir?"** diye sordu. Sahabiler: Bu Zeynep'in (bint Cahş) ipidir. Zeynep (namazda ayakta durmaktan) yorulunca bu ipe tutunur, dediler. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Hayır** (ibadette böyle güçlük olmaz)**.** **Bu ipi çözünüz. Sizin biriniz zinde ve kuvvetli oldukça namazı** (ayakta) **kılsın. Yorulup gevşeyince de hemen otursun** (ve oturarak tamamlasın)**."** buyurdu. ^buhari-1158
 
-1159) Dedi ki: Ve Abdullah ibn Mesleme, Malik'ten o da Hişam ibn Urve'den o da babası Urve ibn Zubeyr'den o da Âişe'den (Ra) söyledi. Âişe şöyle demiştir: Yanımda Esedoğullarından bir kadın vardı. Bu sırada üzerime (Sav) Allah Rasûlü Hz.leri girdi. "**Bu kadın kimdir**?" diye sordu. Filancadır, geceleyin uyumazmış; namazından zikrolundu (yahut namazından zikrediyor), dedim. (Sav) Allah Rasûlü Hz.leri: **"**(Bu sözü) **bırak, daima takat yetireceğiniz işleri yapınız. Şüphesiz Allah, siz usanmadıkça usanmaz."** buyurdu.
+1159) Dedi ki: Ve Abdullah ibn Mesleme, Malik'ten o da Hişam ibn Urve'den o da babası Urve ibn Zubeyr'den o da Âişe'den (Ra) söyledi. Âişe şöyle demiştir: Yanımda Esedoğullarından bir kadın vardı. Bu sırada üzerime (Sav) Allah Rasûlü Hz.leri girdi. "**Bu kadın kimdir**?" diye sordu. Filancadır, geceleyin uyumazmış; namazından zikrolundu (yahut namazından zikrediyor), dedim. (Sav) Allah Rasûlü Hz.leri: **"**(Bu sözü) **bırak, daima takat yetireceğiniz işleri yapınız. Şüphesiz Allah, siz usanmadıkça usanmaz."** buyurdu. ^buhari-1159
 
 ### 19- Gece Namaza Kalkmayı Adet Edinen Bir Kimsenin Gece Namazını Terk Etmesinin Mekruh Kılınması Bâbı  
   
-1160) Bize Mübeşşir, el-Evzai'den tahdis etti ve yine bana Muhammed ibn Mukaatil Ebu Hasan tahdis edip şöyle dedi: Bize Abdullah ibn Mübarek haber verip şöyle dedi: Bize el-Evzai haber verip şöyle dedi: Bana Yahya ibn Ebu Kesir tahdis edip şöyle dedi: Bana Ebu Seleme ibn Abdurrahman tahdis edip şöyle dedi: Bana Abdullah ibn Amr ibn As (Ra) tahdis edip şöyle dedi: (Sav) Allah Rasûlü Hz.leri bana: "**Ya Abdullah! Sen filan kimse gibi olma. O, geceden bir kısmında namaza kalkardı sonra gece namazını terk etti."** buyurdu.
+1160) Bize Mübeşşir, el-Evzai'den tahdis etti ve yine bana Muhammed ibn Mukaatil Ebu Hasan tahdis edip şöyle dedi: Bize Abdullah ibn Mübarek haber verip şöyle dedi: Bize el-Evzai haber verip şöyle dedi: Bana Yahya ibn Ebu Kesir tahdis edip şöyle dedi: Bana Ebu Seleme ibn Abdurrahman tahdis edip şöyle dedi: Bana Abdullah ibn Amr ibn As (Ra) tahdis edip şöyle dedi: (Sav) Allah Rasûlü Hz.leri bana: "**Ya Abdullah! Sen filan kimse gibi olma. O, geceden bir kısmında namaza kalkardı sonra gece namazını terk etti."** buyurdu. ^buhari-1160
 
 1161) Ve Hişam ibn Ammar şöyle dedi: Bize İbn Ebu Işrin tahdis edip şöyle dedi: Bize el-Evzai tahdis edip şöyle dedi: Bana Yahya (ibn Ebu Kesir), Ömer ibn Hakem ibn Sevban'dan tahdis etti. O şöyle demiştir: Bana Ebu Seleme bu hadisin benzerini tahdis etti.  
   
-	  Ve bu hadisi el-Evzai'den rivayet etmekte Amr ibn Ebu Seleme, İbn Ebu Işrin'e mütabaat etmiştir.
+	  Ve bu hadisi el-Evzai'den rivayet etmekte Amr ibn Ebu Seleme, İbn Ebu Işrin'e mütabaat etmiştir. ^buhari-1161
 
 ### 20- Bâb  
   
-1162) ...Ebu Abbas şöyle demiştir: Ben Abdullah ibn Amr'dan (Ra) şöyle dediğini işittim: (Sav) Allah Rasûlü Hz.leri bana: **"Senin geceleyin ibadet ve gündüzleyin oruç tutmakta olduğun bana haber verilmedi mi?"** dedi. Ben: "Evet ben bunu yapıyorum." dedim. (Sav) Allah Rasûlü Hz.leri **"Şüphesiz sen bunu yaptığın zaman gözlerin içeri girer, nefsin yorulur. Şüphesiz nefsin için bir hak vardır, ehlin için de bir hak vardır. Onun için** (bazen) **oruç tut,** (bazen) **tutma;** (gecenin bir kısmında) **namaz kıl** (bir kısmında) **da uyu."** buyurdu.
+1162) ...Ebu Abbas şöyle demiştir: Ben Abdullah ibn Amr'dan (Ra) şöyle dediğini işittim: (Sav) Allah Rasûlü Hz.leri bana: **"Senin geceleyin ibadet ve gündüzleyin oruç tutmakta olduğun bana haber verilmedi mi?"** dedi. Ben: "Evet ben bunu yapıyorum." dedim. (Sav) Allah Rasûlü Hz.leri **"Şüphesiz sen bunu yaptığın zaman gözlerin içeri girer, nefsin yorulur. Şüphesiz nefsin için bir hak vardır, ehlin için de bir hak vardır. Onun için** (bazen) **oruç tut,** (bazen) **tutma;** (gecenin bir kısmında) **namaz kıl** (bir kısmında) **da uyu."** buyurdu. ^buhari-1162
 
 ### 21- Gecenin Bir Kısmında (Yatağı Üzerinde) Dönüp (Allah'ı Anarak) Uyanan ve Akabinde Namaz Kılan Kimse Bâbı  
   
-1163) Bana Ubade ibn Samit tahdis etti. (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Her kim gecenin bir kısmında dönüp uyanır ve akabinde 'La ilahe illellahu vahdehu la şerike lehu, lehul-mülkü ve lehu l-hamdu ve huve ala külli şey'in kadir. Elhamdu lillahi ve subhane'llahi ve la ilahe illallahu v'Allahu ekber ve la havle vela kuvvete illa billahi** (Allah'tan başka ibadete layık ilah yoktur, ancak bir Allah vardır. O'nun ortağı yoktur. Mülk ancak O'nundur. Hamd de yalnız O'nundur. O, her şeye gücü yetendir. Bütün hamd Allah'a mahsustur. Allah noksan sıfatlardan münezzehtir. İbadete layık hiçbir ilah yoktur, yalnız Allah vardır ve Allah en büyüktür ve hiçbir hareket ve kuvvet yoktur ancak Allah ile vardır)**.'** **der ve sonra 'Allahummağfir li** (Ya Allah, bana mağfiret eyle)**.'** **sözünü söyler yahut dua ederse icabet edilir. Eğer abdest alıp namaz kılarsa namazı kabul olunur."**
+1163) Bana Ubade ibn Samit tahdis etti. (Sav) Allah Rasûlü Hz.leri şöyle buyurmuştur: **"Her kim gecenin bir kısmında dönüp uyanır ve akabinde 'La ilahe illellahu vahdehu la şerike lehu, lehul-mülkü ve lehu l-hamdu ve huve ala külli şey'in kadir. Elhamdu lillahi ve subhane'llahi ve la ilahe illallahu v'Allahu ekber ve la havle vela kuvvete illa billahi** (Allah'tan başka ibadete layık ilah yoktur, ancak bir Allah vardır. O'nun ortağı yoktur. Mülk ancak O'nundur. Hamd de yalnız O'nundur. O, her şeye gücü yetendir. Bütün hamd Allah'a mahsustur. Allah noksan sıfatlardan münezzehtir. İbadete layık hiçbir ilah yoktur, yalnız Allah vardır ve Allah en büyüktür ve hiçbir hareket ve kuvvet yoktur ancak Allah ile vardır)**.'** **der ve sonra 'Allahummağfir li** (Ya Allah, bana mağfiret eyle)**.'** **sözünü söyler yahut dua ederse icabet edilir. Eğer abdest alıp namaz kılarsa namazı kabul olunur."** ^buhari-1163
 
 1164) İbn Şihab şöyle demiştir: Bana el-Heysem ibn Ebu Sinan haber verdi ki o da Ebu Hureyre'den (Ra) işitmiştir. Ebu Hureyre vaazı içinde menkıbeler anlatırken (Sav) Allah Rasûlü Hz.lerini de anmış, O'nun (Abdullah ibn Revaha'nın aşağıdaki şiirini inşadı sırasında): **"Şüphesiz kardeşiniz batıl söz söylemez."** buyurduğunu haber vermiştir.  
 
@@ -166,29 +166,29 @@ Ve Selman el-Farisi, kardeşliği Ebu Derda'ya: "Sen uyu." demiş. Gecenin sonun
 	Kalplerimiz O'na tereddütsüz inanmıştır ki 
 	O'nun söylediği her şey muhakkak vaki olacaktır.
 	Müşriklere yatakları ağırlık verdiği sıralarda
-	O Peygamber, yanını döşeğinden uzaklaştırıyordu.) 
+	O Peygamber, yanını döşeğinden uzaklaştırıyordu.)  ^buhari-1164
   
 Bu şiiri İbn Şihab'dan rivayet etmekte Yunus ibn Yezid'e Ukayl ibn Halid mütabaat etmiştir.  
   
 Ve Muhammed ibn Velid ez-Zubeydi şöyle demiştir: Bana ez-Zuhri, Said ibn Müseyyeb ile el-A'rec'den onlar da Ebu Hureyre'den olmak üzere haber verdi.
  
-1165) İbn Ömer (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.leri zamanında şöyle rüya gördüm: Elimde kalın ipek kumaş parçası vardı. Ben cennette herhangi bir yere gitmek istersem hemen o kumaş parçası muhakkak oraya uçardı ve yine rüyada şöyle gördüm: İki (melek) bana geldiler. Bunlar beni cehenneme götürmek istediler fakat bunları üçüncü bir melek karşıladı ve onlara: "Korkulmasın (yani onun için korku olmaz), ondan ellerinizi çekiniz." dedi.
+1165) İbn Ömer (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.leri zamanında şöyle rüya gördüm: Elimde kalın ipek kumaş parçası vardı. Ben cennette herhangi bir yere gitmek istersem hemen o kumaş parçası muhakkak oraya uçardı ve yine rüyada şöyle gördüm: İki (melek) bana geldiler. Bunlar beni cehenneme götürmek istediler fakat bunları üçüncü bir melek karşıladı ve onlara: "Korkulmasın (yani onun için korku olmaz), ondan ellerinizi çekiniz." dedi. ^buhari-1165
 
-1166) (Ben bu rüyalarımı kız kardeşim Hafsa'ya anlattım). Hafsa da bu rüyalarımın birini (Sav) Allah Rasûlü Hz.lerine anlattı. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Abdullah ne iyi adamdır gecenin bir kısmında namaz kılsa."** buyurmuştur. Ondan sonra Abdullah gecenin bir kısmında namaz kılar oldu.
+1166) (Ben bu rüyalarımı kız kardeşim Hafsa'ya anlattım). Hafsa da bu rüyalarımın birini (Sav) Allah Rasûlü Hz.lerine anlattı. Bunun üzerine (Sav) Allah Rasûlü Hz.leri: **"Abdullah ne iyi adamdır gecenin bir kısmında namaz kılsa."** buyurmuştur. Ondan sonra Abdullah gecenin bir kısmında namaz kılar oldu. ^buhari-1166
 
-1167) Sahabiler de (Sav) Allah Rasûlü Hz.lerine devamlı Kadir Gecesi'nin, Ramazan'ın yirmi yedinci gecesinde olduğuna dair gördükleri rüyaları anlatıyorlardı. (Sav) Allah Rasûlü Hz.leri de cevaben: **"Ben sizin rüyalarınızın, Ramazan'ın son on günü içinde uygun düştüklerini görüyorum. Binaenaleyh kim Kadir Gecesi'ni araştırırsa onu Ramazan'ın son on günü içinde arasın."** buyurdu.
+1167) Sahabiler de (Sav) Allah Rasûlü Hz.lerine devamlı Kadir Gecesi'nin, Ramazan'ın yirmi yedinci gecesinde olduğuna dair gördükleri rüyaları anlatıyorlardı. (Sav) Allah Rasûlü Hz.leri de cevaben: **"Ben sizin rüyalarınızın, Ramazan'ın son on günü içinde uygun düştüklerini görüyorum. Binaenaleyh kim Kadir Gecesi'ni araştırırsa onu Ramazan'ın son on günü içinde arasın."** buyurdu. ^buhari-1167
 
 ### 22- Sabah Namazının İki Rekat Ratibe Sünnetini Kılmayı Devam Ettirmek Bâbı  
   
-1168) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri yatsı namazını kıldı. Sonra sekiz rekat daha namaz kıldı. İki rekat da oturarak kıldı. Sabah namazının ezanı ile ikamet arasında da iki rekat (nafile) kıldı ki O, bu iki rekatı hiçbir zaman terk etmedi.
+1168) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri yatsı namazını kıldı. Sonra sekiz rekat daha namaz kıldı. İki rekat da oturarak kıldı. Sabah namazının ezanı ile ikamet arasında da iki rekat (nafile) kıldı ki O, bu iki rekatı hiçbir zaman terk etmedi. ^buhari-1168
 
 ### 23- Sabah Namazının İki Rekat Ratibesinin Ardından Sağ Yanı Üzerine Yatış Bâbı  
   
-1169) Âişe (Ra): (Sav) Allah Rasûlü Hz.leri sabah namazının iki rekat ratibe sünnetini kıldığı zaman sağ yanı üzerine yatardı, demiştir.
+1169) Âişe (Ra): (Sav) Allah Rasûlü Hz.leri sabah namazının iki rekat ratibe sünnetini kıldığı zaman sağ yanı üzerine yatardı, demiştir. ^buhari-1169
 
 ### 24- Sabah Namazının İki Rekat Sünnetinin Ardından Yatmayarak Konuşan Kimse Bâbı  
   
-1170) Bize Sufyan ibn Uyeyne tahdis edip şöyle dedi: Bana Salim Ebu Nadr, Ebu Seleme'den o da Âişe'den (Ra) tahdis etti ki: (Sav) Allah Rasûlü Hz.leri, sabah namazının iki rekat ratibesini kıldığı zaman eğer ben uyanık bulunursam benimle konuşurdu. Uyanık değilsem namaza çağrılıncaya kadar yan üstü yatardı (demiştir).
+1170) Bize Sufyan ibn Uyeyne tahdis edip şöyle dedi: Bana Salim Ebu Nadr, Ebu Seleme'den o da Âişe'den (Ra) tahdis etti ki: (Sav) Allah Rasûlü Hz.leri, sabah namazının iki rekat ratibesini kıldığı zaman eğer ben uyanık bulunursam benimle konuşurdu. Uyanık değilsem namaza çağrılıncaya kadar yan üstü yatardı (demiştir). ^buhari-1170
 
 ### 25- Nafile Namazda İkişer Rekat İkişer Rekat Kılınacağı Hususunda Gelen Hadisler Bâbı 
 
@@ -200,39 +200,39 @@ Yahya ibn Said el-Ensari de: "Memleketimizin eriştiğimiz fakihleri, gündüz n
   
 	  Cabir: İstihare eden kimse duanın "bu iş" lafzı yerinde, kendi hacetini adıyla anar, demiştir. Duanın tercümesi şöyledir: "**Ya Allah, bildiğin için Senden hayırlısını dilerim. Gücün yetiştiği için Sen'den beni kudretlendirmeni dilerim. Hayırlı olanın beyan ve takdirini Senin o büyük fazlından isterim çünkü Senin** (her şeye) **gücün yeter, benim ise gücüm yetmez. Sen** (her şeyi) **bilirsin, ben ise bilmem ve Sen bütün gaybları pek yakından bilensin! Ya Allah, şu işin dinim, hayatım ve ahiretim** -yahut şöyle der- **Dünya ve ahiret işim hususunda bana hayırlı olduğunu bilmekteysen** (yani Senin ilminde böyle olduğu kararlaşmış ise) **bunu bana mukadder kıl ve bunu bana kolaylaştır. Sonra müyesser kıldığın bu işte bana bereketler ihsan eyle!**  
   
-	  **Ve şu işin dinim, yaşayışım ve ahiretim** -yahut şöyle der:- **Dünya ve ahiret işim hususunda benim için bir şer olduğunu bilmekteysen bu işi benden, beni de o işten çevir ve hayır her nerede ise onu benim için makdur** (ve müyesser) **kıl. Sonra da beni bu hayırdan razı kıl."**
+	  **Ve şu işin dinim, yaşayışım ve ahiretim** -yahut şöyle der:- **Dünya ve ahiret işim hususunda benim için bir şer olduğunu bilmekteysen bu işi benden, beni de o işten çevir ve hayır her nerede ise onu benim için makdur** (ve müyesser) **kıl. Sonra da beni bu hayırdan razı kıl."** ^buhari-1171
 
-1172) Ez-Zuraki, Ebu Katade'den şöyle dediğini işitmiştir: (Sav) Allah Rasûlü Hz.leri: **"Sizin biriniz mescide girdiği zaman iki rekat namaz kılmadıkça oturmasın."** buyurdu.
+1172) Ez-Zuraki, Ebu Katade'den şöyle dediğini işitmiştir: (Sav) Allah Rasûlü Hz.leri: **"Sizin biriniz mescide girdiği zaman iki rekat namaz kılmadıkça oturmasın."** buyurdu. ^buhari-1172
 
-1173) Enes ibn Malik: (Sav) Allah Rasûlü Hz.leri bize iki rekat namaz kıldırdı, sonra döndü, demiştir.
+1173) Enes ibn Malik: (Sav) Allah Rasûlü Hz.leri bize iki rekat namaz kıldırdı, sonra döndü, demiştir. ^buhari-1173
 
-1174) Abdullah ibn Ömer (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.leri ile birlikte öğle namazından önce iki rekat, öğle namazının ardından iki rekat, Cuma namazının ardından iki rekat, akşam namazının ardından iki rekat, yatsı namazının ardından da iki rekat namaz kıldım.
+1174) Abdullah ibn Ömer (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.leri ile birlikte öğle namazından önce iki rekat, öğle namazının ardından iki rekat, Cuma namazının ardından iki rekat, akşam namazının ardından iki rekat, yatsı namazının ardından da iki rekat namaz kıldım. ^buhari-1174
 
-1175) Bize Amr ibn Dinar haber verip şöyle dedi: Ben Cabir ibn Abdullah'tan (Ra) işittim, o şöyle dedi: (Sav) Allah Rasûlü Hz.leri hutbe yaparken: **"Herhangi biriniz imam hutbe yaparken yahut hutbeye çıkmışken mescide geldiği zaman hemen iki rekat namaz kılsın."** buyurdu.
+1175) Bize Amr ibn Dinar haber verip şöyle dedi: Ben Cabir ibn Abdullah'tan (Ra) işittim, o şöyle dedi: (Sav) Allah Rasûlü Hz.leri hutbe yaparken: **"Herhangi biriniz imam hutbe yaparken yahut hutbeye çıkmışken mescide geldiği zaman hemen iki rekat namaz kılsın."** buyurdu. ^buhari-1175
 
 1176) Ben Mücahid'den şöyle derken işittim: İbn Ömer'e kendi evinde gelindi de ona: "Şu (Sav) Allah Rasûlü Hz.leri Kabe'ye girmiştir (orada namaz kıldı mı)?" denildi. İbn Ömer şöyle dedi: Hemen ben geldim ve (Sav) Allah Rasûlü Hz.lerini Kabe'den çıkmış buldum. Bilal'i de Kabe'nin kapısı yanında ayakta buldum. "Ya Bilal, (Sav) Allah Rasûlü Hz.leri Kabe'nin içinde namaz kıldı mı?" diye sordum. Bilal: "Evet (kıldı)." dedi. Ben: "Nerede kıldı?" dedim. Bilal: "Şu iki direğin arasında kıldı. Sonra dışarı çıktı ve Kabe'nin yüzüne doğru (yani Makam-ı İbrahim'de) iki rekat kıldı." dedi.  
   
 	  Ebu Abdullah el-Buhari şöyle dedi: Ebu Hureyre (Ra): "(Sav) Allah Rasûlü Hz.leri bana iki rekat kuşluk namazını vasiyet etti." demiştir.  
   
-	  Ve İtban ibn Malik de şöyle demiştir: Güneş yükseldikten sonra (Sav) Allah Rasûlü Hz.leri ile Ebu Bekir bana geldiler. Biz (Sav) Allah Rasûlü Hz.lerinin arkasında saf olduk. O da bize iki rekat namaz kıldırdı.
+	  Ve İtban ibn Malik de şöyle demiştir: Güneş yükseldikten sonra (Sav) Allah Rasûlü Hz.leri ile Ebu Bekir bana geldiler. Biz (Sav) Allah Rasûlü Hz.lerinin arkasında saf olduk. O da bize iki rekat namaz kıldırdı. ^buhari-1176
 
 ### 26- Sabah Namazının İki Rekat Sünneti Ardından Konuşmak Bâbı  
   
 1177) Bize Ali ibn Abdullah tahdis edip şöyle dedi: Bize Sufyan (ibn Uyeyne) tahdis etti. Ebu Nadr Salim şöyle dedi: Bana babam (Ebu Umeyye), Ebu Seleme'den o da Âişe'den (Ra) tahdis etti ki (Âişe şöyle demiştir): (Sav) Allah Rasûlü Hz.leri sabah namazının iki rekat sünnetini kılardı. Eğer ben uyanık bulunmuşsam benimle konuşur, uyanık değilsem yan üstü uzanırdı.  
   
-	  (Ali ibn Abdullah dedi ki:) Ben, Sufyan ibn Uyeyne'ye: "Bazıları (İmam Malik'i kastediyor) bunu sabah namazının (farzından önceki) iki rekatı diye rivayet ediyorlar?" dedim. Sufyan ibn Uyeyne: "Bu odur." dedi.
+	  (Ali ibn Abdullah dedi ki:) Ben, Sufyan ibn Uyeyne'ye: "Bazıları (İmam Malik'i kastediyor) bunu sabah namazının (farzından önceki) iki rekatı diye rivayet ediyorlar?" dedim. Sufyan ibn Uyeyne: "Bu odur." dedi. ^buhari-1177
 
 ### 27- Sabah Namazının İki Rekat Sünnetini Muhafaza Etmek ve Bu İki Rekata Tatavvu Adını Veren Kimse Bâbı  
   
-1178) Bize İbn Cureyc, Ata'dan o da Ubeyd ibn Umeyr'den o da Âişe'den (Ra) tahdis etti. Âişe (Ra): "(Sav) Allah Rasûlü Hz.leri nafilelerden hiçbir namaz üzerinde sabah namazının iki rekat sünneti derecesinde şiddetli muhafaza edici değildi." demiştir.
+1178) Bize İbn Cureyc, Ata'dan o da Ubeyd ibn Umeyr'den o da Âişe'den (Ra) tahdis etti. Âişe (Ra): "(Sav) Allah Rasûlü Hz.leri nafilelerden hiçbir namaz üzerinde sabah namazının iki rekat sünneti derecesinde şiddetli muhafaza edici değildi." demiştir. ^buhari-1178
 
 ### 28- Sabah Namazının İki Rekat Sünnetinde Ne Miktar Okunacak Bâbı  
   
-1179) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri geceleyin on üç rekat namaz kılardı. Sonra sabah ezanını işitince hafif iki rekat da sabah namazının sünnetini kılardı.
+1179) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri geceleyin on üç rekat namaz kılardı. Sonra sabah ezanını işitince hafif iki rekat da sabah namazının sünnetini kılardı. ^buhari-1179
 
 1180) Bize Şu'be, Muhammed ibn Abdurrahman'dan o da halası Amre bint Abdurrahman'dan o da Âişe'den (Ra) tahdis etti. Âişe: "(Sav) Allah Rasûlü Hz.leri... idi." demiştir.  
   
-	  H (tahvil) ve yine bize Ahmed ibn Yunus tahdis edip şöyle dedi: Bize Zuheyr tahdis edip şöyle dedi: Bize Yahya, -ki o ibnu Said'dir- Muhammed ibn Abdurrahman'dan o da Amre'den o da Âişe'den (Ra) tahdis etti. Âişe şöyle demiştir: (Sav) Allah Rasûlü Hz.leri sabah namazı farzından evvelki o iki rekat sünneti o kadar hafifletirdi ki ben (gönlümden) kati olarak: "Acaba (Sav) Allah Rasûlü Hz.leri Fâtiha suresini okudu mu?" derdim.
+	  H (tahvil) ve yine bize Ahmed ibn Yunus tahdis edip şöyle dedi: Bize Zuheyr tahdis edip şöyle dedi: Bize Yahya, -ki o ibnu Said'dir- Muhammed ibn Abdurrahman'dan o da Amre'den o da Âişe'den (Ra) tahdis etti. Âişe şöyle demiştir: (Sav) Allah Rasûlü Hz.leri sabah namazı farzından evvelki o iki rekat sünneti o kadar hafifletirdi ki ben (gönlümden) kati olarak: "Acaba (Sav) Allah Rasûlü Hz.leri Fâtiha suresini okudu mu?" derdim. ^buhari-1180
 
 ### 29- Farz Namaz Ardında Tatavvu Kılmak Bâbı  
   
@@ -240,61 +240,61 @@ Yahya ibn Said el-Ensari de: "Memleketimizin eriştiğimiz fakihleri, gündüz n
   
 	  İbn Ebu Zinad, Musa ibn Ukbe'den o da Nafi'den (olan rivayetinde İbn Ömer'in) "Yatsıdan sonraki iki rekatı ailesi içinde" dediğini söylemiştir.  
   
-	  Bu hadisi Nafi'den rivayet etmekte Kesir ibn Ferkad ile Eyüp es-Sahtıyani, Ubeydullah'a mütabaat etmişlerdir.
+	  Bu hadisi Nafi'den rivayet etmekte Kesir ibn Ferkad ile Eyüp es-Sahtıyani, Ubeydullah'a mütabaat etmişlerdir. ^buhari-1181
 
 1182) Ve Abdullah ibn Ömer şöyle demiştir: Bana kız kardeşim Hafsa şöyle tahdis etti: (Sav) Allah Rasûlü Hz.leri fecrin tulu etmesi ardından hafif iki rekat kılardı. İbn Ömer dedi ki: Çünkü bu sabah namazından evvelki zaman benim (Sav) Allah Rasûlü Hz.lerinin yanına giremediğim bir saatti.  
   
 	  Ve bu hadisi Nafi'den rivayet etmekte Kesir ibn Ferkad ile Eyüp es-Sahtıyani, Ubeydullah'a mütabaat ettiler.  
   
-	  Ve İbn Ebu Zinad, Musa ibn Ukbe'den o da Nafi'den olmak üzere İbn Ömer'in "Yatsıdan sonraki ailesi içindeydi." dediğini nakletmiştir.
+	  Ve İbn Ebu Zinad, Musa ibn Ukbe'den o da Nafi'den olmak üzere İbn Ömer'in "Yatsıdan sonraki ailesi içindeydi." dediğini nakletmiştir. ^buhari-1182
 
 ### 30- Farz Namaz Ardında Tatavvu Kılmayan Kimse Bâbı  
   
-1183) Amr ibn Dinar şöyle demiştir: Ben Ebu Şasa Cabir ibn Zeyd'den işittim, şöyle dedi: Ben İbn Abbas'tan (Ra) işittim: Ben (Sav) Allah Rasûlü Hz.leri ile beraber öğle ile ikindiyi cemederek sekiz rekat, akşam ile yatsıyı da cemederek yedi rekat kıldım, dedi. (Amr ibn Dinar dedi ki:) Ben de: Ya Ebu Şasa. Öyle zannediyorum ki (Sav) Allah Rasûlü Hz.leri öğle namazını geri bıraktı. İkindiyi ilk vaktinde acele etti ve yine böyle, akşam namazını geri bıraktı; yatsıyı ilk vaktinde acele kıldı (da bu suretle namazları cemetmişti), dedim. Ebu Şasa: Ben de öyle sanıyorum, dedi.
+1183) Amr ibn Dinar şöyle demiştir: Ben Ebu Şasa Cabir ibn Zeyd'den işittim, şöyle dedi: Ben İbn Abbas'tan (Ra) işittim: Ben (Sav) Allah Rasûlü Hz.leri ile beraber öğle ile ikindiyi cemederek sekiz rekat, akşam ile yatsıyı da cemederek yedi rekat kıldım, dedi. (Amr ibn Dinar dedi ki:) Ben de: Ya Ebu Şasa. Öyle zannediyorum ki (Sav) Allah Rasûlü Hz.leri öğle namazını geri bıraktı. İkindiyi ilk vaktinde acele etti ve yine böyle, akşam namazını geri bıraktı; yatsıyı ilk vaktinde acele kıldı (da bu suretle namazları cemetmişti), dedim. Ebu Şasa: Ben de öyle sanıyorum, dedi. ^buhari-1183
 
 ### 31- Seferde Duha (Kuşluk) Namazı Bâbı  
   
-1184) Muvarrık şöyle demiştir: Ben İbn Ömer'e: Duha namazını kılar mısın? Diye sordum. Hayır kılmam, dedi. Ömer kılar mıydı? Dedim. Hayır (kılmazdı), dedi. Ebu Bekir kılar mıydı? Dedim. Hayır, diye cevap verdi. (Sav) Allah Rasûlü Hz.leri kılar mıydı? Dedim. (Sav) Allah Rasûlü Hz.lerinin kılıp kılmadığını bilmiyorum, dedi.
+1184) Muvarrık şöyle demiştir: Ben İbn Ömer'e: Duha namazını kılar mısın? Diye sordum. Hayır kılmam, dedi. Ömer kılar mıydı? Dedim. Hayır (kılmazdı), dedi. Ebu Bekir kılar mıydı? Dedim. Hayır, diye cevap verdi. (Sav) Allah Rasûlü Hz.leri kılar mıydı? Dedim. (Sav) Allah Rasûlü Hz.lerinin kılıp kılmadığını bilmiyorum, dedi. ^buhari-1184
 
 1185) Bize Amr ibn Murre tahdis edip şöyle dedi: Ben Abdurrahman ibn Ebu Leyla'dan işittim, şöyle diyordu: Bize sahabiler arasında Ümmü Hani'den başka hiçbir kimse (Sav) Allah Rasûlü Hz.lerini duha namazı kılarken gördüğünü tahdis etmedi.  
   
-	  Ümmü Hani: (Sav) Allah Rasûlü Hz.leri, Mekke fethi günü Ümmü Hani'nin evine girdi, yıkandı ve sekiz rekat namaz kıldı. Ben bu namazdan daha hafif bir namaz asla görmedim. Şu kadar ki (Sav) Allah Rasûlü Hz.leri rükuyu ve sücudu tamamlıyordu, demiştir.
+	  Ümmü Hani: (Sav) Allah Rasûlü Hz.leri, Mekke fethi günü Ümmü Hani'nin evine girdi, yıkandı ve sekiz rekat namaz kıldı. Ben bu namazdan daha hafif bir namaz asla görmedim. Şu kadar ki (Sav) Allah Rasûlü Hz.leri rükuyu ve sücudu tamamlıyordu, demiştir. ^buhari-1185
 
 ### 32- Duha Namazını Kılmayan ve Bu Kılmamayı Mübah Gören Kimse Bâbı  
   
-1186) Bize Adem tahdis edip şöyle dedi: Bize İbn Ebu Zi'b, ez-Zuhri'den o da Urve'den o da Âişe'den (Ra) tahdis etti. Âişe (Ra): Ben (Sav) Allah Rasûlü Hz.lerinin duha nafilesini kıldığını görmedim ancak ben o namazı kılıyorum, demiştir.
+1186) Bize Adem tahdis edip şöyle dedi: Bize İbn Ebu Zi'b, ez-Zuhri'den o da Urve'den o da Âişe'den (Ra) tahdis etti. Âişe (Ra): Ben (Sav) Allah Rasûlü Hz.lerinin duha nafilesini kıldığını görmedim ancak ben o namazı kılıyorum, demiştir. ^buhari-1186
 
 ### 33- Hazarda Duha Namazı Bâbı  
   
 Bunu İtban ibn Malik, (Sav) Allah Rasûlü Hz.lerinden söyledi.  
   
-1187) Ebu Hureyre (Ra) şöyle demiştir: Halilim (yani kalbi dostum olan (Sav) Allah Rasûlü Hz.leri) bana üç şey vasiyet etti, bunları ölünceye kadar terk etmem: Her aydan üç gün oruç tutmak, duha namazı kılmak, vitir namazını kılıp da uyumak.
+1187) Ebu Hureyre (Ra) şöyle demiştir: Halilim (yani kalbi dostum olan (Sav) Allah Rasûlü Hz.leri) bana üç şey vasiyet etti, bunları ölünceye kadar terk etmem: Her aydan üç gün oruç tutmak, duha namazı kılmak, vitir namazını kılıp da uyumak. ^buhari-1187
 
 1188) Enes ibn Sirin şöyle demiştir: Ben Enes ibn Malik el-Ensari'den işittim, şöyle dedi: Ensar'dan iri vücutlu şişman bir kimse (Sav) Allah Rasûlü Hz.lerine (geldi ve O'na) hitaben: "Ya Rasûlallah! Ben seninle beraber namaz kılmaya muktedir olamıyorum." dedi. Akabinde (Sav) Allah Rasûlü Hz.leri için bir yemek yaptı ve (Sav) Allah Rasûlü Hz.lerini evine davet etti. (Sav) Allah Rasûlü Hz.leri ona gidince bir hasırın bir tarafını (yani bir yüzünü) (Sav) Allah Rasûlü Hz.leri için su serpip yumuşattı. (Sav) Allah Rasûlü Hz.leri de onun üzerinde iki rekat (nafile) namaz kıldı.  
   
-	  Ve Carud oğlu filan oğlu falan (yani Abdulhamid ibn Munzir), Enes'e hitaben: "(Sav) Allah Rasûlü Hz.leri duha namazı kılar mıydı?" diye sordu. Enes de: "O günden başka bir günde böyle bir namaz kıldığını görmedim." diye cevap vermiştir.
+	  Ve Carud oğlu filan oğlu falan (yani Abdulhamid ibn Munzir), Enes'e hitaben: "(Sav) Allah Rasûlü Hz.leri duha namazı kılar mıydı?" diye sordu. Enes de: "O günden başka bir günde böyle bir namaz kıldığını görmedim." diye cevap vermiştir. ^buhari-1188
 
 ### 34- Bâb: Öğlenin Farzından Önce İki Rekat  
   
-1189) İbn Ömer (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.lerinden on rekat namaz belledim: Öğle farzından evvel iki rekat, öğlenin ardından iki rekat, akşam namazından sonra da (Sav) Allah Rasûlü Hz.lerinin evinde iki rekat, yatsı namazından sonra yine (Sav) Allah Rasûlü Hz.lerinin evinde iki rekat, sabah namazından önce iki rekat sünnet namaz. Sabah namazından önceki zaman (Sav) Allah Rasûlü Hz.lerinin yanına girilmeyecek bir saatti.
+1189) İbn Ömer (Ra) şöyle demiştir: Ben (Sav) Allah Rasûlü Hz.lerinden on rekat namaz belledim: Öğle farzından evvel iki rekat, öğlenin ardından iki rekat, akşam namazından sonra da (Sav) Allah Rasûlü Hz.lerinin evinde iki rekat, yatsı namazından sonra yine (Sav) Allah Rasûlü Hz.lerinin evinde iki rekat, sabah namazından önce iki rekat sünnet namaz. Sabah namazından önceki zaman (Sav) Allah Rasûlü Hz.lerinin yanına girilmeyecek bir saatti. ^buhari-1189
 
-1190) Hafsa bana dedi ki: Müezzin ezan okuyup fecir tulu ettiğinde de (Sav) Allah Rasûlü Hz.leri iki rekat (ratibe sünneti) kılardı.
+1190) Hafsa bana dedi ki: Müezzin ezan okuyup fecir tulu ettiğinde de (Sav) Allah Rasûlü Hz.leri iki rekat (ratibe sünneti) kılardı. ^buhari-1190
 
 1191) Âişe (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri öğle farzından önce dört rekat, sabah farzından evvel de iki rekat (tatavvu) kılmayı terk etmezdi.  
   
-	  Bu hadisi Şu'be'den rivayet etmekte İbn Ebu Adiyy ile Amr ibn Merzuk, Yahya ibn Saad'e mütabaat ettiler.
+	  Bu hadisi Şu'be'den rivayet etmekte İbn Ebu Adiyy ile Amr ibn Merzuk, Yahya ibn Saad'e mütabaat ettiler. ^buhari-1191
 
 ### 35- Akşam Namazı Farzından Önce Namaz Bâbı  
   
-1192) Abdullah ibn Bureyde şöyle demiştir: Bana Abdullah el-Muzeni tahdis etti: (Sav) Allah Rasûlü Hz.leri: **"Akşam namazından evvel** (iki rekat nafile) **namaz kılınız."** buyurdu. Üçüncüsünde, insanların bu namazı, devam etmesi lazım bir ibadet edinmelerinden hoşlanmayarak: **"**(Bu namaz) **isteyen içindir."** buyurdu.
+1192) Abdullah ibn Bureyde şöyle demiştir: Bana Abdullah el-Muzeni tahdis etti: (Sav) Allah Rasûlü Hz.leri: **"Akşam namazından evvel** (iki rekat nafile) **namaz kılınız."** buyurdu. Üçüncüsünde, insanların bu namazı, devam etmesi lazım bir ibadet edinmelerinden hoşlanmayarak: **"**(Bu namaz) **isteyen içindir."** buyurdu. ^buhari-1192
 
-1193) Ben, Mersed ibn Abdullah el-Yezeni'den işittim; o şöyle dedi: Ben Ukbe ibn Amir el-Cuheni'ye geldim ve: Ebu Temim'in işinden seni hayrete düşüreyim mi? Ebu Temim, akşam namazından evvel iki rekat namaz kılıyor, dedim. Bunun üzerine Ukbe: Biz (Sav) Allah Rasûlü Hz.leri zamanında bunu kılardık, dedi. Şimdi seni, bunu kılmaktan alıkoyan nedir? Dedim. İşle güçle uğraşmak, diye cevap verdi.
+1193) Ben, Mersed ibn Abdullah el-Yezeni'den işittim; o şöyle dedi: Ben Ukbe ibn Amir el-Cuheni'ye geldim ve: Ebu Temim'in işinden seni hayrete düşüreyim mi? Ebu Temim, akşam namazından evvel iki rekat namaz kılıyor, dedim. Bunun üzerine Ukbe: Biz (Sav) Allah Rasûlü Hz.leri zamanında bunu kılardık, dedi. Şimdi seni, bunu kılmaktan alıkoyan nedir? Dedim. İşle güçle uğraşmak, diye cevap verdi. ^buhari-1193
 
 ### 36- Nafile Namazların Cemaatle Kılınışı Bâbı  
   
 Bunu Enes ibn Malik ile Âişe (Ra), (Sav) Allah Rasûlü Hz.lerinden zikrettiler.  
   
-1194) İbn Şihab şöyle demiştir: Bana Mahmud ibn Rabi el-Ensari haber verdi ki o, (Sav) Allah Rasûlü Hz.lerini akledip hatırlamış ve kendi yurtlarında bulunan bir kuyudan (Sav) Allah Rasûlü Hz.lerinin ağzına su alıp kendi yüzüne doğru su püskürttüğünü de hatırlamıştır.
+1194) İbn Şihab şöyle demiştir: Bana Mahmud ibn Rabi el-Ensari haber verdi ki o, (Sav) Allah Rasûlü Hz.lerini akledip hatırlamış ve kendi yurtlarında bulunan bir kuyudan (Sav) Allah Rasûlü Hz.lerinin ağzına su alıp kendi yüzüne doğru su püskürttüğünü de hatırlamıştır. ^buhari-1194
 
 1195) İşte bu Mahmud, İtban ibn Malik el-Ensari'den (Ra) işitmiştir. İtban Bedir'de (Sav) Allah Rasûlü Hz.lerinin maiyetinde hazır bulunmuşlardandı. İtban şöyle diyordu: Ben Salimoğullarında kendi cemaatime namaz kıldırırdım. Onlarla benim aramda bir dere vardı ki yağmurlar geldiği zaman aramıza perde oluyor ve onların mescidi tarafına geçmek bana meşakkat veriyordu. (Sav) Allah Rasûlü Hz.lerine geldim ve O'na şöyle dedim: Ben gözümden hoşnut değilim. Benimle cemaatim arasında bulunan dere, yağmurlar geldiği zaman akıyor ve bana o dereyi geçmek meşakkatli oluyor. Arzu ettim ki Sen gelesin de evimden bir yerde namaz kıldırsan, ben de orayı namazgah edinsem! (Sav) Allah Rasûlü Hz.leri: **"Bunu yapacağım."** dedi.  
   
@@ -304,11 +304,11 @@ Bunu Enes ibn Malik ile Âişe (Ra), (Sav) Allah Rasûlü Hz.lerinden zikrettile
   
 	  Mahmud şöyle demiştir: Ben bu kıssayı bir topluluğa söyledim. İçlerinde (Sav) Allah Rasûlü Hz.lerinin sahibi Ebu Eyüp de vardı. Ebu Eyüp'ün vefat etmiş olduğu Rum diyarındaki bu gazvede, Muaviye'nin oğlu Yezid onların üzerinde kumandan bulunuyordu. Ebu Eyüp, benim sözümü reddetti ve: Vallahi (Sav) Allah Rasûlü Hz.lerinin senin söylediğini söylemiş olduğunu zannetmem, dedi. Bu söz bana çok ağır geldi ve: Eğer Allah bana selamet verir de bu gazvemden salimen dönersem ve İtban ibn Malik'i kendi kavminin mescidinde hala hayatta bulursam bu hadisi kendisine tekrar sormam üzerimde Allah hakkı olsun, demeye başladım.  
   
-	  Nihayet Bizans seferinden döndüm. Hac yahut umre niyetiyle ihrama girdim. Sonra yürüdüm ve Medine'ye geldim. Salimoğulları yurduna vardım. Baktım ki İtban gözleri görmez, çok yaşlı bir ihtiyar hala kavmine namaz kıldırıyor. Namazdan selam verince ben de ona selam verdim ve benim kim olduğumu kendisine haber verdim. Akabinde ona bu hadisi sordum. Bunun üzerine İtban bana bu hadisi, ilk defa tahdis ettiği gibi tekrar tahdis etti.
+	  Nihayet Bizans seferinden döndüm. Hac yahut umre niyetiyle ihrama girdim. Sonra yürüdüm ve Medine'ye geldim. Salimoğulları yurduna vardım. Baktım ki İtban gözleri görmez, çok yaşlı bir ihtiyar hala kavmine namaz kıldırıyor. Namazdan selam verince ben de ona selam verdim ve benim kim olduğumu kendisine haber verdim. Akabinde ona bu hadisi sordum. Bunun üzerine İtban bana bu hadisi, ilk defa tahdis ettiği gibi tekrar tahdis etti. ^buhari-1195
 
 ### 37- Evde Nafile Namazı Kılmak Bâbı  
   
-1196) Bize Vuheyb ibn Halid, Eyüp es-Sahtıyani'den ve Ubeydullah'tan onlar da Nafi'den o da İbn Ömer'den (Ra) tahdis etti. İbn Ömer (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"Namazınızdan bir kısmını evlerinizde kılınız ve evlerinizi kabirler edinmeyiniz."** buyurdu.
+1196) Bize Vuheyb ibn Halid, Eyüp es-Sahtıyani'den ve Ubeydullah'tan onlar da Nafi'den o da İbn Ömer'den (Ra) tahdis etti. İbn Ömer (Ra) şöyle demiştir: (Sav) Allah Rasûlü Hz.leri: **"Namazınızdan bir kısmını evlerinizde kılınız ve evlerinizi kabirler edinmeyiniz."** buyurdu. ^buhari-1196
 
 
 
