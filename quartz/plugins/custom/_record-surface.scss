@@ -1,0 +1,6 @@
+// Shared appearance for ayet cards and the temporary hadis hover surface.
+@mixin card {
+  border: 1px solid var(--lightgray);
+  border-radius: 0.4rem;
+  background: color-mix(in srgb, var(--light) 96%, var(--secondary));
+}

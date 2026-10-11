@@ -1,13 +1,25 @@
 export type CopyNode = { tag?: string; text?: string; start?: number; children?: CopyNode[] }
 
+export function quotedText(text: string, source: string): string {
+  return source ? `"${text}" (${source})` : text
+}
+
 export function plainText(node: CopyNode): string {
   if (node.text !== undefined) return node.text.replace(/\u00a0/g, " ")
   const children = node.children ?? []
   if (node.tag === "br") return "\n"
   if (node.tag === "ol" || node.tag === "ul") {
-    return "\n" + children.filter((child) => child.tag === "li").map((child, index) =>
-      `${node.tag === "ol" ? `${(node.start ?? 1) + index})` : "•"} ${plainText(child).trim()}`,
-    ).join("\n") + "\n"
+    return (
+      "\n" +
+      children
+        .filter((child) => child.tag === "li")
+        .map(
+          (child, index) =>
+            `${node.tag === "ol" ? `${(node.start ?? 1) + index})` : "•"} ${plainText(child).trim()}`,
+        )
+        .join("\n") +
+      "\n"
+    )
   }
   const content = children.map(plainText).join("")
   return /^(p|div|li|blockquote|h[1-6])$/.test(node.tag ?? "") ? content + "\n\n" : content

@@ -1,3 +1,5 @@
+@use "../record-surface" as record;
+
 // The card treatment lives here; removing its border/background does not alter
 // verse anchors, content, or reading controls.
 .quran-toolbar {
@@ -70,13 +72,11 @@ ol.quran-verses {
 }
 
 .quran-verse {
+  @include record.card;
   box-sizing: border-box;
   min-width: 0;
   max-width: 100%;
-  border: 1px solid var(--lightgray);
-  border-radius: 0.4rem;
   padding: 0.5rem 0.85rem;
-  background: color-mix(in srgb, var(--light) 96%, var(--secondary));
   scroll-margin-top: 5rem;
 
   &[data-quran-target="true"] {
