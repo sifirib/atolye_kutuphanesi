@@ -1,4 +1,5 @@
 import { resolveSiteUrl } from "../site-url"
+import { navigateToBlock } from "../navigate-to-block"
 import { loadQuranCatalog } from "../quran/catalog-client"
 import { loadBuhariCatalog } from "../buhari/catalog-client"
 
@@ -119,22 +120,7 @@ export function setupVerseJump(host: HTMLElement, panel: HTMLElement, beforeOpen
       const url = resolveSiteUrl(slug)
       url.hash = hadis ? `buhari-${number}` : String(number)
       close()
-      if (window.spaNavigate) {
-        const rootStyle = document.documentElement.style
-        const previousScroll = rootStyle.scrollBehavior
-        // Avoid leaving Quartz's initial smooth scroll running while the
-        // final target position is corrected after the page transition.
-        rootStyle.scrollBehavior = "auto"
-        try { await window.spaNavigate(url) }
-        finally { rootStyle.scrollBehavior = previousScroll }
-        // Quartz scrolls before nav listeners apply reading preferences and
-        // the new page's fonts finish loading. Align once after that layout.
-        await new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
-        await document.fonts?.ready
-        if (location.href === url.href) {
-          document.getElementById(url.hash.slice(1))?.scrollIntoView({ block: "start", behavior: "instant" })
-        }
-      } else window.location.assign(url)
+      await navigateToBlock(url)
     } catch {
       if (current === generation && form.isConnected) {
         const message = "Liste yüklenemedi. Ok düğmesiyle tekrar dene."
