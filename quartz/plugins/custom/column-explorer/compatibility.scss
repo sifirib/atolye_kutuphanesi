@@ -36,7 +36,7 @@
       appearance: none;
       box-sizing: border-box;
       flex: 0 0 auto;
-      width: calc(3ch + 0.7rem);
+      width: calc(var(--cx-number-width, 3ch) + 0.7rem);
       min-width: 0;
       height: 26px;
       margin: 0;

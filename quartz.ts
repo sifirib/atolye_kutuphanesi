@@ -1,5 +1,7 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { Quran } from "./quartz/plugins/custom/quran"
+import { BuhariCatalog } from "./quartz/plugins/custom/buhari/catalog"
+import { BuhariAnchors } from "./quartz/plugins/custom/buhari/anchors"
 import { QuranCatalog } from "./quartz/plugins/custom/quran/catalog"
 import { withColumnExplorer } from "./quartz/plugins/custom/column-explorer"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes"
@@ -21,12 +23,13 @@ import { withPageEdit } from "./quartz/plugins/custom/page-edit"
 const config = await loadQuartzConfig()
 config.plugins.transformers.push(
   Quran(),
+  BuhariAnchors(),
   SourceCopy(),
   Permalinks(),
   ReadingFonts(),
   ReadingWindows(),
 )
-config.plugins.emitters.push(QuranCatalog(), DailyTickerData())
+config.plugins.emitters.push(QuranCatalog(), BuhariCatalog(), DailyTickerData())
 config.plugins.pageTypes = config.plugins.pageTypes?.map((page) =>
   withListLabels(
     page.name === "FolderPage"

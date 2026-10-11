@@ -1,0 +1,4 @@
+// Leave the record's beginning visible beneath the optional fixed ticker.
+.page article .markdown-rendered li[id^="buhari-"] {
+  scroll-margin-block-start: calc(var(--library-ticker-height, 0px) + 1rem);
+}

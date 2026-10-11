@@ -39,6 +39,7 @@ function mount() {
   const host = document.querySelector<HTMLElement>(".cx-explorer")
   if (!host) return
   const surahNumbers: Record<string, number> = JSON.parse(host.dataset.cxSurahs ?? "{}")
+  const buhariFolder = host.dataset.cxBuhari
   const columns = host.querySelector<HTMLElement>(".cx-columns")!
   const rootBody = host.querySelector<HTMLElement>(".cx-root-body")!
   const searchInput = host.querySelector<HTMLInputElement>(".cx-search-input")!
@@ -212,14 +213,16 @@ function mount() {
     button.append(svg)
     updatePin(button)
     entry.append(makeRow(node, path), button)
-    if (!node.folder && surahNumbers[node.id] !== undefined) {
+    const hadisJump = node.folder && node.id === buhariFolder
+    if (hadisJump || (!node.folder && surahNumbers[node.id] !== undefined)) {
       const jump = document.createElement("button")
       jump.type = "button"
       jump.className = "cx-verse-open"
-      jump.dataset.cxVerse = node.id
+      if (hadisJump) jump.dataset.cxHadis = "true"
+      else jump.dataset.cxVerse = node.id
       jump.dataset.cxVerseName = node.name
       jump.textContent = "#"
-      jump.title = `${node.name}: ayete git`
+      jump.title = `${node.name}: ${hadisJump ? "hadise" : "ayete"} git`
       jump.setAttribute("aria-label", jump.title)
       jump.setAttribute("aria-expanded", "false")
       entry.insertBefore(jump, button)

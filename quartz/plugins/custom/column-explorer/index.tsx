@@ -2,6 +2,7 @@ import type { FullPageLayout } from "../../../cfg"
 import type { QuartzComponent, QuartzComponentConstructor } from "../../../components/types"
 import { componentRegistry } from "../../../components/registry"
 import { concatenateResources } from "../../../util/resources"
+import { isBuhariSource } from "../buhari/catalog-data"
 import style from "./column-explorer.scss"
 // @ts-ignore -- Quartz imports inline scripts as bundled source text.
 import script from "./column-explorer.inline"
@@ -14,6 +15,8 @@ type Layout = {
 function columnExplorer(Original: QuartzComponent): QuartzComponent {
   const Explorer: QuartzComponent = (props) => (
     <div class="cx-explorer" data-cx-popovers={String(props.cfg.enablePopovers)}
+      data-cx-buhari={props.allFiles.find((file) => isBuhariSource(file.relativePath))
+        ?.slug?.split("/").slice(0, -1).join("/")}
       data-cx-surahs={JSON.stringify(Object.fromEntries(props.allFiles
         .filter((file) => file.frontmatter?.type === "Kur'an-ı Kerim"
           && typeof file.frontmatter.sure === "number"

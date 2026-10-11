@@ -1,7 +1,8 @@
-import { resolveBasePath } from "@quartz-community/utils/path"
+import { resolveSiteUrl } from "../site-url"
 import { loadQuranCatalog } from "../quran/catalog-client"
+import { loadBuhariCatalog } from "../buhari/catalog-client"
 
-// One movable form per Explorer; no listeners or requests per surah row.
+// One movable form per Explorer, shared by surahs and the Buhari folder.
 export function setupVerseJump(host: HTMLElement, panel: HTMLElement, beforeOpen: () => void) {
   const events = new AbortController()
   const { signal } = events
@@ -47,16 +48,20 @@ export function setupVerseJump(host: HTMLElement, panel: HTMLElement, beforeOpen
 
   document.addEventListener("click", (event) => {
     if (!(event.target instanceof Element)) return
-    const button = event.target.closest<HTMLButtonElement>("button[data-cx-verse]")
+    const button = event.target.closest<HTMLButtonElement>("button[data-cx-verse],button[data-cx-hadis]")
     if (!button || (!host.contains(button) && !panel.contains(button))) return
     close()
     beforeOpen()
     opener = button
     button.setAttribute("aria-expanded", "true")
     button.hidden = true
-    const label = `${button.dataset.cxVerseName}: ayete git`
+    const hadis = button.hasAttribute("data-cx-hadis")
+    input.maxLength = hadis ? 4 : 3
+    input.placeholder = hadis ? "1234" : "123"
+    form.style.setProperty("--cx-number-width", hadis ? "4ch" : "3ch")
+    const label = `${button.dataset.cxVerseName}: ${hadis ? "hadise" : "ayete"} git`
     form.setAttribute("aria-label", label)
-    input.setAttribute("aria-label", `${button.dataset.cxVerseName}: ayet numarası`)
+    input.setAttribute("aria-label", `${button.dataset.cxVerseName}: ${hadis ? "hadis" : "ayet"} numarası`)
     go.setAttribute("aria-label", label)
     go.title = label
     button.before(form)
@@ -88,31 +93,55 @@ export function setupVerseJump(host: HTMLElement, panel: HTMLElement, beforeOpen
     event.preventDefault()
     if (!opener || go.disabled) return
     const current = ++generation
-    const slug = opener.dataset.cxVerse!
+    const requestedSlug = opener.dataset.cxVerse
+    const hadis = opener.hasAttribute("data-cx-hadis")
     const number = Number(input.value)
     go.disabled = true
     status.textContent = "Kontrol ediliyor…"
     try {
-      const catalog = await loadQuranCatalog()
+      let slug: string | undefined
+      if (hadis) {
+        const catalog = await loadBuhariCatalog()
+        slug = catalog.find((entry) => entry.numbers.includes(number))?.slug
+      } else {
+        const catalog = await loadQuranCatalog()
+        slug = catalog.find((entry) => entry.slug === requestedSlug && entry.verses.includes(number))?.slug
+      }
       if (current !== generation || !form.isConnected) return
       status.textContent = ""
-      if (!catalog.find((entry) => entry.slug === slug)?.verses.includes(number)) {
-        input.setCustomValidity("Bu surede bu numarada bir ayet yok.")
+      if (!slug) {
+        input.setCustomValidity(hadis
+          ? "Bu numarada bağlantısı olan bir Buhari hadisi bulunamadı."
+          : "Bu surede bu numarada bir ayet yok.")
         input.reportValidity()
         return
       }
-      const url = new URL(resolveBasePath(slug), location.href)
-      url.hash = String(number)
+      const url = resolveSiteUrl(slug)
+      url.hash = hadis ? `buhari-${number}` : String(number)
       close()
-      if (window.spaNavigate) void window.spaNavigate(url)
-      else window.location.assign(url)
+      if (window.spaNavigate) {
+        const rootStyle = document.documentElement.style
+        const previousScroll = rootStyle.scrollBehavior
+        // Avoid leaving Quartz's initial smooth scroll running while the
+        // final target position is corrected after the page transition.
+        rootStyle.scrollBehavior = "auto"
+        try { await window.spaNavigate(url) }
+        finally { rootStyle.scrollBehavior = previousScroll }
+        // Quartz scrolls before nav listeners apply reading preferences and
+        // the new page's fonts finish loading. Align once after that layout.
+        await new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
+        await document.fonts?.ready
+        if (location.href === url.href) {
+          document.getElementById(url.hash.slice(1))?.scrollIntoView({ block: "start", behavior: "instant" })
+        }
+      } else window.location.assign(url)
     } catch {
       if (current === generation && form.isConnected) {
         const message = "Liste yüklenemedi. Ok düğmesiyle tekrar dene."
         status.textContent = message
         input.setCustomValidity(message)
         input.reportValidity()
-        // A network error must not block a retry with the same verse number.
+        // A network error must not block a retry with the same number.
         input.setCustomValidity("")
       }
     } finally {
