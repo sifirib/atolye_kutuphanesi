@@ -16,8 +16,8 @@ export async function navigateToBlock(url: URL): Promise<void> {
   await new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
   await document.fonts?.ready
   if (location.href === url.href) {
-    document
-      .getElementById(url.hash.slice(1))
-      ?.scrollIntoView({ block: "start", behavior: "instant" })
+    const target = document.getElementById(url.hash.slice(1))
+    target?.scrollIntoView({ block: "start", behavior: "instant" })
+    if (target) document.dispatchEvent(new Event("library:block-navigated"))
   }
 }

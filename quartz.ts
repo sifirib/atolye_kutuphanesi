@@ -2,6 +2,7 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import { Quran } from "./quartz/plugins/custom/quran"
 import { BuhariCatalog } from "./quartz/plugins/custom/buhari/catalog"
 import { BuhariAnchors } from "./quartz/plugins/custom/buhari/anchors"
+import { BuhariHighlight } from "./quartz/plugins/custom/buhari/highlight"
 import { ReferenceSearch } from "./quartz/plugins/custom/reference-search"
 import { QuranCatalog } from "./quartz/plugins/custom/quran/catalog"
 import { withColumnExplorer } from "./quartz/plugins/custom/column-explorer"
@@ -25,6 +26,7 @@ const config = await loadQuartzConfig()
 config.plugins.transformers.push(
   Quran(),
   BuhariAnchors(),
+  BuhariHighlight(),
   ReferenceSearch(),
   SourceCopy(),
   Permalinks(),
