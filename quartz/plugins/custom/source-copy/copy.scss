@@ -129,15 +129,25 @@ li[data-copy-hadis] {
   isolation: isolate;
   &::after {
     @include record.card;
-    content: none;
+    content: "";
+    opacity: 0;
     position: absolute;
     inset: -0.5rem -0.85rem -0.5rem -3em;
     box-sizing: border-box;
     z-index: -1;
     pointer-events: none;
+    transition:
+      opacity 300ms ease,
+      border-color 300ms ease,
+      box-shadow 300ms ease;
   }
   &:has(:focus-visible)::after {
-    content: "";
+    opacity: 1;
+  }
+  &[data-buhari-highlight]::after {
+    opacity: 1;
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 2px var(--highlight);
   }
   .hadis-copy {
     float: inline-end;
@@ -168,11 +178,16 @@ li[data-copy-hadis] {
 @media (hover: hover) {
   li[data-copy-hadis]:hover {
     &::after {
-      content: "";
+      opacity: 1;
     }
     .hadis-copy {
       opacity: 1;
     }
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  li[data-copy-hadis]::after {
+    transition: none;
   }
 }
 @media (hover: none), (pointer: coarse) {
