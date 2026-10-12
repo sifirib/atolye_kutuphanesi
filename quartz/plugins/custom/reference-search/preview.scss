@@ -1,0 +1,13 @@
+.search .preview-container {
+  overscroll-behavior: contain;
+  scroll-behavior: auto;
+  li[data-copy-hadis][data-reference-preview-target]::after {
+    opacity: 1;
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 2px var(--highlight);
+  }
+  .quran-verse[data-reference-preview-target] {
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 2px var(--highlight);
+  }
+}

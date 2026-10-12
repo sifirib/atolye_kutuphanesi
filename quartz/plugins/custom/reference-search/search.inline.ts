@@ -3,6 +3,7 @@ import { loadQuranCatalog } from "../quran/catalog-client"
 import { navigateToBlock } from "../navigate-to-block"
 import { resolveSiteUrl } from "../site-url"
 import { findReference, parseReference, type ReferenceResult } from "./reference"
+import { setupReferencePreview, type ReferencePreview } from "./preview"
 
 interface SearchState {
   input: HTMLInputElement
@@ -13,6 +14,8 @@ interface SearchState {
   pending: boolean
   enter: boolean
   card?: HTMLAnchorElement
+  reference?: ReferenceResult
+  preview?: ReferencePreview
   observer: MutationObserver
 }
 
@@ -26,8 +29,10 @@ const isCurrent = (state: SearchState) =>
 function clear(state: SearchState) {
   state.generation++
   state.observer.disconnect()
+  state.preview?.clear()
   state.card?.remove()
   state.card = undefined
+  state.reference = undefined
   state.pending = state.enter = false
 }
 
@@ -100,14 +105,31 @@ async function update(input: HTMLInputElement) {
       generation: 0,
       pending: false,
       enter: false,
-      observer: new MutationObserver(() => placeCard(state!)),
+      observer: new MutationObserver((records) => {
+        if (
+          records.some((record) => record.type === "childList" && record.target === state!.results)
+        )
+          placeCard(state!)
+        state!.preview?.refresh()
+      }),
     }
     states.set(input, state)
+    const owner = state
+    owner.preview = setupReferencePreview(owner.container, () =>
+      isCurrent(owner) && owner.card?.isConnected && owner.card.classList.contains("focus")
+        ? owner.reference
+        : undefined,
+    )
   }
   state.query = input.value
   state.pending = true
   const generation = ++state.generation
-  state.observer.observe(state.results, { childList: true })
+  state.observer.observe(state.results, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["class"],
+  })
   try {
     const result =
       reference.kind === "hadis"
@@ -115,6 +137,7 @@ async function update(input: HTMLInputElement) {
         : findReference(reference, [], await loadQuranCatalog())
     if (generation !== state.generation || !isCurrent(state)) return
     if (result) {
+      state.reference = result
       state.card = makeCard(state, result)
       placeCard(state)
     }
@@ -162,7 +185,10 @@ document.addEventListener(
 )
 
 function dispose() {
-  for (const state of states.values()) clear(state)
+  for (const state of states.values()) {
+    clear(state)
+    state.preview?.dispose()
+  }
   states.clear()
 }
 document.addEventListener("nav", dispose)
